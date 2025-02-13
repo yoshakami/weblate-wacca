@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Language: fr_BE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "1"
+msgstr "bonjour\n\"tout\" lé monde"
+
+msgid "goodbye"
+msgstr "au revoir"
