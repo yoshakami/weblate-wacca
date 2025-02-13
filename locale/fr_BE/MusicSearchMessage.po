@@ -32,14 +32,11 @@ msgid "Fermé"
 msgstr ""
 msgid "Non joué"
 msgstr ""
-msgid "COMBO COMPLET non effacé
-(toutes difficultés)"
+msgid "COMBO COMPLET non effacé\r\n(toutes difficultés)"
 msgstr ""
-msgid "COMBO COMPLET non effacé
-(ENFER)"
+msgid "COMBO COMPLET non effacé\r\n(ENFER)"
 msgstr ""
-msgid "COMBO COMPLET non effacé
-(EXPERT)"
+msgid "COMBO COMPLET non effacé\r\n(EXPERT)"
 msgstr ""
 msgid "SS non validé (toutes les difficultés)"
 msgstr ""

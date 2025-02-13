@@ -32,14 +32,11 @@ msgid "Locked"
 msgstr ""
 msgid "Not played"
 msgstr ""
-msgid "FULL COMBO not cleared
-(All difficulties)"
+msgid "FULL COMBO not cleared\n(All difficulties)"
 msgstr ""
-msgid "FULL COMBO not cleared
-(INFERNO)"
+msgid "FULL COMBO not cleared\n(INFERNO)"
 msgstr ""
-msgid "FULL COMBO not cleared
-(EXPERT)"
+msgid "FULL COMBO not cleared\n(EXPERT)"
 msgstr ""
 msgid "Not cleared SS (all difficulties)"
 msgstr ""

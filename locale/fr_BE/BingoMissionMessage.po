@@ -4,35 +4,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 msgid "Le deuxième"
 msgstr ""
-msgid "Souhaitez-vous mélanger les sujets ?
-
-Quand vous mélangez les sujets,
-Le statut clair du thème sera également réinitialisé."
+msgid "Souhaitez-vous mélanger les sujets ?\r\n\r\nQuand vous mélangez les sujets,\r\nLe statut clair du thème sera également réinitialisé."
 msgstr ""
 msgid "Échec de la mise à jour du sujet."
 msgstr ""
 msgid "BINGO WACCA"
 msgstr ""
-msgid "Chez WACCA BINGO, nous traitons de sujets variés.
-En relevant le défi et en réalisant BINGO
-Gagnez des récompenses.
-Le thème est le nombre de feuilles BINGO.
-Cela devient plus difficile à mesure que le nombre augmente."
+msgid "Chez WACCA BINGO, nous traitons de sujets variés.\r\nEn relevant le défi et en réalisant BINGO\r\nGagnez des récompenses.\r\nLe thème est le nombre de feuilles BINGO.\r\nCela devient plus difficile à mesure que le nombre augmente."
 msgstr ""
 msgid "mélanger"
 msgstr ""
-msgid "Quand tu mélanges,
-Le sujet de la fiche BINGO actuelle est
-sera réélu.
-
-*L'état clair du thème sera réinitialisé."
+msgid "Quand tu mélanges,\r\nLe sujet de la fiche BINGO actuelle est\r\nsera réélu.\r\n\r\n*L'état clair du thème sera réinitialisé."
 msgstr ""
 msgid "BINGO WACCA"
 msgstr ""
-msgid "Effacer la tâche
-Lorsque vous atteignez BINGO ou ALL CLEAR,
-affiché à l'écran
-Gagnez des récompenses."
+msgid "Effacer la tâche\r\nLorsque vous atteignez BINGO ou ALL CLEAR,\r\naffiché à l'écran\r\nGagnez des récompenses."
 msgstr ""
 msgid "BONUS BINGO"
 msgstr ""

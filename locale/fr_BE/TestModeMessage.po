@@ -2,8 +2,7 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "APPUYEZ SUR LE BOUTON SERVICE POUR SÉLECTIONNER
-APPUYEZ SUR LE BOUTON TEST POUR DÉCIDER"
+msgid "APPUYEZ SUR LE BOUTON SERVICE POUR SÉLECTIONNER\r\nAPPUYEZ SUR LE BOUTON TEST POUR DÉCIDER"
 msgstr ""
 msgid "APPUYEZ SUR LE BOUTON TEST POUR SUIVANT"
 msgstr ""
@@ -11,20 +10,15 @@ msgid "APPUYEZ SUR LE BOUTON TEST POUR RETOURNER"
 msgstr ""
 msgid "APPUYEZ SUR LE BOUTON SERVICE POUR SÉLECTIONNER"
 msgstr ""
-msgid "APPUYEZ SUR LE BOUTON SERVICE POUR SUIVANT
-APPUYEZ SUR LE BOUTON TEST POUR RETOURNER"
+msgid "APPUYEZ SUR LE BOUTON SERVICE POUR SUIVANT\r\nAPPUYEZ SUR LE BOUTON TEST POUR RETOURNER"
 msgstr ""
-msgid "VEUILLEZ APPUYER SUR TEST ET
-BOUTON DE SERVICE POUR RETOUR"
+msgid "VEUILLEZ APPUYER SUR TEST ET\r\nBOUTON DE SERVICE POUR RETOUR"
 msgstr ""
 msgid "VEUILLEZ ATTENDRE UN MOMENT"
 msgstr ""
-msgid "APPUYEZ SUR SERVICE POUR SÉLECTIONNER
-APPUYEZ SUR TEST POUR DÉCIDER"
+msgid "APPUYEZ SUR SERVICE POUR SÉLECTIONNER\r\nAPPUYEZ SUR TEST POUR DÉCIDER"
 msgstr ""
-msgid "APPUYEZ SUR SERVICE POUR SÉLECTIONNER OU COMPTER
-APPUYEZ SUR TEST POUR DÉCIDER OU
-ALLER AU CHIFFRE SUIVANT"
+msgid "APPUYEZ SUR SERVICE POUR SÉLECTIONNER OU COMPTER\r\nAPPUYEZ SUR TEST POUR DÉCIDER OU\r\nALLER AU CHIFFRE SUIVANT"
 msgstr ""
 msgid " "
 msgstr ""
@@ -214,12 +208,7 @@ msgid "    E-COINS INSÉRÉS"
 msgstr ""
 msgid "INITIALISATION DU JOURNAL DES CRÉDITS"
 msgstr ""
-msgid "[PRUDENCE!]
-Vous êtes sur le point d'initialiser le journal de crédit.
-Cette opération ne peut pas être annulée.
-Etes-vous vraiment sûr ?
-
-Sélectionnez \"OK\" pour initialiser."
+msgid "[PRUDENCE!]\r\nVous êtes sur le point d'initialiser le journal de crédit.\r\nCette opération ne peut pas être annulée.\r\nEtes-vous vraiment sûr ?\r\n\r\nSélectionnez \"OK\" pour initialiser."
 msgstr ""
 msgid "La réinitialisation du journal de crédit a réussi."
 msgstr ""
@@ -339,8 +328,7 @@ msgid "EN ATTENDANT"
 msgstr ""
 msgid "ENREGISTRER"
 msgstr ""
-msgid "{0}
-{1}"
+msgid "{0}\r\n{1}"
 msgstr ""
 msgid "JOURNAL DE JEU TOTAL"
 msgstr ""
@@ -384,21 +372,11 @@ msgid "Il n'y a aucun journal d'erreurs."
 msgstr ""
 msgid "Il n'existe aucun journal de crédit de service."
 msgstr ""
-msgid "Êtes-vous sûr de vouloir réinitialiser
-la période d'agrégation des journaux ?"
+msgid "Êtes-vous sûr de vouloir réinitialiser\r\nla période d'agrégation des journaux ?"
 msgstr ""
-msgid "[CONFIRMATION FINALE]
-Cette opération ne peut pas être annulée.
-Etes-vous vraiment sûr ?"
+msgid "[CONFIRMATION FINALE]\r\nCette opération ne peut pas être annulée.\r\nEtes-vous vraiment sûr ?"
 msgstr ""
-msgid "[PRUDENCE!]
-Vous êtes sur le point de réinitialiser
-la période d’agrégation des journaux.
-
-Cette opération ne peut pas être annulée.
-Etes-vous vraiment sûr ?
-
-Sélectionnez \"OK\" pour réinitialiser."
+msgid "[PRUDENCE!]\r\nVous êtes sur le point de réinitialiser\r\nla période d’agrégation des journaux.\r\n\r\nCette opération ne peut pas être annulée.\r\nEtes-vous vraiment sûr ?\r\n\r\nSélectionnez \"OK\" pour réinitialiser."
 msgstr ""
 msgid "La réinitialisation du journal des périodes a réussi."
 msgstr ""
@@ -428,8 +406,7 @@ msgid "RÉGLAGE DE L'HEURE DE FERMETURE"
 msgstr ""
 msgid "TOUS LES JOURS DE LA SEMAINE"
 msgstr ""
-msgid "Redémarrez pour appliquer les paramètres d’heure de fermeture.
-Veuillez patienter un instant."
+msgid "Redémarrez pour appliquer les paramètres d’heure de fermeture.\r\nVeuillez patienter un instant."
 msgstr ""
 msgid "APPLIQUER LES PARAMÈTRES ET REDÉMARRER"
 msgstr ""
@@ -471,24 +448,15 @@ msgid "<VERSION_L> - <VERSION_R>"
 msgstr ""
 msgid "Expédition OK"
 msgstr ""
-msgid "Nous traiterons l'envoi.
-Veuillez connecter le câble LAN.
-Lorsque vous êtes prêt, appuyez sur le « bouton volume du casque »
-Veuillez appuyer sur les deux en même temps."
+msgid "Nous traiterons l'envoi.\r\nVeuillez connecter le câble LAN.\r\nLorsque vous êtes prêt, appuyez sur le « bouton volume du casque »\r\nVeuillez appuyer sur les deux en même temps."
 msgstr ""
-msgid "Impossible d'accéder au serveur de titres.
-Échec de l'enregistrement du numéro de châssis.
-Veuillez vérifier la connexion du câble LAN et réessayer."
+msgid "Impossible d'accéder au serveur de titres.\r\nÉchec de l'enregistrement du numéro de châssis.\r\nVeuillez vérifier la connexion du câble LAN et réessayer."
 msgstr ""
-msgid "Le numéro de dossier de ce dossier est \"{0}\".
-Après avoir vérifié le numéro de châssis, coupez l'alimentation.
-Le processus d'expédition est terminé."
+msgid "Le numéro de dossier de ce dossier est \"{0}\".\r\nAprès avoir vérifié le numéro de châssis, coupez l'alimentation.\r\nLe processus d'expédition est terminé."
 msgstr ""
-msgid "Échec de la suppression du fichier d'expédition.
-Après le redémarrage, veuillez exécuter à nouveau « Expédition OK »."
+msgid "Échec de la suppression du fichier d'expédition.\r\nAprès le redémarrage, veuillez exécuter à nouveau « Expédition OK »."
 msgstr ""
-msgid "Impossible de créer le fichier d'initialisation.
-Après le redémarrage, veuillez exécuter à nouveau « Expédition OK »."
+msgid "Impossible de créer le fichier d'initialisation.\r\nAprès le redémarrage, veuillez exécuter à nouveau « Expédition OK »."
 msgstr ""
 msgid "INFORMATIONS SUR LE PAIEMENT ÉLECTRONIQUE"
 msgstr ""
@@ -508,8 +476,7 @@ msgid "AUTHENTIFIÉ"
 msgstr ""
 msgid "---"
 msgstr ""
-msgid "Etes-vous sûr de vouloir supprimer
-la borne ?"
+msgid "Etes-vous sûr de vouloir supprimer\r\nla borne ?"
 msgstr ""
 msgid "HISTORIQUE DES AFFAIRES"
 msgstr ""
@@ -531,25 +498,21 @@ msgid "APRÈS SOLDE"
 msgstr ""
 msgid "CULLENTEMENT. LE SERVICE DE PAIEMENT ÉLECTRONIQUE N'EST PAS DISPONIBLE."
 msgstr ""
-msgid "Actuellement non pris en charge.
-Veuillez attendre la mise à jour."
+msgid "Actuellement non pris en charge.\r\nVeuillez attendre la mise à jour."
 msgstr ""
 msgid "AFFICHER <ACTUEL> DE <NUM> ÉLÉMENTS"
 msgstr ""
 msgid "Il n'y a pas d'offres."
 msgstr ""
-msgid "Une erreur de fonctionnement du terminal s'est produite.
-Veuillez vérifier le VFD."
+msgid "Une erreur de fonctionnement du terminal s'est produite.\r\nVeuillez vérifier le VFD."
 msgstr ""
 msgid "TEST DE VFD"
 msgstr ""
-msgid "EXÉCUTION DU TEST VFD.
-VEUILLEZ VÉRIFIER LE VFD."
+msgid "EXÉCUTION DU TEST VFD.\r\nVEUILLEZ VÉRIFIER LE VFD."
 msgstr ""
 msgid "REDÉMARRER POUR LA MISE À JOUR DU LOGICIEL"
 msgstr ""
-msgid "REDÉMARREZ POUR LA MISE À JOUR DU LOGICIEL.
-VEUILLEZ ATTENDRE UN MOMENT."
+msgid "REDÉMARREZ POUR LA MISE À JOUR DU LOGICIEL.\r\nVEUILLEZ ATTENDRE UN MOMENT."
 msgstr ""
 msgid "MENU TEST DE L'APPAREIL"
 msgstr ""

@@ -18,13 +18,11 @@ msgid "Faisons-le!"
 msgstr ""
 msgid "Dernière poussée !"
 msgstr ""
-msgid "Brrrr, le temps est écoulé.
-Il est temps d'y aller ! !"
+msgid "Brrrr, le temps est écoulé.\r\nIl est temps d'y aller ! !"
 msgstr ""
 msgid "D'accord. Montre-moi ton côté élite !"
 msgstr ""
-msgid "Brrrr, le temps est écoulé.
-Il est temps d'y aller ! !"
+msgid "Brrrr, le temps est écoulé.\r\nIl est temps d'y aller ! !"
 msgstr ""
 msgid "D'accord! Vous l'avez fait !"
 msgstr ""
@@ -38,13 +36,11 @@ msgid "Obtenez des objets !"
 msgstr ""
 msgid "Oh!"
 msgstr ""
-msgid "Si vous ne terminez pas la mission,
-Je ne peux pas aller plus loin."
+msgid "Si vous ne terminez pas la mission,\r\nJe ne peux pas aller plus loin."
 msgstr ""
 msgid "Faisons-le!"
 msgstr ""
-msgid "Si vous ne terminez pas la mission,
-Je ne peux pas aller plus loin."
+msgid "Si vous ne terminez pas la mission,\r\nJe ne peux pas aller plus loin."
 msgstr ""
 msgid "D'accord! Vous l'avez fait !"
 msgstr ""
@@ -82,8 +78,7 @@ msgid "Quelle chanson allez-vous jouer ?"
 msgstr ""
 msgid "Quelle chanson allez-vous jouer ensuite ?"
 msgstr ""
-msgid "Brrrr, le temps est écoulé.
-Il est temps d'y aller ! !"
+msgid "Brrrr, le temps est écoulé.\r\nIl est temps d'y aller ! !"
 msgstr ""
 msgid "Quelle chanson allez-vous jouer ensuite ?"
 msgstr ""
@@ -117,44 +112,29 @@ msgid "Clair!"
 msgstr ""
 msgid "Po, c'est trop maladroit..."
 msgstr ""
-msgid "Eh bien, je suppose qu'il y a de l'espoir.
-...uniquement pour « Miko »."
+msgid "Eh bien, je suppose qu'il y a de l'espoir.\r\n...uniquement pour « Miko »."
 msgstr ""
-msgid "Eh bien, je suppose qu'il y a de l'espoir.
-...uniquement pour « Miko »."
+msgid "Eh bien, je suppose qu'il y a de l'espoir.\r\n...uniquement pour « Miko »."
 msgstr ""
-msgid "Eh bien, je suppose qu'il y a de l'espoir.
-...uniquement pour « Miko »."
+msgid "Eh bien, je suppose qu'il y a de l'espoir.\r\n...uniquement pour « Miko »."
 msgstr ""
-msgid "Eh bien, je suppose qu'il y a de l'espoir.
-...uniquement pour « Miko »."
+msgid "Eh bien, je suppose qu'il y a de l'espoir.\r\n...uniquement pour « Miko »."
 msgstr ""
-msgid "Eh bien, je suppose qu'il y a de l'espoir.
-...uniquement pour « Miko »."
+msgid "Eh bien, je suppose qu'il y a de l'espoir.\r\n...uniquement pour « Miko »."
 msgstr ""
-msgid "Oh! Belle élite !
-Vous avez fait un excellent travail, bon travail."
+msgid "Oh! Belle élite !\r\nVous avez fait un excellent travail, bon travail."
 msgstr ""
-msgid "Oh! Belle élite !
-Vous avez fait un excellent travail, bon travail."
+msgid "Oh! Belle élite !\r\nVous avez fait un excellent travail, bon travail."
 msgstr ""
-msgid "Oh! Belle élite !
-Vous avez fait un excellent travail, bon travail."
+msgid "Oh! Belle élite !\r\nVous avez fait un excellent travail, bon travail."
 msgstr ""
-msgid "Oh! Belle élite !
-Vous avez fait un excellent travail, bon travail."
+msgid "Oh! Belle élite !\r\nVous avez fait un excellent travail, bon travail."
 msgstr ""
-msgid "Tellement incroyable ! !
-Meilleur score, excellent travail !
-Élite Élite ! !"
+msgid "Tellement incroyable ! !\r\nMeilleur score, excellent travail !\r\nÉlite Élite ! !"
 msgstr ""
-msgid "Tellement incroyable ! !
-Meilleur score, excellent travail !
-Élite Élite ! !"
+msgid "Tellement incroyable ! !\r\nMeilleur score, excellent travail !\r\nÉlite Élite ! !"
 msgstr ""
-msgid "Tellement incroyable ! !
-Meilleur score, excellent travail !
-Élite Élite ! !"
+msgid "Tellement incroyable ! !\r\nMeilleur score, excellent travail !\r\nÉlite Élite ! !"
 msgstr ""
 msgid "Oui... c'est cool."
 msgstr ""
@@ -208,26 +188,19 @@ msgid "D'accord! Vous l'avez fait !"
 msgstr ""
 msgid "D'accord! Vous l'avez fait !"
 msgstr ""
-msgid "On dirait que c'est classé !
-Vous pouvez désormais rejoindre l'élite !"
+msgid "On dirait que c'est classé !\r\nVous pouvez désormais rejoindre l'élite !"
 msgstr ""
-msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪
-Otsumiko !"
+msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪\r\nOtsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪
-Otsumiko !"
+msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪\r\nOtsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "Hein, tu pars déjà ?
-Venez certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
+msgid "Hein, tu pars déjà ?\r\nVenez certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
 msgstr ""
 msgid "Faisons-le!"
 msgstr ""
@@ -273,9 +246,7 @@ msgid "Eh bien, allons-y !"
 msgstr ""
 msgid "Voilà à quoi ressemblent les résultats cette fois."
 msgstr ""
-msgid "Miaou!
-Jeune fille du sanctuaire d'élite appartenant à Hololive,
-C'est Sakura Miko~♪"
+msgid "Miaou!\r\nJeune fille du sanctuaire d'élite appartenant à Hololive,\r\nC'est Sakura Miko~♪"
 msgstr ""
 msgid "D'accord! Vous l'avez fait !"
 msgstr ""
@@ -283,9 +254,7 @@ msgid "D'accord! Vous l'avez fait !"
 msgstr ""
 msgid "D'accord! Vous l'avez fait !"
 msgstr ""
-msgid "Miaou!
-Jeune fille du sanctuaire d'élite appartenant à Hololive,
-C'est Sakura Miko~♪"
+msgid "Miaou!\r\nJeune fille du sanctuaire d'élite appartenant à Hololive,\r\nC'est Sakura Miko~♪"
 msgstr ""
 msgid "Eh bien, allons-y !"
 msgstr ""
@@ -299,106 +268,73 @@ msgid "Bonus de connexion !"
 msgstr ""
 msgid "D'accord! Vous l'avez fait !"
 msgstr ""
-msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪
-Otsumiko !"
+msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪\r\nOtsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪
-Otsumiko !"
+msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪\r\nOtsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪
-Otsumiko !"
+msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪\r\nOtsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪
-Otsumiko !"
+msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪\r\nOtsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "Hein, tu pars déjà ?
-Viens certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
+msgid "Hein, tu pars déjà ?\r\nViens certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
 msgstr ""
-msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪
-Otsumiko !"
+msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪\r\nOtsumiko !"
 msgstr ""
-msgid "Hein, tu pars déjà ?
-Venez certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
+msgid "Hein, tu pars déjà ?\r\nVenez certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "Hein, tu pars déjà ?
-Venez certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
+msgid "Hein, tu pars déjà ?\r\nVenez certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
 msgstr ""
-msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪
-Otsumiko !"
+msgid "S'il vous plaît, revenez nous rendre visite à tout moment ♪\r\nOtsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "Hein, tu pars déjà ?
-Venez certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
+msgid "Hein, tu pars déjà ?\r\nVenez certainement nous rendre visite la prochaine fois, d'accord ? Otsumiko !"
 msgstr ""
-msgid "Miko s'est bien amusée aussi. On rejoue ?
-Otsumiko !"
+msgid "Miko s'est bien amusée aussi. On rejoue ?\r\nOtsumiko !"
 msgstr ""
-msgid "Miaou!
-Jeune fille du sanctuaire d'élite appartenant à Hololive,
-C'est Sakura Miko~♪"
+msgid "Miaou!\r\nJeune fille du sanctuaire d'élite appartenant à Hololive,\r\nC'est Sakura Miko~♪"
 msgstr ""
 msgid "Amusons-nous aussi aujourd'hui !"
 msgstr ""
-msgid "Miaou!
-Miko, je veux manger du taiyaki..."
+msgid "Miaou!\r\nMiko, je veux manger du taiyaki..."
 msgstr ""
-msgid "Miaou!
-Jeune fille du sanctuaire d'élite appartenant à Hololive,
-C'est Sakura Miko~♪"
+msgid "Miaou!\r\nJeune fille du sanctuaire d'élite appartenant à Hololive,\r\nC'est Sakura Miko~♪"
 msgstr ""
 msgid "Amusons-nous aussi aujourd'hui !"
 msgstr ""
-msgid "Miaou!
-Miko, je veux manger du taiyaki..."
+msgid "Miaou!\r\nMiko, je veux manger du taiyaki..."
 msgstr ""
-msgid "Miaou!
-Jeune fille du sanctuaire d'élite appartenant à Hololive,
-C'est Sakura Miko~♪"
+msgid "Miaou!\r\nJeune fille du sanctuaire d'élite appartenant à Hololive,\r\nC'est Sakura Miko~♪"
 msgstr ""
 msgid "Amusons-nous aussi aujourd'hui !"
 msgstr ""
-msgid "Miaou!
-Miko, je veux manger du taiyaki..."
+msgid "Miaou!\r\nMiko, je veux manger du taiyaki..."
 msgstr ""
-msgid "Miaou!
-Jeune fille du sanctuaire d'élite appartenant à Hololive,
-C'est Sakura Miko~♪"
+msgid "Miaou!\r\nJeune fille du sanctuaire d'élite appartenant à Hololive,\r\nC'est Sakura Miko~♪"
 msgstr ""
-msgid "Miaou!
-Es-tu venu voir Miko ? Merci!"
+msgid "Miaou!\r\nEs-tu venu voir Miko ? Merci!"
 msgstr ""
-msgid "Miaou!
-Es-tu venu voir Miko ? Merci!"
+msgid "Miaou!\r\nEs-tu venu voir Miko ? Merci!"
 msgstr ""
-msgid "Miaou!
-Es-tu venu voir Miko ? Merci!"
+msgid "Miaou!\r\nEs-tu venu voir Miko ? Merci!"
 msgstr ""
 msgid "Amusons-nous aussi aujourd'hui !"
 msgstr ""
-msgid "Miaou!
-Miko, je veux manger du taiyaki..."
+msgid "Miaou!\r\nMiko, je veux manger du taiyaki..."
 msgstr ""
 msgid "Est-ce que tu joues encore ?"
 msgstr ""
-msgid "Hein, tu aimes Miko ?
-Cela pourrait me faire un peu plaisir..."
+msgid "Hein, tu aimes Miko ?\r\nCela pourrait me faire un peu plaisir..."
 msgstr ""
 msgid "Quelle chanson allez-vous jouer ?"
 msgstr ""

@@ -2,8 +2,7 @@
 msgstr ""
 "Language: jp_JA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "PRESS SERVICE BUTTON TO SELECT
-PRESS TEST BUTTON TO DECIDE"
+msgid "PRESS SERVICE BUTTON TO SELECT\r\nPRESS TEST BUTTON TO DECIDE"
 msgstr ""
 msgid "PRESS TEST BUTTON TO NEXT"
 msgstr ""
@@ -11,20 +10,15 @@ msgid "PRESS TEST BUTTON TO RETURN"
 msgstr ""
 msgid "PRESS SERVICE BUTTON TO SELECT"
 msgstr ""
-msgid "PRESS SERVICE BUTTON TO NEXT
-PRESS TEST BUTTON TO RETURN"
+msgid "PRESS SERVICE BUTTON TO NEXT\r\nPRESS TEST BUTTON TO RETURN"
 msgstr ""
-msgid "PLEASE PRESS TEST AND
-SERVICE BUTTON TO RETURN"
+msgid "PLEASE PRESS TEST AND\r\nSERVICE BUTTON TO RETURN"
 msgstr ""
 msgid "PLEASE WAIT A MOMENT"
 msgstr ""
-msgid "PRESS SERVICE TO SELECT
-PRESS TEST TO DECIDE"
+msgid "PRESS SERVICE TO SELECT\r\nPRESS TEST TO DECIDE"
 msgstr ""
-msgid "PRESS SERVICE TO SELECT OR COUNT UP
-PRESS TEST TO DECIDE OR 
-GO TO NEXT DIGIT"
+msgid "PRESS SERVICE TO SELECT OR COUNT UP\r\nPRESS TEST TO DECIDE OR \r\nGO TO NEXT DIGIT"
 msgstr ""
 msgid " "
 msgstr ""
@@ -214,12 +208,7 @@ msgid "    E-COINS INSERTED"
 msgstr ""
 msgid "CREDITS LOG INITIALIZATION"
 msgstr ""
-msgid "【CAUTION ! 】
-You are about to initialize the credit log.
-This operation can not be undone.
-Are you really sure ?
-
-Select \"OK\" to initialize."
+msgid "【CAUTION ! 】\r\nYou are about to initialize the credit log.\r\nThis operation can not be undone.\r\nAre you really sure ?\r\n\r\nSelect \"OK\" to initialize."
 msgstr ""
 msgid "Credit log reset succeeded."
 msgstr ""
@@ -339,8 +328,7 @@ msgid "WAITING"
 msgstr ""
 msgid "LOG"
 msgstr ""
-msgid "{0} 
-{1}"
+msgid "{0} \r\n{1}"
 msgstr ""
 msgid "TOTAL PLAY LOG"
 msgstr ""
@@ -384,21 +372,11 @@ msgid "There are no error logs."
 msgstr ""
 msgid "There are no service credit logs."
 msgstr ""
-msgid "Are you sure you want to reset 
-the log aggregation period ?"
+msgid "Are you sure you want to reset \r\nthe log aggregation period ?"
 msgstr ""
-msgid "【FINAL CONFIRMATION】
-This operation can not be undone.
-Are you really sure ?"
+msgid "【FINAL CONFIRMATION】\r\nThis operation can not be undone.\r\nAre you really sure ?"
 msgstr ""
-msgid "【CAUTION ! 】
-You are about to reset 
-the log aggregation period .
-
-This operation can not be undone.
-Are you really sure ?
-
-Select \"OK\" to reset."
+msgid "【CAUTION ! 】\r\nYou are about to reset \r\nthe log aggregation period .\r\n\r\nThis operation can not be undone.\r\nAre you really sure ?\r\n\r\nSelect \"OK\" to reset."
 msgstr ""
 msgid "Period log reset succeeded."
 msgstr ""
@@ -428,8 +406,7 @@ msgid "CLOSING TIME SETTING"
 msgstr ""
 msgid "ALL DAYS OF THE WEEK"
 msgstr ""
-msgid "Reboot to apply closing time settings.
-Please wait a moment."
+msgid "Reboot to apply closing time settings.\r\nPlease wait a moment."
 msgstr ""
 msgid "APPLY SETTINGS AND RE-BOOT"
 msgstr ""
@@ -471,24 +448,15 @@ msgid "<VERSION_L> - <VERSION_R>"
 msgstr ""
 msgid "出荷OK"
 msgstr ""
-msgid "出荷処理を行います。
-『LANケーブル』を接続してください。
-準備が出来たら『ヘッドホンボリュームボタン』を
-同時押ししてください。"
+msgid "出荷処理を行います。\r\n『LANケーブル』を接続してください。\r\n準備が出来たら『ヘッドホンボリュームボタン』を\r\n同時押ししてください。"
 msgstr ""
-msgid "タイトルサーバーにアクセスできません。
-筐体番号の登録に失敗しました。
-LANケーブルの接続を確認して再度実行してください。"
+msgid "タイトルサーバーにアクセスできません。\r\n筐体番号の登録に失敗しました。\r\nLANケーブルの接続を確認して再度実行してください。"
 msgstr ""
-msgid "この筐体の筐体番号は『{0}』です。
-筐体番号を確認したら電源を切ってください。
-出荷処理は終了です。"
+msgid "この筐体の筐体番号は『{0}』です。\r\n筐体番号を確認したら電源を切ってください。\r\n出荷処理は終了です。"
 msgstr ""
-msgid "出荷用ファイルを削除できませんでした。
-再起動後、\"出荷OK\"を再度実行してください。"
+msgid "出荷用ファイルを削除できませんでした。\r\n再起動後、\"出荷OK\"を再度実行してください。"
 msgstr ""
-msgid "初期化用ファイルを作成できませんでした。
-再起動後、\"出荷OK\"を再度実行してください。"
+msgid "初期化用ファイルを作成できませんでした。\r\n再起動後、\"出荷OK\"を再度実行してください。"
 msgstr ""
 msgid "E-PAYMENT INFORMATION"
 msgstr ""
@@ -508,8 +476,7 @@ msgid "AUTHENTICATED"
 msgstr ""
 msgid "---"
 msgstr ""
-msgid "Are you sure you want to remove 
-the terminal ?"
+msgid "Are you sure you want to remove \r\nthe terminal ?"
 msgstr ""
 msgid "DEAL HISTORY"
 msgstr ""
@@ -531,25 +498,21 @@ msgid "AFTER BALANCE"
 msgstr ""
 msgid "CULLENTLY. E-PAYMENT SERVICE IS NOT AVAILABLE."
 msgstr ""
-msgid "Currently not supported.
-Please wait for the update."
+msgid "Currently not supported.\r\nPlease wait for the update."
 msgstr ""
 msgid "SHOWING <CURRENT> OF <NUM> ITEMS"
 msgstr ""
 msgid "There are no deal histories."
 msgstr ""
-msgid "Terminal operation error has occurred.
-Please check the VFD."
+msgid "Terminal operation error has occurred.\r\nPlease check the VFD."
 msgstr ""
 msgid "TEST OF VFD"
 msgstr ""
-msgid "RUNNING VFD TEST.
-PLEASE CHECK THE VFD."
+msgid "RUNNING VFD TEST.\r\nPLEASE CHECK THE VFD."
 msgstr ""
 msgid "RE-BOOT FOR SOFTWARE UPDATE"
 msgstr ""
-msgid "RE-BOOT FOR SOFTWARE UPDATE.
-PLEASE WAIT A MOMENT."
+msgid "RE-BOOT FOR SOFTWARE UPDATE.\r\nPLEASE WAIT A MOMENT."
 msgstr ""
 msgid "DEVICE TEST MENU"
 msgstr ""

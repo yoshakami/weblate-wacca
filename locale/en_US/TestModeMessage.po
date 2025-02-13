@@ -328,8 +328,7 @@ msgid "WAITING"
 msgstr ""
 msgid "LOG"
 msgstr ""
-msgid "{0} 
-{1}"
+msgid "{0} \n{1}"
 msgstr ""
 msgid "TOTAL PLAY LOG"
 msgstr ""
@@ -449,24 +448,15 @@ msgid "<VERSION_L> - <VERSION_R>"
 msgstr ""
 msgid "Shipment OK"
 msgstr ""
-msgid "Shipping will be processed.
-Please connect the \"LAN cable\".
-When you are ready, press the \"headphone volume button\"
-at the same time."
+msgid "Shipping will be processed.\nPlease connect the \"LAN cable\".\nWhen you are ready, press the \"headphone volume button\"\nat the same time."
 msgstr ""
-msgid "Cannot access the title server. 
-Failed to register chassis number. 
-Check the LAN cable connection and try again."
+msgid "Cannot access the title server. \nFailed to register chassis number. \nCheck the LAN cable connection and try again."
 msgstr ""
-msgid "The chassis number for this chassis is \"{0}\". 
-After confirming the chassis number, please turn off the power. 
-Shipping process is complete."
+msgid "The chassis number for this chassis is \"{0}\". \nAfter confirming the chassis number, please turn off the power. \nShipping process is complete."
 msgstr ""
-msgid "The shipping file could not be deleted. 
-After rebooting, please run \"Shipping OK\" again."
+msgid "The shipping file could not be deleted. \nAfter rebooting, please run \"Shipping OK\" again."
 msgstr ""
-msgid "Could not create initialization file. 
-After rebooting, please run \"Ship OK\" again."
+msgid "Could not create initialization file. \nAfter rebooting, please run \"Ship OK\" again."
 msgstr ""
 msgid "E-PAYMENT INFORMATION"
 msgstr ""

@@ -22,9 +22,7 @@ msgid "[Commun] À demain."
 msgstr ""
 msgid "[Commun] Bonne nuit."
 msgstr ""
-msgid "[Commun] Lorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.
-Vous pouvez modifier divers paramètres à partir du menu.
-Essayez-le si vous le souhaitez."
+msgid "[Commun] Lorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.\r\nVous pouvez modifier divers paramètres à partir du menu.\r\nEssayez-le si vous le souhaitez."
 msgstr ""
 msgid "[Commun] Êtes-vous prêt ? Il est temps d'y aller !"
 msgstr ""
@@ -66,9 +64,7 @@ msgid "[Commun] Les objets que vous pouvez obtenir changeront en fonction de la 
 msgstr ""
 msgid "[Commun] Des portes à durée limitée peuvent apparaître, alors assurez-vous de les vérifier."
 msgstr ""
-msgid "[Commun] Lorsque vous jouez des chansons, vous obtiendrez des points pour franchir la porte.
-Il semble que si vous franchissez la porte, vous recevrez des chansons et des objets.
-Jouons de plus en plus et franchissons les portes !"
+msgid "[Commun] Lorsque vous jouez des chansons, vous obtiendrez des points pour franchir la porte.\r\nIl semble que si vous franchissez la porte, vous recevrez des chansons et des objets.\r\nJouons de plus en plus et franchissons les portes !"
 msgstr ""
 msgid "[Commun] Faisons-le !"
 msgstr ""
@@ -100,23 +96,17 @@ msgid "[Commun] Vous ne pouvez pas jouer à ce mode !"
 msgstr ""
 msgid "[Commun] Choisissez le mode auquel vous souhaitez jouer."
 msgstr ""
-msgid "Le mode multijoueur est disponible pour jusqu'à 4 personnes en même temps.
-C'est le mode dans lequel vous pouvez jouer à \"WACCA\"."
+msgid "Le mode multijoueur est disponible pour jusqu'à 4 personnes en même temps.\r\nC'est le mode dans lequel vous pouvez jouer à \"WACCA\"."
 msgstr ""
-msgid "« Compétition » où vous concourez pour la partition en utilisant la même chanson,
-\"Coopération\" pour effacer la même chanson ensemble
-Vous pouvez jouer."
+msgid "« Compétition » où vous concourez pour la partition en utilisant la même chanson,\r\n\"Coopération\" pour effacer la même chanson ensemble\r\nVous pouvez jouer."
 msgstr ""
-msgid "que le jeu normal
-Vous pouvez gagner beaucoup de points, c'est donc une bonne affaire !"
+msgid "que le jeu normal\r\nVous pouvez gagner beaucoup de points, c'est donc une bonne affaire !"
 msgstr ""
 msgid "[Commun] Choisissez le mode auquel vous souhaitez jouer, \"compétitif\" ou \"coopératif\"."
 msgstr ""
-msgid "[Commun] La salle a été dissoute.
-Je vais juste passer au mode solo."
+msgid "[Commun] La salle a été dissoute.\r\nJe vais juste passer au mode solo."
 msgstr ""
-msgid "[Commun] La salle a été dissoute.
-Faisons correspondre à nouveau."
+msgid "[Commun] La salle a été dissoute.\r\nFaisons correspondre à nouveau."
 msgstr ""
 msgid "[Commun] Il semble que d'autres membres aient voté pour la \"compétition\"."
 msgstr ""
@@ -134,8 +124,7 @@ msgid "[Commun] On dirait qu'il a été décidé que ce serait une \"bataille\" 
 msgstr ""
 msgid "[Commun] Il semble qu'ils aient décidé de « coopérer » cette fois."
 msgstr ""
-msgid "[Commun] Les membres n'ont pas pu se rassembler...
-Je vais juste passer au mode solo."
+msgid "[Commun] Les membres n'ont pas pu se rassembler...\r\nJe vais juste passer au mode solo."
 msgstr ""
 msgid "[Commun] Ça ! ? Le réseau a été déconnecté..."
 msgstr ""
@@ -155,13 +144,9 @@ msgid "[Commun] Cette fois, je jouerai avec cette chanson."
 msgstr ""
 msgid "[Commun] En attente d'autres membres."
 msgstr ""
-msgid "[Commun] Tous les membres peuvent définir le niveau de difficulté
-J'ai décidé.
-Commencez bientôt à jouer !"
+msgid "[Commun] Tous les membres peuvent définir le niveau de difficulté\r\nJ'ai décidé.\r\nCommencez bientôt à jouer !"
 msgstr ""
-msgid "[Commun] Ce niveau de difficulté est correct.
-Ajustement des « Paramètres de vitesse »
-Vous pouvez également le faire avant de jouer."
+msgid "[Commun] Ce niveau de difficulté est correct.\r\nAjustement des « Paramètres de vitesse »\r\nVous pouvez également le faire avant de jouer."
 msgstr ""
 msgid "[Commun] Je vous soutiens. faites de votre mieux !"
 msgstr ""
@@ -175,11 +160,9 @@ msgid "[Commun] 4ème place."
 msgstr ""
 msgid "[Commun] Maintenant, quelles sont vos notes ? ?"
 msgstr ""
-msgid "[Commun] Maintenant, choisissez une chanson à jouer !
-C'est la première chanson maintenant."
+msgid "[Commun] Maintenant, choisissez une chanson à jouer !\r\nC'est la première chanson maintenant."
 msgstr ""
-msgid "[Commun] Alors choisissez la chanson suivante !
-C'est la deuxième chanson maintenant."
+msgid "[Commun] Alors choisissez la chanson suivante !\r\nC'est la deuxième chanson maintenant."
 msgstr ""
 msgid "[Commun] Changer l'ordre des chansons."
 msgstr ""
@@ -195,13 +178,11 @@ msgid "[Commun] J'ai ouvert une chanson."
 msgstr ""
 msgid "[Commun] Je n'ai pas assez de points..."
 msgstr ""
-msgid "[Commun] Malheureusement, le temps est écoulé.
-Jouez cette chanson cette fois."
+msgid "[Commun] Malheureusement, le temps est écoulé.\r\nJouez cette chanson cette fois."
 msgstr ""
 msgid "[Commun] Alors choisissez la chanson suivante !"
 msgstr ""
-msgid "[Commun] Ensuite, choisissez la chanson suivante.
-C'est la dernière chanson."
+msgid "[Commun] Ensuite, choisissez la chanson suivante.\r\nC'est la dernière chanson."
 msgstr ""
 msgid "[Commun] Faites attention au temps restant."
 msgstr ""
@@ -241,11 +222,9 @@ msgid "[Commun] Favoris !"
 msgstr ""
 msgid "[Commun] Inferno est sorti !"
 msgstr ""
-msgid "[Commun] Vous pouvez modifier le titre.
-Vous pouvez effectuer des personnalisations encore plus détaillées sur le site officiel, alors n'hésitez pas à le visiter si vous êtes intéressé."
+msgid "[Commun] Vous pouvez modifier le titre.\r\nVous pouvez effectuer des personnalisations encore plus détaillées sur le site officiel, alors n'hésitez pas à le visiter si vous êtes intéressé."
 msgstr ""
-msgid "[Commun] Vous pouvez modifier l'icône.
-Trouvez votre icône préférée !"
+msgid "[Commun] Vous pouvez modifier l'icône.\r\nTrouvez votre icône préférée !"
 msgstr ""
 msgid "\"Nouvel ajout\" Spécification vocale lors de l'entrée dans l'écran de changement de plaque utilisateur"
 msgstr ""
@@ -253,15 +232,11 @@ msgid "\"Nouvel ajout\" Spécification vocale lors de l'entrée dans l'écran de
 msgstr ""
 msgid "[Commun] Ici, vous pouvez modifier les paramètres et vérifier l'état."
 msgstr ""
-msgid "[Commun] Lorsque vous jouez avec des cartes, WACCA
-Vous pouvez en profiter davantage.
-Le nombre de chansons que vous pouvez lire augmentera et les données de lecture augmenteront.
-Vous pouvez également le sauvegarder, alors essayez de l'utiliser."
+msgid "[Commun] Lorsque vous jouez avec des cartes, WACCA\r\nVous pouvez en profiter davantage.\r\nLe nombre de chansons que vous pouvez lire augmentera et les données de lecture augmenteront.\r\nVous pouvez également le sauvegarder, alors essayez de l'utiliser."
 msgstr ""
 msgid "[Commun] Votre score global."
 msgstr ""
-msgid "[Commun] Vos résultats de classement.
-Pour plus d’informations, veuillez consulter le site officiel."
+msgid "[Commun] Vos résultats de classement.\r\nPour plus d’informations, veuillez consulter le site officiel."
 msgstr ""
 msgid "[Commun] Vous venez tout juste de commencer ?"
 msgstr ""
@@ -307,36 +282,27 @@ msgid "[Commun] Effacer !"
 msgstr ""
 msgid "[Commun] Effacer ! !"
 msgstr ""
-msgid "[Commun] Tarif D
-Pourquoi manipulez-vous votre smartphone ?"
+msgid "[Commun] Tarif D\r\nPourquoi manipulez-vous votre smartphone ?"
 msgstr ""
-msgid "[Commun] Tarif C
-Vous êtes tellement motivé !"
+msgid "[Commun] Tarif C\r\nVous êtes tellement motivé !"
 msgstr ""
-msgid "[Commun] Tarif B
-Eh bien, je suppose que c'est juste un entraînement."
+msgid "[Commun] Tarif B\r\nEh bien, je suppose que c'est juste un entraînement."
 msgstr ""
-msgid "[Commun] Tarif A
-Avez-vous l'impression qu'il y a encore plus à venir ?"
+msgid "[Commun] Tarif A\r\nAvez-vous l'impression qu'il y a encore plus à venir ?"
 msgstr ""
-msgid "[Commun] Tarif AA
-C'était assez amusant."
+msgid "[Commun] Tarif AA\r\nC'était assez amusant."
 msgstr ""
-msgid "[Commun] Tarif AAA
-Ouais ouais. On dirait que ça se passe toujours bien !"
+msgid "[Commun] Tarif AAA\r\nOuais ouais. On dirait que ça se passe toujours bien !"
 msgstr ""
-msgid "[Commun] Tarif S
-Oh~. Faisons-le!"
+msgid "[Commun] Tarif S\r\nOh~. Faisons-le!"
 msgstr ""
 msgid "\"Nouveau ajout\" Voix au tarif S+"
 msgstr ""
-msgid "[Commun] Notez SS !
-C'est un excellent score."
+msgid "[Commun] Notez SS !\r\nC'est un excellent score."
 msgstr ""
 msgid "Tarif \"Nouvellement ajouté\" Voix SS+"
 msgstr ""
-msgid "[Commun] Notez SSS !
-Quel score...! Wow, je n'arrive pas à y croire !"
+msgid "[Commun] Notez SSS !\r\nQuel score...! Wow, je n'arrive pas à y croire !"
 msgstr ""
 msgid "Tarif \"Nouvel ajout\" SSS+ voix"
 msgstr ""
@@ -394,8 +360,7 @@ msgid "\"Nouvellement ajouté\" Taux de réussite du boss Voix SSS+"
 msgstr ""
 msgid "\"Nouvellement ajouté\" Taux de réussite du boss Voix MASTER"
 msgstr ""
-msgid "[Commun] Il semble que vous soyez entré dans le classement avec votre jeu actuel.
-Félicitations!"
+msgid "[Commun] Il semble que vous soyez entré dans le classement avec votre jeu actuel.\r\nFélicitations!"
 msgstr ""
 msgid "[Commun] Est-ce un échec ? Changez d'avis et recommencez !"
 msgstr ""
@@ -405,8 +370,7 @@ msgid "[Commun] Ne vous inquiétez pas, réessayons."
 msgstr ""
 msgid "[Commun] Parfait ! Super travail !"
 msgstr ""
-msgid "[Commun] Vous pouvez toujours viser plus haut !
-Tu devrais pouvoir le faire !"
+msgid "[Commun] Vous pouvez toujours viser plus haut !\r\nTu devrais pouvoir le faire !"
 msgstr ""
 msgid "[Commun] J'attends le prochain défi !"
 msgstr ""
@@ -426,9 +390,7 @@ msgid "[Commun] Si vous devenez membre VIP, vous bénéficierez de divers avanta
 msgstr ""
 msgid "[Commun] Il s'agit d'un objet qui peut débloquer le niveau de difficulté expert."
 msgstr ""
-msgid "[Commun] Si vous avez un badge boost
-Vous obtiendrez des bonus pour les points et la façon dont vous progressez à travers les portes.
-Il semble que l'effet du ticket de jeu EXPERT soit également donné."
+msgid "[Commun] Si vous avez un badge boost\r\nVous obtiendrez des bonus pour les points et la façon dont vous progressez à travers les portes.\r\nIl semble que l'effet du ticket de jeu EXPERT soit également donné."
 msgstr ""
 msgid "[Commun] J'ai acheté un article."
 msgstr ""
@@ -438,8 +400,7 @@ msgid "[Commun] On dirait que vous n'avez pas assez de points Lily."
 msgstr ""
 msgid "[Commun] Êtes-vous le genre de personne qui prend du temps pour choisir un produit ?"
 msgstr ""
-msgid "[Commun] WACCA vous permet de déplacer le curseur par glissement.
-Faites glisser votre main sur la console lumineuse WACCA."
+msgid "[Commun] WACCA vous permet de déplacer le curseur par glissement.\r\nFaites glisser votre main sur la console lumineuse WACCA."
 msgstr ""
 msgid "[Commun] WACCA utilise des opérations de glissement pour sélectionner les menus, alors faites glisser votre main sur la zone lumineuse."
 msgstr ""
@@ -449,22 +410,13 @@ msgid "[Commun] Félicitations pour votre réussite !"
 msgstr ""
 msgid "[Commun] Faisons de notre mieux la prochaine fois !"
 msgstr ""
-msgid "[Commun] Montez en scène !
-Commençons la première chanson.
-Lorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.
-Vous pouvez modifier divers paramètres à partir du menu, alors essayez-le si vous en avez besoin."
+msgid "[Commun] Montez en scène !\r\nCommençons la première chanson.\r\nLorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.\r\nVous pouvez modifier divers paramètres à partir du menu, alors essayez-le si vous en avez besoin."
 msgstr ""
 msgid "\"Nouvel ajout\" Paramètres vocaux joués à la place de STAGE_UP_MUSIC_CONFIRM_00 lorsque le caractère de navigation arrière est modifié de force"
 msgstr ""
-msgid "[Commun] Montez en scène !
-Commençons la deuxième chanson.
-Lorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.
-Vous pouvez modifier divers paramètres à partir du menu, alors essayez-le si vous en avez besoin."
+msgid "[Commun] Montez en scène !\r\nCommençons la deuxième chanson.\r\nLorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.\r\nVous pouvez modifier divers paramètres à partir du menu, alors essayez-le si vous en avez besoin."
 msgstr ""
-msgid "[Commun] Montez en scène !
-Commençons la troisième chanson.
-Lorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.
-Vous pouvez modifier divers paramètres à partir du menu, alors essayez-le si vous en avez besoin."
+msgid "[Commun] Montez en scène !\r\nCommençons la troisième chanson.\r\nLorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.\r\nVous pouvez modifier divers paramètres à partir du menu, alors essayez-le si vous en avez besoin."
 msgstr ""
 msgid "[Commun] Étape I réussie !"
 msgstr ""
@@ -494,14 +446,11 @@ msgid "[Commun] Niveau XIII réussi !"
 msgstr ""
 msgid "[Commun] Étape XIV terminée !"
 msgstr ""
-msgid "[Nouvel ajout] Niveau XIV terminé !
-"
+msgid "[Nouvel ajout] Niveau XIV terminé !\r\n"
 msgstr ""
 msgid "[Commun] Ensuite, choisissez l'étape que vous souhaitez défier."
 msgstr ""
-msgid "Bienvenue sur « Stage Up » !
-Jouez successivement les chansons de tâches assignées.
-Essayons votre Udemae !"
+msgid "Bienvenue sur « Stage Up » !\r\nJouez successivement les chansons de tâches assignées.\r\nEssayons votre Udemae !"
 msgstr ""
 msgid "[Commun] WACCA"
 msgstr ""
@@ -509,114 +458,75 @@ msgid "[Commun] WACCA S!"
 msgstr ""
 msgid "[Commun] WACCA Lily !"
 msgstr ""
-msgid "[Commun] Bon travail.
-Voilà le résultat."
+msgid "[Commun] Bon travail.\r\nVoilà le résultat."
 msgstr ""
-msgid "[Commun] Cliquez ensuite sur le bouton avec la marque <span color=\"#E5006D\">\"?\"</>.
-Si vous appuyez longuement dessus, l'aide s'affichera.
-Si vous rencontrez des problèmes, essayez-le."
+msgid "[Commun] Cliquez ensuite sur le bouton avec la marque <span color=\"#E5006D\">\"?\"</>.\r\nSi vous appuyez longuement dessus, l'aide s'affichera.\r\nSi vous rencontrez des problèmes, essayez-le."
 msgstr ""
-msgid "[Commun] Vient ensuite <span color=\"#E5006D\">Notes en chaîne</>
-J'ai l'impression que c'est un parent de Touch Notes."
+msgid "[Commun] Vient ensuite <span color=\"#E5006D\">Notes en chaîne</>\r\nJ'ai l'impression que c'est un parent de Touch Notes."
 msgstr ""
-msgid "[Commun] Il pleut souvent continuellement, mais
-En fait, vous pouvez simplement <span color=\"#E5006D\">appuyer longuement</> à l'avance."
+msgid "[Commun] Il pleut souvent continuellement, mais\r\nEn fait, vous pouvez simplement <span color=\"#E5006D\">appuyer longuement</> à l'avance."
 msgstr ""
 msgid "[Commun] Pourquoi utilisez-vous votre smartphone ?"
 msgstr ""
 msgid "[Commun] C'est vrai ! C'est ce que l'on ressent !"
 msgstr ""
-msgid "[Commun] Vous pourriez être surpris du nombre.
-Ne vous inquiétez pas, c'est beaucoup plus facile qu'il n'y paraît.
-Oui, maintenant c'est votre tour."
+msgid "[Commun] Vous pourriez être surpris du nombre.\r\nNe vous inquiétez pas, c'est beaucoup plus facile qu'il n'y paraît.\r\nOui, maintenant c'est votre tour."
 msgstr ""
-msgid "[Commun] À propos, Notes est
-Uniquement dans le cadre de ces <span color=\"#E5006D\">lignes directrices</>
-Parce qu'il ne tombera pas"
+msgid "[Commun] À propos, Notes est\r\nUniquement dans le cadre de ces <span color=\"#E5006D\">lignes directrices</>\r\nParce qu'il ne tombera pas"
 msgstr ""
-msgid "[Commun] Vous n'êtes pas obligé de regarder l'intégralité de l'écran.
-C'est plus facile que vous ne le pensez, n'est-ce pas ?"
+msgid "[Commun] Vous n'êtes pas obligé de regarder l'intégralité de l'écran.\r\nC'est plus facile que vous ne le pensez, n'est-ce pas ?"
 msgstr ""
-msgid "[Fréquent] Lorsque de longues notes arrivent, <span color=\"#E5006D\">Conserver les notes</>
-Sélectionnez la zone et maintenez enfoncé <span color=\"#E5006D\">jusqu'à la fin de Notes</>.
-Vous n’êtes pas obligé de lâcher prise à la fin."
+msgid "[Fréquent] Lorsque de longues notes arrivent, <span color=\"#E5006D\">Conserver les notes</>\r\nSélectionnez la zone et maintenez enfoncé <span color=\"#E5006D\">jusqu'à la fin de Notes</>.\r\nVous n’êtes pas obligé de lâcher prise à la fin."
 msgstr ""
 msgid "[Commun] Pas bon du tout... Pas du tout!"
 msgstr ""
-msgid "[Fréquent] Lorsque vous vous penchez ou tournez de cette façon
-pour que la position de la main ne change pas
-Sois prudent."
+msgid "[Fréquent] Lorsque vous vous penchez ou tournez de cette façon\r\npour que la position de la main ne change pas\r\nSois prudent."
 msgstr ""
 msgid "[Commun] Ouais, ça fait du bien !"
 msgstr ""
 msgid "[Commun] Alors vous devriez l'essayer aussi."
 msgstr ""
-msgid "[Commun] C'est vrai, dans la <span color=\"#E5006D\">jauge norma</> des performances réelles
-Il y a une chose qui s'appelle
-La jauge se remplira en fonction de votre jeu."
+msgid "[Commun] C'est vrai, dans la <span color=\"#E5006D\">jauge norma</> des performances réelles\r\nIl y a une chose qui s'appelle\r\nLa jauge se remplira en fonction de votre jeu."
 msgstr ""
-msgid "[Commun] Eh bien, même si vous ne pouvez pas terminer le jeu, la partie est terminée.
-Cela n’arrivera pas, alors n’hésitez pas à relever le défi !"
+msgid "[Commun] Eh bien, même si vous ne pouvez pas terminer le jeu, la partie est terminée.\r\nCela n’arrivera pas, alors n’hésitez pas à relever le défi !"
 msgstr ""
-msgid "[Commun] Lorsque vous avez fini de jouer une chanson, appuyez sur <span color=\"#E5006D\">Ligne normale</>.
-S'il le dépasse, vous l'effacez !"
+msgid "[Commun] Lorsque vous avez fini de jouer une chanson, appuyez sur <span color=\"#E5006D\">Ligne normale</>.\r\nS'il le dépasse, vous l'effacez !"
 msgstr ""
-msgid "[Commun] Eh bien, faites de votre mieux dans la performance réelle !
-J'attends avec impatience votre réussite."
+msgid "[Commun] Eh bien, faites de votre mieux dans la performance réelle !\r\nJ'attends avec impatience votre réussite."
 msgstr ""
 msgid "[Commun] Eh bien, il serait plus rapide de l'essayer."
 msgstr ""
-msgid "[Commun] Il existe également un <span color=\"#E5006D\">motif inversé</>. La méthode de fonctionnement est la même.
-La couleur change en fonction de la direction
-<span color=\"#E5006D\">Apprendre par couleur</> pourrait être une bonne idée."
+msgid "[Commun] Il existe également un <span color=\"#E5006D\">motif inversé</>. La méthode de fonctionnement est la même.\r\nLa couleur change en fonction de la direction\r\n<span color=\"#E5006D\">Apprendre par couleur</> pourrait être une bonne idée."
 msgstr ""
-msgid "[Commun] Ceci est <span color=\"#E5006D\">Notes de diapositive</>
-<span color=\"#E5006D\">Faites glisser la console WACCA dans le <span color=\"#E5006D\">sens de la flèche</>."
+msgid "[Commun] Ceci est <span color=\"#E5006D\">Notes de diapositive</>\r\n<span color=\"#E5006D\">Faites glisser la console WACCA dans le <span color=\"#E5006D\">sens de la flèche</>."
 msgstr ""
-msgid "[Commun] Le reste sont des <span color=\"#E5006D\">notes de diapositive</>
-<span color=\"#E5006D\">Notes instantanées</>Peut-être.
-Je vais tout expliquer ensemble !"
+msgid "[Commun] Le reste sont des <span color=\"#E5006D\">notes de diapositive</>\r\n<span color=\"#E5006D\">Notes instantanées</>Peut-être.\r\nJe vais tout expliquer ensemble !"
 msgstr ""
-msgid "[Commun] Toi, peut-être que tu veux être en colère contre moi
-Le faites-vous exprès ?"
+msgid "[Commun] Toi, peut-être que tu veux être en colère contre moi\r\nLe faites-vous exprès ?"
 msgstr ""
 msgid "[Commun] OK ! On dirait qu'il n'y aura pas de problème !"
 msgstr ""
 msgid "[Commun] Alors essayez de vous entraîner en même temps."
 msgstr ""
-msgid "[Commun] Ceci est <span color=\"#E5006D\">Snap Notes</>
-Le fonctionnement est le même que pour Slide Notes."
+msgid "[Commun] Ceci est <span color=\"#E5006D\">Snap Notes</>\r\nLe fonctionnement est le même que pour Slide Notes."
 msgstr ""
-msgid "[Commun] Lorsque ces notes arrivent, utilisez la console WACCA
-<span color=\"#E5006D\">Faites-le glisser vers vous</>.
-Le rouge est le contraire. <span color=\"#E5006D\">Glissez vers l'écran</>."
+msgid "[Commun] Lorsque ces notes arrivent, utilisez la console WACCA\r\n<span color=\"#E5006D\">Faites-le glisser vers vous</>.\r\nLe rouge est le contraire. <span color=\"#E5006D\">Glissez vers l'écran</>."
 msgstr ""
-msgid "[Commun] Il y a une bague devant toi
-Vous avez un appareil, n'est-ce pas ?
-Nous l'appelons la <span color=\"#E5006D\">console WACCA</>.
-Je jouerai avec cette <span color=\"#E5006D\">console WACCA</>."
+msgid "[Commun] Il y a une bague devant toi\r\nVous avez un appareil, n'est-ce pas ?\r\nNous l'appelons la <span color=\"#E5006D\">console WACCA</>.\r\nJe jouerai avec cette <span color=\"#E5006D\">console WACCA</>."
 msgstr ""
-msgid "[Commun] Tout d'abord, les opérations de base<span color=\"#E5006D\">Touch Notes</>
-Lorsque les notes chevauchent la <span color=\"#E5006D\">ligne de jugement</>,
-<span color=\"#E5006D\">Touchez</> la console WACCA !"
+msgid "[Commun] Tout d'abord, les opérations de base<span color=\"#E5006D\">Touch Notes</>\r\nLorsque les notes chevauchent la <span color=\"#E5006D\">ligne de jugement</>,\r\n<span color=\"#E5006D\">Touchez</> la console WACCA !"
 msgstr ""
-msgid "[Commun] Les notes varient en taille, mais
-<span color=\"#E5006D\">Vous pouvez toucher n'importe où dans la zone</> !"
+msgid "[Commun] Les notes varient en taille, mais\r\n<span color=\"#E5006D\">Vous pouvez toucher n'importe où dans la zone</> !"
 msgstr ""
-msgid "[Commun] Je n'ai eu aucun succès, mais...
-Etes-vous motivé ?"
+msgid "[Commun] Je n'ai eu aucun succès, mais...\r\nEtes-vous motivé ?"
 msgstr ""
 msgid "[Commun] Faisons-le ! Était-ce trop facile ?"
 msgstr ""
 msgid "[Commun] Oui, vous devriez l'essayer aussi."
 msgstr ""
-msgid "[Commun] Eh bien, je vais vous expliquer comment faire fonctionner WACCA.
-Laissez-moi vous le dire.
-<span color=\"#E5006D\">Je ne l'expliquerai qu'une seule fois</>, alors écoutez attentivement."
+msgid "[Commun] Eh bien, je vais vous expliquer comment faire fonctionner WACCA.\r\nLaissez-moi vous le dire.\r\n<span color=\"#E5006D\">Je ne l'expliquerai qu'une seule fois</>, alors écoutez attentivement."
 msgstr ""
-msgid "[Commun] Êtes-vous intéressé par le « mode VIP » ?
-C'est comme un service d'adhésion de grande valeur qui coûte 300 yens et est valable 30 jours.
-Il y a de nombreux avantages pour les VIP, donc si vous jouez beaucoup, cela pourrait être une bonne idée de vous inscrire."
+msgid "[Commun] Êtes-vous intéressé par le « mode VIP » ?\r\nC'est comme un service d'adhésion de grande valeur qui coûte 300 yens et est valable 30 jours.\r\nIl y a de nombreux avantages pour les VIP, donc si vous jouez beaucoup, cela pourrait être une bonne idée de vous inscrire."
 msgstr ""
 msgid "[Commun] C'est une bonne idée."
 msgstr ""
@@ -624,12 +534,9 @@ msgid "[Commun] Merci !"
 msgstr ""
 msgid "[Commun] Merci pour la mise à jour !"
 msgstr ""
-msgid "[Commun] Est-ce vrai ?
-Vous pouvez devenir membre VIP à tout moment à partir d'ici.
-Si vous changez d'avis, revenez."
+msgid "[Commun] Est-ce vrai ?\r\nVous pouvez devenir membre VIP à tout moment à partir d'ici.\r\nSi vous changez d'avis, revenez."
 msgstr ""
-msgid "[Commun] Est-ce vrai ?
-Si vous changez d'avis, revenez."
+msgid "[Commun] Est-ce vrai ?\r\nSi vous changez d'avis, revenez."
 msgstr ""
 msgid "[Commun] Scan réussi !"
 msgstr ""
@@ -639,21 +546,17 @@ msgid "[Commun] Hein... ?"
 msgstr ""
 msgid "[Commun] Veuillez jouer en tant qu'invité cette fois."
 msgstr ""
-msgid "[Commun] Hmm, quel dommage.
-Cette fois, jouez en tant qu'invité."
+msgid "[Commun] Hmm, quel dommage.\r\nCette fois, jouez en tant qu'invité."
 msgstr ""
-msgid "[Commun] Carte Aime ou carte compatible Amusement IC
-Si vous l'avez, veuillez le scanner."
+msgid "[Commun] Carte Aime ou carte compatible Amusement IC\r\nSi vous l'avez, veuillez le scanner."
 msgstr ""
 msgid "[Commun] Enchanté de vous rencontrer."
 msgstr ""
 msgid "[Commun] Jouez avec de nouvelles données."
 msgstr ""
-msgid "[Commun] Vous devez mettre à jour vos données de sauvegarde pour jouer !
-Si vous mettez à jour les données, vous ne pourrez plus jouer avec l'ancienne version, alors soyez prudent !"
+msgid "[Commun] Vous devez mettre à jour vos données de sauvegarde pour jouer !\r\nSi vous mettez à jour les données, vous ne pourrez plus jouer avec l'ancienne version, alors soyez prudent !"
 msgstr ""
-msgid "[Commun] Êtes-vous encore là ? merci!
-C'est un bonus de connexion spécial."
+msgid "[Commun] Êtes-vous encore là ? merci!\r\nC'est un bonus de connexion spécial."
 msgstr ""
 msgid "[Commun] Eh bien..."
 msgstr ""
@@ -669,19 +572,15 @@ msgid "[Commun] Un objet spécial vous a été présenté."
 msgstr ""
 msgid "[Commun] Bienvenue dans le monde de WACCA."
 msgstr ""
-msgid "[Commun] Je m'appelle Elizabeth. Eh bien, c'est votre aîné.
-On m'a dit de te soutenir quand tu viendras.
-Ravi de vous rencontrer."
+msgid "[Commun] Je m'appelle Elizabeth. Eh bien, c'est votre aîné.\r\nOn m'a dit de te soutenir quand tu viendras.\r\nRavi de vous rencontrer."
 msgstr ""
 msgid "[Commun] Merci comme toujours."
 msgstr ""
 msgid "[Commun] Héhé, tu es encore là ?"
 msgstr ""
-msgid "[Commun] Toujours pas assez ?
-C'est bon, je sortirai avec toi autant de fois que je veux."
+msgid "[Commun] Toujours pas assez ?\r\nC'est bon, je sortirai avec toi autant de fois que je veux."
 msgstr ""
-msgid "[Commun] Tout d’abord, avez-vous déjà joué à WACCA ?
-Sinon, je vous raconterai tout."
+msgid "[Commun] Tout d’abord, avez-vous déjà joué à WACCA ?\r\nSinon, je vous raconterai tout."
 msgstr ""
 msgid "[Commun] J'ai créé les données."
 msgstr ""
@@ -701,19 +600,15 @@ msgid "[Commun] Quel genre de musique aimez-vous ? Laisse-moi l'entendre la proc
 msgstr ""
 msgid "[Commun] L’heure du thé est importante. S'il vous plaît, faites également une vraie pause."
 msgstr ""
-msgid "[Commun] Ce n'est jamais ennuyeux de vous regarder jouer.
-Revenez nous rendre visite !"
+msgid "[Commun] Ce n'est jamais ennuyeux de vous regarder jouer.\r\nRevenez nous rendre visite !"
 msgstr ""
-msgid "[Commun] Ce n'est toujours pas suffisant ?
-Amusons-nous ensemble !"
+msgid "[Commun] Ce n'est toujours pas suffisant ?\r\nAmusons-nous ensemble !"
 msgstr ""
 msgid "[Commun] Je préfère le curry japonais."
 msgstr ""
-msgid "[Commun] Merci d'avoir beaucoup joué !
-S'il vous plaît, revenez nous rendre visite !"
+msgid "[Commun] Merci d'avoir beaucoup joué !\r\nS'il vous plaît, revenez nous rendre visite !"
 msgstr ""
-msgid "[Commun] As-tu fait quelque chose à Lily ?
-Il me regardait avec une terrible épée, mais... ?"
+msgid "[Commun] As-tu fait quelque chose à Lily ?\r\nIl me regardait avec une terrible épée, mais... ?"
 msgstr ""
 msgid "[Commun] Merci pour aujourd'hui ! Merci pour votre soutien continu !"
 msgstr ""
@@ -721,13 +616,11 @@ msgid "[Commun] Lily ne mange pas beaucoup. J'aimerais pouvoir manger plus."
 msgstr ""
 msgid "[Fréquent] J'ai un chien chez mes parents, mais je ne l'ai pas vu depuis un moment, donc j'ai peur qu'il soit oublié."
 msgstr ""
-msgid "[Commun] Le temps que j'ai passé avec toi est devenu assez long.
-S'il vous plaît, continuez à me divertir !"
+msgid "[Commun] Le temps que j'ai passé avec toi est devenu assez long.\r\nS'il vous plaît, continuez à me divertir !"
 msgstr ""
 msgid "[Commun] J'ai toujours pensé que ce type était un caméléon, mais j'avais tort."
 msgstr ""
-msgid "[Commun] Lily pourrait encore se fâcher contre moi, mais
-Je veux passer plus de temps avec vous, alors continuez à me soutenir !"
+msgid "[Commun] Lily pourrait encore se fâcher contre moi, mais\r\nJe veux passer plus de temps avec vous, alors continuez à me soutenir !"
 msgstr ""
 msgid "[Commun] Revenez nous rendre visite. Ne me fais pas attendre plus longtemps."
 msgstr ""
@@ -855,8 +748,7 @@ msgid "[Commun] Combo complet !"
 msgstr ""
 msgid "[Commun] Tout est merveilleux !"
 msgstr ""
-msgid "[Commun] Vous pouvez modifier les paramètres.
-Nous avons également préparé des paramètres recommandés, mais si vous souhaitez définir des paramètres plus détaillés, veuillez sélectionner Personnalisé."
+msgid "[Commun] Vous pouvez modifier les paramètres.\r\nNous avons également préparé des paramètres recommandés, mais si vous souhaitez définir des paramètres plus détaillés, veuillez sélectionner Personnalisé."
 msgstr ""
 msgid "[Commun] Pour les débutants !"
 msgstr ""
@@ -870,42 +762,25 @@ msgid "[Commun] Recommandé !"
 msgstr ""
 msgid "[Commun] Changer l'ordre des chansons."
 msgstr ""
-msgid "La date d'expiration VIP est sur le point de se terminer !
-Vous pouvez mettre à jour votre statut VIP depuis « SHOP »."
+msgid "La date d'expiration VIP est sur le point de se terminer !\r\nVous pouvez mettre à jour votre statut VIP depuis « SHOP »."
 msgstr ""
 msgid "titre"
 msgstr ""
-msgid "Maintenant, choisis une chanson à jouer
-C'est la première chanson maintenant.
-Des chansons de genre Anime/POP ont été ajoutées !"
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre Anime/POP ont été ajoutées !"
 msgstr ""
-msgid "Maintenant, choisis une chanson à jouer
-C'est la première chanson maintenant.
-Des chansons de genre Vocaloid ont été ajoutées !"
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre Vocaloid ont été ajoutées !"
 msgstr ""
-msgid "Maintenant, choisis une chanson à jouer
-C'est la première chanson maintenant.
-Des chansons de genre Touhou ont été ajoutées !"
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre Touhou ont été ajoutées !"
 msgstr ""
-msgid "Maintenant, choisis une chanson à jouer
-C'est la première chanson maintenant.
-Des chansons de genre variées ont été ajoutées !"
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre variées ont été ajoutées !"
 msgstr ""
-msgid "Maintenant, choisis une chanson à jouer
-C'est la première chanson maintenant.
-Des chansons de genre 2.5D ont été ajoutées !"
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre 2.5D ont été ajoutées !"
 msgstr ""
-msgid "Maintenant, choisis une chanson à jouer
-C'est la première chanson maintenant.
-Des chansons de genre originales ont été ajoutées !"
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre originales ont été ajoutées !"
 msgstr ""
-msgid "Maintenant, choisis une chanson à jouer
-C'est la première chanson maintenant.
-Des chansons du genre Tanoshi ont été ajoutées !"
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons du genre Tanoshi ont été ajoutées !"
 msgstr ""
-msgid "Maintenant, choisis une chanson à jouer
-C'est la première chanson maintenant.
-De nouvelles chansons ont été ajoutées !"
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDe nouvelles chansons ont été ajoutées !"
 msgstr ""
 msgid "\"Nouvellement ajouté\" Confirmation de fin de mode de prêt de temps voix aléatoire 1"
 msgstr ""
@@ -915,8 +790,7 @@ msgid "\"Nouvel ajout\" Fin du mode location voix aléatoire 1"
 msgstr ""
 msgid "\"Nouvel ajout\" Mode de location de fin de temps voix aléatoire 2"
 msgstr ""
-msgid "Vous êtes-vous amusé ? Je me suis amusé.
-Au revoir alors."
+msgid "Vous êtes-vous amusé ? Je me suis amusé.\r\nAu revoir alors."
 msgstr ""
 msgid "\"Nouvel ajout\" Voix lors de la sélection du niveau de difficulté 11 ou supérieur (première fois)"
 msgstr ""
@@ -924,8 +798,7 @@ msgid "\"Nouvel ajout\" Voix lors de la sélection de l'étape 11 ou d'un niveau
 msgstr ""
 msgid "Alors oooooooooooooooooooooooooooooooooooooooooooooooooooooooong ! ! ! ! ! ! !"
 msgstr ""
-msgid "Le plus haut, le plus haut, le plus haut, le plus haut, le plus haut ! !
-Autrement dit, le meilleur, le meilleur ! ! ! ! ! ! !"
+msgid "Le plus haut, le plus haut, le plus haut, le plus haut, le plus haut ! !\r\nAutrement dit, le meilleur, le meilleur ! ! ! ! ! ! !"
 msgstr ""
 msgid "<Nouvel ajout> Tutoriel de sélection de mission"
 msgstr ""
@@ -949,8 +822,7 @@ msgid "Offrir le meilleur son où que vous soyez"
 msgstr ""
 msgid "Quels ramen familiaux dois-je manger aujourd'hui ?"
 msgstr ""
-msgid "Je m'appelle Irène.
-Mon passe-temps est de collectionner des animaux en peluche !"
+msgid "Je m'appelle Irène.\r\nMon passe-temps est de collectionner des animaux en peluche !"
 msgstr ""
 msgid "tout le monde! Faisons en sorte que ce soit le meilleur jour !"
 msgstr ""

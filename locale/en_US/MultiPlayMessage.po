@@ -2,13 +2,9 @@
 msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "You are the <span color=\"#FF0095\">\"host\"</>. 
-In the event of a tie in the number of votes, 
-the <span color=\"#FF0095\">\"host priority\"</> will be given."
+msgid "You are the <span color=\"#FF0095\">\"host\"</>. \nIn the event of a tie in the number of votes, \nthe <span color=\"#FF0095\">\"host priority\"</> will be given."
 msgstr ""
-msgid "You are the <span color=\"#FF0095\">\"guest\"</>. 
-In the event of a tie in the number of votes, 
-the <span color=\"#FF0095\">\"host priority\"</> will be given."
+msgid "You are the <span color=\"#FF0095\">\"guest\"</>. \nIn the event of a tie in the number of votes, \nthe <span color=\"#FF0095\">\"host priority\"</> will be given."
 msgstr ""
 msgid "I'm looking for a session."
 msgstr ""
@@ -44,25 +40,19 @@ msgid "<HostGuest>\"<MatchingMember>\" is voting."
 msgstr ""
 msgid "<HostGuest> \"<MatchingMember>\" voted for \"<MultiPlayMode>\"."
 msgstr ""
-msgid "Vote for the game mode you want to play. 
-Other players are also voting."
+msgid "Vote for the game mode you want to play. \nOther players are also voting."
 msgstr ""
-msgid "Please vote for the game mode you want to play. 
-If no members show up, please \"disband the room\" and search again."
+msgid "Please vote for the game mode you want to play. \nIf no members show up, please \"disband the room\" and search again."
 msgstr ""
-msgid "Please wait for the other members to finish voting.
-Touch \"START\" to start playing with the current members."
+msgid "Please wait for the other members to finish voting.\nTouch \"START\" to start playing with the current members."
 msgstr ""
 msgid "Please wait for other members to finish voting."
 msgstr ""
-msgid "Voting has now finished for everyone. 
-We will start with the play mode above."
+msgid "Voting has now finished for everyone. \nWe will start with the play mode above."
 msgstr ""
-msgid "Time's up. Voting has ended. 
-You will now begin in the play mode above."
+msgid "Time's up. Voting has ended. \nYou will now begin in the play mode above."
 msgstr ""
-msgid "Voting has ended. 
-Play will begin in the above mode."
+msgid "Voting has ended. \nPlay will begin in the above mode."
 msgstr ""
 msgid "We weren't able to gather enough members in time. This time, we'll be playing \"single play.\""
 msgstr ""
@@ -70,22 +60,17 @@ msgid "\"START\" was touched when there were no members. This time, you will ret
 msgstr ""
 msgid "\"START\" was touched without any members. This time it will be \"Single Play\"."
 msgstr ""
-msgid "The room has been disbanded. 
-Matching will be performed again."
+msgid "The room has been disbanded. \nMatching will be performed again."
 msgstr ""
-msgid "\"<MatchingMember>\"
-has decided on the song."
+msgid "\"<MatchingMember>\"\nhas decided on the song."
 msgstr ""
 msgid "You do not have enough Reverse points."
 msgstr ""
-msgid "\"<DifficultyName>\" has been selected. 
-Waiting for other members to select the difficulty level."
+msgid "\"<DifficultyName>\" has been selected. \nWaiting for other members to select the difficulty level."
 msgstr ""
 msgid "I don't have an expert open ticket."
 msgstr ""
-msgid "Play will begin in \"<Time>\" seconds. 
-If you have changed any options, 
-please confirm within the time limit."
+msgid "Play will begin in \"<Time>\" seconds. \nIf you have changed any options, \nplease confirm within the time limit."
 msgstr ""
 msgid "Start \"<MultiPlayMode>\"."
 msgstr ""
@@ -99,9 +84,7 @@ msgid "The participants are now ready to join."
 msgstr ""
 msgid "If you have changed any options, please confirm."
 msgstr ""
-msgid "Multiplayer connection has been lost. 
-Switching to \"Single Player\". 
-Data may not have been saved correctly."
+msgid "Multiplayer connection has been lost. \nSwitching to \"Single Player\". \nData may not have been saved correctly."
 msgstr ""
 msgid "Multiplayer connection has been lost. Your data may not have been saved correctly."
 msgstr ""

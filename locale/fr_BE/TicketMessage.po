@@ -8,11 +8,9 @@ msgid "Billet ouvert EX sans date d'expiration"
 msgstr ""
 msgid "Billet de jeu EXPERT"
 msgstr ""
-msgid "Ce n'est que pendant cette partie que vous pourrez jouer à tous les EXPERTS inédits.
-<span size=\"13\">*Aucun effet sur la montée en scène. </>"
+msgid "Ce n'est que pendant cette partie que vous pourrez jouer à tous les EXPERTS inédits.\r\n<span size=\"13\">*Aucun effet sur la montée en scène. </>"
 msgstr ""
 msgid "+1 ticket bonus de chanson"
 msgstr ""
-msgid "Une chanson supplémentaire sera disponible pour cette pièce.
-<span size=\"13\">*Aucun effet sauf en jeu simple. </>"
+msgid "Une chanson supplémentaire sera disponible pour cette pièce.\r\n<span size=\"13\">*Aucun effet sauf en jeu simple. </>"
 msgstr ""

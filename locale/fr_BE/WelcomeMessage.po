@@ -26,11 +26,7 @@ msgid "Autres bonus de connexion"
 msgstr ""
 msgid "<ITEM_CATEGORY> \"<ITEM_NAME>\""
 msgstr ""
-msgid "・<TICKET_NAME>×<NUMBER>
-Nombre de possessions (durée limitée) <LIMITED_TICKET_NUM> / <LIMITED_TICKET_MAX>
-Nombre de possessions (pas de date d'expiration) <TICKET_NUM> / <TICKET_MAX>
-*<LIMITED_TICKET_NAME> est
-Valable 3 jours à compter de la date d'acquisition."
+msgid "・<TICKET_NAME>×<NUMBER>\r\nNombre de possessions (durée limitée) <LIMITED_TICKET_NUM> / <LIMITED_TICKET_MAX>\r\nNombre de possessions (pas de date d'expiration) <TICKET_NUM> / <TICKET_MAX>\r\n*<LIMITED_TICKET_NAME> est\r\nValable 3 jours à compter de la date d'acquisition."
 msgstr ""
 msgid "<TICKET_NAME>×<NUMBER>"
 msgstr ""
@@ -38,49 +34,19 @@ msgid "<NUMBER> Point inverse"
 msgstr ""
 msgid "<NOMBRE> EXP"
 msgstr ""
-msgid "Les versions du logiciel et des données utilisateur ne correspondent pas.
-Veuillez jouer sur une machine avec Ver. <VERSION> ou version ultérieure.
-Les données ne sont pas corrompues.
-Cette fois, ce sera une pièce invitée."
+msgid "Les versions du logiciel et des données utilisateur ne correspondent pas.\r\nVeuillez jouer sur une machine avec Ver. <VERSION> ou version ultérieure.\r\nLes données ne sont pas corrompues.\r\nCette fois, ce sera une pièce invitée."
 msgstr ""
-msgid "jouer sur cette machine
-Les données utilisateur seront mises à jour.
-Sur les machines antérieures à Ver.<VERSION>
-Vous ne pourrez pas jouer.
-Comment jouer au dernier logiciel
-C'est un processus nécessaire.
-Souhaitez-vous mettre à jour ?"
+msgid "jouer sur cette machine\r\nLes données utilisateur seront mises à jour.\r\nSur les machines antérieures à Ver.<VERSION>\r\nVous ne pourrez pas jouer.\r\nComment jouer au dernier logiciel\r\nC'est un processus nécessaire.\r\nSouhaitez-vous mettre à jour ?"
 msgstr ""
 msgid "Merci de scanner votre carte Aime."
 msgstr ""
-msgid "Apportez votre carte Aime ou votre carte compatible Amusement IC
-Si ce n'est pas le cas, veuillez toucher « Passer »."
+msgid "Apportez votre carte Aime ou votre carte compatible Amusement IC\r\nSi ce n'est pas le cas, veuillez toucher « Passer »."
 msgstr ""
 msgid "Veuillez insérer une pièce de monnaie"
 msgstr ""
-msgid "Nouvelle carte Aimé
-Je l'ai scanné.
-Jouez avec cette carte Aime
-Veuillez saisir vos données de jeu pour
-doit être créé.
-
-Lorsque vous créez des données utilisateur
-Cette carte Aime est une carte
-Destination pour la migration des données en cas de perte, etc.
-Cela devient inutilisable.
-êtes-vous d'accord?"
+msgid "Nouvelle carte Aimé\r\nJe l'ai scanné.\r\nJouez avec cette carte Aime\r\nVeuillez saisir vos données de jeu pour\r\ndoit être créé.\r\n\r\nLorsque vous créez des données utilisateur\r\nCette carte Aime est une carte\r\nDestination pour la migration des données en cas de perte, etc.\r\nCela devient inutilisable.\r\nêtes-vous d'accord?"
 msgstr ""
-msgid "! Précautions lors de l'utilisation des téléphones portables !
-[Problème de téléphone]
-Problème tel qu'une perte ou un dysfonctionnement
-Nous n'assumons aucune responsabilité.
-lecteur de carte en état de téléphone
-peut ne pas être reconnu.
-【informations personnelles】
-Téléphone intégré pour la gestion des données
-Numéro de série de la puce IC
-Utiliser seulement.
-êtes-vous d'accord?"
+msgid "! Précautions lors de l'utilisation des téléphones portables !\r\n[Problème de téléphone]\r\nProblème tel qu'une perte ou un dysfonctionnement\r\nNous n'assumons aucune responsabilité.\r\nlecteur de carte en état de téléphone\r\npeut ne pas être reconnu.\r\n【informations personnelles】\r\nTéléphone intégré pour la gestion des données\r\nNuméro de série de la puce IC\r\nUtiliser seulement.\r\nêtes-vous d'accord?"
 msgstr ""
 msgid "Code d'accès : <ACCESS_CODE>"
 msgstr ""

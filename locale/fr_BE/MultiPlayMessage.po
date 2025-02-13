@@ -2,13 +2,9 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "Vous êtes l'<span color=\"#FF0095\">\"hôte\"</>.
-Si le nombre de voix pour chaque type est le même,
-<span color=\"#FF0095\">\"Priorité de l'hôte\"</>."
+msgid "Vous êtes l'<span color=\"#FF0095\">\"hôte\"</>.\r\nSi le nombre de voix pour chaque type est le même,\r\n<span color=\"#FF0095\">\"Priorité de l'hôte\"</>."
 msgstr ""
-msgid "Vous êtes un <span color=\"#FF0095\">\"invité\"</>.
-En cas d'égalité de voix,
-<span color=\"#FF0095\">\"Priorité de l'hôte\"</>."
+msgid "Vous êtes un <span color=\"#FF0095\">\"invité\"</>.\r\nEn cas d'égalité de voix,\r\n<span color=\"#FF0095\">\"Priorité de l'hôte\"</>."
 msgstr ""
 msgid "À la recherche d'une séance."
 msgstr ""
@@ -44,72 +40,39 @@ msgid "<HostGuest> \"<MatchingMember>\" vote."
 msgstr ""
 msgid "<HostGuest> \"<MatchingMember>\" a voté pour \"<MultiPlayMode>\"."
 msgstr ""
-msgid "Votez pour le mode de jeu auquel vous souhaitez jouer.
-D'autres joueurs votent également."
+msgid "Votez pour le mode de jeu auquel vous souhaitez jouer.\r\nD'autres joueurs votent également."
 msgstr ""
-msgid "Votez pour le mode de jeu auquel vous souhaitez jouer.
-Si aucun membre ne se rassemble, veuillez « dissoudre la salle » et relancer la recherche."
+msgid "Votez pour le mode de jeu auquel vous souhaitez jouer.\r\nSi aucun membre ne se rassemble, veuillez « dissoudre la salle » et relancer la recherche."
 msgstr ""
-msgid "Veuillez attendre que les autres membres aient fini de voter.
-Lorsque vous touchez « START »
-Commencez à jouer avec vos membres actuels."
+msgid "Veuillez attendre que les autres membres aient fini de voter.\r\nLorsque vous touchez « START »\r\nCommencez à jouer avec vos membres actuels."
 msgstr ""
 msgid "Veuillez attendre que les autres membres aient fini de voter."
 msgstr ""
-msgid "Tous les votes sont terminés.
-Commencez dans le mode de lecture ci-dessus."
+msgid "Tous les votes sont terminés.\r\nCommencez dans le mode de lecture ci-dessus."
 msgstr ""
-msgid "Le temps s'est écoulé. Le vote a été annulé.
-Commencez dans le mode de lecture ci-dessus."
+msgid "Le temps s'est écoulé. Le vote a été annulé.\r\nCommencez dans le mode de lecture ci-dessus."
 msgstr ""
-msgid "Le vote a été annulé.
-Commencez dans le mode de lecture ci-dessus."
+msgid "Le vote a été annulé.\r\nCommencez dans le mode de lecture ci-dessus."
 msgstr ""
-msgid "membres dans les délais
-Nous ne nous sommes pas réunis.
-Cette fois
-\"Jeu unique\"
-Cela devient."
+msgid "membres dans les délais\r\nNous ne nous sommes pas réunis.\r\nCette fois\r\n\"Jeu unique\"\r\nCela devient."
 msgstr ""
-msgid "sans membres
-\"COMMENCER\"
-a été touché.
-Cette fois, nous reviendrons à l'écran d'origine.
-Encore la même opération
-Si c'est
-\"Jeu unique\"
-va déménager vers."
+msgid "sans membres\r\n\"COMMENCER\"\r\na été touché.\r\nCette fois, nous reviendrons à l'écran d'origine.\r\nEncore la même opération\r\nSi c'est\r\n\"Jeu unique\"\r\nva déménager vers."
 msgstr ""
-msgid "sans membres
-\"COMMENCER\"
-Touché.
-Cette fois
-\"Jeu unique\"
-Cela devient."
+msgid "sans membres\r\n\"COMMENCER\"\r\nTouché.\r\nCette fois\r\n\"Jeu unique\"\r\nCela devient."
 msgstr ""
-msgid "La salle a été dissoute.
-Essayez à nouveau de faire correspondre."
+msgid "La salle a été dissoute.\r\nEssayez à nouveau de faire correspondre."
 msgstr ""
-msgid "« <Membre correspondant> »
-Nous avons décidé de la chanson."
+msgid "« <Membre correspondant> »\r\nNous avons décidé de la chanson."
 msgstr ""
 msgid "Je n'ai pas assez de points Reverse."
 msgstr ""
-msgid "\"<Nom de la difficulté>\"
-C’est décidé.
-d'autres membres
-déterminer le niveau de difficulté
-J'attendrai."
+msgid "\"<Nom de la difficulté>\"\r\nC’est décidé.\r\nd'autres membres\r\ndéterminer le niveau de difficulté\r\nJ'attendrai."
 msgstr ""
-msgid "ticket ouvert expert
-Je ne le possède pas."
+msgid "ticket ouvert expert\r\nJe ne le possède pas."
 msgstr ""
-msgid "Commencez à jouer dans \"<Time>\" secondes.
-Si vous avez modifié les paramètres des options
-Veuillez décider à temps."
+msgid "Commencez à jouer dans \"<Time>\" secondes.\r\nSi vous avez modifié les paramètres des options\r\nVeuillez décider à temps."
 msgstr ""
-msgid "\"<Mode MultiLecture>\"
-Commencer."
+msgid "\"<Mode MultiLecture>\"\r\nCommencer."
 msgstr ""
 msgid "Après"
 msgstr ""
@@ -119,24 +82,11 @@ msgid "Commencez à jouer."
 msgstr ""
 msgid "Les préparatifs pour les membres participants sont terminés."
 msgstr ""
-msgid "Si vous avez modifié les paramètres des options
-Veuillez décider."
+msgid "Si vous avez modifié les paramètres des options\r\nVeuillez décider."
 msgstr ""
-msgid "Connexion multijoueur
-J'ai été coupé.
-En \"jeu unique\"
-Émigrer.
-
-les données sont bonnes
-non enregistré
-Peut-être."
+msgid "Connexion multijoueur\r\nJ'ai été coupé.\r\nEn \"jeu unique\"\r\nÉmigrer.\r\n\r\nles données sont bonnes\r\nnon enregistré\r\nPeut-être."
 msgstr ""
-msgid "Connexion multijoueur
-J'ai été coupé.
-
-les données sont bonnes
-non enregistré
-Peut-être."
+msgid "Connexion multijoueur\r\nJ'ai été coupé.\r\n\r\nles données sont bonnes\r\nnon enregistré\r\nPeut-être."
 msgstr ""
 msgid "hôte"
 msgstr ""
@@ -180,12 +130,7 @@ msgid "Rejoindre la salle correspondante"
 msgstr ""
 msgid "Participer au jumelage"
 msgstr ""
-msgid "dans le temps
-Pas décidé.
-Cette fois
-\"Jeu unique\"
-Cela devient."
+msgid "dans le temps\r\nPas décidé.\r\nCette fois\r\n\"Jeu unique\"\r\nCela devient."
 msgstr ""
-msgid "Créez une salle et attendez les participants, ou
-Trouvez une salle et choisissez de la rejoindre."
+msgid "Créez une salle et attendez les participants, ou\r\nTrouvez une salle et choisissez de la rejoindre."
 msgstr ""

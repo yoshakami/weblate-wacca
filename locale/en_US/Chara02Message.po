@@ -22,8 +22,7 @@ msgid "see you tomorrow."
 msgstr ""
 msgid "good night."
 msgstr ""
-msgid "When you're ready, press <span color=\"#E5006D\">OK</s>. 
-If you want to change any settings, do so now."
+msgid "When you're ready, press <span color=\"#E5006D\">OK</s>. \nIf you want to change any settings, do so now."
 msgstr ""
 msgid "Time's up. Come on, let's go."
 msgstr ""
@@ -103,11 +102,9 @@ msgid "It's a good deal because you get more points than usual."
 msgstr ""
 msgid "Choose the mode you want to play: competitive or cooperative."
 msgstr ""
-msgid "The room has been disbanded. 
-I have no choice but to play single player this time."
+msgid "The room has been disbanded. \nI have no choice but to play single player this time."
 msgstr ""
-msgid "The room has been disbanded. 
-I'll try matching again."
+msgid "The room has been disbanded. \nI'll try matching again."
 msgstr ""
 msgid "Other members voted for \"fight.\""
 msgstr ""
@@ -125,11 +122,9 @@ msgid "This time it was a \"battle\"."
 msgstr ""
 msgid "This time it was cooperation."
 msgstr ""
-msgid "It seems like the members couldn't get together. 
-I guess we'll just have to play single player this time."
+msgid "It seems like the members couldn't get together. \nI guess we'll just have to play single player this time."
 msgstr ""
-msgid "What the...! 
-The network has been disconnected..."
+msgid "What the...! \nThe network has been disconnected..."
 msgstr ""
 msgid "Choose either one"
 msgstr ""
@@ -139,8 +134,7 @@ msgid "I'll search for a room, so please wait a moment."
 msgstr ""
 msgid "I found a room"
 msgstr ""
-msgid "I can't find any other rules... 
-Let's create a room this time."
+msgid "I can't find any other rules... \nLet's create a room this time."
 msgstr ""
 msgid "The other members decided on the songs."
 msgstr ""
@@ -150,9 +144,7 @@ msgid "I'm waiting for the other members."
 msgstr ""
 msgid "All members have decided on the difficulty level. Play will begin soon!"
 msgstr ""
-msgid "This difficulty level is fine. 
-You can also adjust the \"speed settings\" 
-before playing."
+msgid "This difficulty level is fine. \nYou can also adjust the \"speed settings\" \nbefore playing."
 msgstr ""
 msgid "Well, do your best."
 msgstr ""
@@ -184,8 +176,7 @@ msgid "I opened the song."
 msgstr ""
 msgid "You don't have enough points."
 msgstr ""
-msgid "Sorry. Time's up.
-Play with this song this time."
+msgid "Sorry. Time's up.\nPlay with this song this time."
 msgstr ""
 msgid "Now, choose the next song."
 msgstr ""
@@ -229,12 +220,9 @@ msgid "favorite!"
 msgstr ""
 msgid "Inferno is open. The entrance to hell."
 msgstr ""
-msgid "I'll change the title. 
-You can customize it in more detail on the official website, 
-so check it out if you're interested."
+msgid "I'll change the title. \nYou can customize it in more detail on the official website, \nso check it out if you're interested."
 msgstr ""
-msgid "I'm going to change my icon. 
-What icon do you want?"
+msgid "I'm going to change my icon. \nWhat icon do you want?"
 msgstr ""
 msgid "This is where you can change settings and check the status."
 msgstr ""
@@ -242,8 +230,7 @@ msgid "You can have even more fun with WACCA if you play with cards. You can pla
 msgstr ""
 msgid "This is your overall score."
 msgstr ""
-msgid "These are your ranking results. 
-If you go to the official website, you can find more detailed information."
+msgid "These are your ranking results. \nIf you go to the official website, you can find more detailed information."
 msgstr ""
 msgid "Well, there's still a long way to go."
 msgstr ""
@@ -255,8 +242,7 @@ msgid "It's quite a gathering..."
 msgstr ""
 msgid "Well, not bad..."
 msgstr ""
-msgid "To collect so many... 
-Wow... amazing..."
+msgid "To collect so many... \nWow... amazing..."
 msgstr ""
 msgid "Complete?! Seriously?!"
 msgstr ""
@@ -278,141 +264,97 @@ msgid "Rebooting! Please wait."
 msgstr ""
 msgid "Clear!"
 msgstr ""
-msgid "Mistress!
-"
+msgid "Mistress!\n"
 msgstr ""
-msgid "Full combo!
-"
+msgid "Full combo!\n"
 msgstr ""
 msgid "All Marvelous!!"
 msgstr ""
-msgid "Clear 
-"
+msgid "Clear \n"
 msgstr ""
-msgid "Cleared! 
-"
+msgid "Cleared! \n"
 msgstr ""
 msgid "Cleared!!"
 msgstr ""
 msgid "Rated D! Are you no good?"
 msgstr ""
-msgid "Rating C! 
-A result typical of you!"
+msgid "Rating C! \nA result typical of you!"
 msgstr ""
-msgid "Rating B! 
-Typical of you!"
+msgid "Rating B! \nTypical of you!"
 msgstr ""
-msgid "A rating! 
-We've only just got a long way to go"
+msgid "A rating! \nWe've only just got a long way to go"
 msgstr ""
-msgid "Rate AA! 
-Not bad"
+msgid "Rate AA! \nNot bad"
 msgstr ""
-msgid "Rate AAA! 
-I think I can go a little further..."
+msgid "Rate AAA! \nI think I can go a little further..."
 msgstr ""
-msgid "Rating S! 
-Not bad... not bad..."
+msgid "Rating S! \nNot bad... not bad..."
 msgstr ""
-msgid "Rating S+! 
-You're actually amazing...?"
+msgid "Rating S+! \nYou're actually amazing...?"
 msgstr ""
-msgid "Rating SS!! 
-I-I can do this much too...!"
+msgid "Rating SS!! \nI-I can do this much too...!"
 msgstr ""
-msgid "Rated SS+!! 
-Well, my sister is even more amazing...!"
+msgid "Rated SS+!! \nWell, my sister is even more amazing...!"
 msgstr ""
 msgid "Rating SSS!! Wow, what an amazing score! You...?!"
 msgstr ""
-msgid "Rating SSS+!! 
-No way! That score is way too high!"
+msgid "Rating SSS+!! \nNo way! That score is way too high!"
 msgstr ""
-msgid "MASTER RATE!!! 
-Got it! I admit it! 
-You're amazing...!"
+msgid "MASTER RATE!!! \nGot it! I admit it! \nYou're amazing...!"
 msgstr ""
-msgid "Rating D 
-I can't clear this..."
+msgid "Rating D \nI can't clear this..."
 msgstr ""
-msgid "Rating C 
-I can't clear this..."
+msgid "Rating C \nI can't clear this..."
 msgstr ""
-msgid "Rate B 
-I can't clear this..."
+msgid "Rate B \nI can't clear this..."
 msgstr ""
-msgid "Rate A 
-I can't clear this..."
+msgid "Rate A \nI can't clear this..."
 msgstr ""
-msgid "Rating AA 
-I can't clear this..."
+msgid "Rating AA \nI can't clear this..."
 msgstr ""
-msgid "Rating AAA 
-I can't clear this..."
+msgid "Rating AAA \nI can't clear this..."
 msgstr ""
-msgid "Rate S 
-I can't clear this..."
+msgid "Rate S \nI can't clear this..."
 msgstr ""
-msgid "Rating S+ 
-I can't clear this..."
+msgid "Rating S+ \nI can't clear this..."
 msgstr ""
-msgid "Rating SS! 
-I can't clear this..."
+msgid "Rating SS! \nI can't clear this..."
 msgstr ""
-msgid "Rating SS+! 
-I can't clear this..."
+msgid "Rating SS+! \nI can't clear this..."
 msgstr ""
-msgid "Rating SSS! 
-I can't clear this..."
+msgid "Rating SSS! \nI can't clear this..."
 msgstr ""
-msgid "Rating SSS+! 
-I can't clear this..."
+msgid "Rating SSS+! \nI can't clear this..."
 msgstr ""
-msgid "MASTER rate! 
-I can't clear this..."
+msgid "MASTER rate! \nI can't clear this..."
 msgstr ""
-msgid "Rate D 
-I can't believe I actually cleared it!"
+msgid "Rate D \nI can't believe I actually cleared it!"
 msgstr ""
-msgid "Rate C 
-I can't believe I actually cleared it!"
+msgid "Rate C \nI can't believe I actually cleared it!"
 msgstr ""
-msgid "Rate B 
-I can't believe I actually cleared it...!"
+msgid "Rate B \nI can't believe I actually cleared it...!"
 msgstr ""
-msgid "Rate A 
-I can't believe I actually cleared it!"
+msgid "Rate A \nI can't believe I actually cleared it!"
 msgstr ""
-msgid "Rate AA 
-I can't believe I actually cleared it...!"
+msgid "Rate AA \nI can't believe I actually cleared it...!"
 msgstr ""
-msgid "Rating AAA 
-I can't believe I actually cleared it!"
+msgid "Rating AAA \nI can't believe I actually cleared it!"
 msgstr ""
-msgid "Rate S 
-I can't believe I actually cleared it...!"
+msgid "Rate S \nI can't believe I actually cleared it...!"
 msgstr ""
-msgid "Rating S+ 
-I can't believe I actually cleared it!"
+msgid "Rating S+ \nI can't believe I actually cleared it!"
 msgstr ""
-msgid "Rating SS! 
-I can't believe I actually cleared it...!"
+msgid "Rating SS! \nI can't believe I actually cleared it...!"
 msgstr ""
-msgid "Rating SS+! 
-I can't believe I actually cleared it...!"
+msgid "Rating SS+! \nI can't believe I actually cleared it...!"
 msgstr ""
-msgid "Rating SSS! 
-I can't believe I actually cleared it...!"
+msgid "Rating SSS! \nI can't believe I actually cleared it...!"
 msgstr ""
-msgid "Rating SSS+! 
-I can't believe I actually cleared it...!"
+msgid "Rating SSS+! \nI can't believe I actually cleared it...!"
 msgstr ""
-msgid "MASTER rate! 
-I can't believe I actually cleared it...!"
+msgid "MASTER rate! \nI can't believe I actually cleared it...!"
 msgstr ""
-msgid "The song I just played 
-made it onto the rankings... 
-Seriously?!"
+msgid "The song I just played \nmade it onto the rankings... \nSeriously?!"
 msgstr ""
 msgid "I'm looking forward to the next challenge"
 msgstr ""
@@ -442,9 +384,7 @@ msgid "Becoming a VIP member gives you lots of benefits"
 msgstr ""
 msgid "This item unlocks expert difficulty."
 msgstr ""
-msgid "If you have a boost badge,
-you'll get bonus points and gate progression,
-and it seems to also give you the effect of an EXPERT play ticket."
+msgid "If you have a boost badge,\nyou'll get bonus points and gate progression,\nand it seems to also give you the effect of an EXPERT play ticket."
 msgstr ""
 msgid "Ehehe... Thank you for your purchase."
 msgstr ""
@@ -458,27 +398,17 @@ msgid "To move the cursor, slide your hand over the illuminated area."
 msgstr ""
 msgid "To select a menu, slide your hand over the illuminated area"
 msgstr ""
-msgid "\"Stage Up\" is a mode where you can end the game. 
-When your LIFE hits zero, it's over, so be careful."
+msgid "\"Stage Up\" is a mode where you can end the game. \nWhen your LIFE hits zero, it's over, so be careful."
 msgstr ""
 msgid "You passed! That's pretty good..."
 msgstr ""
 msgid "Well, that's about it."
 msgstr ""
-msgid "Stage up! 
-We're going to start the first song. 
-When you're ready, press <span color=\"#E5006D\">OK</s>. 
-If you want to change any settings, do so now."
+msgid "Stage up! \nWe're going to start the first song. \nWhen you're ready, press <span color=\"#E5006D\">OK</s>. \nIf you want to change any settings, do so now."
 msgstr ""
-msgid "Stage up! 
-We're going to start song 2. 
-When you're ready, press <span color=\"#E5006D\">OK</s>. 
-If you want to change any settings, do so now."
+msgid "Stage up! \nWe're going to start song 2. \nWhen you're ready, press <span color=\"#E5006D\">OK</s>. \nIf you want to change any settings, do so now."
 msgstr ""
-msgid "Stage up! 
-We're going to start the third song. 
-When you're ready, press <span color=\"#E5006D\">OK</s>. 
-If you want to change any settings, do so now."
+msgid "Stage up! \nWe're going to start the third song. \nWhen you're ready, press <span color=\"#E5006D\">OK</s>. \nIf you want to change any settings, do so now."
 msgstr ""
 msgid "Promoted to Stage 1!"
 msgstr ""
@@ -510,10 +440,7 @@ msgid "Promoted to Stage 14!"
 msgstr ""
 msgid "Choose the stage you want to challenge."
 msgstr ""
-msgid "Welcome to Stage Up. 
-Is this your first time here? 
-Stage Up is the place to test your skills. 
-You'll play a set number of songs in succession."
+msgid "Welcome to Stage Up. \nIs this your first time here? \nStage Up is the place to test your skills. \nYou'll play a set number of songs in succession."
 msgstr ""
 msgid "WACCA!"
 msgstr ""
@@ -523,15 +450,11 @@ msgid "WACCA Lily!"
 msgstr ""
 msgid "This is what the results look like this time"
 msgstr ""
-msgid "While playing, 
-you can press and hold the button with the \"?\" mark 
-to display help, so try that if you get stuck."
+msgid "While playing, \nyou can press and hold the button with the \"?\" mark \nto display help, so try that if you get stuck."
 msgstr ""
-msgid "Next up is <span color=\"#E5006D\">\"Chain Notes\"</> 
-It looks similar to Touch Notes."
+msgid "Next up is <span color=\"#E5006D\">\"Chain Notes\"</> \nIt looks similar to Touch Notes."
 msgstr ""
-msgid "Even if they keep falling one after another, 
-you just have to <span color=\"#E5006D\">hold down</s> the button beforehand and you'll be fine."
+msgid "Even if they keep falling one after another, \nyou just have to <span color=\"#E5006D\">hold down</s> the button beforehand and you'll be fine."
 msgstr ""
 msgid "Are you no good...?"
 msgstr ""
@@ -541,12 +464,9 @@ msgid "It may look difficult at first glance, but I think it's much easier than 
 msgstr ""
 msgid "By the way, notes only appear in this <span color=\"#E5006D\">\"Guidelines\"</>."
 msgstr ""
-msgid "You don't have to look at the screen all the way through. 
-How's that? You can do that, right?"
+msgid "You don't have to look at the screen all the way through. \nHow's that? You can do that, right?"
 msgstr ""
-msgid "Next is <span color=\"#E5006D\">\"Hold Notes\"</> 
-When you get to a long note, press and hold it <span color=\"#E5006D\">until the end</>. 
-It's okay if you don't release your hand at the end of the note."
+msgid "Next is <span color=\"#E5006D\">\"Hold Notes\"</> \nWhen you get to a long note, press and hold it <span color=\"#E5006D\">until the end</>. \nIt's okay if you don't release your hand at the end of the note."
 msgstr ""
 msgid "Hah, what a waste of time."
 msgstr ""
@@ -556,14 +476,9 @@ msgid "Yeah, I think that's fine."
 msgstr ""
 msgid "Then it's your turn next."
 msgstr ""
-msgid "
-That's right, during the actual game there is something called a <span color=\"#E5006D\">norma gauge</> 
-
-It's a gauge that fills up depending on how you play."
+msgid "\nThat's right, during the actual game there is something called a <span color=\"#E5006D\">norma gauge</> \n\nIt's a gauge that fills up depending on how you play."
 msgstr ""
-msgid "Well, even if you can't clear it,
-it's not game over.
-So feel free to play any song you like."
+msgid "Well, even if you can't clear it,\nit's not game over.\nSo feel free to play any song you like."
 msgstr ""
 msgid "If you finish playing the song and it is above the <span color=\"#E5006D\">norm line</>, you've cleared it."
 msgstr ""
@@ -571,16 +486,11 @@ msgid "How's that? Did you get it? I'm looking forward to seeing what you do."
 msgstr ""
 msgid "So let's actually try it."
 msgstr ""
-msgid "There is also a pattern in the opposite direction. 
-The operation method is the same. 
-The colors change depending on the direction, so it might be easier to understand if you remember them by the colors."
+msgid "There is also a pattern in the opposite direction. \nThe operation method is the same. \nThe colors change depending on the direction, so it might be easier to understand if you remember them by the colors."
 msgstr ""
-msgid "This is \"slide notes.\" 
-Imagine sliding the WACCA console in the direction of the arrow."
+msgid "This is \"slide notes.\" \nImagine sliding the WACCA console in the direction of the arrow."
 msgstr ""
-msgid "Next, I'll explain <span color=\"#E5006D\">\"Slide Notes\"</> and 
-
-<span color=\"#E5006D\">\"Snap Notes\"</> together because their operation methods are similar."
+msgid "Next, I'll explain <span color=\"#E5006D\">\"Slide Notes\"</> and \n\n<span color=\"#E5006D\">\"Snap Notes\"</> together because their operation methods are similar."
 msgstr ""
 msgid "You... you're really making fun of me, aren't you...?"
 msgstr ""
@@ -588,21 +498,13 @@ msgid "That's pretty good..."
 msgstr ""
 msgid "So let's practice together."
 msgstr ""
-msgid "This is \"Snap Notes.\" 
-The strategy is the same as for Slide Notes."
+msgid "This is \"Snap Notes.\" \nThe strategy is the same as for Slide Notes."
 msgstr ""
-msgid "When this note comes, 
-slide the WACCA console <span color=\"#E5006D\">forward</>. 
-In this case, do the opposite. 
-Slide it <span color=\"#E5006D\">towards the screen</>."
+msgid "When this note comes, \nslide the WACCA console <span color=\"#E5006D\">forward</>. \nIn this case, do the opposite. \nSlide it <span color=\"#E5006D\">towards the screen</>."
 msgstr ""
-msgid "What you're operating right now is the <span color=\"#E5006D\">\"WACCA Console\"</> 
-That's the glowing device in front of you. 
-We'll be using this <span color=\"#E5006D\">\"WACCA Console\"</> to play."
+msgid "What you're operating right now is the <span color=\"#E5006D\">\"WACCA Console\"</> \nThat's the glowing device in front of you. \nWe'll be using this <span color=\"#E5006D\">\"WACCA Console\"</> to play."
 msgstr ""
-msgid "First, the basic operation \"Touch Notes\" 
-When the note overlaps the <span color=\"#E5006D\">judgment line</span>, 
-\"Touch\" the WACCA console!"
+msgid "First, the basic operation \"Touch Notes\" \nWhen the note overlaps the <span color=\"#E5006D\">judgment line</span>, \n\"Touch\" the WACCA console!"
 msgstr ""
 msgid "The notes come in various sizes, but as long as you're within the area, it's OK to touch anywhere."
 msgstr ""
@@ -612,12 +514,9 @@ msgid "Yes, that's about it."
 msgstr ""
 msgid "Okay, then you try it."
 msgstr ""
-msgid "Well then, I'll show you how to use WACCA. 
-Okay? I'm only going to explain it once, so are you listening carefully?"
+msgid "Well then, I'll show you how to use WACCA. \nOkay? I'm only going to explain it once, so are you listening carefully?"
 msgstr ""
-msgid "Let me explain about VIP membership. 
-You can become a VIP member for 30 days for 300 yen. 
-If you like what you see, it might be worth it."
+msgid "Let me explain about VIP membership. \nYou can become a VIP member for 30 days for 300 yen. \nIf you like what you see, it might be worth it."
 msgstr ""
 msgid "That might be a good idea."
 msgstr ""
@@ -647,8 +546,7 @@ msgid "I'll play with new data."
 msgstr ""
 msgid "You'll need to update your save data to play, so be careful, if you update your data you won't be able to play with the old version!"
 msgstr ""
-msgid "You're back? Thanks! 
-It's a special login bonus."
+msgid "You're back? Thanks! \nIt's a special login bonus."
 msgstr ""
 msgid "error···?"
 msgstr ""
@@ -656,8 +554,7 @@ msgid "Hmm... it seems to have failed to load..."
 msgstr ""
 msgid "I'm...sorry..."
 msgstr ""
-msgid "It looks like a new card,
-but can I use it?"
+msgid "It looks like a new card,\nbut can I use it?"
 msgstr ""
 msgid "Congratulations"
 msgstr ""
@@ -665,19 +562,13 @@ msgid "Congratulations"
 msgstr ""
 msgid "Welcome to the world of WACCA."
 msgstr ""
-msgid "My name is Lily. 
-I'll be your support. 
-Hehe, nice to meet you."
+msgid "My name is Lily. \nI'll be your support. \nHehe, nice to meet you."
 msgstr ""
-msgid "My name is Lily. 
-As of today, I'll be your navigator, 
-instead of my sister. 
-I won't let you get close to my sister anymore!"
+msgid "My name is Lily. \nAs of today, I'll be your navigator, \ninstead of my sister. \nI won't let you get close to my sister anymore!"
 msgstr ""
 msgid "Ah, if I'm going to see you again and again, I want to see my sister..."
 msgstr ""
-msgid "You came again? 
-Well, I'm glad you came again..."
+msgid "You came again? \nWell, I'm glad you came again..."
 msgstr ""
 msgid "Right away, do you need a tutorial? I'll show you how."
 msgstr ""
@@ -687,8 +578,7 @@ msgid "Login bonus!"
 msgstr ""
 msgid "Today's login bonus"
 msgstr ""
-msgid "I got all of this month's login bonuses! 
-Thank you as always..."
+msgid "I got all of this month's login bonuses! \nThank you as always..."
 msgstr ""
 msgid "Thank you for playing with me. Please come again."
 msgstr ""
@@ -704,15 +594,13 @@ msgid "I had fun too. See you next time."
 msgstr ""
 msgid "Can't get enough of playing? Come over anytime."
 msgstr ""
-msgid "Take regular breaks while you play. 
-You'll get tired."
+msgid "Take regular breaks while you play. \nYou'll get tired."
 msgstr ""
 msgid "Your play is frustrating, but fun to watch... So, please come again."
 msgstr ""
 msgid "One day I'll stand on stage with my sister!"
 msgstr ""
-msgid "I love salmiakki! 
-But my sister doesn't understand."
+msgid "I love salmiakki! \nBut my sister doesn't understand."
 msgstr ""
 msgid "Thank you again today. I'd be happy if you come again."
 msgstr ""
@@ -720,11 +608,9 @@ msgid "Tea time with my sister is a lot of fun, but the amount of food we eat is
 msgstr ""
 msgid "I'm keeping this outfit a secret from my mom because she'll scold me..."
 msgstr ""
-msgid "I've been with you for a long time now... 
-I'm having a lot of fun now."
+msgid "I've been with you for a long time now... \nI'm having a lot of fun now."
 msgstr ""
-msgid "I feel pretty comfortable when I'm with you. 
-Of course, not as comfortable as you are with my sister!"
+msgid "I feel pretty comfortable when I'm with you. \nOf course, not as comfortable as you are with my sister!"
 msgstr ""
 msgid "Please come visit us again soon."
 msgstr ""
@@ -756,8 +642,7 @@ msgid "Welcome back. Well, I really missed you."
 msgstr ""
 msgid "Hey, shouldn't we take a break soon?"
 msgstr ""
-msgid "It's finally here... 
-I've been waiting for so long..."
+msgid "It's finally here... \nI've been waiting for so long..."
 msgstr ""
 msgid "WACCA Lily R!"
 msgstr ""
@@ -853,8 +738,7 @@ msgid "Full combo!"
 msgstr ""
 msgid "All Marvelous!"
 msgstr ""
-msgid "You can change the settings. 
-We've prepared some recommended settings, but if you want more detailed settings, choose Custom."
+msgid "You can change the settings. \nWe've prepared some recommended settings, but if you want more detailed settings, choose Custom."
 msgstr ""
 msgid "For beginners!"
 msgstr ""
@@ -872,51 +756,31 @@ msgid "My VIP status will expire soon."
 msgstr ""
 msgid "WACCA Reverse!"
 msgstr ""
-msgid "Now, choose a song to play. 
-You're listening to the first song now. 
-New songs in the anime/pop genre have been added!"
+msgid "Now, choose a song to play. \nYou're listening to the first song now. \nNew songs in the anime/pop genre have been added!"
 msgstr ""
-msgid "Now, choose a song to play. 
-You're listening to the first song now. 
-New songs in the Vocaloid genre have been added!"
+msgid "Now, choose a song to play. \nYou're listening to the first song now. \nNew songs in the Vocaloid genre have been added!"
 msgstr ""
-msgid "Now, choose the song you want to play. 
-You're listening to the first song now. 
-New songs from the Touhou arrangement genre have been added!"
+msgid "Now, choose the song you want to play. \nYou're listening to the first song now. \nNew songs from the Touhou arrangement genre have been added!"
 msgstr ""
-msgid "Now, choose a song to play. 
-You're listening to the first song now. 
-Variety genre songs have been added!"
+msgid "Now, choose a song to play. \nYou're listening to the first song now. \nVariety genre songs have been added!"
 msgstr ""
-msgid "Now, choose a song to play. 
-You're listening to the first song now. 
-New songs from the 2.5D genre have been added!"
+msgid "Now, choose a song to play. \nYou're listening to the first song now. \nNew songs from the 2.5D genre have been added!"
 msgstr ""
-msgid "So, choose a song to play. 
-You're listening to the first song now. 
-New songs in original genres have been added!"
+msgid "So, choose a song to play. \nYou're listening to the first song now. \nNew songs in original genres have been added!"
 msgstr ""
-msgid "Now, choose a song to play. 
-You're listening to the first song now. 
-New songs in the fun genre have been added!"
+msgid "Now, choose a song to play. \nYou're listening to the first song now. \nNew songs in the fun genre have been added!"
 msgstr ""
-msgid "So, choose a song to play. 
-You're listening to the first song now. 
-New songs have been added!"
+msgid "So, choose a song to play. \nYou're listening to the first song now. \nNew songs have been added!"
 msgstr ""
-msgid "I guess I'll celebrate with you at least for today. 
-Thank you."
+msgid "I guess I'll celebrate with you at least for today. \nThank you."
 msgstr ""
 msgid "WACCA's 2nd anniversary!!!"
 msgstr ""
 msgid "A theme will be selected. There are a variety of themes. Give it a try."
 msgstr ""
-msgid "Pressing shuffle will reselect the topics.
-Try it when you want to switch topics.
-But be careful, it will also reset the topics you have cleared."
+msgid "Pressing shuffle will reselect the topics.\nTry it when you want to switch topics.\nBut be careful, it will also reset the topics you have cleared."
 msgstr ""
-msgid "If you complete the tasks and achieve BINGO or ALL CLEAR, you'll receive items. 
-It's easy at first, but it gets a little more difficult each time you complete a task."
+msgid "If you complete the tasks and achieve BINGO or ALL CLEAR, you'll receive items. \nIt's easy at first, but it gets a little more difficult each time you complete a task."
 msgstr ""
 msgid "You can change the plate"
 msgstr ""

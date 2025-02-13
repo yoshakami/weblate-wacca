@@ -14,41 +14,29 @@ msgid "Chansons terminées avec un niveau de difficulté <V1> <V2> fois"
 msgstr ""
 msgid "Terminer les chansons avec un niveau de difficulté <V1> ou supérieur <V2> fois"
 msgstr ""
-msgid "Chansons du genre « <V1> »
-Joué <V3> fois en difficulté <V2>"
+msgid "Chansons du genre « <V1> »\r\nJoué <V3> fois en difficulté <V2>"
 msgstr ""
-msgid "Chansons du genre « <V1> »
-Joué <V3> fois au niveau de difficulté <V2> ou supérieur"
+msgid "Chansons du genre « <V1> »\r\nJoué <V3> fois au niveau de difficulté <V2> ou supérieur"
 msgstr ""
-msgid "Chansons du genre « <V1> »
-Terminé <V3> fois en difficulté <V2>"
+msgid "Chansons du genre « <V1> »\r\nTerminé <V3> fois en difficulté <V2>"
 msgstr ""
-msgid "Chansons du genre « <V1> »
-Terminer <V3> fois au niveau de difficulté <V2> ou supérieur"
+msgid "Chansons du genre « <V1> »\r\nTerminer <V3> fois au niveau de difficulté <V2> ou supérieur"
 msgstr ""
-msgid "Chansons du genre « <V1> »
-Niveau de difficulté <V2>, taux <V3> ou supérieur
-Effacé <V4> fois"
+msgid "Chansons du genre « <V1> »\r\nNiveau de difficulté <V2>, taux <V3> ou supérieur\r\nEffacé <V4> fois"
 msgstr ""
-msgid "Chansons du genre « <V1> »
-Niveau de difficulté <V2> ou supérieur, taux <V3> ou supérieur
-Effacé <V4> fois"
+msgid "Chansons du genre « <V1> »\r\nNiveau de difficulté <V2> ou supérieur, taux <V3> ou supérieur\r\nEffacé <V4> fois"
 msgstr ""
-msgid "Chansons du genre « <V1> »
-Terminez le combo complet au niveau de difficulté <V2>"
+msgid "Chansons du genre « <V1> »\r\nTerminez le combo complet au niveau de difficulté <V2>"
 msgstr ""
-msgid "Chansons du genre « <V1> »
-Terminez le combo complet au niveau de difficulté <V2> ou supérieur"
+msgid "Chansons du genre « <V1> »\r\nTerminez le combo complet au niveau de difficulté <V2> ou supérieur"
 msgstr ""
 msgid "Jouer la chanson par artiste « <V1> » <V2> fois"
 msgstr ""
 msgid "Effacer la chanson de l'artiste \"<V1>\" <V2> fois"
 msgstr ""
-msgid "Chansons de l'artiste « <V1> »
-Terminé <V3> fois en difficulté <V2>"
+msgid "Chansons de l'artiste « <V1> »\r\nTerminé <V3> fois en difficulté <V2>"
 msgstr ""
-msgid "Chansons de l'artiste « <V1> »
-Terminer <V3> fois au niveau de difficulté <V2> ou supérieur"
+msgid "Chansons de l'artiste « <V1> »\r\nTerminer <V3> fois au niveau de difficulté <V2> ou supérieur"
 msgstr ""
 msgid "Effacez la chanson <V2> fois avec une note de <V1> ou supérieure"
 msgstr ""

@@ -4,9 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 msgid "<Number>曲目"
 msgstr ""
-msgid "通信が切断されました。
-Aimeカードを使用している場合、
-データの保存に失敗した可能性があります。"
+msgid "通信が切断されました。\r\nAimeカードを使用している場合、\r\nデータの保存に失敗した可能性があります。"
 msgstr ""
 msgid "データの保存に失敗しました。"
 msgstr ""

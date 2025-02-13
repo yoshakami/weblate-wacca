@@ -2,11 +2,7 @@
 msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "\"[WACCA] uses the Unreal® Engine. 
-
-Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States and/or other countries and regions.\" 
-
-\"Unreal® Engine, Copyright 1998-2018, Epic Games, Inc. All rights reserved.\""
+msgid "\"[WACCA] uses the Unreal® Engine. \n\nUnreal® is a trademark or registered trademark of Epic Games, Inc. in the United States and/or other countries and regions.\" \n\n\"Unreal® Engine, Copyright 1998-2018, Epic Games, Inc. All rights reserved.\""
 msgstr ""
 msgid "This mode lets you play your favorite songs by yourself."
 msgstr ""
@@ -14,12 +10,9 @@ msgid "Play \"competitively\" or \"cooperatively\" with your friends in the stor
 msgstr ""
 msgid "Test your skill level."
 msgstr ""
-msgid "Time's up.
-Single play has been decided."
+msgid "Time's up.\nSingle play has been decided."
 msgstr ""
-msgid "In \"WACCA\" you select the menu by sliding your hand. 
-<span color=\"#E5006D\">Slide your hand over the illuminated area</> 
-and select the menu."
+msgid "In \"WACCA\" you select the menu by sliding your hand. \n<span color=\"#E5006D\">Slide your hand over the illuminated area</> \nand select the menu."
 msgstr ""
 msgid "Become a VIP member and have even more fun playing WACCA!"
 msgstr ""
@@ -27,10 +20,7 @@ msgid "Renew your VIP membership period."
 msgstr ""
 msgid "VIP members can renew their membership 10 days before the end of the period."
 msgstr ""
-msgid "When you advance to the next stage, 
-if you run out of LIFE, 
-the challenge will be a failure. 
-Do you want to proceed?"
+msgid "When you advance to the next stage, \nif you run out of LIFE, \nthe challenge will be a failure. \nDo you want to proceed?"
 msgstr ""
 msgid "Slide the illuminated area to choose the mode you want to play."
 msgstr ""
@@ -42,75 +32,49 @@ msgid "This mode allows you to play as many songs as you want within a certain t
 msgstr ""
 msgid "We're working hard to start it up. Please wait a little longer."
 msgstr ""
-msgid "Initialize the Touch Device. 
-Please don't touch the WACCA Console. 
-
-Initialize the Touch Device. 
-Please don't touch the WACCA Console."
+msgid "Initialize the Touch Device. \nPlease don't touch the WACCA Console. \n\nInitialize the Touch Device. \nPlease don't touch the WACCA Console."
 msgstr ""
-msgid "Update found. 
-Reboot."
+msgid "Update found. \nReboot."
 msgstr ""
-msgid "The process required for booting has not been performed. 
-Please update once the update USB arrives at the store."
+msgid "The process required for booting has not been performed. \nPlease update once the update USB arrives at the store."
 msgstr ""
-msgid "Updated to Ver.3.00.00. 
-It will not operate until <YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> has passed. 
-If this message is still displayed even after <YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> has passed, please restart the device."
+msgid "Updated to Ver.3.00.00. \nIt will not operate until <YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> has passed. \nIf this message is still displayed even after <YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> has passed, please restart the device."
 msgstr ""
-msgid "WACCA Reverse update complete. 
-You can play the new features from <YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE>."
+msgid "WACCA Reverse update complete. \nYou can play the new features from <YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE>."
 msgstr ""
 msgid "Update file found. Please reboot to apply the update."
 msgstr ""
-msgid "EVENT mode
-*Data is not saved"
+msgid "EVENT mode\n*Data is not saved"
 msgstr ""
 msgid "Network connection error. The game cannot be played at the moment."
 msgstr ""
 msgid "This machine has finished operating for today. Please come back another time."
 msgstr ""
-msgid "This machine will cease operation in <NUMBER> minutes. 
-\"Coin acceptance\" and \"start playing\" are currently suspended. 
-Please visit again later."
+msgid "This machine will cease operation in <NUMBER> minutes. \n\"Coin acceptance\" and \"start playing\" are currently suspended. \nPlease visit again later."
 msgstr ""
 msgid "Currently undergoing maintenance. You cannot play. Please check the end time on the WACCA official website. https://wacca.marv.jp/"
 msgstr ""
-msgid "This machine will restart shortly. 
-After the restart, you can play normally. 
-Please wait a moment."
+msgid "This machine will restart shortly. \nAfter the restart, you can play normally. \nPlease wait a moment."
 msgstr ""
-msgid "Maintenance has finished. 
-Please reboot the chassis. 
-Please reboot."
+msgid "Maintenance has finished. \nPlease reboot the chassis. \nPlease reboot."
 msgstr ""
 msgid "Enter name"
 msgstr ""
-msgid "In \"WACCA\" you move the cursor by sliding your hand. 
-<span color=\"#E5006D\">Slide your hand over the glowing areas</> 
-to make your selection."
+msgid "In \"WACCA\" you move the cursor by sliding your hand. \n<span color=\"#E5006D\">Slide your hand over the glowing areas</> \nto make your selection."
 msgstr ""
-msgid "Please enter the player's name. 
-The name you enter may be made public on the Internet. 
-Please be aware of this before entering."
+msgid "Please enter the player's name. \nThe name you enter may be made public on the Internet. \nPlease be aware of this before entering."
 msgstr ""
-msgid "Is \"<USER_NAME>\" 
-correct?"
+msgid "Is \"<USER_NAME>\" \ncorrect?"
 msgstr ""
 msgid "Welcome to the world of WACCA!"
 msgstr ""
 msgid "Contains invalid characters!"
 msgstr ""
-msgid "Time's up! 
-This time you will be a \"guest player\". 
-Please re-register the next time you play."
+msgid "Time's up! \nThis time you will be a \"guest player\". \nPlease re-register the next time you play."
 msgstr ""
-msgid "Time's up! 
-This time you will be a \"guest player\". 
-Please re-register the next time you play."
+msgid "Time's up! \nThis time you will be a \"guest player\". \nPlease re-register the next time you play."
 msgstr ""
-msgid "The rowdy guys are back! 
-Will you be allowed to watch?"
+msgid "The rowdy guys are back! \nWill you be allowed to watch?"
 msgstr ""
 msgid "Go"
 msgstr ""
@@ -118,14 +82,7 @@ msgid "Note"
 msgstr ""
 msgid "Intention"
 msgstr ""
-msgid "If you experience any pain or discomfort while using the product, 
-stop playing immediately and consult a doctor. 
-In addition, please refrain from any actions that may result in unexpected injury or breakdown. 
-
-In order to provide a better game, 
-the game content may be \"changed\" or \"modified\" without notice. 
-
-Please note that the game content may differ depending on the time of play."
+msgid "If you experience any pain or discomfort while using the product, \nstop playing immediately and consult a doctor. \nIn addition, please refrain from any actions that may result in unexpected injury or breakdown. \n\nIn order to provide a better game, \nthe game content may be \"changed\" or \"modified\" without notice. \n\nPlease note that the game content may differ depending on the time of play."
 msgstr ""
 msgid "skip"
 msgstr ""
@@ -255,9 +212,7 @@ msgid "Full Combo"
 msgstr ""
 msgid "ALL Marvelous"
 msgstr ""
-msgid "Earned 
-Reverse 
-Points"
+msgid "Earned \nReverse \nPoints"
 msgstr ""
 msgid "Decision"
 msgstr ""
@@ -295,8 +250,7 @@ msgid "sort"
 msgstr ""
 msgid "random"
 msgstr ""
-msgid "Mask 
-Concentration"
+msgid "Mask \nConcentration"
 msgstr ""
 msgid "SE Playback"
 msgstr ""
@@ -310,9 +264,7 @@ msgid "Judgment adjustment"
 msgstr ""
 msgid "START"
 msgstr ""
-msgid "Sort 
-default 
-order"
+msgid "Sort \ndefault \norder"
 msgstr ""
 msgid "Sort by rarity"
 msgstr ""
@@ -340,8 +292,7 @@ msgid "alphabet"
 msgstr ""
 msgid "Confirm"
 msgstr ""
-msgid "Numbers 
-Symbols"
+msgid "Numbers \nSymbols"
 msgstr ""
 msgid "Blank"
 msgstr ""
@@ -365,9 +316,7 @@ msgid "Returns the cursor to its default position."
 msgstr ""
 msgid "You can change the speed of the notes."
 msgstr ""
-msgid "You can apply a mask to the background. 
-If the notes are hard to see, 
-increase the density of the background mask."
+msgid "You can apply a mask to the background. \nIf the notes are hard to see, \nincrease the density of the background mask."
 msgstr ""
 msgid "You can adjust the timing of input judgment."
 msgstr ""
@@ -381,8 +330,7 @@ msgid "settlement"
 msgstr ""
 msgid "Balance inquiry"
 msgstr ""
-msgid "1Play 
-Free"
+msgid "1Play \nFree"
 msgstr ""
 msgid "Difficulty"
 msgstr ""
@@ -396,9 +344,7 @@ msgid "Song selection"
 msgstr ""
 msgid "Can be opened with RP"
 msgstr ""
-msgid "Reverse points <NUMBER_PRICE> will be consumed. 
-This song will be opened. Are you sure? 
-Reverse points <NUMBER_FUNDAGE> owned"
+msgid "Reverse points <NUMBER_PRICE> will be consumed. \nThis song will be opened. Are you sure? \nReverse points <NUMBER_FUNDAGE> owned"
 msgstr ""
 msgid "Sort Clear"
 msgstr ""
@@ -406,8 +352,7 @@ msgid "Decision"
 msgstr ""
 msgid "detail"
 msgstr ""
-msgid "\"Favorites\" not specified. 
-Return to song selection."
+msgid "\"Favorites\" not specified. \nReturn to song selection."
 msgstr ""
 msgid "favorite"
 msgstr ""
@@ -449,19 +394,13 @@ msgid "Sort Criteria"
 msgstr ""
 msgid "Difficulty Selection"
 msgstr ""
-msgid "Clear the HARD difficulty with an \"S\" or higher
-
-Or you can use an \"Expert Open Ticket\" to open it.
-
-<ADD_STRING>"
+msgid "Clear the HARD difficulty with an \"S\" or higher\n\nOr you can use an \"Expert Open Ticket\" to open it.\n\n<ADD_STRING>"
 msgstr ""
-msgid "It can be opened by consuming \"Reverse points\". 
-<ADD_STRING>"
+msgid "It can be opened by consuming \"Reverse points\". \n<ADD_STRING>"
 msgstr ""
 msgid "I don't have an expert open ticket."
 msgstr ""
-msgid "You do not have enough Reverse points. 
-You need <NUMBER_SHORTAGE> RP."
+msgid "You do not have enough Reverse points. \nYou need <NUMBER_SHORTAGE> RP."
 msgstr ""
 msgid "You will use an expert open ticket to open this difficulty level. Are you sure? (Tickets with the nearest expiration date will be used first.)"
 msgstr ""
@@ -511,8 +450,7 @@ msgid "Concentration +4"
 msgstr ""
 msgid "Maximum concentration"
 msgstr ""
-msgid "This song supports video playback. 
-Would you like to play the video?"
+msgid "This song supports video playback. \nWould you like to play the video?"
 msgstr ""
 msgid "Guest"
 msgstr ""
@@ -736,27 +674,19 @@ msgid "You can play by selecting the song."
 msgstr ""
 msgid "Now you can take on the challenge of \"Stage Up\"."
 msgstr ""
-msgid "User data could not be obtained. 
-You will be playing as a guest this time."
+msgid "User data could not be obtained. \nYou will be playing as a guest this time."
 msgstr ""
-msgid "This user is playing on another machine,
-so you cannot play at the same time.
-You will be playing as a guest this time."
+msgid "This user is playing on another machine,\nso you cannot play at the same time.\nYou will be playing as a guest this time."
 msgstr ""
-msgid "This card contains another region's user data. 
-This machine cannot scan it."
+msgid "This card contains another region's user data. \nThis machine cannot scan it."
 msgstr ""
-msgid "User data could not be created. 
-You will be playing as a guest this time."
+msgid "User data could not be created. \nYou will be playing as a guest this time."
 msgstr ""
-msgid "User data could not be created. 
-Return to title screen."
+msgid "User data could not be created. \nReturn to title screen."
 msgstr ""
-msgid "Aime scan error 
-<ERROR_MESSAGE>"
+msgid "Aime scan error \n<ERROR_MESSAGE>"
 msgstr ""
-msgid "Login failed. 
-You will be playing as a guest this time."
+msgid "Login failed. \nYou will be playing as a guest this time."
 msgstr ""
 msgid "Top 10 Benefits for VIP Members"
 msgstr ""
@@ -796,20 +726,7 @@ msgid "9. Compare your scores with your friends!"
 msgstr ""
 msgid "10. Single play (free time) remaining time increased by 3 minutes!"
 msgstr ""
-msgid "[VIP Member System Notes] Customers who wish to use the VIP Member System (hereinafter referred to as this system) must confirm and agree to the following notes set out by Marvelous Inc. (hereinafter referred to as our company). 
-
-This system provides early release of songs, unlocking of optional customizations, and other various benefits for 30 days from the date of payment by paying a system usage fee of 300 yen in addition to the play fee. 
-
-After you have paid the system usage fee, our company cannot refund the system usage fee for any reason or under any circumstances. 
-
-Our company reserves the right to change all or part of the contents of this system without prior notice to customers. 
-
-For details of our services provided through this system, please visit the official WACCA website. 
-https://wacca.marv.jp/
-
-We shall not be held responsible for any damages incurred by customers due to malfunctions or failures of this system caused by the \"ALL.Net\" arcade game online service and \"Aime\" authentication system provided by Sega Interactive Co., Ltd.
-
-For inquiries about this system and precautions, please contact us via the \"Contact Us\" link on the official WACCA website."
+msgid "[VIP Member System Notes] Customers who wish to use the VIP Member System (hereinafter referred to as this system) must confirm and agree to the following notes set out by Marvelous Inc. (hereinafter referred to as our company). \n\nThis system provides early release of songs, unlocking of optional customizations, and other various benefits for 30 days from the date of payment by paying a system usage fee of 300 yen in addition to the play fee. \n\nAfter you have paid the system usage fee, our company cannot refund the system usage fee for any reason or under any circumstances. \n\nOur company reserves the right to change all or part of the contents of this system without prior notice to customers. \n\nFor details of our services provided through this system, please visit the official WACCA website. \nhttps://wacca.marv.jp/\n\nWe shall not be held responsible for any damages incurred by customers due to malfunctions or failures of this system caused by the \"ALL.Net\" arcade game online service and \"Aime\" authentication system provided by Sega Interactive Co., Ltd.\n\nFor inquiries about this system and precautions, please contact us via the \"Contact Us\" link on the official WACCA website."
 msgstr ""
 msgid "2"
 msgstr ""
@@ -817,14 +734,9 @@ msgid "3"
 msgstr ""
 msgid "4"
 msgstr ""
-msgid "5555 
-55"
+msgid "5555 \n55"
 msgstr ""
-msgid "[VIP Member System Precautions] Customers who wish to renew their VIP Member System (hereinafter referred to as this system) must confirm and agree to the following precautions set out by Marvelous Inc. (hereinafter referred to as our company). This system extends the current system usage period by 30 days, and provides early release of songs, optional customization, and other benefits by paying a system usage fee of 300 yen in addition to the play fee. After you have paid the system usage fee, our company cannot refund the system usage fee for any reason or circumstances. Our company reserves the right to change all or part of the system content without prior notice to customers. For details of our services provided through this system, please visit the WACCA official website. https://wacca.marv.jp/
-
-We shall not be held responsible for any damages incurred by customers due to malfunctions or failures of this system caused by the \"ALL.Net\" arcade game online service and \"Aime\" authentication system provided by Sega Interactive Co., Ltd.
-
-For inquiries about this system and precautions, please contact us via the \"Contact Us\" link on the official WACCA website."
+msgid "[VIP Member System Precautions] Customers who wish to renew their VIP Member System (hereinafter referred to as this system) must confirm and agree to the following precautions set out by Marvelous Inc. (hereinafter referred to as our company). This system extends the current system usage period by 30 days, and provides early release of songs, optional customization, and other benefits by paying a system usage fee of 300 yen in addition to the play fee. After you have paid the system usage fee, our company cannot refund the system usage fee for any reason or circumstances. Our company reserves the right to change all or part of the system content without prior notice to customers. For details of our services provided through this system, please visit the WACCA official website. https://wacca.marv.jp/\n\nWe shall not be held responsible for any damages incurred by customers due to malfunctions or failures of this system caused by the \"ALL.Net\" arcade game online service and \"Aime\" authentication system provided by Sega Interactive Co., Ltd.\n\nFor inquiries about this system and precautions, please contact us via the \"Contact Us\" link on the official WACCA website."
 msgstr ""
 msgid "Extra Time 02"
 msgstr ""
@@ -834,14 +746,11 @@ msgid "Extra Time 04"
 msgstr ""
 msgid "Extra Time 05"
 msgstr ""
-msgid "That's it.
-
-Do you agree?"
+msgid "That's it.\n\nDo you agree?"
 msgstr ""
 msgid "Communication failed."
 msgstr ""
-msgid "Communication failed. 
-CREDIT has not been consumed."
+msgid "Communication failed. \nCREDIT has not been consumed."
 msgstr ""
 msgid "VIP membership is valid until 6:59 AM on <Date>."
 msgstr ""
@@ -855,9 +764,7 @@ msgid "day"
 msgstr ""
 msgid "Today"
 msgstr ""
-msgid "It's possible that you didn't log out properly. 
-
-Please wait about 30 minutes, then scan your card before inserting coins to check that it works."
+msgid "It's possible that you didn't log out properly. \n\nPlease wait about 30 minutes, then scan your card before inserting coins to check that it works."
 msgstr ""
 msgid "COIN"
 msgstr ""
@@ -895,17 +802,11 @@ msgid "FREE PLAY"
 msgstr ""
 msgid "You can play for free the first time."
 msgstr ""
-msgid "Would you like to become a VIP user? 
-To become a VIP user, 
-you need <NUMBER> CREDIT(S)"
+msgid "Would you like to become a VIP user? \nTo become a VIP user, \nyou need <NUMBER> CREDIT(S)"
 msgstr ""
-msgid "Would you like to purchase <ITEM_NAME>? 
-To purchase, you need 
-<NUMBER> CREDIT(S)."
+msgid "Would you like to purchase <ITEM_NAME>? \nTo purchase, you need \n<NUMBER> CREDIT(S)."
 msgstr ""
-msgid "Would you like to play Single Play (Free Time)? 
-To play, you will need additional 
-<NUMBER> CREDIT(S)"
+msgid "Would you like to play Single Play (Free Time)? \nTo play, you will need additional \n<NUMBER> CREDIT(S)"
 msgstr ""
 msgid "For operation instructions, please check the message displayed next to the Aime Reader."
 msgstr ""
@@ -913,22 +814,15 @@ msgid "Do you want to continue?"
 msgstr ""
 msgid "\"<PLAYER_NAME>\" is now a \"VIP member\"!"
 msgstr ""
-msgid "\"<PLAYER_NAME>\" 
-has updated his \"VIP Membership\" period!"
+msgid "\"<PLAYER_NAME>\" \nhas updated his \"VIP Membership\" period!"
 msgstr ""
 msgid "Cancel."
 msgstr ""
 msgid "Please select the difficulty level."
 msgstr ""
-msgid "Play \"Versus\"
-Choose the difficulty level.
-In the event of a tie, the player with the higher difficulty level
-has the advantage."
+msgid "Play \"Versus\"\nChoose the difficulty level.\nIn the event of a tie, the player with the higher difficulty level\nhas the advantage."
 msgstr ""
-msgid "\"Co-op\" Play
-Choose the difficulty level.
-In the event of a tie, the player with the higher difficulty level
-has the advantage."
+msgid "\"Co-op\" Play\nChoose the difficulty level.\nIn the event of a tie, the player with the higher difficulty level\nhas the advantage."
 msgstr ""
 msgid "Please enter your name. You can enter your name in English or numbers and symbols."
 msgstr ""
@@ -966,13 +860,9 @@ msgid "You can turn the COMBO display ON/OFF."
 msgstr ""
 msgid "Message above the title during skill setup"
 msgstr ""
-msgid "Adjust the input timing. 
-If you get more \"FAST\" then adjust to \"+\". 
-If you get more \"LATE\" then adjust to \"-\"."
+msgid "Adjust the input timing. \nIf you get more \"FAST\" then adjust to \"+\". \nIf you get more \"LATE\" then adjust to \"-\"."
 msgstr ""
-msgid "Changes the score display method. 
-Normally it is \"plus method\". 
-\"Minus method\" will subtract points except for Marvelous."
+msgid "Changes the score display method. \nNormally it is \"plus method\". \n\"Minus method\" will subtract points except for Marvelous."
 msgstr ""
 msgid "You can turn give up (quitting midway) on/off."
 msgstr ""
@@ -980,16 +870,13 @@ msgid "Message above the title while setting bonus effects"
 msgstr ""
 msgid "You can turn the guide sound (accurate rhythm sound) on and off."
 msgstr ""
-msgid "When this is turned on, 
-when you enter bonus notes, 
-your quota will increase at a higher rate than usual."
+msgid "When this is turned on, \nwhen you enter bonus notes, \nyour quota will increase at a higher rate than usual."
 msgstr ""
 msgid "You can turn voice playback ON/OFF while playing."
 msgstr ""
 msgid "You can change the \"plate\" of your user data."
 msgstr ""
-msgid "You can change the 
-\"Navigator\" in your user data."
+msgid "You can change the \n\"Navigator\" in your user data."
 msgstr ""
 msgid "Possession count ×<POSSESS_NUM>"
 msgstr ""

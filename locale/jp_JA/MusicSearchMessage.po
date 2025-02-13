@@ -32,14 +32,11 @@ msgid "ロック中"
 msgstr ""
 msgid "未プレイ"
 msgstr ""
-msgid "FULL COMBOクリアしていない
-(全難易度)"
+msgid "FULL COMBOクリアしていない\r\n(全難易度)"
 msgstr ""
-msgid "FULL COMBOクリアしていない
-(INFERNO)"
+msgid "FULL COMBOクリアしていない\r\n(INFERNO)"
 msgstr ""
-msgid "FULL COMBOクリアしていない
-(EXPERT)"
+msgid "FULL COMBOクリアしていない\r\n(EXPERT)"
 msgstr ""
 msgid "SSクリアしていない　(全難易度)"
 msgstr ""

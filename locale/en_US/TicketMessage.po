@@ -8,11 +8,9 @@ msgid "No Expiration Date EX Open Ticket"
 msgstr ""
 msgid "EXPERT Play Ticket"
 msgstr ""
-msgid "All unlocked EXPERT levels will be available for play only during this playthrough. 
-<span size=\"13\"> *Stage upgrades have no effect. </>"
+msgid "All unlocked EXPERT levels will be available for play only during this playthrough. \n<span size=\"13\"> *Stage upgrades have no effect. </>"
 msgstr ""
 msgid "+1 song bonus ticket"
 msgstr ""
-msgid "This will add one more song to the number of songs you can play this time only. 
-<span size=\"13\"> *This has no effect in other than single play. </>"
+msgid "This will add one more song to the number of songs you can play this time only. \n<span size=\"13\"> *This has no effect in other than single play. </>"
 msgstr ""

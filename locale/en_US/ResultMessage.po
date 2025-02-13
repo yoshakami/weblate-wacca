@@ -4,9 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 msgid "<Number> Song"
 msgstr ""
-msgid "Communication has been interrupted. 
-If you are using an Aime card, 
-it may be that data saving has failed."
+msgid "Communication has been interrupted. \nIf you are using an Aime card, \nit may be that data saving has failed."
 msgstr ""
 msgid "Failed to save data."
 msgstr ""

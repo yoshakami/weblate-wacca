@@ -4,9 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 msgid "<Numéro>Numéro de piste"
 msgstr ""
-msgid "La communication a été interrompue.
-Si vous utilisez une carte Aime,
-La sauvegarde des données a peut-être échoué."
+msgid "La communication a été interrompue.\r\nSi vous utilisez une carte Aime,\r\nLa sauvegarde des données a peut-être échoué."
 msgstr ""
 msgid "Échec de l'enregistrement des données."
 msgstr ""

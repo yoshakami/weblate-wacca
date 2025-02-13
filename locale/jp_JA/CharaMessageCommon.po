@@ -22,9 +22,7 @@ msgid "【Common】また明日ね。"
 msgstr ""
 msgid "【Common】おやすみ。"
 msgstr ""
-msgid "【Common】準備ができたら<span color=\"#E5006D\">決定</>を押してね。
-メニューからいろんな設定を変更できるから
-必要なら試してみて。"
+msgid "【Common】準備ができたら<span color=\"#E5006D\">決定</>を押してね。\r\nメニューからいろんな設定を変更できるから\r\n必要なら試してみて。"
 msgstr ""
 msgid "【Common】準備できた？そろそろ行くよ！"
 msgstr ""
@@ -66,9 +64,7 @@ msgid "【Common】ゲートによって手に入るアイテムも変わるか�
 msgstr ""
 msgid "【Common】期間限定のゲートが発生することもあるから、チェックしてみてね。"
 msgstr ""
-msgid "【Common】楽曲をプレイすると、ゲートを進むためのポイントが手に入るよ。
-ゲートを進めれば、楽曲やアイテムがもらえるみたいね。
-どんどんプレイして、ゲートを進めていきましょう！"
+msgid "【Common】楽曲をプレイすると、ゲートを進むためのポイントが手に入るよ。\r\nゲートを進めれば、楽曲やアイテムがもらえるみたいね。\r\nどんどんプレイして、ゲートを進めていきましょう！"
 msgstr ""
 msgid "【Common】やるじゃん！"
 msgstr ""
@@ -100,23 +96,17 @@ msgid "【Common】そのモードはプレイできないよ！"
 msgstr ""
 msgid "【Common】プレイするモードを選んでね。"
 msgstr ""
-msgid "マルチプレイは、最大「４人」で同時に
-「WACCA」をプレイできるモードです。"
+msgid "マルチプレイは、最大「４人」で同時に\r\n「WACCA」をプレイできるモードです。"
 msgstr ""
-msgid "同じ曲でスコアを競う「対戦」や、
-同じ曲をみんなでクリアする「協力」を
-プレイできます。"
+msgid "同じ曲でスコアを競う「対戦」や、\r\n同じ曲をみんなでクリアする「協力」を\r\nプレイできます。"
 msgstr ""
-msgid "通常のプレイより
-ポイントも多めに貰えるのでお得！"
+msgid "通常のプレイより\r\nポイントも多めに貰えるのでお得！"
 msgstr ""
 msgid "【Common】「対戦」か「協力」か、プレイしたいモードを選んで。"
 msgstr ""
-msgid "【Common】ルームを解散したよ。
-このままシングルプレイに移行するよ。"
+msgid "【Common】ルームを解散したよ。\r\nこのままシングルプレイに移行するよ。"
 msgstr ""
-msgid "【Common】ルームを解散したよ。
-もう一度マッチングするね。"
+msgid "【Common】ルームを解散したよ。\r\nもう一度マッチングするね。"
 msgstr ""
 msgid "【Common】他のメンバーが「対戦」に投票したみたい。"
 msgstr ""
@@ -134,8 +124,7 @@ msgid "【Common】今回は「対戦」に決定したみたい。"
 msgstr ""
 msgid "【Common】今回は「協力」に決定したみたい。"
 msgstr ""
-msgid "【Common】メンバーが集まらなかったわね…
-このままシングルプレイに移行するよ。"
+msgid "【Common】メンバーが集まらなかったわね…\r\nこのままシングルプレイに移行するよ。"
 msgstr ""
 msgid "【Common】あれ！？ネットワークが切断されちゃった…"
 msgstr ""
@@ -155,13 +144,9 @@ msgid "【Common】今回はこの楽曲でプレイするよ。"
 msgstr ""
 msgid "【Common】他のメンバー待ちだよ。"
 msgstr ""
-msgid "【Common】メンバー全員が難易度を
-決定したよ。
-もうすぐプレイ開始よ！"
+msgid "【Common】メンバー全員が難易度を\r\n決定したよ。\r\nもうすぐプレイ開始よ！"
 msgstr ""
-msgid "【Common】この難易度でいいのね。
-「スピード設定」の調整
-とかも、プレイ前に行えるよ。"
+msgid "【Common】この難易度でいいのね。\r\n「スピード設定」の調整\r\nとかも、プレイ前に行えるよ。"
 msgstr ""
 msgid "【Common】応援してるよ。頑張って！"
 msgstr ""
@@ -175,11 +160,9 @@ msgid "【Common】4位。"
 msgstr ""
 msgid "【Common】さぁ、君の成績は！？"
 msgstr ""
-msgid "【Common】さあ、プレイする曲を選んで！
-今1曲目だよ。"
+msgid "【Common】さあ、プレイする曲を選んで！\r\n今1曲目だよ。"
 msgstr ""
-msgid "【Common】それじゃあ次の曲を選んで！
-今2曲目だよ。"
+msgid "【Common】それじゃあ次の曲を選んで！\r\n今2曲目だよ。"
 msgstr ""
 msgid "【Common】楽曲の並び順を変更するよ。"
 msgstr ""
@@ -195,13 +178,11 @@ msgid "【Common】楽曲をオープンしたよ。"
 msgstr ""
 msgid "【Common】ポイントが足りないわね・・・"
 msgstr ""
-msgid "【Common】残念、時間切れね。
-今回はこの曲をプレイして。"
+msgid "【Common】残念、時間切れね。\r\n今回はこの曲をプレイして。"
 msgstr ""
 msgid "【Common】それじゃあ次の曲を選んで！"
 msgstr ""
-msgid "【Common】それじゃあ次の曲を選んで。
-次が最後の曲だよ。"
+msgid "【Common】それじゃあ次の曲を選んで。\r\n次が最後の曲だよ。"
 msgstr ""
 msgid "【Common】残り時間気を付けて。"
 msgstr ""
@@ -241,11 +222,9 @@ msgid "【Common】お気に入り！"
 msgstr ""
 msgid "【Common】インフェルノが開放されたよ！"
 msgstr ""
-msgid "【Common】称号を変更できるよ。
-公式サイトではさらに細かいカスタマイズができるから、気になったらアクセスしてみて。"
+msgid "【Common】称号を変更できるよ。\r\n公式サイトではさらに細かいカスタマイズができるから、気になったらアクセスしてみて。"
 msgstr ""
-msgid "【Common】アイコンを変更できるよ。
-お気に入りのアイコンを見つけてね！"
+msgid "【Common】アイコンを変更できるよ。\r\nお気に入りのアイコンを見つけてね！"
 msgstr ""
 msgid "『新規追加』ユーザープレート変更画面に入った時のボイス指定"
 msgstr ""
@@ -253,15 +232,11 @@ msgid "『新規追加』ナビキャラ変更画面に入った時のボイス�
 msgstr ""
 msgid "【Common】ここでは設定の変更やステータスの確認ができるよ。"
 msgstr ""
-msgid "【Common】カードを使って遊ぶと、ＷＡＣＣＡを
-もっと楽しむことができるよ。
-遊べる楽曲も増えるし、プレイデータの
-保存もできるようになるから、ぜひ使ってみてね。"
+msgid "【Common】カードを使って遊ぶと、ＷＡＣＣＡを\r\nもっと楽しむことができるよ。\r\n遊べる楽曲も増えるし、プレイデータの\r\n保存もできるようになるから、ぜひ使ってみてね。"
 msgstr ""
 msgid "【Common】君の総合成績だよ。"
 msgstr ""
-msgid "【Common】君のランキング成績だよ。
-詳しい情報は、公式サイトでチェックしてね。"
+msgid "【Common】君のランキング成績だよ。\r\n詳しい情報は、公式サイトでチェックしてね。"
 msgstr ""
 msgid "【Common】まだまだ始めたばっかりってとこかしら？"
 msgstr ""
@@ -307,36 +282,27 @@ msgid "【Common】クリア！"
 msgstr ""
 msgid "【Common】クリア！！"
 msgstr ""
-msgid "【Common】レートD
-スマホでもいじってるワケ？"
+msgid "【Common】レートD\r\nスマホでもいじってるワケ？"
 msgstr ""
-msgid "【Common】レートC
-アンタやる気あんの！"
+msgid "【Common】レートC\r\nアンタやる気あんの！"
 msgstr ""
-msgid "【Common】レートB
-ま、練習あるのみって感じね。"
+msgid "【Common】レートB\r\nま、練習あるのみって感じね。"
 msgstr ""
-msgid "【Common】レートA
-まだまだここから、って感じ？"
+msgid "【Common】レートA\r\nまだまだここから、って感じ？"
 msgstr ""
-msgid "【Common】レートAA
-なかなか楽しかったよ。"
+msgid "【Common】レートAA\r\nなかなか楽しかったよ。"
 msgstr ""
-msgid "【Common】レートAAA
-うんうん。まだまだいけそうだね！"
+msgid "【Common】レートAAA\r\nうんうん。まだまだいけそうだね！"
 msgstr ""
-msgid "【Common】レートS
-おぉ～。やるじゃん！"
+msgid "【Common】レートS\r\nおぉ～。やるじゃん！"
 msgstr ""
 msgid "『新規追加』 レートS+時ボイス"
 msgstr ""
-msgid "【Common】レートSS！
-素晴らしいスコアね。"
+msgid "【Common】レートSS！\r\n素晴らしいスコアね。"
 msgstr ""
 msgid "『新規追加』レートSS+時ボイス"
 msgstr ""
-msgid "【Common】レートSSS！
-なんてスコア・・・！すごい、信じられない！"
+msgid "【Common】レートSSS！\r\nなんてスコア・・・！すごい、信じられない！"
 msgstr ""
 msgid "『新規追加』レートSSS+時ボイス"
 msgstr ""
@@ -394,8 +360,7 @@ msgid "『新規追加』ボス成功時レートSSS+時ボイス"
 msgstr ""
 msgid "『新規追加』ボス成功時レートMASTER時ボイス"
 msgstr ""
-msgid "【Common】今のプレイでランキング入りしたみたいだよ。
-おめでと！"
+msgid "【Common】今のプレイでランキング入りしたみたいだよ。\r\nおめでと！"
 msgstr ""
 msgid "【Common】失敗か～。気持ちを切り替えてもう一回いこ！"
 msgstr ""
@@ -405,8 +370,7 @@ msgid "【Common】焦らず、もう一度チャレンジしましょう。"
 msgstr ""
 msgid "【Common】完璧！最高の出来だよ！"
 msgstr ""
-msgid "【Common】まだまだ上も狙えるよ！
-君ならいけるはず！"
+msgid "【Common】まだまだ上も狙えるよ！\r\n君ならいけるはず！"
 msgstr ""
 msgid "【Common】次のチャレンジも待ってるよ！"
 msgstr ""
@@ -426,9 +390,7 @@ msgid "【Common】VIPメンバーになると、いろんな特典が得られ�
 msgstr ""
 msgid "【Common】エキスパートの難易度を解放できるアイテムだよ。"
 msgstr ""
-msgid "【Common】ブーストバッジがあれば
-ポイントやゲートの進み方にボーナスがつくよ
-EXPERTプレイチケットの効果も付与されるみたいね。"
+msgid "【Common】ブーストバッジがあれば\r\nポイントやゲートの進み方にボーナスがつくよ\r\nEXPERTプレイチケットの効果も付与されるみたいね。"
 msgstr ""
 msgid "【Common】アイテムを買ったよ。"
 msgstr ""
@@ -438,8 +400,7 @@ msgid "【Common】Lilyポイントが足りないみたいね。"
 msgstr ""
 msgid "【Common】君は、商品選ぶのに時間かけるタイプ・・・？"
 msgstr ""
-msgid "【Common】WACCAはスライド操作でカーソルを移動できるよ。
-光っているWACCAコンソールの上で手を滑らせてみて。"
+msgid "【Common】WACCAはスライド操作でカーソルを移動できるよ。\r\n光っているWACCAコンソールの上で手を滑らせてみて。"
 msgstr ""
 msgid "【Common】WACCAはスライド操作でメニューを選択するから、光っているエリアの上で手を滑らせてね。"
 msgstr ""
@@ -449,22 +410,13 @@ msgid "【Common】合格おめでとう！"
 msgstr ""
 msgid "【Common】次も頑張ろう！"
 msgstr ""
-msgid "【Common】ステージアップ！
-1曲目をスタートするよ。
-準備ができたら<span color=\"#E5006D\">決定</>を押してね。
-メニューからいろんな設定を変更できるから必要なら試してみて。"
+msgid "【Common】ステージアップ！\r\n1曲目をスタートするよ。\r\n準備ができたら<span color=\"#E5006D\">決定</>を押してね。\r\nメニューからいろんな設定を変更できるから必要なら試してみて。"
 msgstr ""
 msgid "『新規追加』裏ナビキャラ強制変更時にSTAGE_UP_MUSIC_CONFIRM_00に変わって再生されるボイス設定"
 msgstr ""
-msgid "【Common】ステージアップ！
-2曲目をスタートするよ。
-準備ができたら<span color=\"#E5006D\">決定</>を押してね。
-メニューからいろんな設定を変更できるから必要なら試してみて。"
+msgid "【Common】ステージアップ！\r\n2曲目をスタートするよ。\r\n準備ができたら<span color=\"#E5006D\">決定</>を押してね。\r\nメニューからいろんな設定を変更できるから必要なら試してみて。"
 msgstr ""
-msgid "【Common】ステージアップ！
-3曲目をスタートするよ。
-準備ができたら<span color=\"#E5006D\">決定</>を押してね。
-メニューからいろんな設定を変更できるから必要なら試してみて。"
+msgid "【Common】ステージアップ！\r\n3曲目をスタートするよ。\r\n準備ができたら<span color=\"#E5006D\">決定</>を押してね。\r\nメニューからいろんな設定を変更できるから必要なら試してみて。"
 msgstr ""
 msgid "【Common】ステージIに合格！"
 msgstr ""
@@ -494,14 +446,11 @@ msgid "【Common】ステージXIIIに合格！"
 msgstr ""
 msgid "【Common】ステージXIVに合格！"
 msgstr ""
-msgid "【新規追加】ステージXIVに合格！
-"
+msgid "【新規追加】ステージXIVに合格！\r\n"
 msgstr ""
 msgid "【Common】それじゃあ、挑戦したいステージを選んで。"
 msgstr ""
-msgid "「ステージアップ」へようこそ！
-決められた課題曲を連続でプレイして
-キミのウデマエを試そう！"
+msgid "「ステージアップ」へようこそ！\r\n決められた課題曲を連続でプレイして\r\nキミのウデマエを試そう！"
 msgstr ""
 msgid "【Common】WACCA"
 msgstr ""
@@ -509,114 +458,75 @@ msgid "【Common】WACCA S！"
 msgstr ""
 msgid "【Common】WACCA Lily！"
 msgstr ""
-msgid "【Common】おつかれ。
-今回の成績だよ。"
+msgid "【Common】おつかれ。\r\n今回の成績だよ。"
 msgstr ""
-msgid "【Common】それから<span color=\"#E5006D\">「？」</>マークの付いたボタンを
-長押しするとヘルプが表示されるから、
-困ったら試してみてね。"
+msgid "【Common】それから<span color=\"#E5006D\">「？」</>マークの付いたボタンを\r\n長押しするとヘルプが表示されるから、\r\n困ったら試してみてね。"
 msgstr ""
-msgid "【Common】次は<span color=\"#E5006D\">チェインノーツ</> 
-タッチノーツの親戚って感じかなー。"
+msgid "【Common】次は<span color=\"#E5006D\">チェインノーツ</> \r\nタッチノーツの親戚って感じかなー。"
 msgstr ""
-msgid "【Common】連続して降ってくることが多いけど
-実は予め<span color=\"#E5006D\">押しっぱなし</>にしておくだけでもOK。"
+msgid "【Common】連続して降ってくることが多いけど\r\n実は予め<span color=\"#E5006D\">押しっぱなし</>にしておくだけでもOK。"
 msgstr ""
 msgid "【Common】スマホでもいじってるワケ？"
 msgstr ""
 msgid "【Common】そうそう！そんな感じ！"
 msgstr ""
-msgid "【Common】数が多くてびっくりしちゃうかもしれないけど
-見た目より全然簡単だから安心して。
-はい、じゃあキミの番。"
+msgid "【Common】数が多くてびっくりしちゃうかもしれないけど\r\n見た目より全然簡単だから安心して。\r\nはい、じゃあキミの番。"
 msgstr ""
-msgid "【Common】ちなみにノーツは、
-この<span color=\"#E5006D\">ガイドライン</>の中にしか
-落ちてこないから"
+msgid "【Common】ちなみにノーツは、\r\nこの<span color=\"#E5006D\">ガイドライン</>の中にしか\r\n落ちてこないから"
 msgstr ""
-msgid "【Common】画面全てを見ている必要はないわ。
-思ったより簡単でしょ？"
+msgid "【Common】画面全てを見ている必要はないわ。\r\n思ったより簡単でしょ？"
 msgstr ""
-msgid "【Common】長いノーツがきたら<span color=\"#E5006D\">ホールドノーツ</> 
-エリアに合わせて、<span color=\"#E5006D\">ノーツの最後まで</>長押しして。
-最後は手を離さなくてもいいよ。"
+msgid "【Common】長いノーツがきたら<span color=\"#E5006D\">ホールドノーツ</> \r\nエリアに合わせて、<span color=\"#E5006D\">ノーツの最後まで</>長押しして。\r\n最後は手を離さなくてもいいよ。"
 msgstr ""
 msgid "【Common】全然ダメね・・・。全ッ然ダメ！"
 msgstr ""
-msgid "【Common】こうやって曲がったり、ターンする場合も
-あるから手の位置がずれないように
-気をつけること。"
+msgid "【Common】こうやって曲がったり、ターンする場合も\r\nあるから手の位置がずれないように\r\n気をつけること。"
 msgstr ""
 msgid "【Common】うんうん、イイ感じ！"
 msgstr ""
 msgid "【Common】じゃあキミもやってみて。"
 msgstr ""
-msgid "【Common】そうそう、本番では<span color=\"#E5006D\">ノルマゲージ</> 
-っていうのがあってね、
-キミのプレイ次第でゲージが溜まっていくの。"
+msgid "【Common】そうそう、本番では<span color=\"#E5006D\">ノルマゲージ</> \r\nっていうのがあってね、\r\nキミのプレイ次第でゲージが溜まっていくの。"
 msgstr ""
-msgid "【Common】まあクリアできなくてもゲームオーバーには
-ならないから、気楽にチャレンジすればいいよ！"
+msgid "【Common】まあクリアできなくてもゲームオーバーには\r\nならないから、気楽にチャレンジすればいいよ！"
 msgstr ""
-msgid "【Common】楽曲を演奏し終わった時に<span color=\"#E5006D\">ノルマライン</>を
-超えていればクリア！"
+msgid "【Common】楽曲を演奏し終わった時に<span color=\"#E5006D\">ノルマライン</>を\r\n超えていればクリア！"
 msgstr ""
-msgid "【Common】それじゃ、本番も頑張って！
-キミの活躍を楽しみにしてるよ。"
+msgid "【Common】それじゃ、本番も頑張って！\r\nキミの活躍を楽しみにしてるよ。"
 msgstr ""
 msgid "【Common】ま、実際にやってみたほうが早いね。"
 msgstr ""
-msgid "【Common】<span color=\"#E5006D\">逆方向のパターン</>もあるよ。操作方法は一緒。
-向きによって色が違うから
-<span color=\"#E5006D\">色で覚える</>のもアリかもね。"
+msgid "【Common】<span color=\"#E5006D\">逆方向のパターン</>もあるよ。操作方法は一緒。\r\n向きによって色が違うから\r\n<span color=\"#E5006D\">色で覚える</>のもアリかもね。"
 msgstr ""
-msgid "【Common】これが<span color=\"#E5006D\">スライドノーツ</> 
-<span color=\"#E5006D\">矢印の方向</>にWACCAコンソールを<span color=\"#E5006D\">滑らせる</>の。"
+msgid "【Common】これが<span color=\"#E5006D\">スライドノーツ</> \r\n<span color=\"#E5006D\">矢印の方向</>にWACCAコンソールを<span color=\"#E5006D\">滑らせる</>の。"
 msgstr ""
-msgid "【Common】残りは<span color=\"#E5006D\">スライドノーツ</>と
-<span color=\"#E5006D\">スナップノーツ</>かな。
-まとめて説明するね！"
+msgid "【Common】残りは<span color=\"#E5006D\">スライドノーツ</>と\r\n<span color=\"#E5006D\">スナップノーツ</>かな。\r\nまとめて説明するね！"
 msgstr ""
-msgid "【Common】キミ、もしかして私に怒られたくて
-わざとやってんの？"
+msgid "【Common】キミ、もしかして私に怒られたくて\r\nわざとやってんの？"
 msgstr ""
 msgid "【Common】OK！問題なさそうね！"
 msgstr ""
 msgid "【Common】それじゃ、まとめて練習してみて。"
 msgstr ""
-msgid "【Common】こっちは<span color=\"#E5006D\">スナップノーツ</> 
-操作はスライドノーツと一緒だよ。"
+msgid "【Common】こっちは<span color=\"#E5006D\">スナップノーツ</> \r\n操作はスライドノーツと一緒だよ。"
 msgstr ""
-msgid "【Common】このノーツが来たらWACCAコンソールを
-<span color=\"#E5006D\">手前に</>滑らせる。
-赤いのは逆だね。<span color=\"#E5006D\">画面の方に</>滑らせる。"
+msgid "【Common】このノーツが来たらWACCAコンソールを\r\n<span color=\"#E5006D\">手前に</>滑らせる。\r\n赤いのは逆だね。<span color=\"#E5006D\">画面の方に</>滑らせる。"
 msgstr ""
-msgid "【Common】キミの目の前に輪っかのような
-デバイスがあるよね？
-それを私達は<span color=\"#E5006D\">WACCAコンソール</>って呼んでいるわ。
-この<span color=\"#E5006D\">WACCAコンソール</>を使ってプレイしていくよ。"
+msgid "【Common】キミの目の前に輪っかのような\r\nデバイスがあるよね？\r\nそれを私達は<span color=\"#E5006D\">WACCAコンソール</>って呼んでいるわ。\r\nこの<span color=\"#E5006D\">WACCAコンソール</>を使ってプレイしていくよ。"
 msgstr ""
-msgid "【Common】まずは基本操作<span color=\"#E5006D\">タッチノーツ</> 
-ノーツが<span color=\"#E5006D\">判定ライン</>に重なったら、
-WACCAコンソールを<span color=\"#E5006D\">タッチ</>！"
+msgid "【Common】まずは基本操作<span color=\"#E5006D\">タッチノーツ</> \r\nノーツが<span color=\"#E5006D\">判定ライン</>に重なったら、\r\nWACCAコンソールを<span color=\"#E5006D\">タッチ</>！"
 msgstr ""
-msgid "【Common】ノーツの大きさは様々だけど、
-エリア内であれば<span color=\"#E5006D\">どこをタッチしてもOK</>！"
+msgid "【Common】ノーツの大きさは様々だけど、\r\nエリア内であれば<span color=\"#E5006D\">どこをタッチしてもOK</>！"
 msgstr ""
-msgid "【Common】一つも成功してないけど・・・。
-あんた、やる気あんの？"
+msgid "【Common】一つも成功してないけど・・・。\r\nあんた、やる気あんの？"
 msgstr ""
 msgid "【Common】やるじゃん！簡単すぎた？"
 msgstr ""
 msgid "【Common】はい、それじゃキミもやってみて。"
 msgstr ""
-msgid "【Common】それじゃあ、私がWACCAの動かし方を
-教えてあげよう。
-<span color=\"#E5006D\">一度しか説明しないから</>、ちゃんと聞いててね。"
+msgid "【Common】それじゃあ、私がWACCAの動かし方を\r\n教えてあげよう。\r\n<span color=\"#E5006D\">一度しか説明しないから</>、ちゃんと聞いててね。"
 msgstr ""
-msgid "【Common】「VIPモード」に興味があるの？
-300円で30日間有効になる、お得な会員サービスみたいなもんかな。
-VIP用の特典がたくさんあるから、たくさん遊ぶ人は入っておくと良いかもね。"
+msgid "【Common】「VIPモード」に興味があるの？\r\n300円で30日間有効になる、お得な会員サービスみたいなもんかな。\r\nVIP用の特典がたくさんあるから、たくさん遊ぶ人は入っておくと良いかもね。"
 msgstr ""
 msgid "【Common】良い考えね。"
 msgstr ""
@@ -624,12 +534,9 @@ msgid "【Common】ありがとう！"
 msgstr ""
 msgid "【Common】更新ありがとう！"
 msgstr ""
-msgid "【Common】そう？
-いつでも、ここからVIPメンバーになれるから
-気が変わったら、また来てね。"
+msgid "【Common】そう？\r\nいつでも、ここからVIPメンバーになれるから\r\n気が変わったら、また来てね。"
 msgstr ""
-msgid "【Common】そう？
-気が変わったら、また来てね。"
+msgid "【Common】そう？\r\n気が変わったら、また来てね。"
 msgstr ""
 msgid "【Common】スキャン成功！"
 msgstr ""
@@ -639,21 +546,17 @@ msgid "【Common】あれ・・・？"
 msgstr ""
 msgid "【Common】今回はゲストとしてプレイしてね。"
 msgstr ""
-msgid "【Common】ん～、残念。
-今回はゲストとしてプレイしてね。"
+msgid "【Common】ん～、残念。\r\n今回はゲストとしてプレイしてね。"
 msgstr ""
-msgid "【Common】Aimeカード 又は Amusement IC対応カードを
-持っているならスキャンしてね。"
+msgid "【Common】Aimeカード 又は Amusement IC対応カードを\r\n持っているならスキャンしてね。"
 msgstr ""
 msgid "【Common】よろしくね。"
 msgstr ""
 msgid "【Common】新規データでプレイするね。"
 msgstr ""
-msgid "【Common】プレイするには、セーブデータの更新が必要よ！
-データを更新すると、古いバージョンではプレイできなくなるから気を付けて！"
+msgid "【Common】プレイするには、セーブデータの更新が必要よ！\r\nデータを更新すると、古いバージョンではプレイできなくなるから気を付けて！"
 msgstr ""
-msgid "【Common】また来たの？ありがと！
-特別なログインボーナスだよ。"
+msgid "【Common】また来たの？ありがと！\r\n特別なログインボーナスだよ。"
 msgstr ""
 msgid "【Common】ざんね～ん・・・。"
 msgstr ""
@@ -669,19 +572,15 @@ msgid "【Common】特別なアイテムがプレゼントされたよ。"
 msgstr ""
 msgid "【Common】ようこそ、WACCAの世界へ。"
 msgstr ""
-msgid "【Common】私はエリザベス。まあ、キミの先輩ってところね。
-キミが来たらサポートするように言われてるんだ。
-よろしくね。"
+msgid "【Common】私はエリザベス。まあ、キミの先輩ってところね。\r\nキミが来たらサポートするように言われてるんだ。\r\nよろしくね。"
 msgstr ""
 msgid "【Common】いつもありがとう。"
 msgstr ""
 msgid "【Common】フフ、また来たの？"
 msgstr ""
-msgid "【Common】まだ物足りないの？
-いいよ、何度でも付き合ってあげる。"
+msgid "【Common】まだ物足りないの？\r\nいいよ、何度でも付き合ってあげる。"
 msgstr ""
-msgid "【Common】早速だけど、キミはWACCAを遊んだことがある？
-ないならいろいろ教えてあげるよ。"
+msgid "【Common】早速だけど、キミはWACCAを遊んだことがある？\r\nないならいろいろ教えてあげるよ。"
 msgstr ""
 msgid "【Common】データを作成したよ。"
 msgstr ""
@@ -701,19 +600,15 @@ msgid "【Common】君はどんな音楽が好き？今度きかせてね。"
 msgstr ""
 msgid "【Common】ティータイムは大事。キミも適度に休憩してね。"
 msgstr ""
-msgid "【Common】キミのプレイは見ていて退屈しないね。
-また遊びに来て！"
+msgid "【Common】キミのプレイは見ていて退屈しないね。\r\nまた遊びに来て！"
 msgstr ""
-msgid "【Common】まだ物足りないんじゃない？
-一緒に楽しもうよ！"
+msgid "【Common】まだ物足りないんじゃない？\r\n一緒に楽しもうよ！"
 msgstr ""
 msgid "【Common】カレーは日本のものが一番好きね"
 msgstr ""
-msgid "【Common】たくさんプレイしてくれてありがと！
-また遊びに来てね！"
+msgid "【Common】たくさんプレイしてくれてありがと！\r\nまた遊びに来てね！"
 msgstr ""
-msgid "【Common】キミ、リリィになにかした？
-ものすごい剣幕で睨んでいたけど・・・？"
+msgid "【Common】キミ、リリィになにかした？\r\nものすごい剣幕で睨んでいたけど・・・？"
 msgstr ""
 msgid "【Common】今日もありがとう！これからもずっとよろしくね！"
 msgstr ""
@@ -721,13 +616,11 @@ msgid "【Common】リリィは少食なんだよねー。もっと食べれば�
 msgstr ""
 msgid "【Common】実家に犬がいるんだけど、しばらく帰ってないから忘れられていないか不安ね。"
 msgstr ""
-msgid "【Common】キミと一緒にいる時間も随分長くなったねぇ
-これからも私を、楽しませてね！"
+msgid "【Common】キミと一緒にいる時間も随分長くなったねぇ\r\nこれからも私を、楽しませてね！"
 msgstr ""
 msgid "【Common】私、こいつのことずっとカメレオンだと思ってたんだけど違ったわ。"
 msgstr ""
-msgid "【Common】リリィにまた怒られちゃうかもしれないけど、
-キミともっと一緒にいたいから、これからもよろしくね！"
+msgid "【Common】リリィにまた怒られちゃうかもしれないけど、\r\nキミともっと一緒にいたいから、これからもよろしくね！"
 msgstr ""
 msgid "【Common】また遊びに来て。もう待たせないでね。"
 msgstr ""
@@ -855,8 +748,7 @@ msgid "【Common】フルコンボ！"
 msgstr ""
 msgid "【Common】オールマーベラス！"
 msgstr ""
-msgid "【Common】設定の変更ができるよ。
-おすすめの設定も用意したけど、細かく設定したい場合はカスタムをえらんで。"
+msgid "【Common】設定の変更ができるよ。\r\nおすすめの設定も用意したけど、細かく設定したい場合はカスタムをえらんで。"
 msgstr ""
 msgid "【Common】初心者向け！"
 msgstr ""
@@ -870,42 +762,25 @@ msgid "【Common】オススメ！"
 msgstr ""
 msgid "【Common】楽曲の並び順を変更するよ。"
 msgstr ""
-msgid "VIPの有効期限が終了間近！
-「SHOP」よりVIPの更新ができます。"
+msgid "VIPの有効期限が終了間近！\r\n「SHOP」よりVIPの更新ができます。"
 msgstr ""
 msgid "タイトル"
 msgstr ""
-msgid "じゃあ、プレイする曲を選んで
-今1曲目だよ。
-アニメ/POPジャンルの楽曲が追加されたよ！"
+msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nアニメ/POPジャンルの楽曲が追加されたよ！"
 msgstr ""
-msgid "じゃあ、プレイする曲を選んで
-今1曲目だよ。
-ボカロジャンルの楽曲が追加されたよ！"
+msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nボカロジャンルの楽曲が追加されたよ！"
 msgstr ""
-msgid "じゃあ、プレイする曲を選んで
-今1曲目だよ。
-東方ジャンルの楽曲が追加されたよ！"
+msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\n東方ジャンルの楽曲が追加されたよ！"
 msgstr ""
-msgid "じゃあ、プレイする曲を選んで
-今1曲目だよ。
-バラエティジャンルの楽曲が追加されたよ！"
+msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nバラエティジャンルの楽曲が追加されたよ！"
 msgstr ""
-msgid "じゃあ、プレイする曲を選んで
-今1曲目だよ。
-2.5次元ジャンルの楽曲が追加されたよ！"
+msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\n2.5次元ジャンルの楽曲が追加されたよ！"
 msgstr ""
-msgid "じゃあ、プレイする曲を選んで
-今1曲目だよ。
-オリジナルジャンルの楽曲が追加されたよ！"
+msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nオリジナルジャンルの楽曲が追加されたよ！"
 msgstr ""
-msgid "じゃあ、プレイする曲を選んで
-今1曲目だよ。
-タノシージャンルの楽曲が追加されたよ！"
+msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nタノシージャンルの楽曲が追加されたよ！"
 msgstr ""
-msgid "じゃあ、プレイする曲を選んで
-今1曲目だよ。
-新しい楽曲が追加されたよ！"
+msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\n新しい楽曲が追加されたよ！"
 msgstr ""
 msgid "『新規追加』時間貸しモード終了確認ボイスランダム1"
 msgstr ""
@@ -915,8 +790,7 @@ msgid "『新規追加』時間貸しモード終了ボイスランダム1"
 msgstr ""
 msgid "『新規追加』時間貸しモード終了ボイスランダム2"
 msgstr ""
-msgid "楽しかったですか？僕は楽しかったです。
-それではさようなら。"
+msgid "楽しかったですか？僕は楽しかったです。\r\nそれではさようなら。"
 msgstr ""
 msgid "『新規追加』ステージ11以上の難易度を選択した際のボイス(初回)"
 msgstr ""
@@ -924,8 +798,7 @@ msgid "『新規追加』ステージ11以上の難易度を選択した際の�
 msgstr ""
 msgid "すげすげすげすげすげすげすげ～～～～～～～～！！！！！！！"
 msgstr ""
-msgid "最・最・最の高・高・高！！
-つまり最高最高最高！！！！！！！"
+msgid "最・最・最の高・高・高！！\r\nつまり最高最高最高！！！！！！！"
 msgstr ""
 msgid "＜新規追加＞ミッション選出チュートリアル"
 msgstr ""
@@ -949,8 +822,7 @@ msgid "どこにいたって、最強の音を届けるから"
 msgstr ""
 msgid "今日はどこの家系ラーメン食べようかな"
 msgstr ""
-msgid "わたしはイレナっていいます
-趣味はぬいぐるみ集めです！"
+msgid "わたしはイレナっていいます\r\n趣味はぬいぐるみ集めです！"
 msgstr ""
 msgid "みなさん！最高の1日にしましょうね！"
 msgstr ""

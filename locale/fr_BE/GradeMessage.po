@@ -10,38 +10,27 @@ msgid "Propriété depuis le début"
 msgstr ""
 msgid "Propriété depuis le début"
 msgstr ""
-msgid "chansons d'Aran
-Effacé 100 fois"
+msgid "chansons d'Aran\r\nEffacé 100 fois"
 msgstr ""
 msgid "Propriété depuis le début"
 msgstr ""
-msgid "Au niveau de difficulté EXPERT
-Taux atteint SS ou supérieur 30 fois"
+msgid "Au niveau de difficulté EXPERT\r\nTaux atteint SS ou supérieur 30 fois"
 msgstr ""
-msgid "Au niveau de difficulté EXPERT
-Taux atteint SSS ou supérieur 30 fois"
+msgid "Au niveau de difficulté EXPERT\r\nTaux atteint SSS ou supérieur 30 fois"
 msgstr ""
-msgid "Au niveau de difficulté INFERONO
-TOUT Merveilleux
-réalisation"
+msgid "Au niveau de difficulté INFERONO\r\nTOUT Merveilleux\r\nréalisation"
 msgstr ""
-msgid "niveau du joueur
-fais-en 100"
+msgid "niveau du joueur\r\nfais-en 100"
 msgstr ""
-msgid "Niveau de difficulté INFERONO
-clair"
+msgid "Niveau de difficulté INFERONO\r\nclair"
 msgstr ""
-msgid "TOUT Merveilleux
-réalisation"
+msgid "TOUT Merveilleux\r\nréalisation"
 msgstr ""
-msgid "Combinaison complète
-réalisation"
+msgid "Combinaison complète\r\nréalisation"
 msgstr ""
-msgid "Sans faute
-réalisation"
+msgid "Sans faute\r\nréalisation"
 msgstr ""
-msgid "niveau du joueur
-fais-en 10"
+msgid "niveau du joueur\r\nfais-en 10"
 msgstr ""
 msgid "Jouer des chansons Vocaloid 30 fois"
 msgstr ""
@@ -49,104 +38,75 @@ msgid "Jouez des chansons d'anime/POP 30 fois"
 msgstr ""
 msgid "Jouez des chansons en 2,5 dimensions 5 fois"
 msgstr ""
-msgid "Chansons HARDCORE TANO*C
-Joué 30 fois"
+msgid "Chansons HARDCORE TANO*C\r\nJoué 30 fois"
 msgstr ""
-msgid "Chansons vocaloïdes
-Réalisé 50 fois avec un taux S ou supérieur"
+msgid "Chansons vocaloïdes\r\nRéalisé 50 fois avec un taux S ou supérieur"
 msgstr ""
-msgid "niveau du joueur
-fais-en 200"
+msgid "niveau du joueur\r\nfais-en 200"
 msgstr ""
-msgid "Musique en 2,5 dimensions
-Atteint 10 fois avec un taux S ou supérieur"
+msgid "Musique en 2,5 dimensions\r\nAtteint 10 fois avec un taux S ou supérieur"
 msgstr ""
-msgid "Chansons REDALiCE
-Effacé 30 fois"
+msgid "Chansons REDALiCE\r\nEffacé 30 fois"
 msgstr ""
-msgid "chansons de t+pazolite
-Effacé 30 fois"
+msgid "chansons de t+pazolite\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons de l'USAO
-Effacé 30 fois"
+msgid "Chansons de l'USAO\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons P*Light
-Effacé 30 fois"
+msgid "Chansons P*Light\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons de DJ Genki
-Effacé 30 fois"
+msgid "Chansons de DJ Genki\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons de DJ Noriken
-Effacé 30 fois"
+msgid "Chansons de DJ Noriken\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons massives de New Krew
-Effacé 30 fois"
+msgid "Chansons massives de New Krew\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons de DJ Myosuke
-Effacé 30 fois"
+msgid "Chansons de DJ Myosuke\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons de Kobaryo
-Effacé 30 fois"
+msgid "Chansons de Kobaryo\r\nEffacé 30 fois"
 msgstr ""
-msgid "chansons d'Aran
-Effacé 30 fois"
+msgid "chansons d'Aran\r\nEffacé 30 fois"
 msgstr ""
-msgid "Musique de Genya
-Effacé 30 fois"
+msgid "Musique de Genya\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons de Srav3R
-Effacé 30 fois"
+msgid "Chansons de Srav3R\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons de Getty
-Effacé 30 fois"
+msgid "Chansons de Getty\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons de Laur
-Effacé 30 fois"
+msgid "Chansons de Laur\r\nEffacé 30 fois"
 msgstr ""
-msgid "Chansons d'anime/POP
-Réalisé 50 fois avec un taux S ou supérieur"
+msgid "Chansons d'anime/POP\r\nRéalisé 50 fois avec un taux S ou supérieur"
 msgstr ""
 msgid "Jouez une fois en multijoueur (compétition)"
 msgstr ""
 msgid "Jouez une fois en multijoueur (coopératif)"
 msgstr ""
-msgid "Au niveau de difficulté NORMAL ou supérieur
-Joué 15 fois"
+msgid "Au niveau de difficulté NORMAL ou supérieur\r\nJoué 15 fois"
 msgstr ""
-msgid "niveau du joueur
-fais-en 30"
+msgid "niveau du joueur\r\nfais-en 30"
 msgstr ""
-msgid "niveau du joueur
-fais-en 50"
+msgid "niveau du joueur\r\nfais-en 50"
 msgstr ""
 msgid "Jouez 90 fois au niveau de difficulté DIFFICILE ou supérieur"
 msgstr ""
 msgid "Jouez en utilisant 5 icônes ou plus"
 msgstr ""
-msgid "chansons très rapides
-Joué 50 fois"
+msgid "chansons très rapides\r\nJoué 50 fois"
 msgstr ""
 msgid "Joue la même chanson 10 fois de suite"
 msgstr ""
 msgid "Resélectionnez la chanson au moins 5 fois avant de la jouer."
 msgstr ""
-msgid "Au niveau de difficulté EXPERT
-Joué 300 fois"
+msgid "Au niveau de difficulté EXPERT\r\nJoué 300 fois"
 msgstr ""
 msgid "Vous avez joué 59 fois en difficulté INFERONO."
 msgstr ""
-msgid "Au niveau de difficulté DIFFICILE ou supérieur
-Taux atteint S ou supérieur 100 fois"
+msgid "Au niveau de difficulté DIFFICILE ou supérieur\r\nTaux atteint S ou supérieur 100 fois"
 msgstr ""
-msgid "Au niveau de difficulté EXPERT
-TOUT Merveilleux
-Réalisé 10 fois"
+msgid "Au niveau de difficulté EXPERT\r\nTOUT Merveilleux\r\nRéalisé 10 fois"
 msgstr ""
-msgid "Au niveau de difficulté INFERONO
-Taux atteint S ou supérieur 30 fois"
+msgid "Au niveau de difficulté INFERONO\r\nTaux atteint S ou supérieur 30 fois"
 msgstr ""
-msgid "Chansons HARDCORE TANO*C
-Effacé 200 fois"
+msgid "Chansons HARDCORE TANO*C\r\nEffacé 200 fois"
 msgstr ""
 msgid "Jouez pendant 100 jours consécutifs"
 msgstr ""
@@ -170,8 +130,7 @@ msgid "Obtenu en jouant le 7 juillet"
 msgstr ""
 msgid "Obtenu en jouant le 31 octobre"
 msgstr ""
-msgid "24 décembre - 25 décembre
-Gagnez en jouant"
+msgid "24 décembre - 25 décembre\r\nGagnez en jouant"
 msgstr ""
 msgid "Gagnez en jouant dans les magasins locaux ci-dessus"
 msgstr ""
@@ -269,32 +228,19 @@ msgid "Gagnez en jouant dans les magasins locaux ci-dessus"
 msgstr ""
 msgid "Hokkaido Gagné en jouant en magasin"
 msgstr ""
-msgid "Préfecture d'Aomori Préfecture d'Iwate Préfecture d'Akita
-Préfecture de Miyagi Préfecture de Yamagata Préfecture de Fukushima
-Gagné en jouant dans toutes les régions"
+msgid "Préfecture d'Aomori Préfecture d'Iwate Préfecture d'Akita\r\nPréfecture de Miyagi Préfecture de Yamagata Préfecture de Fukushima\r\nGagné en jouant dans toutes les régions"
 msgstr ""
-msgid "Préfecture d'Ibaraki Préfecture de Tochigi Préfecture de Gunma Préfecture de Saitama
-Préfecture de Chiba Tokyo Préfecture de Kanagawa
-Gagné en jouant dans toutes les régions"
+msgid "Préfecture d'Ibaraki Préfecture de Tochigi Préfecture de Gunma Préfecture de Saitama\r\nPréfecture de Chiba Tokyo Préfecture de Kanagawa\r\nGagné en jouant dans toutes les régions"
 msgstr ""
-msgid "Préfecture de Yamanashi Préfecture de Nagano Préfecture de Niigata Préfecture de Toyama Préfecture d'Ishikawa
-Préfecture de Fukui Préfecture de Shizuoka Préfecture d'Aichi Préfecture de Gifu Préfecture de Mie
-Gagné en jouant dans toutes les régions"
+msgid "Préfecture de Yamanashi Préfecture de Nagano Préfecture de Niigata Préfecture de Toyama Préfecture d'Ishikawa\r\nPréfecture de Fukui Préfecture de Shizuoka Préfecture d'Aichi Préfecture de Gifu Préfecture de Mie\r\nGagné en jouant dans toutes les régions"
 msgstr ""
-msgid "Préfecture de Shiga Préfecture de Kyoto Préfecture d'Osaka
-Préfecture de Hyogo Préfecture de Nara Préfecture de Wakayama
-Gagné en jouant dans toutes les régions"
+msgid "Préfecture de Shiga Préfecture de Kyoto Préfecture d'Osaka\r\nPréfecture de Hyogo Préfecture de Nara Préfecture de Wakayama\r\nGagné en jouant dans toutes les régions"
 msgstr ""
-msgid "Préfecture de Tottori Préfecture de Shimane Préfecture d'Okayama
-Préfecture d'Hiroshima Préfecture de Yamaguchi
-Gagné en jouant dans toutes les régions"
+msgid "Préfecture de Tottori Préfecture de Shimane Préfecture d'Okayama\r\nPréfecture d'Hiroshima Préfecture de Yamaguchi\r\nGagné en jouant dans toutes les régions"
 msgstr ""
-msgid "Préfecture de Kagawa Préfecture d'Ehime Préfecture de Tokushima Préfecture de Kochi
-Gagné en jouant dans toutes les régions"
+msgid "Préfecture de Kagawa Préfecture d'Ehime Préfecture de Tokushima Préfecture de Kochi\r\nGagné en jouant dans toutes les régions"
 msgstr ""
-msgid "Préfecture de Fukuoka Préfecture de Saga Préfecture de Nagasaki Préfecture de Kumamoto
-Préfecture d'Oita Préfecture de Miyazaki Préfecture de Kagoshima
-Gagné en jouant dans toutes les régions"
+msgid "Préfecture de Fukuoka Préfecture de Saga Préfecture de Nagasaki Préfecture de Kumamoto\r\nPréfecture d'Oita Préfecture de Miyazaki Préfecture de Kagoshima\r\nGagné en jouant dans toutes les régions"
 msgstr ""
 msgid "Préfecture d'Okinawa Gagné en jouant en magasin"
 msgstr ""
@@ -302,374 +248,231 @@ msgid "Gagné en jouant dans toutes les préfectures"
 msgstr ""
 msgid "Avantages de la participation à une session d'essai gratuite anticipée"
 msgstr ""
-msgid "Campagne d'obtention d'un CD de bande originale commémorative de l'Opération
-Jouez 30 fois pendant la période"
+msgid "Campagne d'obtention d'un CD de bande originale commémorative de l'Opération\r\nJouez 30 fois pendant la période"
 msgstr ""
-msgid "\"Bonjour, je m'appelle ARuFa.\"
-\"Mes rêves sont infinis\"
-\"Sansara!\"
-Obtenez toutes les icônes de"
+msgid "\"Bonjour, je m'appelle ARuFa.\"\r\n\"Mes rêves sont infinis\"\r\n\"Sansara!\"\r\nObtenez toutes les icônes de"
 msgstr ""
-msgid "Tanoshi ultime !!!!!!!!!!!!
-Gagnez en jouant pendant l'événement"
+msgid "Tanoshi ultime !!!!!!!!!!!!\r\nGagnez en jouant pendant l'événement"
 msgstr ""
-msgid "Tanoshi ultime !!!!!!!!!!!!
-Les chansons HARDCORE TANO*C seront jouées pendant l’événement.
-Obtenu en jouant 10 fois"
+msgid "Tanoshi ultime !!!!!!!!!!!!\r\nLes chansons HARDCORE TANO*C seront jouées pendant l’événement.\r\nObtenu en jouant 10 fois"
 msgstr ""
-msgid "Tanoshi ultime !!!!!!!!!!!!
-Pendant l'événement, les chansons de HARDCORE TANO*C
-Obtenu en complétant le combo complet"
+msgid "Tanoshi ultime !!!!!!!!!!!!\r\nPendant l'événement, les chansons de HARDCORE TANO*C\r\nObtenu en complétant le combo complet"
 msgstr ""
-msgid "Tanoshi ultime !!!!!!!!!!!!
-\"4444WP\" pendant l'événement
-Gagné lors de l'acquisition"
+msgid "Tanoshi ultime !!!!!!!!!!!!\r\n\"4444WP\" pendant l'événement\r\nGagné lors de l'acquisition"
 msgstr ""
-msgid "Tanoshi ultime !!!!!!!!!!!!
-Pendant l'événement, les chansons de HARDCORE TANO*C
-Obtenez SSS ou supérieur en réussissant 10 fois"
+msgid "Tanoshi ultime !!!!!!!!!!!!\r\nPendant l'événement, les chansons de HARDCORE TANO*C\r\nObtenez SSS ou supérieur en réussissant 10 fois"
 msgstr ""
 msgid "Avantages visiteurs « TANO*C FES »"
 msgstr ""
-msgid "« Projet Touhou × WACCA »
-Renouvellement « Touhou Fujinroku × WACCA »
-récompense d'événement"
+msgid "« Projet Touhou × WACCA »\r\nRenouvellement « Touhou Fujinroku × WACCA »\r\nrécompense d'événement"
 msgstr ""
-msgid "« Projet Touhou × WACCA »
-Renouvellement « Touhou Fujinroku × WACCA »
-récompense d'événement"
+msgid "« Projet Touhou × WACCA »\r\nRenouvellement « Touhou Fujinroku × WACCA »\r\nrécompense d'événement"
 msgstr ""
-msgid "Événement « Kizuna AI × WACCA »
-pendant l'événement
-Obtenez un score total de 1 000 000"
+msgid "Événement « Kizuna AI × WACCA »\r\npendant l'événement\r\nObtenez un score total de 1 000 000"
 msgstr ""
-msgid "Événement « Kizuna AI × WACCA »
-pendant l'événement
-Obtenez un score total de 15 000 000"
+msgid "Événement « Kizuna AI × WACCA »\r\npendant l'événement\r\nObtenez un score total de 15 000 000"
 msgstr ""
-msgid "Événement « Kizuna AI × WACCA »
-pendant l'événement
-Obtenez un score total de 20 000 000"
+msgid "Événement « Kizuna AI × WACCA »\r\npendant l'événement\r\nObtenez un score total de 20 000 000"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer l'étape I"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer l'étape I"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer le stade II"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer le stade II"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer le stade III"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer le stade III"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer le stade IV"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer le stade IV"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer l'étape V"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer l'étape V"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer le stade VI"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer le stade VI"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer le stade VII"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer le stade VII"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer le stade VIII"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer le stade VIII"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer le stade IX"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer le stade IX"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer l'étape X"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer l'étape X"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer l'étape XI"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer l'étape XI"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer le stade XII"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer le stade XII"
 msgstr ""
-msgid "WACCA s
-mettre en scène
-Terminer le niveau XIII"
+msgid "WACCA s\r\nmettre en scène\r\nTerminer le niveau XIII"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte WACCA S\"
-Récompense de réussite"
+msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
-msgid "niveau du joueur
-fais-en 300"
+msgid "niveau du joueur\r\nfais-en 300"
 msgstr ""
-msgid "niveau du joueur
-fais-en 400"
+msgid "niveau du joueur\r\nfais-en 400"
 msgstr ""
-msgid "niveau du joueur
-fais-en 500"
+msgid "niveau du joueur\r\nfais-en 500"
 msgstr ""
-msgid "«Hololive x WACCA»
-« Hololive × WACCA » 2e édition
-récompense d'événement"
+msgid "«Hololive x WACCA»\r\n« Hololive × WACCA » 2e édition\r\nrécompense d'événement"
 msgstr ""
-msgid "« Hololive × WACCA »
-« Hololive × WACCA » 2ème édition
-récompense d'événement"
+msgid "« Hololive × WACCA »\r\n« Hololive × WACCA » 2ème édition\r\nrécompense d'événement"
 msgstr ""
-msgid "« Hololive × WACCA »
-« Hololive × WACCA » 2e édition
-récompense d'événement"
+msgid "« Hololive × WACCA »\r\n« Hololive × WACCA » 2e édition\r\nrécompense d'événement"
 msgstr ""
-msgid "«Hololive x WACCA»
-« Hololive × WACCA » 2ème édition
-récompense d'événement"
+msgid "«Hololive x WACCA»\r\n« Hololive × WACCA » 2ème édition\r\nrécompense d'événement"
 msgstr ""
-msgid "\"Touhou Fujinroku × WACCA\"
-Renouvellement « Touhou Fujinroku × WACCA »
-récompense d'événement"
+msgid "\"Touhou Fujinroku × WACCA\"\r\nRenouvellement « Touhou Fujinroku × WACCA »\r\nrécompense d'événement"
 msgstr ""
-msgid "\"Touhou Fujinroku × WACCA\"
-Renouvellement « Touhou Fujinroku × WACCA »
-récompense d'événement"
+msgid "\"Touhou Fujinroku × WACCA\"\r\nRenouvellement « Touhou Fujinroku × WACCA »\r\nrécompense d'événement"
 msgstr ""
-msgid "\"Groove Coaster x WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Groove Coaster x WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Groove Coaster x WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Groove Coaster x WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Groove Coaster x WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Groove Coaster x WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Groove Coaster x WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Groove Coaster x WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Groove Coaster x WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Groove Coaster x WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Groove Coaster x WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Groove Coaster x WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Mélange S × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Mélange S × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Mélange S × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Mélange S × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Mélange S × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Mélange S × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Mélange S × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Mélange S × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Mélange S × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Mélange S × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Mélange S × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Mélange S × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Mélange S × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Mélange S × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Colisée Tanosee\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Colisée Tanosee\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Colisée Tanosee\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Colisée Tanosee\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Colisée Tanosee\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Colisée Tanosee\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer l'étape I"
+msgid "WACCA Lily sur scène\r\nTerminer l'étape I"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer le stade II"
+msgid "WACCA Lily sur scène\r\nTerminer le stade II"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer le stade III"
+msgid "WACCA Lily sur scène\r\nTerminer le stade III"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer le stade IV"
+msgid "WACCA Lily sur scène\r\nTerminer le stade IV"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer l'étape V"
+msgid "WACCA Lily sur scène\r\nTerminer l'étape V"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer le stade VI"
+msgid "WACCA Lily sur scène\r\nTerminer le stade VI"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer le stade VII"
+msgid "WACCA Lily sur scène\r\nTerminer le stade VII"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer le stade VIII"
+msgid "WACCA Lily sur scène\r\nTerminer le stade VIII"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer le stade IX"
+msgid "WACCA Lily sur scène\r\nTerminer le stade IX"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer l'étape X"
+msgid "WACCA Lily sur scène\r\nTerminer l'étape X"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer l'étape XI"
+msgid "WACCA Lily sur scène\r\nTerminer l'étape XI"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer le stade XII"
+msgid "WACCA Lily sur scène\r\nTerminer le stade XII"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer le niveau XIII"
+msgid "WACCA Lily sur scène\r\nTerminer le niveau XIII"
 msgstr ""
-msgid "WACCA Lily sur scène
-Terminer l'étape XIV"
+msgid "WACCA Lily sur scène\r\nTerminer l'étape XIV"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte de Lily WACCA\"
-Récompense de réussite"
+msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "Toutes les chansons en une seule pièce
-Au niveau de difficulté INFERNO
-TOUT Merveilleux réalisé"
+msgid "Toutes les chansons en une seule pièce\r\nAu niveau de difficulté INFERNO\r\nTOUT Merveilleux réalisé"
 msgstr ""
-msgid "WACCA Lily
-Valeur de notation atteinte 300"
+msgid "WACCA Lily\r\nValeur de notation atteinte 300"
 msgstr ""
-msgid "WACCA Lily
-Valeur de notation atteinte 600"
+msgid "WACCA Lily\r\nValeur de notation atteinte 600"
 msgstr ""
-msgid "WACCA Lily
-Valeur de notation atteinte 1000"
+msgid "WACCA Lily\r\nValeur de notation atteinte 1000"
 msgstr ""
-msgid "WACCA Lily
-Valeur de notation atteinte 1300"
+msgid "WACCA Lily\r\nValeur de notation atteinte 1300"
 msgstr ""
-msgid "WACCA Lily
-Valeur de notation atteinte 1600"
+msgid "WACCA Lily\r\nValeur de notation atteinte 1600"
 msgstr ""
-msgid "WACCA Lily
-Valeur de notation atteinte 1900"
+msgid "WACCA Lily\r\nValeur de notation atteinte 1900"
 msgstr ""
-msgid "WACCA Lily
-Valeur de notation atteinte 2200"
+msgid "WACCA Lily\r\nValeur de notation atteinte 2200"
 msgstr ""
-msgid "WACCA Lily
-Valeur de notation atteinte 2500"
+msgid "WACCA Lily\r\nValeur de notation atteinte 2500"
 msgstr ""
 msgid "Obtenu auprès de \"Lily Box\""
 msgstr ""
@@ -759,93 +562,63 @@ msgid "Obtenu auprès de \"Lily Box\""
 msgstr ""
 msgid "Obtenu auprès de \"Lily Box\""
 msgstr ""
-msgid "« Jolie série x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Jolie série x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Jolie série x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Jolie série x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Jolie série x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Jolie série x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Danmachi III × WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Danmachi III × WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Danmachi III × WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Danmachi III × WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Danmachi III × WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Danmachi III × WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "31 octobre - 7 novembre
-Gagnez en jouant"
+msgid "31 octobre - 7 novembre\r\nGagnez en jouant"
 msgstr ""
-msgid "« Hololive × WACCA » 2e édition
-Récompense de réussite de la porte d'événement"
+msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Hololive × WACCA » 2e édition
-Récompense de réussite de la porte d'événement"
+msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Hololive × WACCA » 2ème édition
-Récompense de réussite de la porte d'événement"
+msgid "« Hololive × WACCA » 2ème édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Hololive × WACCA » 2e édition
-Récompense de réussite de la porte d'événement"
+msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Hololive × WACCA » 2e édition
-Récompense de réussite de la porte d'événement"
+msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Hololive × WACCA » 2e édition
-Récompense de réussite de la porte d'événement"
+msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Hololive × WACCA » 2e édition
-Récompense de réussite de la porte d'événement"
+msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Hololive × WACCA » 2e édition
-Récompense de réussite de la porte d'événement"
+msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Groove Coaster x WACCA\" 2e édition
-Récompense de réussite de la porte d'événement"
+msgid "\"Groove Coaster x WACCA\" 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Groove Coaster x WACCA\" 2ème édition
-Récompense de réussite de la porte d'événement"
+msgid "\"Groove Coaster x WACCA\" 2ème édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Groove Coaster x WACCA\" 2e édition
-Récompense de réussite de la porte d'événement"
+msgid "\"Groove Coaster x WACCA\" 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "24 décembre - 31 décembre
-Gagnez en jouant"
+msgid "24 décembre - 31 décembre\r\nGagnez en jouant"
 msgstr ""
-msgid "1er janvier au 11 janvier
-Gagnez en jouant"
+msgid "1er janvier au 11 janvier\r\nGagnez en jouant"
 msgstr ""
-msgid "2 février - 9 février
-Gagnez en jouant"
+msgid "2 février - 9 février\r\nGagnez en jouant"
 msgstr ""
-msgid "14 février - 21 février
-Gagnez en jouant"
+msgid "14 février - 21 février\r\nGagnez en jouant"
 msgstr ""
-msgid "3 mars au 10 mars
-Gagnez en jouant"
+msgid "3 mars au 10 mars\r\nGagnez en jouant"
 msgstr ""
-msgid "WACCA Lily
-Récompense de réussite « Extra Gate »"
+msgid "WACCA Lily\r\nRécompense de réussite « Extra Gate »"
 msgstr ""
-msgid "WACCA Lily
-Récompense de réussite « Extra Gate »"
+msgid "WACCA Lily\r\nRécompense de réussite « Extra Gate »"
 msgstr ""
-msgid "WACCA Lily
-Récompense de réussite « Extra Gate »"
+msgid "WACCA Lily\r\nRécompense de réussite « Extra Gate »"
 msgstr ""
-msgid "WACCA Lily
-Récompense de réussite « Extra Gate »"
+msgid "WACCA Lily\r\nRécompense de réussite « Extra Gate »"
 msgstr ""
-msgid "WACCA Lily
-Récompense de réussite « Extra Gate »"
+msgid "WACCA Lily\r\nRécompense de réussite « Extra Gate »"
 msgstr ""
 msgid "Obtenu à partir de \"R Box\""
 msgstr ""
@@ -911,1353 +684,701 @@ msgid "Obtenu à partir de \"R Box\""
 msgstr ""
 msgid "Définir l'affichage du score pour un ami"
 msgstr ""
-msgid "\"WACCA Lily R Gate\"
-Récompense de réussite"
+msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"WACCA Lily R Gate\"
-Récompense de réussite"
+msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"WACCA Lily R Gate\"
-Récompense de réussite"
+msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"WACCA Lily R Gate\"
-Récompense de réussite"
+msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
 msgstr ""
-msgid "\"WACCA Lily R Gate\"
-Récompense de réussite"
+msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer l'étape I"
+msgid "WACCA Lily R met en scène\r\nTerminer l'étape I"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer le stade II"
+msgid "WACCA Lily R met en scène\r\nTerminer le stade II"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer le stade III"
+msgid "WACCA Lily R met en scène\r\nTerminer le stade III"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer le stade IV"
+msgid "WACCA Lily R met en scène\r\nTerminer le stade IV"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer l'étape V"
+msgid "WACCA Lily R met en scène\r\nTerminer l'étape V"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer le stade VI"
+msgid "WACCA Lily R met en scène\r\nTerminer le stade VI"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer le stade VII"
+msgid "WACCA Lily R met en scène\r\nTerminer le stade VII"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer le stade VIII"
+msgid "WACCA Lily R met en scène\r\nTerminer le stade VIII"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer le stade IX"
+msgid "WACCA Lily R met en scène\r\nTerminer le stade IX"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer l'étape X"
+msgid "WACCA Lily R met en scène\r\nTerminer l'étape X"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer l'étape XI"
+msgid "WACCA Lily R met en scène\r\nTerminer l'étape XI"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer le stade XII"
+msgid "WACCA Lily R met en scène\r\nTerminer le stade XII"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer le niveau XIII"
+msgid "WACCA Lily R met en scène\r\nTerminer le niveau XIII"
 msgstr ""
-msgid "WACCA Lily R met en scène
-Terminer l'étape XIV"
+msgid "WACCA Lily R met en scène\r\nTerminer l'étape XIV"
 msgstr ""
-msgid "WACCA Lily R.
-Valeur de notation atteinte 300"
+msgid "WACCA Lily R.\r\nValeur de notation atteinte 300"
 msgstr ""
-msgid "WACCA Lily R.
-Valeur de notation atteinte 600"
+msgid "WACCA Lily R.\r\nValeur de notation atteinte 600"
 msgstr ""
-msgid "WACCA Lily R.
-Valeur de notation atteinte 1000"
+msgid "WACCA Lily R.\r\nValeur de notation atteinte 1000"
 msgstr ""
-msgid "WACCA Lily R.
-Valeur de notation atteinte 1300"
+msgid "WACCA Lily R.\r\nValeur de notation atteinte 1300"
 msgstr ""
-msgid "WACCA Lily R.
-Valeur de notation atteinte 1600"
+msgid "WACCA Lily R.\r\nValeur de notation atteinte 1600"
 msgstr ""
-msgid "WACCA Lily R.
-Valeur de notation atteinte 1900"
+msgid "WACCA Lily R.\r\nValeur de notation atteinte 1900"
 msgstr ""
-msgid "WACCA Lily R.
-Valeur de notation atteinte 2200"
+msgid "WACCA Lily R.\r\nValeur de notation atteinte 2200"
 msgstr ""
-msgid "WACCA Lily R.
-Valeur de notation atteinte 2500"
+msgid "WACCA Lily R.\r\nValeur de notation atteinte 2500"
 msgstr ""
-msgid "«Lanota × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Lanota × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Lanota × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Lanota × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Lanota × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Lanota × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Lanota × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Lanota × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "« Touhou Koumakyo x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Touhou Koumakyo x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Touhou Koumakyo x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Touhou Koumakyo x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Touhou Koumakyo x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Touhou Koumakyo x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "1er avril au 8 avril
-Gagnez en jouant"
+msgid "1er avril au 8 avril\r\nGagnez en jouant"
 msgstr ""
-msgid "29 avril - 5 mai
-Gagnez en jouant"
+msgid "29 avril - 5 mai\r\nGagnez en jouant"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "« D4DJ Groovy Mix × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« D4DJ Groovy Mix × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« D4DJ Groovy Mix × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« D4DJ Groovy Mix × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« D4DJ Groovy Mix × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« D4DJ Groovy Mix × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« D4DJ Groovy Mix × WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« D4DJ Groovy Mix × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "« Azur Lane x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Azur Lane x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Azur Lane x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« Azur Lane x WACCA »
-Récompense de réussite de la porte d'événement"
+msgid "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
 msgid "Récompense de réussite \"Extra Gate 2\""
 msgstr ""
@@ -2269,108 +1390,57 @@ msgid "Récompense de réussite \"Extra Gate 2\""
 msgstr ""
 msgid "Récompense de réussite \"Extra Gate 2\""
 msgstr ""
-msgid "7 juillet au 14 juillet
-Gagnez en jouant"
+msgid "7 juillet au 14 juillet\r\nGagnez en jouant"
 msgstr ""
-msgid "WACCA 2ème anniversaire !
-Merci de toujours jouer !
-Jouer pendant la période"
+msgid "WACCA 2ème anniversaire !\r\nMerci de toujours jouer !\r\nJouer pendant la période"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
 msgid "Obtenu à partir de \"Reverse Box\""
 msgstr ""
@@ -2424,358 +1494,221 @@ msgid "Obtenu à partir de \"Reverse Box\""
 msgstr ""
 msgid "Obtenu à partir de \"Reverse Box\""
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer l'étape I"
+msgid "Étape inversée de WACCA\r\nTerminer l'étape I"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer le stade II"
+msgid "Étape inversée de WACCA\r\nTerminer le stade II"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer le stade III"
+msgid "Étape inversée de WACCA\r\nTerminer le stade III"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer le stade IV"
+msgid "Étape inversée de WACCA\r\nTerminer le stade IV"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer l'étape V"
+msgid "Étape inversée de WACCA\r\nTerminer l'étape V"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer le stade VI"
+msgid "Étape inversée de WACCA\r\nTerminer le stade VI"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer le stade VII"
+msgid "Étape inversée de WACCA\r\nTerminer le stade VII"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer le stade VIII"
+msgid "Étape inversée de WACCA\r\nTerminer le stade VIII"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer le stade IX"
+msgid "Étape inversée de WACCA\r\nTerminer le stade IX"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer l'étape X"
+msgid "Étape inversée de WACCA\r\nTerminer l'étape X"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer l'étape XI"
+msgid "Étape inversée de WACCA\r\nTerminer l'étape XI"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer le stade XII"
+msgid "Étape inversée de WACCA\r\nTerminer le stade XII"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer le niveau XIII"
+msgid "Étape inversée de WACCA\r\nTerminer le niveau XIII"
 msgstr ""
-msgid "Étape inversée de WACCA
-Terminer l'étape XIV"
+msgid "Étape inversée de WACCA\r\nTerminer l'étape XIV"
 msgstr ""
-msgid "WACCA Inverse
-Valeur de notation atteinte 300"
+msgid "WACCA Inverse\r\nValeur de notation atteinte 300"
 msgstr ""
-msgid "WACCA Inverse
-Valeur de notation atteinte 600"
+msgid "WACCA Inverse\r\nValeur de notation atteinte 600"
 msgstr ""
-msgid "WACCA Inverse
-Valeur de notation atteinte 1000"
+msgid "WACCA Inverse\r\nValeur de notation atteinte 1000"
 msgstr ""
-msgid "WACCA Inverse
-Valeur de notation atteinte 1300"
+msgid "WACCA Inverse\r\nValeur de notation atteinte 1300"
 msgstr ""
-msgid "WACCA Inverse
-Valeur de notation atteinte 1600"
+msgid "WACCA Inverse\r\nValeur de notation atteinte 1600"
 msgstr ""
-msgid "WACCA Inverse
-Valeur de notation atteinte 1900"
+msgid "WACCA Inverse\r\nValeur de notation atteinte 1900"
 msgstr ""
-msgid "WACCA Inverse
-Valeur de notation atteinte 2200"
+msgid "WACCA Inverse\r\nValeur de notation atteinte 2200"
 msgstr ""
-msgid "WACCA Inverse
-Valeur de notation atteinte 2500"
+msgid "WACCA Inverse\r\nValeur de notation atteinte 2500"
 msgstr ""
-msgid "Jeu unique (temps libre)
-Jouez 10 fois"
+msgid "Jeu unique (temps libre)\r\nJouez 10 fois"
 msgstr ""
-msgid "COOP multijoueur
-jouer une fois"
+msgid "COOP multijoueur\r\njouer une fois"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte inversée WACCA\"
-Récompense de réussite"
+msgid "\"Porte inversée WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte inversée WACCA\"
-Récompense de réussite"
+msgid "\"Porte inversée WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Porte inversée WACCA\"
-Récompense de réussite"
+msgid "\"Porte inversée WACCA\"\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "«Porte inversée WACCA»
-Récompense de réussite"
+msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
-msgid "\"Arcée × WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Arcée × WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "\"Arcée x WACCA\"
-Récompense de réussite de la porte d'événement"
+msgid "\"Arcée x WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "niveau du joueur
-fais-en 600"
+msgid "niveau du joueur\r\nfais-en 600"
 msgstr ""
-msgid "niveau du joueur
-fais-en 700"
+msgid "niveau du joueur\r\nfais-en 700"
 msgstr ""
-msgid "niveau du joueur
-fais-en 800"
+msgid "niveau du joueur\r\nfais-en 800"
 msgstr ""
-msgid "niveau du joueur
-fais-en 900"
+msgid "niveau du joueur\r\nfais-en 900"
 msgstr ""
-msgid "niveau du joueur
-Faites-en 999"
+msgid "niveau du joueur\r\nFaites-en 999"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "« TANO*C EX*Stream »
-Récompense de réussite de la porte d'événement"
+msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« TANO*C EX*Stream »
-Récompense de réussite de la porte d'événement"
+msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« TANO*C EX*Stream »
-Récompense de réussite de la porte d'événement"
+msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« TANO*C EX*Stream »
-Récompense de réussite de la porte d'événement"
+msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« TANO*C EX*Stream »
-Récompense de réussite de la porte d'événement"
+msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« TANO*C EX*Stream »
-Récompense de réussite de la porte d'événement"
+msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« TANO*C EX*Stream »
-Récompense de réussite de la porte d'événement"
+msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« TANO*C EX*Stream »
-Récompense de réussite de la porte d'événement"
+msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "« TANO*C EX*Stream »
-Récompense de réussite de la porte d'événement"
+msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "31 octobre - 7 novembre
-Gagnez en jouant"
+msgid "31 octobre - 7 novembre\r\nGagnez en jouant"
 msgstr ""
-msgid "« Festival Combattre Dieu 2021 »
-Participation"
+msgid "« Festival Combattre Dieu 2021 »\r\nParticipation"
 msgstr ""
-msgid "« Festival Combattre Dieu 2021 »
-avancer en finale"
+msgid "« Festival Combattre Dieu 2021 »\r\navancer en finale"
 msgstr ""
-msgid "« Festival Combattre Dieu 2021 »
-Victoire"
+msgid "« Festival Combattre Dieu 2021 »\r\nVictoire"
 msgstr ""
-msgid "«Muse Dash x WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Muse Dash x WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Muse Dash × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Muse Dash × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Muse Dash x WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Muse Dash x WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Muse Dash × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Muse Dash × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Muse Dash × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Muse Dash × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Muse Dash × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Muse Dash × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Muse Dash × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Muse Dash × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Muse Dash × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Muse Dash × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "«Muse Dash × WACCA»
-Récompense de réussite de la porte d'événement"
+msgid "«Muse Dash × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "24 décembre - 31 décembre
-Gagnez en jouant"
+msgid "24 décembre - 31 décembre\r\nGagnez en jouant"
 msgstr ""
-msgid "1er janvier au 8 janvier
-Gagnez en jouant"
+msgid "1er janvier au 8 janvier\r\nGagnez en jouant"
 msgstr ""
-msgid "3 février au 10 février
-Gagnez en jouant"
+msgid "3 février au 10 février\r\nGagnez en jouant"
 msgstr ""
-msgid "14 février - 21 février
-Gagnez en jouant"
+msgid "14 février - 21 février\r\nGagnez en jouant"
 msgstr ""
-msgid "3 mars au 10 mars
-Gagnez en jouant"
+msgid "3 mars au 10 mars\r\nGagnez en jouant"
 msgstr ""
-msgid "1er avril au 8 avril
-Gagnez en jouant"
+msgid "1er avril au 8 avril\r\nGagnez en jouant"
 msgstr ""
-msgid "29 avril - 5 mai
-Gagnez en jouant"
+msgid "29 avril - 5 mai\r\nGagnez en jouant"
 msgstr ""
-msgid "7 juillet au 14 juillet
-Gagnez en jouant"
+msgid "7 juillet au 14 juillet\r\nGagnez en jouant"
 msgstr ""
 msgid "Récompense de réussite \"Extra Gate 3\""
 msgstr ""
@@ -2785,170 +1718,87 @@ msgid "Récompense de réussite \"Extra Gate 3\""
 msgstr ""
 msgid "Récompense de réussite \"Extra Gate 3\""
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL/DIFFICILE/EXPERT
-Effacer chacun une fois"
+msgid "des chansons ci-dessus\r\nNORMAL/DIFFICILE/EXPERT\r\nEffacer chacun une fois"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL/DIFFICILE/EXPERT
-Effacer chacun une fois"
+msgid "des chansons ci-dessus\r\nNORMAL/DIFFICILE/EXPERT\r\nEffacer chacun une fois"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL/DIFFICILE/EXPERT
-Effacer chacun une fois"
+msgid "des chansons ci-dessus\r\nNORMAL/DIFFICILE/EXPERT\r\nEffacer chacun une fois"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "mettre en scène
-«SPURT Re: MIX Vol.1»
-clair"
+msgid "mettre en scène\r\n«SPURT Re: MIX Vol.1»\r\nclair"
 msgstr ""
-msgid "mettre en scène
-«SPURT Re: MIX Vol.2»
-clair"
+msgid "mettre en scène\r\n«SPURT Re: MIX Vol.2»\r\nclair"
 msgstr ""
-msgid "mettre en scène
-«SPURT Re: MIX Vol.3»
-clair"
+msgid "mettre en scène\r\n«SPURT Re: MIX Vol.3»\r\nclair"
 msgstr ""
-msgid "niveau du joueur
-fais-en 1000"
+msgid "niveau du joueur\r\nfais-en 1000"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-J'ai réalisé TOUT Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nJ'ai réalisé TOUT Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""
-msgid "des chansons ci-dessus
-NORMAL / DIFFICILE / EXPERT
-Vous avez tout accompli. Merveilleux"
+msgid "des chansons ci-dessus\r\nNORMAL / DIFFICILE / EXPERT\r\nVous avez tout accompli. Merveilleux"
 msgstr ""

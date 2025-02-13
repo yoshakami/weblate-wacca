@@ -2,148 +2,79 @@
 msgstr ""
 "Language: jp_JA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "「[WACCA] には Unreal® Engine が使用されています。
-
-Unreal® は、米国およびその他の国と地域における 
-Epic Games, Inc. の商標または登録商標です。」
-
-「Unreal® Engine, Copyright 1998-2018, Epic Games, Inc. All rights reserved.」"
+msgid "「[WACCA] には Unreal® Engine が使用されています。\r\n\r\nUnreal® は、米国およびその他の国と地域における \r\nEpic Games, Inc. の商標または登録商標です。」\r\n\r\n「Unreal® Engine, Copyright 1998-2018, Epic Games, Inc. All rights reserved.」"
 msgstr ""
-msgid "好きな曲を
-1人でプレイする
-モードです。"
+msgid "好きな曲を\r\n1人でプレイする\r\nモードです。"
 msgstr ""
-msgid "店内の仲間と
-「対戦」や「協力」
-プレイを行います。"
+msgid "店内の仲間と\r\n「対戦」や「協力」\r\nプレイを行います。"
 msgstr ""
-msgid "自分のウデマエ
-を試します。"
+msgid "自分のウデマエ\r\nを試します。"
 msgstr ""
-msgid "タイムアップ。
-シングルプレイに
-決定しました。"
+msgid "タイムアップ。\r\nシングルプレイに\r\n決定しました。"
 msgstr ""
-msgid "「WACCA」はスライド操作でメニューを選択します。
-<span color=\"#E5006D\">光っているエリア上で手を滑らせて</>
-メニューを選んでください。"
+msgid "「WACCA」はスライド操作でメニューを選択します。\r\n<span color=\"#E5006D\">光っているエリア上で手を滑らせて</>\r\nメニューを選んでください。"
 msgstr ""
-msgid "VIPメンバーになって
-WACCAを更に
-楽しくプレイ！"
+msgid "VIPメンバーになって\r\nWACCAを更に\r\n楽しくプレイ！"
 msgstr ""
-msgid "VIPメンバー期限
-を更新する。"
+msgid "VIPメンバー期限\r\nを更新する。"
 msgstr ""
-msgid "VIPメンバーは
-期間終了の
-１０日前から
- 更新できます。"
+msgid "VIPメンバーは\r\n期間終了の\r\n１０日前から\r\n 更新できます。"
 msgstr ""
-msgid "ステージアップでは
-LIFEがなくなった時点で
-チャレンジ失敗となります。
-先に進みますか？"
+msgid "ステージアップでは\r\nLIFEがなくなった時点で\r\nチャレンジ失敗となります。\r\n先に進みますか？"
 msgstr ""
-msgid "光っているエリアを
-スライドさせて
-プレイするモードを
-選んでください。"
+msgid "光っているエリアを\r\nスライドさせて\r\nプレイするモードを\r\n選んでください。"
 msgstr ""
-msgid "VIPメンバー登録や
-便利なアイテムを
-購入できます。"
+msgid "VIPメンバー登録や\r\n便利なアイテムを\r\n購入できます。"
 msgstr ""
 msgid "使用したアイテムの効果が発動しませんがよろしいですか？"
 msgstr ""
-msgid "一定時間内に
-何曲でもプレイできる
-モードです。"
+msgid "一定時間内に\r\n何曲でもプレイできる\r\nモードです。"
 msgstr ""
-msgid "頑張って起動中です。
-もう少し待っててね。"
+msgid "頑張って起動中です。\r\nもう少し待っててね。"
 msgstr ""
-msgid "タッチデバイスの初期化を行います。
-WACCAコンソールに触れないでください。
-
-Initialize the Touch Device.
-Please don't touch the WACCA Console."
+msgid "タッチデバイスの初期化を行います。\r\nWACCAコンソールに触れないでください。\r\n\r\nInitialize the Touch Device.\r\nPlease don't touch the WACCA Console."
 msgstr ""
-msgid "アップデートが見つかりました。
-再起動します。"
+msgid "アップデートが見つかりました。\r\n再起動します。"
 msgstr ""
-msgid "起動に必要な処理が行われていません。
-アップデートUSBがお店に届いたら
-アップデートを行ってください。"
+msgid "起動に必要な処理が行われていません。\r\nアップデートUSBがお店に届いたら\r\nアップデートを行ってください。"
 msgstr ""
-msgid "Ver.3.00.00 に更新されました。
-<YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> を過ぎないと稼働しません。
-<YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> を過ぎてもこのメッセージが
-表示されている場合は再起動してください。"
+msgid "Ver.3.00.00 に更新されました。\r\n<YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> を過ぎないと稼働しません。\r\n<YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> を過ぎてもこのメッセージが\r\n表示されている場合は再起動してください。"
 msgstr ""
-msgid "WACCA Reverse アップデート完了
-<YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> より
-新機能で遊べます。"
+msgid "WACCA Reverse アップデート完了\r\n<YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> より\r\n新機能で遊べます。"
 msgstr ""
-msgid "アップデートファイルが
-見つかりました。
-再起動してアップデートを
-適用してください。
-Please reboot."
+msgid "アップデートファイルが\r\n見つかりました。\r\n再起動してアップデートを\r\n適用してください。\r\nPlease reboot."
 msgstr ""
-msgid "EVENTモード
-※データは保存されません"
+msgid "EVENTモード\r\n※データは保存されません"
 msgstr ""
-msgid "ネットワーク接続エラー
-現在ゲームをプレイすることができません。"
+msgid "ネットワーク接続エラー\r\n現在ゲームをプレイすることができません。"
 msgstr ""
-msgid "このマシンは本日の稼働を終了しました。
-改めてご来店ください。"
+msgid "このマシンは本日の稼働を終了しました。\r\n改めてご来店ください。"
 msgstr ""
-msgid "このマシンはあと<NUMBER>分で稼働を終了します。
-現在「コイン受付」「プレイ開始」を中止しています。
-改めてご来店ください。"
+msgid "このマシンはあと<NUMBER>分で稼働を終了します。\r\n現在「コイン受付」「プレイ開始」を中止しています。\r\n改めてご来店ください。"
 msgstr ""
-msgid "現在「メンテナンス中」です。プレイ出来ません。
-終了時刻は「WACCA公式サイト」で
-ご確認ください。 https://wacca.marv.jp/"
+msgid "現在「メンテナンス中」です。プレイ出来ません。\r\n終了時刻は「WACCA公式サイト」で\r\nご確認ください。 https://wacca.marv.jp/"
 msgstr ""
-msgid "このマシンはまもなく再起動します。
-再起動後、通常通りプレイできます。
-少々お待ちください。"
+msgid "このマシンはまもなく再起動します。\r\n再起動後、通常通りプレイできます。\r\n少々お待ちください。"
 msgstr ""
-msgid "メンテナンスが「終了」しました。
-筐体を「再起動」してください。
-Please reboot."
+msgid "メンテナンスが「終了」しました。\r\n筐体を「再起動」してください。\r\nPlease reboot."
 msgstr ""
 msgid "名前入力"
 msgstr ""
-msgid "「WACCA」はスライド操作でカーソルを移動させます。
-<span color=\"#E5006D\">光っているエリア上で手を滑らせて</>
-選んでください。"
+msgid "「WACCA」はスライド操作でカーソルを移動させます。\r\n<span color=\"#E5006D\">光っているエリア上で手を滑らせて</>\r\n選んでください。"
 msgstr ""
-msgid "プレイヤーの名前を入力してください。
-入力した名前はインターネット上で
-公開される可能性があります。
-ご了承の上、入力してください。"
+msgid "プレイヤーの名前を入力してください。\r\n入力した名前はインターネット上で\r\n公開される可能性があります。\r\nご了承の上、入力してください。"
 msgstr ""
-msgid "「<USER_NAME>」
-でよろしいですか？"
+msgid "「<USER_NAME>」\r\nでよろしいですか？"
 msgstr ""
 msgid "WACCAの世界へようこそ！"
 msgstr ""
 msgid "！使用できない文字が含まれています！"
 msgstr ""
-msgid "タイムアップです！
-今回は「ゲストプレイヤー」となります。
-次のプレイ時に再登録をお願いします。"
+msgid "タイムアップです！\r\n今回は「ゲストプレイヤー」となります。\r\n次のプレイ時に再登録をお願いします。"
 msgstr ""
-msgid "タイムアップです！
-今回は「ゲストプレイヤー」となります。
-次のプレイ時に再登録をお願いします。"
+msgid "タイムアップです！\r\n今回は「ゲストプレイヤー」となります。\r\n次のプレイ時に再登録をお願いします。"
 msgstr ""
-msgid "騒がしい連中が帰ってきたぞ！
-鑑賞を許しますか？"
+msgid "騒がしい連中が帰ってきたぞ！\r\n鑑賞を許しますか？"
 msgstr ""
 msgid "ご"
 msgstr ""
@@ -151,21 +82,11 @@ msgid "注"
 msgstr ""
 msgid "意"
 msgstr ""
-msgid "使用中に、身体に痛みや不快感などを感じた場合は
-ただちにプレイを中止し、医師の診察を受けてください。
-また、思わぬ怪我や故障の原因となる行為はおやめください。
-
-より良いゲームを提供するため
-予告なくゲーム内容の「変更」「修正」が 
-行われる場合がございます。
-
-プレイ時期によってゲーム内容が異なる
-場合がございますがご了承ください。"
+msgid "使用中に、身体に痛みや不快感などを感じた場合は\r\nただちにプレイを中止し、医師の診察を受けてください。\r\nまた、思わぬ怪我や故障の原因となる行為はおやめください。\r\n\r\nより良いゲームを提供するため\r\n予告なくゲーム内容の「変更」「修正」が \r\n行われる場合がございます。\r\n\r\nプレイ時期によってゲーム内容が異なる\r\n場合がございますがご了承ください。"
 msgstr ""
 msgid "スキップ"
 msgstr ""
-msgid "本当に
-スキップ？"
+msgid "本当に\r\nスキップ？"
 msgstr ""
 msgid "WACCAコンソール"
 msgstr ""
@@ -291,9 +212,7 @@ msgid "Ｆｕｌｌ Cｏｍｂｏ"
 msgstr ""
 msgid "ＡＬＬ Ｍａｒｖｅｌｏｕｓ"
 msgstr ""
-msgid "獲得
-Reverse
-ポイント"
+msgid "獲得\r\nReverse\r\nポイント"
 msgstr ""
 msgid "決定"
 msgstr ""
@@ -311,37 +230,29 @@ msgid "デフォルト"
 msgstr ""
 msgid "ページ"
 msgstr ""
-msgid "栞を
-開く"
+msgid "栞を\r\n開く"
 msgstr ""
-msgid "栞に
-追加"
+msgid "栞に\r\n追加"
 msgstr ""
 msgid "ソート"
 msgstr ""
-msgid "ソート
-クリア"
+msgid "ソート\r\nクリア"
 msgstr ""
-msgid "ジャンル
-ジャンプ"
+msgid "ジャンル\r\nジャンプ"
 msgstr ""
 msgid "ジャンル"
 msgstr ""
-msgid "お気に入り
-追加"
+msgid "お気に入り\r\n追加"
 msgstr ""
-msgid "お気に入り
-開く"
+msgid "お気に入り\r\n開く"
 msgstr ""
 msgid "ソート"
 msgstr ""
 msgid "ランダム"
 msgstr ""
-msgid "マスク
-濃度"
+msgid "マスク\r\n濃度"
 msgstr ""
-msgid "ＳＥ
-再生"
+msgid "ＳＥ\r\n再生"
 msgstr ""
 msgid "シンボル"
 msgstr ""
@@ -353,16 +264,11 @@ msgid "判定調整"
 msgstr ""
 msgid "START"
 msgstr ""
-msgid "ソート
-デフォルト
-順"
+msgid "ソート\r\nデフォルト\r\n順"
 msgstr ""
-msgid "ソート
-レアリティ
-順"
+msgid "ソート\r\nレアリティ\r\n順"
 msgstr ""
-msgid "ソート
-獲得順"
+msgid "ソート\r\n獲得順"
 msgstr ""
 msgid "マイデータ"
 msgstr ""
@@ -370,16 +276,13 @@ msgid "ランキング"
 msgstr ""
 msgid "トロフィー"
 msgstr ""
-msgid "テスト
-プレイ"
+msgid "テスト\r\nプレイ"
 msgstr ""
 msgid "ＥＸＩＴへ"
 msgstr ""
-msgid "ルーム
-解散"
+msgid "ルーム\r\n解散"
 msgstr ""
-msgid "一文字
-削除"
+msgid "一文字\r\n削除"
 msgstr ""
 msgid "小文字"
 msgstr ""
@@ -389,8 +292,7 @@ msgid "アルファベット"
 msgstr ""
 msgid "確定"
 msgstr ""
-msgid "数字
-記号"
+msgid "数字\r\n記号"
 msgstr ""
 msgid "空白"
 msgstr ""
@@ -404,11 +306,9 @@ msgid "右"
 msgstr ""
 msgid "左"
 msgstr ""
-msgid "アイテム
-チェック"
+msgid "アイテム\r\nチェック"
 msgstr ""
-msgid "アイテム
-使用"
+msgid "アイテム\r\n使用"
 msgstr ""
 msgid "オプション"
 msgstr ""
@@ -416,17 +316,13 @@ msgid "デフォルトの位置にカーソルを戻します。"
 msgstr ""
 msgid "ノーツの速度を変更できます。"
 msgstr ""
-msgid "背景にマスクをかけることができます。
-ノーツが見えづらい時は
-背景マスクの濃度を濃くしてください。"
+msgid "背景にマスクをかけることができます。\r\nノーツが見えづらい時は\r\n背景マスクの濃度を濃くしてください。"
 msgstr ""
 msgid "入力判定のタイミングを調整できます。"
 msgstr ""
-msgid "２回連続でタッチすると、
-チュートリアルをスキップ出来ます。"
+msgid "２回連続でタッチすると、\r\nチュートリアルをスキップ出来ます。"
 msgstr ""
-msgid "アクセス
-コード"
+msgid "アクセス\r\nコード"
 msgstr ""
 msgid "次へ"
 msgstr ""
@@ -434,17 +330,13 @@ msgid "決済"
 msgstr ""
 msgid "残高照会"
 msgstr ""
-msgid "　
-1Play
-無料"
+msgid "　\r\n1Play\r\n無料"
 msgstr ""
 msgid "難易度"
 msgstr ""
-msgid "最終確認へ
-戻る"
+msgid "最終確認へ\r\n戻る"
 msgstr ""
-msgid "WACCA
-BINGO"
+msgid "WACCA\r\nBINGO"
 msgstr ""
 msgid "シャッフル"
 msgstr ""
@@ -452,26 +344,21 @@ msgid "楽曲選択"
 msgstr ""
 msgid "RPでオープン可能"
 msgstr ""
-msgid "Reverseポイント <NUMBER_PRICE> 消費
-この楽曲をオープンします。よろしいですか？
-Reverseポイント <NUMBER_FUNDAGE> 所持"
+msgid "Reverseポイント <NUMBER_PRICE> 消費\r\nこの楽曲をオープンします。よろしいですか？\r\nReverseポイント <NUMBER_FUNDAGE> 所持"
 msgstr ""
-msgid "ソート
-クリア"
+msgid "ソート\r\nクリア"
 msgstr ""
 msgid "決定"
 msgstr ""
 msgid "詳細"
 msgstr ""
-msgid "「お気に入り」が指定されていません。
-楽曲選択に戻ります。"
+msgid "「お気に入り」が指定されていません。\r\n楽曲選択に戻ります。"
 msgstr ""
 msgid "お気に入り"
 msgstr ""
 msgid "<span color=\"#E5006D\">RPが不足しています</>"
 msgstr ""
-msgid "GUEST は楽曲をオープンできません。
-Aimeカードを使用してプレイしてください。"
+msgid "GUEST は楽曲をオープンできません。\r\nAimeカードを使用してプレイしてください。"
 msgstr ""
 msgid "曲目"
 msgstr ""
@@ -483,11 +370,9 @@ msgid "<DIFFICULTY>のLOCK解除"
 msgstr ""
 msgid "ノーツデザイナー：<NAME>"
 msgstr ""
-msgid "該当の楽曲が存在しないため、選択できません
-ジャンルや難易度を変更してください。"
+msgid "該当の楽曲が存在しないため、選択できません\r\nジャンルや難易度を変更してください。"
 msgstr ""
-msgid "はじめてWACCAをプレイする方に、
-オススメの楽曲フォルダです！"
+msgid "はじめてWACCAをプレイする方に、\r\nオススメの楽曲フォルダです！"
 msgstr ""
 msgid "本当に終了しますか？"
 msgstr ""
@@ -509,38 +394,25 @@ msgid "ソート条件"
 msgstr ""
 msgid "難易度選択"
 msgstr ""
-msgid "難易度HARDを「S」以上でクリア
-もしくは
-「エキスパートオープンチケット」を消費してオープンできます。
-<ADD_STRING>"
+msgid "難易度HARDを「S」以上でクリア\r\nもしくは\r\n「エキスパートオープンチケット」を消費してオープンできます。\r\n<ADD_STRING>"
 msgstr ""
-msgid "「Reverseポイント」を消費してオープンすることが出来ます。
-<ADD_STRING>"
+msgid "「Reverseポイント」を消費してオープンすることが出来ます。\r\n<ADD_STRING>"
 msgstr ""
-msgid "エキスパートオープンチケットを
-所持していません。"
+msgid "エキスパートオープンチケットを\r\n所持していません。"
 msgstr ""
-msgid "所持Reverseポイントが足りません。
-あと <NUMBER_SHORTAGE> RP必要です。"
+msgid "所持Reverseポイントが足りません。\r\nあと <NUMBER_SHORTAGE> RP必要です。"
 msgstr ""
-msgid "エキスパートオープンチケットを消費して
-この難易度をオープンします。
-よろしいですか？
-(使用期限の近いチケットから消費します。)"
+msgid "エキスパートオープンチケットを消費して\r\nこの難易度をオープンします。\r\nよろしいですか？\r\n(使用期限の近いチケットから消費します。)"
 msgstr ""
-msgid "<NUMBER_PRICE> RP 消費して
-この難易度をオープンします。よろしいですか？
-Reverseポイント 【<NUMBER_FUNDAGE>】所持。"
+msgid "<NUMBER_PRICE> RP 消費して\r\nこの難易度をオープンします。よろしいですか？\r\nReverseポイント 【<NUMBER_FUNDAGE>】所持。"
 msgstr ""
-msgid "EXオープンチケットで
-オープン可能"
+msgid "EXオープンチケットで\r\nオープン可能"
 msgstr ""
 msgid "<span color=\"#E5006D\">チケットが不足しています</>"
 msgstr ""
 msgid "達成率"
 msgstr ""
-msgid "GUEST は難易度をオープンできません。
-Aimeカードを使用してプレイしてください。"
+msgid "GUEST は難易度をオープンできません。\r\nAimeカードを使用してプレイしてください。"
 msgstr ""
 msgid "「GUESTプレイ」または「マルチプレイ」時はオープンできません。"
 msgstr ""
@@ -548,17 +420,13 @@ msgid "RP 消費でアンロック可能"
 msgstr ""
 msgid "<span color=\"#E5006D\">RP が不足しています</>"
 msgstr ""
-msgid "難易度EXPERTが
-オープンされていません。"
+msgid "難易度EXPERTが\r\nオープンされていません。"
 msgstr ""
-msgid "難易度EXPERTを
-オープンする必要があります。"
+msgid "難易度EXPERTを\r\nオープンする必要があります。"
 msgstr ""
-msgid "楽曲が
-オープンされていません。"
+msgid "楽曲が\r\nオープンされていません。"
 msgstr ""
-msgid "楽曲を
-オープンする必要があります。"
+msgid "楽曲を\r\nオープンする必要があります。"
 msgstr ""
 msgid "曲名"
 msgstr ""
@@ -582,8 +450,7 @@ msgid "濃度+4"
 msgstr ""
 msgid "濃度最大"
 msgstr ""
-msgid "動画再生に対応した楽曲です。
-動画を再生しますか？"
+msgid "動画再生に対応した楽曲です。\r\n動画を再生しますか？"
 msgstr ""
 msgid "Guest"
 msgstr ""
@@ -805,33 +672,21 @@ msgid "楽曲選択でオープンできます。"
 msgstr ""
 msgid "楽曲選択でプレイできます。"
 msgstr ""
-msgid "『ステージアップ』に
-挑戦できるようになりました。"
+msgid "『ステージアップ』に\r\n挑戦できるようになりました。"
 msgstr ""
-msgid "ユーザーデータが取得できませんでした。
-今回はゲストプレイとなります。"
+msgid "ユーザーデータが取得できませんでした。\r\n今回はゲストプレイとなります。"
 msgstr ""
-msgid "このユーザーは他のマシンでプレイ中のため
-同時にプレイできません。
-今回はゲストプレイとなります。"
+msgid "このユーザーは他のマシンでプレイ中のため\r\n同時にプレイできません。\r\n今回はゲストプレイとなります。"
 msgstr ""
-msgid "このカードには「他の地域のユーザーデータ」が
-設定されています。
-このマシンではスキャンすることは出来ません。
-This card contains another region's user data.
-This machine cannot scan it."
+msgid "このカードには「他の地域のユーザーデータ」が\r\n設定されています。\r\nこのマシンではスキャンすることは出来ません。\r\nThis card contains another region's user data.\r\nThis machine cannot scan it."
 msgstr ""
-msgid "ユーザーデータが作成できませんでした。
-今回はゲストプレイとなります。"
+msgid "ユーザーデータが作成できませんでした。\r\n今回はゲストプレイとなります。"
 msgstr ""
-msgid "ユーザーデータが作成できませんでした。
-タイトル画面に戻ります。"
+msgid "ユーザーデータが作成できませんでした。\r\nタイトル画面に戻ります。"
 msgstr ""
-msgid "Aimeスキャンエラー
-<ERROR_MESSAGE>"
+msgid "Aimeスキャンエラー\r\n<ERROR_MESSAGE>"
 msgstr ""
-msgid "ログインに失敗しました。
-今回はゲストプレイとなります。"
+msgid "ログインに失敗しました。\r\n今回はゲストプレイとなります。"
 msgstr ""
 msgid "VIPメンバー１０大特典"
 msgstr ""
@@ -843,8 +698,7 @@ msgid "<Date>のAM06:59まで有効です。"
 msgstr ""
 msgid "ＶＩＰ利用規約"
 msgstr ""
-msgid "このアイテムは既に
-受け取り済みです"
+msgid "このアイテムは既に\r\n受け取り済みです"
 msgstr ""
 msgid "300円で30日間有効な特典サービスです！"
 msgstr ""
@@ -872,39 +726,7 @@ msgid "⑨フレンドとスコアの比較ができる！"
 msgstr ""
 msgid "⑩シングルプレイ(フリータイム)の残り時間3分UP！"
 msgstr ""
-msgid "
-　　　　　　　　　【ＶＩＰメンバーシステム注意事項】
-
-　　ＶＩＰメンバーシステム（以下、本システムといいます）の利用を
-　　希望するお客様は、株式会社マーベラス（以下、弊社といいます）が
-　　定める以下の注意事項をご確認のうえ同意する必要があります。
-
-
-　　本システムは、プレイ料金とは別途、300円の本システム利用料を
-　　お支払い頂くことにより、支払日から30日間、楽曲の早期解禁、
-　　オプションカスタマイズの解放その他各種特典を提供するものです。
-
-
-　　お客様による本システム利用料のお支払後、
-　　弊社はいかなる理由・場合であっても本システム利用料を
-　　返還致しかねます。
-
-
-　　弊社は、お客様に事前に告知することなく、
-　　本システム内容の全部又は一部を変更することができるものとします。
-　　本システムを通じて提供する弊社のサービスの詳細は、
-　　WACCA公式Webサイトをご確認ください。
-　　https://wacca.marv.jp/
-
-　　株式会社セガ・インタラクティブが提供する
-　　アーケードゲーム用ネットサービス「ALL.Net」、
-　　認証システム「Aime」に起因する本システムの
-　　不具合・障害等によりお客様に生じた損害について、
-　　弊社は一切責任を負わないものとします。
-
-
-　　本システム、注意事項に関するお問い合わせは、
-　　WACCA公式Webサイト上の<span color=\"#E5006D\">「お問い合わせはこちら」</>からご連絡ください。"
+msgid "\r\n　　　　　　　　　【ＶＩＰメンバーシステム注意事項】\r\n\r\n　　ＶＩＰメンバーシステム（以下、本システムといいます）の利用を\r\n　　希望するお客様は、株式会社マーベラス（以下、弊社といいます）が\r\n　　定める以下の注意事項をご確認のうえ同意する必要があります。\r\n\r\n\r\n　　本システムは、プレイ料金とは別途、300円の本システム利用料を\r\n　　お支払い頂くことにより、支払日から30日間、楽曲の早期解禁、\r\n　　オプションカスタマイズの解放その他各種特典を提供するものです。\r\n\r\n\r\n　　お客様による本システム利用料のお支払後、\r\n　　弊社はいかなる理由・場合であっても本システム利用料を\r\n　　返還致しかねます。\r\n\r\n\r\n　　弊社は、お客様に事前に告知することなく、\r\n　　本システム内容の全部又は一部を変更することができるものとします。\r\n　　本システムを通じて提供する弊社のサービスの詳細は、\r\n　　WACCA公式Webサイトをご確認ください。\r\n　　https://wacca.marv.jp/\r\n\r\n　　株式会社セガ・インタラクティブが提供する\r\n　　アーケードゲーム用ネットサービス「ALL.Net」、\r\n　　認証システム「Aime」に起因する本システムの\r\n　　不具合・障害等によりお客様に生じた損害について、\r\n　　弊社は一切責任を負わないものとします。\r\n\r\n\r\n　　本システム、注意事項に関するお問い合わせは、\r\n　　WACCA公式Webサイト上の<span color=\"#E5006D\">「お問い合わせはこちら」</>からご連絡ください。"
 msgstr ""
 msgid "2"
 msgstr ""
@@ -912,41 +734,9 @@ msgid "3"
 msgstr ""
 msgid "4"
 msgstr ""
-msgid "5555
-55"
+msgid "5555\r\n55"
 msgstr ""
-msgid "
-　　　　　　　　　【VIPメンバーシステム注意事項】
-
-　　VIPメンバーシステム（以下、本システムといいます）の
-　　利用期間の更新を希望するお客様は、
-　　株式会社マーベラス（以下、弊社といいます）が定める以下の
-　　注意事項をご確認のうえ同意する必要があります。
- 
-　　本システムは、プレイ料金とは別途、300円の本システム利用料を
-　　お支払い頂くことにより、現在ご利用頂いている本システムの
-　　利用期間を30日間延長し、楽曲の早期解禁、オプションカスタマイズの
-　　解放その他各種特典を提供するものです。
-
-　　お客様による本システム利用料のお支払後、
-　　弊社はいかなる理由・場合であっても本システム利用料を
-　　返還致しかねます。
-
-　　弊社は、お客様に事前に告知することなく、本システム内容の
-　　全部又は一部を変更することができるものとします。
-　　本システムを通じて提供する弊社のサービスの詳細は、
-　　WACCA公式Webサイトをご確認ください。
-　　https://wacca.marv.jp/
-
-　　株式会社セガ・インタラクティブが提供する
-　　アーケードゲーム用ネットサービス「ALL.Net」、
-　　認証システム「Aime」に起因する本システムの
-　　不具合・障害等によりお客様に生じた損害について、
-　　弊社は一切責任を負わないものとします。
-
-
-　　本システム、注意事項に関するお問い合わせは、
-　　WACCA公式Webサイト上の<span color=\"#E5006D\">「お問い合わせはこちら」</>からご連絡ください。"
+msgid "\r\n　　　　　　　　　【VIPメンバーシステム注意事項】\r\n\r\n　　VIPメンバーシステム（以下、本システムといいます）の\r\n　　利用期間の更新を希望するお客様は、\r\n　　株式会社マーベラス（以下、弊社といいます）が定める以下の\r\n　　注意事項をご確認のうえ同意する必要があります。\r\n \r\n　　本システムは、プレイ料金とは別途、300円の本システム利用料を\r\n　　お支払い頂くことにより、現在ご利用頂いている本システムの\r\n　　利用期間を30日間延長し、楽曲の早期解禁、オプションカスタマイズの\r\n　　解放その他各種特典を提供するものです。\r\n\r\n　　お客様による本システム利用料のお支払後、\r\n　　弊社はいかなる理由・場合であっても本システム利用料を\r\n　　返還致しかねます。\r\n\r\n　　弊社は、お客様に事前に告知することなく、本システム内容の\r\n　　全部又は一部を変更することができるものとします。\r\n　　本システムを通じて提供する弊社のサービスの詳細は、\r\n　　WACCA公式Webサイトをご確認ください。\r\n　　https://wacca.marv.jp/\r\n\r\n　　株式会社セガ・インタラクティブが提供する\r\n　　アーケードゲーム用ネットサービス「ALL.Net」、\r\n　　認証システム「Aime」に起因する本システムの\r\n　　不具合・障害等によりお客様に生じた損害について、\r\n　　弊社は一切責任を負わないものとします。\r\n\r\n\r\n　　本システム、注意事項に関するお問い合わせは、\r\n　　WACCA公式Webサイト上の<span color=\"#E5006D\">「お問い合わせはこちら」</>からご連絡ください。"
 msgstr ""
 msgid "延長時02"
 msgstr ""
@@ -956,17 +746,13 @@ msgid "延長時04"
 msgstr ""
 msgid "延長時05"
 msgstr ""
-msgid "以上です。
-
-同意しますか？"
+msgid "以上です。\r\n\r\n同意しますか？"
 msgstr ""
 msgid "通信に失敗しました。"
 msgstr ""
-msgid "通信に失敗しました。
-CREDITの消費は行っていません。"
+msgid "通信に失敗しました。\r\nCREDITの消費は行っていません。"
 msgstr ""
-msgid "ＶＩＰメンバーは<Date>の
-ＡＭ０６：５９まで有効です。"
+msgid "ＶＩＰメンバーは<Date>の\r\nＡＭ０６：５９まで有効です。"
 msgstr ""
 msgid "現在VIPメンバーは有効ではありません。"
 msgstr ""
@@ -978,11 +764,7 @@ msgid "日"
 msgstr ""
 msgid "本日中"
 msgstr ""
-msgid "正常にログアウトができていない
-可能性があります。
-
-３０分程度時間を空けてから、コイン投入前に
-カードをスキャンして動作を確認してください。"
+msgid "正常にログアウトができていない\r\n可能性があります。\r\n\r\n３０分程度時間を空けてから、コイン投入前に\r\nカードをスキャンして動作を確認してください。"
 msgstr ""
 msgid "COIN"
 msgstr ""
@@ -1004,11 +786,9 @@ msgid "決済金額"
 msgstr ""
 msgid "円"
 msgstr ""
-msgid "ご利用になるブランドをWACCAコンソールで選択し、Aimeリーダーにタッチしてください
-残高照会を行う場合は残高照会ボタンを押してください"
+msgid "ご利用になるブランドをWACCAコンソールで選択し、Aimeリーダーにタッチしてください\r\n残高照会を行う場合は残高照会ボタンを押してください"
 msgstr ""
-msgid "残高照会を行うブランドをWACCAコンソールで選択し、Aimeリーダーにタッチしてください
-電子マネー決済を行う場合は決済ボタンを押してください"
+msgid "残高照会を行うブランドをWACCAコンソールで選択し、Aimeリーダーにタッチしてください\r\n電子マネー決済を行う場合は決済ボタンを押してください"
 msgstr ""
 msgid "このユーザーでプレイしますか？"
 msgstr ""
@@ -1020,162 +800,83 @@ msgid "プレイには<NUMBER> CREDIT(S)必要です"
 msgstr ""
 msgid "FREE PLAY"
 msgstr ""
-msgid "初回は1プレイ無料で
-遊ぶことができます"
+msgid "初回は1プレイ無料で\r\n遊ぶことができます"
 msgstr ""
-msgid "VIPユーザーになりますか？
-VIPユーザーになるには
-<NUMBER> CREDIT(S)必要です"
+msgid "VIPユーザーになりますか？\r\nVIPユーザーになるには\r\n<NUMBER> CREDIT(S)必要です"
 msgstr ""
-msgid "<ITEM_NAME>を
-購入しますか？
-購入するには
-<NUMBER> CREDIT(S)必要です"
+msgid "<ITEM_NAME>を\r\n購入しますか？\r\n購入するには\r\n<NUMBER> CREDIT(S)必要です"
 msgstr ""
-msgid "シングルプレイ(フリータイム)
-をプレイしますか？
-プレイするには追加で
-<NUMBER> CREDIT(S)必要です"
+msgid "シングルプレイ(フリータイム)\r\nをプレイしますか？\r\nプレイするには追加で\r\n<NUMBER> CREDIT(S)必要です"
 msgstr ""
-msgid "操作に関するご案内は
-Aimeリーダー横に表示されるメッセージをご確認ください"
+msgid "操作に関するご案内は\r\nAimeリーダー横に表示されるメッセージをご確認ください"
 msgstr ""
 msgid "コンティニューしますか？"
 msgstr ""
-msgid "「<PLAYER_NAME>」は
-「VIPメンバー」になりました！"
+msgid "「<PLAYER_NAME>」は\r\n「VIPメンバー」になりました！"
 msgstr ""
-msgid "「<PLAYER_NAME>」は
-「VIPメンバー」の期間を更新しました！"
+msgid "「<PLAYER_NAME>」は\r\n「VIPメンバー」の期間を更新しました！"
 msgstr ""
 msgid "キャンセルします。"
 msgstr ""
-msgid "難易度を
-選択してください。"
+msgid "難易度を\r\n選択してください。"
 msgstr ""
-msgid "「対戦」プレイする
-難易度を選んでください。
-同点の時は難易度が
-高い方が有利です。"
+msgid "「対戦」プレイする\r\n難易度を選んでください。\r\n同点の時は難易度が\r\n高い方が有利です。"
 msgstr ""
-msgid "「協力」プレイする
-難易度を選んでください。
-同点の時は難易度が
-高い方が有利です。"
+msgid "「協力」プレイする\r\n難易度を選んでください。\r\n同点の時は難易度が\r\n高い方が有利です。"
 msgstr ""
-msgid "名前を入力してください。
-「英語」「数字＆記号」で
-入力することができます。"
+msgid "名前を入力してください。\r\n「英語」「数字＆記号」で\r\n入力することができます。"
 msgstr ""
-msgid "チュートリアルを
-プレイしますか？"
+msgid "チュートリアルを\r\nプレイしますか？"
 msgstr ""
-msgid "ユーザーデータの
-「アイコン」を
-変更することができます。"
+msgid "ユーザーデータの\r\n「アイコン」を\r\n変更することができます。"
 msgstr ""
-msgid "ユーザーデータの
-「称号」を
-変更することができます。"
+msgid "ユーザーデータの\r\n「称号」を\r\n変更することができます。"
 msgstr ""
-msgid "ノーツの速度を
-調整することが出来ます。
-自分に合った速度に
-合わせてください。"
+msgid "ノーツの速度を\r\n調整することが出来ます。\r\n自分に合った速度に\r\n合わせてください。"
 msgstr ""
-msgid "マスク濃度を
-調整することができます。
-濃度を上げるほど
-背景が暗くなっていきます。"
+msgid "マスク濃度を\r\n調整することができます。\r\n濃度を上げるほど\r\n背景が暗くなっていきます。"
 msgstr ""
-msgid "ノーツをタッチしたときの
-ＳＥを変更できます。
-自分の好みに合ったＳＥを
-設定してください。"
+msgid "ノーツをタッチしたときの\r\nＳＥを変更できます。\r\n自分の好みに合ったＳＥを\r\n設定してください。"
 msgstr ""
-msgid "プレイ中(演奏中)の
-ＢＧＭの音量を
-細かく調整できます。"
+msgid "プレイ中(演奏中)の\r\nＢＧＭの音量を\r\n細かく調整できます。"
 msgstr ""
-msgid "プレイ中(演奏中)の
-ＳＥの音量を
-細かく調整できます。"
+msgid "プレイ中(演奏中)の\r\nＳＥの音量を\r\n細かく調整できます。"
 msgstr ""
-msgid "ＷＡＣＣＡコンソールの
-カラーパターンを
-変更できます。"
+msgid "ＷＡＣＣＡコンソールの\r\nカラーパターンを\r\n変更できます。"
 msgstr ""
-msgid "動画再生に対応した楽曲を
-プレイする場合
-動画を再生するか
-設定できます。"
+msgid "動画再生に対応した楽曲を\r\nプレイする場合\r\n動画を再生するか\r\n設定できます。"
 msgstr ""
-msgid "判定の表示位置を
-調整できます。"
+msgid "判定の表示位置を\r\n調整できます。"
 msgstr ""
-msgid "Ｍａｒｖｅｌｏｕｓ以外
-の判定の際、その入力が
-早い(ＦＡＳＴ)か
-遅い(ＬＡＴＥ)か表示する。"
+msgid "Ｍａｒｖｅｌｏｕｓ以外\r\nの判定の際、その入力が\r\n早い(ＦＡＳＴ)か\r\n遅い(ＬＡＴＥ)か表示する。"
 msgstr ""
-msgid "ガイドラインの「間隔線」の
-表示をＯＮ／ＯＦＦ
-することができます。"
+msgid "ガイドラインの「間隔線」の\r\n表示をＯＮ／ＯＦＦ\r\nすることができます。"
 msgstr ""
-msgid "ガイドラインの濃度を
-調整できます。
-濃度を上げるほど
-暗くなっていきます。"
+msgid "ガイドラインの濃度を\r\n調整できます。\r\n濃度を上げるほど\r\n暗くなっていきます。"
 msgstr ""
-msgid "小節線の表示を
-ＯＮ／ＯＦＦ
-することができます。"
+msgid "小節線の表示を\r\nＯＮ／ＯＦＦ\r\nすることができます。"
 msgstr ""
-msgid "ＣＯＭＢＯの表示を
-ＯＮ／ＯＦＦ
-することができます。"
+msgid "ＣＯＭＢＯの表示を\r\nＯＮ／ＯＦＦ\r\nすることができます。"
 msgstr ""
-msgid "スキル設定中の
-タイトルの上のメッセージ"
+msgid "スキル設定中の\r\nタイトルの上のメッセージ"
 msgstr ""
-msgid "入力タイミングを調整します。
-「FAST」が多くでるなら「+」
-「LATE」が多くでるなら「-」
-に調整してください。"
+msgid "入力タイミングを調整します。\r\n「FAST」が多くでるなら「+」\r\n「LATE」が多くでるなら「-」\r\nに調整してください。"
 msgstr ""
-msgid "スコア表示方式を変更します。
-通常は「プラス方式」です。
-「マイナス方式」は
-Ｍａｒｖｅｌｏｕｓ
-以外の場合減算されます。"
+msgid "スコア表示方式を変更します。\r\n通常は「プラス方式」です。\r\n「マイナス方式」は\r\nＭａｒｖｅｌｏｕｓ\r\n以外の場合減算されます。"
 msgstr ""
-msgid "ギブアップ（途中終了）を
-ＯＮ／ＯＦＦ
-することができます。"
+msgid "ギブアップ（途中終了）を\r\nＯＮ／ＯＦＦ\r\nすることができます。"
 msgstr ""
-msgid "ボーナスエフェクト設定中の
-タイトルの上のメッセージ"
+msgid "ボーナスエフェクト設定中の\r\nタイトルの上のメッセージ"
 msgstr ""
-msgid "ガイド音（正確なリズム音）の
-再生をＯＮ／ＯＦＦ
-することができます。"
+msgid "ガイド音（正確なリズム音）の\r\n再生をＯＮ／ＯＦＦ\r\nすることができます。"
 msgstr ""
-msgid "ＯＮにすると、
-ボーナスノーツ入力の際
-通常よりもノルマ上昇率が
-高くなります。"
+msgid "ＯＮにすると、\r\nボーナスノーツ入力の際\r\n通常よりもノルマ上昇率が\r\n高くなります。"
 msgstr ""
-msgid "プレイ中（演奏中）の
-ボイス再生をＯＮ／ＯＦＦ
-することができます。"
+msgid "プレイ中（演奏中）の\r\nボイス再生をＯＮ／ＯＦＦ\r\nすることができます。"
 msgstr ""
-msgid "ユーザーデータの
-「プレート」を
-変更することができます。"
+msgid "ユーザーデータの\r\n「プレート」を\r\n変更することができます。"
 msgstr ""
-msgid "ユーザーデータの
-「ナビゲーター」を
-変更することができます。"
+msgid "ユーザーデータの\r\n「ナビゲーター」を\r\n変更することができます。"
 msgstr ""
 msgid "所持数 ×<POSSESS_NUM>"
 msgstr ""
@@ -1187,8 +888,7 @@ msgid "Rate:"
 msgstr ""
 msgid "-"
 msgstr ""
-msgid "今VIPに加入すると
-アイテムを獲得することができます"
+msgid "今VIPに加入すると\r\nアイテムを獲得することができます"
 msgstr ""
 msgid "VIP加入ボーナス"
 msgstr ""
