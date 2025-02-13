@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "Aime reader is not recognized. 
+Aime is currently unavailable."
+msgstr ""
+msgid "Aime's firmware is being updated. 
+Aime is currently unavailable."
+msgstr ""
+msgid "Aime's firmware is not normal. 
+Aime is currently unavailable."
+msgstr ""
+msgid "Communication with the Aime database has failed. 
+The Aime card may not be usable. 
+Perform a network test in test mode to check the communication status."
+msgstr ""
+msgid "Network connection cannot be confirmed. 
+Network-based functions are currently unavailable."
+msgstr ""
+msgid "Unable to confirm connection to ALL.Net authentication server. 
+Network-based functions are currently unavailable."
+msgstr ""
+msgid "Connection to the Aime database cannot be confirmed. 
+Functions using Aime are currently unavailable."
+msgstr ""
+msgid "Unable to confirm connection to electronic money processing server. 
+Electronic money payment function is currently unavailable."
+msgstr ""
+msgid "After removing the installation media, check the version in test mode."
+msgstr ""
+msgid "Aime Error 
+<ERROR_MESSAGE>"
+msgstr ""

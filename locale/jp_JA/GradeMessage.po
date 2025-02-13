@@ -1,0 +1,2954 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "マイページにてカスタマイズした称号"
+msgstr ""
+msgid "最初から所持"
+msgstr ""
+msgid "最初から所持"
+msgstr ""
+msgid "最初から所持"
+msgstr ""
+msgid "ａｒａｎ楽曲を
+１００回クリア"
+msgstr ""
+msgid "最初から所持"
+msgstr ""
+msgid "難易度ＥＸＰＥＲＴで
+レートＳＳ以上を３０回達成"
+msgstr ""
+msgid "難易度ＥＸＰＥＲＴで
+レートＳＳＳ以上を３０回達成"
+msgstr ""
+msgid "難易度ＩＮＦＥＲＮＯで
+ALL Marvelousを
+達成"
+msgstr ""
+msgid "プレイヤーレベルを
+１００にする"
+msgstr ""
+msgid "難易度ＩＮＦＥＲＮＯを
+クリア"
+msgstr ""
+msgid "ALL Marvelousを
+達成"
+msgstr ""
+msgid "Full Comboを
+達成"
+msgstr ""
+msgid "Misslessを
+達成"
+msgstr ""
+msgid "プレイヤーレベルを
+１０にする"
+msgstr ""
+msgid "ボカロ楽曲を３０回プレイ"
+msgstr ""
+msgid "アニメ／ＰＯＰ楽曲を３０回プレイ"
+msgstr ""
+msgid "２．５次元楽曲を５回プレイ"
+msgstr ""
+msgid "HARDCORE TANO*C楽曲を
+３０回プレイ"
+msgstr ""
+msgid "ボカロ楽曲を
+レートＳ以上で５０回達成"
+msgstr ""
+msgid "プレイヤーレベルを
+２００にする"
+msgstr ""
+msgid "２．５次元楽曲を
+レートＳ以上で１０回達成"
+msgstr ""
+msgid "ＲＥＤＡＬｉＣＥ楽曲を
+３０回クリア"
+msgstr ""
+msgid "ｔ＋ｐａｚｏｌｉｔｅ楽曲を
+３０回クリア"
+msgstr ""
+msgid "ＵＳＡＯ楽曲を
+３０回クリア"
+msgstr ""
+msgid "Ｐ＊Ｌｉｇｈｔ楽曲を
+３０回クリア"
+msgstr ""
+msgid "ＤＪ　Ｇｅｎｋｉ楽曲を
+３０回クリア"
+msgstr ""
+msgid "ＤＪ　Ｎｏｒｉｋｅｎ楽曲を
+３０回クリア"
+msgstr ""
+msgid "Ｍａｓｓｉｖｅ Ｎｅｗ Ｋｒｅｗ楽曲を
+３０回クリア"
+msgstr ""
+msgid "ＤＪ　Ｍｙｏｓｕｋｅ楽曲を
+３０回クリア"
+msgstr ""
+msgid "Ｋｏｂａｒｙｏ楽曲を
+３０回クリア"
+msgstr ""
+msgid "ａｒａｎ楽曲を
+３０回クリア"
+msgstr ""
+msgid "源屋楽曲を
+３０回クリア"
+msgstr ""
+msgid "Ｓｒａｖ３Ｒ楽曲を
+３０回クリア"
+msgstr ""
+msgid "Ｇｅｔｔｙ楽曲を
+３０回クリア"
+msgstr ""
+msgid "Ｌａｕｒ楽曲を
+３０回クリア"
+msgstr ""
+msgid "アニメ／ＰＯＰ楽曲を
+レートＳ以上で５０回達成"
+msgstr ""
+msgid "マルチプレイ(対戦)を１回プレイ"
+msgstr ""
+msgid "マルチプレイ(協力)を１回プレイ"
+msgstr ""
+msgid "難易度ＮＯＲＭＡＬ以上で
+１５回プレイ"
+msgstr ""
+msgid "プレイヤーレベルを
+３０にする"
+msgstr ""
+msgid "プレイヤーレベルを
+５０にする"
+msgstr ""
+msgid "難易度ＨＡＲＤ以上で９０回プレイ"
+msgstr ""
+msgid "５つ以上のアイコンを使用してプレイ"
+msgstr ""
+msgid "すごく速い楽曲を
+５０回プレイ"
+msgstr ""
+msgid "１０回連続で、同一楽曲をプレイ"
+msgstr ""
+msgid "楽曲を５回以上選びなおしてからプレイ"
+msgstr ""
+msgid "難易度ＥＸＰＥＲＴで
+３００回プレイ"
+msgstr ""
+msgid "難易度ＩＮＦＥＲＮＯを５９回プレイ"
+msgstr ""
+msgid "難易度ＨＡＲＤ以上で
+レートＳ以上を１００回達成"
+msgstr ""
+msgid "難易度ＥＸＰＥＲＴで
+ALL Marvelousを
+１０回達成"
+msgstr ""
+msgid "難易度ＩＮＦＥＲＮＯで
+レートＳ以上を３０回達成"
+msgstr ""
+msgid "HARDCORE TANO*C楽曲を
+２００回クリア"
+msgstr ""
+msgid "１００日間連続してプレイ"
+msgstr ""
+msgid "７日間連続してプレイ"
+msgstr ""
+msgid "３０日間連続してプレイ"
+msgstr ""
+msgid "１月１日プレイで獲得"
+msgstr ""
+msgid "２月３日プレイで獲得"
+msgstr ""
+msgid "２月１４日プレイで獲得"
+msgstr ""
+msgid "３月３日プレイで獲得"
+msgstr ""
+msgid "４月１日プレイで獲得"
+msgstr ""
+msgid "４月２９日～５月５日プレイで獲得"
+msgstr ""
+msgid "７月７日プレイで獲得"
+msgstr ""
+msgid "１０月３１日プレイで獲得"
+msgstr ""
+msgid "１２月２４日～１２月２５日
+プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "上記地方店舗プレイで獲得"
+msgstr ""
+msgid "北海道 店舗プレイで獲得"
+msgstr ""
+msgid "青森県 岩手県 秋田県
+宮城県 山形県 福島県
+全地域プレイで獲得"
+msgstr ""
+msgid "茨城県 栃木県 群馬県 埼玉県
+千葉県 東京都 神奈川県
+全地域プレイで獲得"
+msgstr ""
+msgid "山梨県 長野県 新潟県 富山県 石川県
+福井県 静岡県 愛知県 岐阜県 三重県
+全地域プレイで獲得"
+msgstr ""
+msgid "滋賀県 京都府 大阪府
+兵庫県 奈良県 和歌山県
+全地域プレイで獲得"
+msgstr ""
+msgid "鳥取県 島根県 岡山県
+広島県 山口県
+全地域プレイで獲得"
+msgstr ""
+msgid "香川県 愛媛県 徳島県 高知県
+全地域プレイで獲得"
+msgstr ""
+msgid "福岡県 佐賀県 長崎県 熊本県
+大分県 宮崎県 鹿児島県
+全地域プレイで獲得"
+msgstr ""
+msgid "沖縄県 店舗プレイで獲得"
+msgstr ""
+msgid "全都道府県プレイで獲得"
+msgstr ""
+msgid "先行無料体験会参加特典"
+msgstr ""
+msgid "稼働記念サントラCDゲットキャンペーン
+期間中に３０回プレイする"
+msgstr ""
+msgid "｢こんにちは、ARuFaです。｣
+｢ぼくの夢、メチャクソ無限湧き｣
+｢さんさーら！｣
+のアイコンを全て獲得する"
+msgstr ""
+msgid "アルティメット・タノシー!!!!!!!!!!
+開催中にプレイで獲得"
+msgstr ""
+msgid "アルティメット・タノシー!!!!!!!!!!
+開催中にHARDCORE TANO*C楽曲を
+１０回プレイで獲得"
+msgstr ""
+msgid "アルティメット・タノシー!!!!!!!!!!
+開催中にHARDCORE TANO*C楽曲で
+Full Comboを達成で獲得"
+msgstr ""
+msgid "アルティメット・タノシー!!!!!!!!!!
+開催中に「４４４４ＷＰ」を
+取得すると獲得"
+msgstr ""
+msgid "アルティメット・タノシー!!!!!!!!!!
+開催中にHARDCORE TANO*C楽曲で
+ＳＳＳ以上を１０回達成で獲得"
+msgstr ""
+msgid "「TANO*C FES」来場特典"
+msgstr ""
+msgid "「東方Project × WACCA」
+「東方風神録 × WACCA」リニューアル
+イベント報酬"
+msgstr ""
+msgid "「東方Project × WACCA」
+「東方風神録 × WACCA」リニューアル
+イベント報酬"
+msgstr ""
+msgid "「Kizuna AI × WACCA」イベント
+開催中に
+スコアを累計1,000,000獲得する"
+msgstr ""
+msgid "「Kizuna AI × WACCA」イベント
+開催中に
+スコアを累計15,000,000獲得する"
+msgstr ""
+msgid "「Kizuna AI × WACCA」イベント
+開催中に
+スコアを累計20,000,000獲得する"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ I をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ II をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ III をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ IV をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ V をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ VI をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ VII をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ VIII をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ IX をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ X をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ XI をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ XII をクリアする"
+msgstr ""
+msgid "WACCA S
+ステージアップ
+ステージ XIII をクリアする"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA S ゲート｣
+達成報酬"
+msgstr ""
+msgid "プレイヤーレベルを
+３００にする"
+msgstr ""
+msgid "プレイヤーレベルを
+４００にする"
+msgstr ""
+msgid "プレイヤーレベルを
+５００にする"
+msgstr ""
+msgid "「ホロライブ × WACCA」
+「ホロライブ × WACCA」第2弾
+イベント報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」
+「ホロライブ × WACCA」第2弾
+イベント報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」
+「ホロライブ × WACCA」第2弾
+イベント報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」
+「ホロライブ × WACCA」第2弾
+イベント報酬"
+msgstr ""
+msgid "「東方風神録 × WACCA」
+「東方風神録 × WACCA」リニューアル
+イベント報酬"
+msgstr ""
+msgid "「東方風神録 × WACCA」
+「東方風神録 × WACCA」リニューアル
+イベント報酬"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「タノシーコロシアム」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「タノシーコロシアム」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「タノシーコロシアム」
+イベントゲート達成報酬"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ I をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ II をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ III をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ IV をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ V をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ VI をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ VII をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ VIII をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ IX をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ X をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ XI をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ XII をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ XIII をクリアする"
+msgstr ""
+msgid "WACCA Lily ステージアップ
+ステージ XIV をクリアする"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily ゲート｣
+達成報酬"
+msgstr ""
+msgid "1プレイ中全ての楽曲を
+難易度INFERNOで
+ALL Marvelous達成"
+msgstr ""
+msgid "WACCA Lily
+レーティング値300達成"
+msgstr ""
+msgid "WACCA Lily
+レーティング値600達成"
+msgstr ""
+msgid "WACCA Lily
+レーティング値1000達成"
+msgstr ""
+msgid "WACCA Lily
+レーティング値1300達成"
+msgstr ""
+msgid "WACCA Lily
+レーティング値1600達成"
+msgstr ""
+msgid "WACCA Lily
+レーティング値1900達成"
+msgstr ""
+msgid "WACCA Lily
+レーティング値2200達成"
+msgstr ""
+msgid "WACCA Lily
+レーティング値2500達成"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "｢リリィボックス｣から獲得"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "10月31日～11月7日
+プレイで獲得"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」第2弾
+イベントゲート達成報酬"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "12月24日～12月31日
+プレイで獲得"
+msgstr ""
+msgid "1月1日～1月11日
+プレイで獲得"
+msgstr ""
+msgid "2月2日～2月9日
+プレイで獲得"
+msgstr ""
+msgid "2月14日～2月21日
+プレイで獲得"
+msgstr ""
+msgid "3月3日～3月10日
+プレイで獲得"
+msgstr ""
+msgid "WACCA Lily
+｢エクストラゲート｣達成報酬"
+msgstr ""
+msgid "WACCA Lily
+｢エクストラゲート｣達成報酬"
+msgstr ""
+msgid "WACCA Lily
+｢エクストラゲート｣達成報酬"
+msgstr ""
+msgid "WACCA Lily
+｢エクストラゲート｣達成報酬"
+msgstr ""
+msgid "WACCA Lily
+｢エクストラゲート｣達成報酬"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "｢アールボックス｣から獲得"
+msgstr ""
+msgid "フレンドのスコア表示を1人設定する"
+msgstr ""
+msgid "｢WACCA Lily R ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily R ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily R ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily R ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Lily R ゲート｣
+達成報酬"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ I をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ II をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ III をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ IV をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ V をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ VI をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ VII をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ VIII をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ IX をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ X をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ XI をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ XII をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ XIII をクリアする"
+msgstr ""
+msgid "WACCA Lily R ステージアップ
+ステージ XIV をクリアする"
+msgstr ""
+msgid "WACCA Lily R
+レーティング値300達成"
+msgstr ""
+msgid "WACCA Lily R
+レーティング値600達成"
+msgstr ""
+msgid "WACCA Lily R
+レーティング値1000達成"
+msgstr ""
+msgid "WACCA Lily R
+レーティング値1300達成"
+msgstr ""
+msgid "WACCA Lily R
+レーティング値1600達成"
+msgstr ""
+msgid "WACCA Lily R
+レーティング値1900達成"
+msgstr ""
+msgid "WACCA Lily R
+レーティング値2200達成"
+msgstr ""
+msgid "WACCA Lily R
+レーティング値2500達成"
+msgstr ""
+msgid "「Lanota × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Lanota × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Lanota × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Lanota × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "「東方紅魔郷 × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「東方紅魔郷 × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「東方紅魔郷 × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "4月1日～4月8日
+プレイで獲得"
+msgstr ""
+msgid "4月29日～5月5日
+プレイで獲得"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "「D4DJ Groovy Mix × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「D4DJ Groovy Mix × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「D4DJ Groovy Mix × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「D4DJ Groovy Mix × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "「アズールレーン × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「アズールレーン × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「アズールレーン × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「アズールレーン × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "｢エクストラゲート2｣達成報酬"
+msgstr ""
+msgid "｢エクストラゲート2｣達成報酬"
+msgstr ""
+msgid "｢エクストラゲート2｣達成報酬"
+msgstr ""
+msgid "｢エクストラゲート2｣達成報酬"
+msgstr ""
+msgid "｢エクストラゲート2｣達成報酬"
+msgstr ""
+msgid "7月7日～7月14日
+プレイで獲得"
+msgstr ""
+msgid "WACCA2周年！
+いつもプレイしてくれてありがとう！
+期間中にプレイ"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "｢リバースボックス｣から獲得"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ I をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ II をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ III をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ IV をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ V をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ VI をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ VII をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ VIII をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ IX をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ X をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ XI をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ XII をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ XIII をクリアする"
+msgstr ""
+msgid "WACCA Reverse ステージアップ
+ステージ XIV をクリアする"
+msgstr ""
+msgid "WACCA Reverse
+レーティング値300達成"
+msgstr ""
+msgid "WACCA Reverse
+レーティング値600達成"
+msgstr ""
+msgid "WACCA Reverse
+レーティング値1000達成"
+msgstr ""
+msgid "WACCA Reverse
+レーティング値1300達成"
+msgstr ""
+msgid "WACCA Reverse
+レーティング値1600達成"
+msgstr ""
+msgid "WACCA Reverse
+レーティング値1900達成"
+msgstr ""
+msgid "WACCA Reverse
+レーティング値2200達成"
+msgstr ""
+msgid "WACCA Reverse
+レーティング値2500達成"
+msgstr ""
+msgid "シングルプレイ(フリータイム)
+を10回プレイ"
+msgstr ""
+msgid "マルチプレイ COOP
+を1回プレイ"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "｢WACCA Reverse ゲート｣
+達成報酬"
+msgstr ""
+msgid "「Arcaea × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Arcaea × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "プレイヤーレベルを
+６００にする"
+msgstr ""
+msgid "プレイヤーレベルを
+７００にする"
+msgstr ""
+msgid "プレイヤーレベルを
+８００にする"
+msgstr ""
+msgid "プレイヤーレベルを
+９００にする"
+msgstr ""
+msgid "プレイヤーレベルを
+９９９にする"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート達成報酬"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "10月31日～11月7日
+プレイで獲得"
+msgstr ""
+msgid "「闘神祭2021」
+出場"
+msgstr ""
+msgid "「闘神祭2021」
+決勝進出"
+msgstr ""
+msgid "「闘神祭2021」
+優勝"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート達成報酬"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "12月24日～12月31日
+プレイで獲得"
+msgstr ""
+msgid "1月1日～1月8日
+プレイで獲得"
+msgstr ""
+msgid "2月3日～2月10日
+プレイで獲得"
+msgstr ""
+msgid "2月14日～2月21日
+プレイで獲得"
+msgstr ""
+msgid "3月3日～3月10日
+プレイで獲得"
+msgstr ""
+msgid "4月1日～4月8日
+プレイで獲得"
+msgstr ""
+msgid "4月29日～5月5日
+プレイで獲得"
+msgstr ""
+msgid "7月7日～7月14日
+プレイで獲得"
+msgstr ""
+msgid "｢エクストラゲート3｣達成報酬"
+msgstr ""
+msgid "｢エクストラゲート3｣達成報酬"
+msgstr ""
+msgid "｢エクストラゲート3｣達成報酬"
+msgstr ""
+msgid "｢エクストラゲート3｣達成報酬"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTを
+各１回ずつクリアする"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTを
+各１回ずつクリアする"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTを
+各１回ずつクリアする"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "ステージアップ
+｢SPURT Re:MIX Vol.1｣
+をクリアする"
+msgstr ""
+msgid "ステージアップ
+｢SPURT Re:MIX Vol.2｣
+をクリアする"
+msgstr ""
+msgid "ステージアップ
+｢SPURT Re:MIX Vol.3｣
+をクリアする"
+msgstr ""
+msgid "プレイヤーレベルを
+1000にする"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""
+msgid "上記楽曲の
+NORMAL / HARD / EXPERTで
+ALL Marvelousを達成"
+msgstr ""

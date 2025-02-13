@@ -1,0 +1,279 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "<span color=\"#E5006D\">光っているエリア</>を
+タッチすればスタートするよ！"
+msgstr ""
+msgid "Aimeカード 又は Amusement IC対応カードを
+スキャンするか<span color=\"#E5006D\">光っているエリア</>をタッチ！"
+msgstr ""
+msgid "アルティメット・タノシー
+!!!!!!!!!! 開催中。
+タノシー楽曲 一挙追加！
+限定アイテムもチェック！"
+msgstr ""
+msgid "アルティメット・タノシー
+!!!!!!!!!! 開催中。
+Aimeカード 又は Amusement IC対応カードをスキャンするか
+<span color=\"#E5006D\">光っているエリア</>をタッチ！"
+msgstr ""
+msgid "<span color=\"#E5006D\">東方Project×WACCA</> イベント開催中！
+「東方アレンジ」楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "<span color=\"#E5006D\">東方Project×WACCA</> イベント開催中！
+Aimeカード 又は Amusement IC対応
+カードをスキャンするか光っている
+エリアをタッチ！"
+msgstr ""
+msgid "<span color=\"#000000\">Kizuna AI × WACCA</> イベント開催中！
+Kizuna AIの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "<span color=\"#000000\">Kizuna AI × WACCA</> イベント開催中！
+Aimeカード 又は Amusement IC対応カードをスキャンするか
+光っているエリアをタッチ！"
+msgstr ""
+msgid "今なら<span color=\"#000000\">限定アイコン</>がもらえるよ！
+期間中にプレイして
+ゲーム内アイコンをゲットしよう！"
+msgstr ""
+msgid "今なら<span color=\"#000000\">限定アイコン</>がもらえるよ！
+Aimeカード 又は Amusement IC対応カードをスキャンするか
+光っているエリアをタッチ！"
+msgstr ""
+msgid "「ホロライブ × WACCA」イベント開催中！
+ホロライブの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「ホロライブ × WACCA」イベント開催中！
+Aimeカード 又は Amusement IC対応カードをスキャンするか
+光っているエリアをタッチ！"
+msgstr ""
+msgid "「東方風神録 × WACCA」イベント開催中！
+東方アレンジ楽曲に新曲が追加！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「東方風神録 × WACCA」イベント開催中！
+Aimeカード 又は Amusement IC対応カードをスキャンするか
+光っているエリアをタッチ！"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベント開催中！
+グルーヴコースターの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベント開催中！
+Aimeカード 又は Amusement IC対応カードをスキャンするか
+光っているエリアをタッチ！"
+msgstr ""
+msgid "<span color=\"#E5006D\">　　　騒がしい連中が遊びに来たぞ！</>"
+msgstr ""
+msgid "<span color=\"#E5006D\">　　　騒がしい連中が遊びに来たぞ！</>
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか
+光っているエリアをタッチ！"
+msgstr ""
+msgid "｢ブレンド・S × WACCA｣イベント開催中！
+ブレンド・Sの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "｢ブレンド・S × WACCA｣イベント開催中！
+Aimeカード 又は Amusement IC対応カードをスキャンするか
+光っているエリアをタッチ！"
+msgstr ""
+msgid "｢タノシーコロシアム｣開催中！
+タノシー楽曲 一挙追加！
+限定アイテムもチェック！"
+msgstr ""
+msgid "｢タノシーコロシアム｣開催中！
+Aimeカード 又は Amusement IC対応カードをスキャンするか
+光っているエリアをタッチ！"
+msgstr ""
+msgid "シリーズ10周年記念！
+｢プリティーシリーズ × WACCA｣イベント開催中！
+プリティーシリーズの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "｢プリティーシリーズ × WACCA｣イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "｢東方風神録 × WACCA｣
+リニューアルイベント開催中！
+｢東方風神録 × WACCA｣ステージアップが登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "｢東方風神録 × WACCA｣
+リニューアルイベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "｢ダンまちⅢ × WACCA｣イベント開催中！
+ダンまちの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "｢ダンまちⅢ × WACCA｣イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾イベント開催中！
+｢ホロライブ｣の楽曲を新たに追加！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」第2弾イベント開催中！
+｢グルーヴコースター｣の楽曲を新たに追加！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」第2弾イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "｢Lanota × WACCA｣イベント開催中！
+Lanotaの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "｢Lanota × WACCA｣イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "<span color=\"#E5006D\">騒がしい連中がこちらを見ている！</>"
+msgstr ""
+msgid "<span color=\"#E5006D\">騒がしい連中がこちらを見ている！</>
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "「東方紅魔郷 × WACCA」イベント開催中！
+東方アレンジ楽曲に新曲が追加！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「東方紅魔郷 × WACCA」イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "「D4DJ Groovy Mix × WACCA」イベント開催中！
+D4DJの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「D4DJ Groovy Mix × WACCA」イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "「アズールレーン × WACCA」イベント開催中！
+アズールレーンの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「アズールレーン × WACCA」イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "<span color=\"#E5006D\">WACCAは2周年！</>
+ゲームをプレイして記念アイテムを手に入れよう！"
+msgstr ""
+msgid "<span color=\"#E5006D\">WACCAは2周年！</>
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "【復刻】「ARuFa × WACCA」イベント開催中！
+ARuFaの楽曲に新曲が追加！
+限定アイテムもチェック！"
+msgstr ""
+msgid "【復刻】「ARuFa × WACCA」イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "「Arcaea × WACCA」イベント開催中！
+Arcaeaの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「Arcaea × WACCA」イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "「TANO*C EX*Stream」開催中！
+HARDCORE TANO*C楽曲に新曲が追加！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「TANO*C EX*Stream」開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "「Muse Dash × WACCA」イベント開催中！
+Muse Dashの楽曲がWACCAに登場！
+限定アイテムもチェック！"
+msgstr ""
+msgid "「Muse Dash × WACCA」イベント開催中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "獲得ゲートポイント & RP 3倍キャンペーン中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "獲得ゲートポイント & RP 3倍キャンペーン中！
+Aimeカード 又は Amusement IC対応カードを
+スキャンするか光っているエリアをタッチ！"
+msgstr ""
+msgid "楽しかったですか？僕は楽しかったです。
+それではさようなら。"
+msgstr ""
+msgid "最高最高最高～～～～～～～～～～～～！！！！"
+msgstr ""
+msgid "ワタシはドロシー、特技はラップなの
+ヨロシクね"
+msgstr ""
+msgid "あそんでくれたみたいね、ありがとう
+また貴方に会いたいな"
+msgstr ""
+msgid "おめえ、ランクインしたんか！すっげえな！"
+msgstr ""
+msgid "はいどうもー！キズナアイです！
+私の曲を遊んでくれてありがとう。
+またねー♪"
+msgstr ""
+msgid "アイちゃん！！
+Very very cute！！"
+msgstr ""
+msgid "ちょちょいのちょいですよ"
+msgstr ""
+msgid "ハッピーニューイヤー！"
+msgstr ""
+msgid "和服、一度着てみたかったんだよね。
+クールで素敵だと思わない？"
+msgstr ""
+msgid "そらとものみんなー、げんき～？
+遊んでくれてありがとー♪"
+msgstr ""
+msgid "今回も遊んでくれてありがとうございます！
+おやあずき～。"
+msgstr ""
+msgid "お疲れ様です。輝いてましたよ！"
+msgstr ""
+msgid "ありがとうございました。
+また会いに来てください。"
+msgstr ""
+msgid "おめでとうございます！
+記録更新、お見事です！"
+msgstr ""
+msgid "みんな遊んでくれてありがとー！
+またプレイしてね！！"
+msgstr ""
+msgid "ハードコアテクノじゃない曲もたまにはいいよね！"
+msgstr ""
+msgid "ランクインおめ！！
+めっちゃがんばってんね！！！！"
+msgstr ""
+msgid "光っているエリアをタッチしてゲームスタート！"
+msgstr ""
+msgid "ラストスパートイベント
+開催中！"
+msgstr ""
+msgid "ラストスパート
+イベント"
+msgstr ""

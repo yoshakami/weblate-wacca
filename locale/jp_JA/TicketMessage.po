@@ -1,0 +1,18 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "期限付きEXオープンチケット"
+msgstr ""
+msgid "期限なしEXオープンチケット"
+msgstr ""
+msgid "EXPERTプレイチケット"
+msgstr ""
+msgid "今回のプレイ中に限り、未開放のEXPERTがすべて遊べるようになります。
+<span size=\"13\">※ステージアップでは効果がありません。</>"
+msgstr ""
+msgid "+1曲ボーナスチケット"
+msgstr ""
+msgid "今回のプレイに限り遊べる曲が1曲増えます。
+<span size=\"13\">※シングルプレイ以外では効果がありません。</>"
+msgstr ""

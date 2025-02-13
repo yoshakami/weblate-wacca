@@ -1,0 +1,241 @@
+﻿msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "Touch the <span color=\"#E5006D\">lit up area</span> to start!"
+msgstr ""
+msgid "Scan your Aime Card or Amusement IC card or touch the <span color=\"#E5006D\">lit up area</span>!"
+msgstr ""
+msgid "Ultimate Tanooshi!!!!!!!!!! Now on! 
+All new Tanooshi songs added! 
+Check out the limited items too!"
+msgstr ""
+msgid "Ultimate Tanooshi 
+!!!!!!!!!! Now on. 
+Scan your Aime Card or Amusement IC card or 
+touch the <span color=\"#E5006D\">glowing area</span>!"
+msgstr ""
+msgid "Touhou Project x WACCA event is currently being held! 
+\"Touhou Arranged\" music is now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "Touhou Project x WACCA event is underway! 
+Aime Card or Amusement IC compatible 
+Scan the card or touch the glowing 
+area!"
+msgstr ""
+msgid "Kizuna AI × WACCA event is being held! 
+Kizuna AI's music is now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "Kizuna AI × WACCA event is underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "Get a <span color=\"#000000\">limited edition icon</s> now! 
+Play during the period and get the in-game icon!"
+msgstr ""
+msgid "Get a <span color=\"#000000\">limited edition icon</span> now! 
+Scan your Aime card or Amusement IC card, or 
+touch the glowing area!"
+msgstr ""
+msgid "\"HoloLive x WACCA\" event is currently underway! 
+Hololive songs are now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"HoloLive x WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "\"Touhou Fuujinroku × WACCA\" event is now underway! 
+New songs added to the Touhou arranged music! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Touhou Fuujinroku × WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "\"Groove Coaster x WACCA\" 
+Event is now underway! 
+Groove Coaster's music is now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Groove Coaster x WACCA\" 
+Event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "<span color=\"#E5006D\">The rowdy crowd is here to play!</>"
+msgstr ""
+msgid "<span color=\"#E5006D\">　The rowdy crowd is here to play!</> 
+Scan your Aime Card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "\"Blend S x WACCA\" event is being held! 
+Blend S songs are now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Blend-S x WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "\"Tanosea Coliseum\" is now open! 
+All new Tanoshii songs added! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Tanosea Coliseum\" is now open! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "Celebrating the series' 10th anniversary! 
+\"Pretty Series x WACCA\" event now being held! 
+Music from the Pretty Series is now available on WACCA! 
+Check out the limited edition items too!"
+msgstr ""
+msgid "\"Pretty Series x WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC compatible card or touch the glowing area!"
+msgstr ""
+msgid "\"Touhou Fuujinroku x WACCA\" 
+Renewal event is underway! 
+\"Touhou Fuujinroku x WACCA\" Stage Up is here! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Touhou Fuujinroku × WACCA\" 
+Renewal event is now underway! 
+Scan your Aime Card or Amusement IC-compatible card or touch the glowing area!"
+msgstr ""
+msgid "\"DanMachi III × WACCA\" event is currently being held! 
+DanMachi music is now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"DanMachi III × WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "The second \"HoloLive x WACCA\" event is underway! 
+New songs from \"HoloLive\" have been added! 
+Check out the limited items too!"
+msgstr ""
+msgid "The second \"HoloLive x WACCA\" event is underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "The second \"Groove Coaster x WACCA\" event is now underway! 
+New \"Groove Coaster\" songs have been added! 
+Check out the limited items too!"
+msgstr ""
+msgid "The second \"Groove Coaster x WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "\"Lanota × WACCA\" event is being held! 
+Lanota's music is now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Lanota × WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "<span color=\"#E5006D\">The rowdy crowd is looking at you!</>"
+msgstr ""
+msgid "<span color=\"#E5006D\">The noisy guys are looking at you!</> 
+Scan your Aime card or Amusement IC card or touch the illuminated area!"
+msgstr ""
+msgid "\"Touhou Koumakyou × WACCA\" event is now underway! 
+New songs added to the Touhou arranged music! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Touhou Koumakyou × WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "\"D4DJ Groovy Mix × WACCA\" event is being held! 
+D4DJ songs are now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"D4DJ Groovy Mix × WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "\"Azur Lane x WACCA\" event is currently being held! 
+Azur Lane music is now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Azur Lane x WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC-compatible card or touch the glowing area!"
+msgstr ""
+msgid "<span color=\"#E5006D\">WACCA is celebrating its 2nd anniversary! </> 
+Play the game and get commemorative items!"
+msgstr ""
+msgid "<span color=\"#E5006D\">WACCA is celebrating its 2nd anniversary!</span> 
+Scan your Aime Card or Amusement IC-compatible card or touch the glowing area!"
+msgstr ""
+msgid "[Reprint] \"ARuFa × WACCA\" event is being held! 
+New songs added to ARuFa's music! 
+Check out the limited items too!"
+msgstr ""
+msgid "[Reprint] \"ARuFa × WACCA\" event is now being held! 
+Scan your Aime card or Amusement IC compatible card or touch the glowing area!"
+msgstr ""
+msgid "\"Arcaea × WACCA\" event is now underway! 
+Arcaea's music is now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Arcaea × WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "\"TANO*C EX*Stream\" is now being held! 
+New songs have been added to the HARDCORE TANO*C music! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"TANO*C EX*Stream\" is now open! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "\"Muse Dash × WACCA\" event is being held! 
+Muse Dash's music is now available on WACCA! 
+Check out the limited items too!"
+msgstr ""
+msgid "\"Muse Dash × WACCA\" event is now underway! 
+Scan your Aime card or Amusement IC card or touch the glowing area!"
+msgstr ""
+msgid "Earn 3x Gate Points & RP during the campaign! 
+Scan your Aime Card or Amusement IC-compatible card or touch the glowing area!"
+msgstr ""
+msgid "Earn 3x Gate Points & RP during the campaign! 
+Scan your Aime Card or Amusement IC-compatible card or touch the glowing area!"
+msgstr ""
+msgid "Did you have fun? I had fun. 
+Well, goodbye."
+msgstr ""
+msgid "The best, the best, the best!!!"
+msgstr ""
+msgid "I'm Dorothy and my special skill is rapping. Nice to meet you."
+msgstr ""
+msgid "It looks like you played with me, thank you. I want to see you again."
+msgstr ""
+msgid "Wow, you made it into the rankings! That's amazing!"
+msgstr ""
+msgid "Hello everyone! I'm Kizuna AI! 
+Thank you for playing my song. 
+See you soon!"
+msgstr ""
+msgid "Ai-chan!! Very very cute!!"
+msgstr ""
+msgid "It's just a breeze."
+msgstr ""
+msgid "Happy New Year!"
+msgstr ""
+msgid "I've always wanted to try wearing a kimono. Don't you think it's cool and wonderful?"
+msgstr ""
+msgid "Hey everyone, how are you? 
+Thanks for playing with me!"
+msgstr ""
+msgid "Thank you for playing again this time! 
+Good morning Azuki."
+msgstr ""
+msgid "Thank you for your hard work. You were shining!"
+msgstr ""
+msgid "Thank you very much. Please come and see me again."
+msgstr ""
+msgid "Congratulations! You broke the record, great work!"
+msgstr ""
+msgid "Thanks for playing everyone! Let's play again!"
+msgstr ""
+msgid "It's nice to hear songs that aren't hardcore techno every now and then!"
+msgstr ""
+msgid "Congratulations on making the ranking!! 
+You've worked really hard!!!"
+msgstr ""
+msgid "Touch the glowing area to start the game!"
+msgstr ""
+msgid "The final spurt event is underway!"
+msgstr ""
+msgid "Last spurt event"
+msgstr ""

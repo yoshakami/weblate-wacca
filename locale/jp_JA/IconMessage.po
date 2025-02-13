@@ -1,0 +1,1800 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "ＷＡＣＣＡ　ＬＯＧＯ"
+msgstr ""
+msgid "最初から所持"
+msgstr ""
+msgid "ＷＡＣＣＡ　コンソール"
+msgstr ""
+msgid "最初から所持"
+msgstr ""
+msgid "Rainbow Dream"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Knight Rider"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Poseidon"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "PARALLEL★PRISM"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "MEMORiZE"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "illanai-assorted"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Soldiers"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Fight for the CORE feat. Daisuke"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Let you DIVE!"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "LEVATEiN feat. 野宮あゆみ"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "BIG HEAD BANGING"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Quon"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "HELL FLAME"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Gate One"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Are You Ready"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Over My Hand"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Exitium"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "ＳＴＡＲ"
+msgstr ""
+msgid "楽曲を
+５回プレイ"
+msgstr ""
+msgid "ＵｎＬｏｃｋｅｒ"
+msgstr ""
+msgid "楽曲を
+２０曲
+オープンする"
+msgstr ""
+msgid "Ｆｅａｔｈｅｒ"
+msgstr ""
+msgid "楽曲を
+５０回クリア"
+msgstr ""
+msgid "あいつ"
+msgstr ""
+msgid "楽曲を
+１００回プレイ"
+msgstr ""
+msgid "エリザベス"
+msgstr ""
+msgid "楽曲を
+２００回プレイ"
+msgstr ""
+msgid "般若"
+msgstr ""
+msgid "難易度HARD以上で
+レートSS以上を
+５曲獲得"
+msgstr ""
+msgid "Ｇｅａｒ"
+msgstr ""
+msgid "難易度HARD以上で
+Full Comboを
+８回獲得"
+msgstr ""
+msgid "Ｐｕｌｓｅ"
+msgstr ""
+msgid "難易度HARD以上で
+ALL Marvelousを
+達成"
+msgstr ""
+msgid "えりざべす"
+msgstr ""
+msgid "1プレイ中全ての
+楽曲を
+難易度HARD以上で
+レートSSSを
+達成"
+msgstr ""
+msgid "うぇるかむ　とぅ　へぶん"
+msgstr ""
+msgid "1プレイ中全ての
+楽曲を
+難易度HARD以上で
+Full Comboを
+達成"
+msgstr ""
+msgid "かれ～なてさばき"
+msgstr ""
+msgid "1プレイ中全ての
+楽曲を難易度
+EXPERTで
+ALL Marvelousを
+達成"
+msgstr ""
+msgid "ＴＡＮＯ＊Ｃ"
+msgstr ""
+msgid "HARDCORE TANO*C
+レーベルの曲を
+５０回プレイ"
+msgstr ""
+msgid "放置プレイ"
+msgstr ""
+msgid "レートＤを
+１回達成"
+msgstr ""
+msgid "いあつ"
+msgstr ""
+msgid "難易度HARD以上で
+判定「MISS 1」
+かつ残り全ての
+判定を
+「Marvelous」で
+クリア"
+msgstr ""
+msgid "ドヤ猫"
+msgstr ""
+msgid "レートＳＳＳを
+１５０回達成"
+msgstr ""
+msgid "しょんぼり犬"
+msgstr ""
+msgid "レートＡ以下を
+２回達成"
+msgstr ""
+msgid "『輪』"
+msgstr ""
+msgid "マルチプレイを
+１回プレイ"
+msgstr ""
+msgid "ATARAX1A"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "13 Donkeys"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Invisible Frenzy"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "ADAM"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Chariot"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "ぼくの夢、メチャクソ無限湧き"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "HiGHER"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "GRiDGALAXY"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "BOOM! BOOM!! BOOM!!!"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Sound Chimera"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Sunshine"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "ドロシー"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "霊夢"
+msgstr ""
+msgid "「東方Project × WACCA」
+「東方風神録 × WACCA」リニューアル
+イベント報酬"
+msgstr ""
+msgid "魔理沙"
+msgstr ""
+msgid "「東方Project × WACCA」
+「東方風神録 × WACCA」リニューアル
+イベント報酬"
+msgstr ""
+msgid "キズナアイ"
+msgstr ""
+msgid "「Kizuna AI × WACCA」イベント開催中に楽曲を
+５回プレイ
+で獲得"
+msgstr ""
+msgid "キズナアイ(A.I.Games)"
+msgstr ""
+msgid "「Kizuna AI × WACCA」イベント開催中に楽曲を
+１０回プレイ
+で獲得"
+msgstr ""
+msgid "キズナアイ(ドヤっ)"
+msgstr ""
+msgid "「Kizuna AI × WACCA」イベント開催中に楽曲を
+２０回プレイ
+で獲得"
+msgstr ""
+msgid "JINGLE DEATH"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "振袖エリザベス"
+msgstr ""
+msgid "下記期間中に
+プレイで獲得
+2020/01/01
+ 07:00 ～
+2020/01/20
+ 06:59"
+msgstr ""
+msgid "バッジ"
+msgstr ""
+msgid "｢WACCA S 
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "エンブレム"
+msgstr ""
+msgid "〇〇ゲート
+Xをクリアで獲得"
+msgstr ""
+msgid "ステージアップ『I』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ I を
+クリアする"
+msgstr ""
+msgid "ステージアップ『II』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ II を
+クリアする"
+msgstr ""
+msgid "ステージアップ『III』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ III を
+クリアする"
+msgstr ""
+msgid "ステージアップ『IV』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ IV を
+クリアする"
+msgstr ""
+msgid "ステージアップ『V』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ V を
+クリアする"
+msgstr ""
+msgid "ステージアップ『VI』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ VI を
+クリアする"
+msgstr ""
+msgid "ステージアップ『VII』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ VII を
+クリアする"
+msgstr ""
+msgid "ステージアップ『VIII』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ VIII を
+クリアする"
+msgstr ""
+msgid "ステージアップ『IX』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ IX を
+クリアする"
+msgstr ""
+msgid "ステージアップ『X』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ X を
+クリアする"
+msgstr ""
+msgid "ステージアップ『XI』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ XI を
+クリアする"
+msgstr ""
+msgid "ステージアップ『XII』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ XII を
+クリアする"
+msgstr ""
+msgid "ステージアップ『XIII』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ XIII を
+クリアする"
+msgstr ""
+msgid "ステージアップ『XⅣ』 制覇"
+msgstr ""
+msgid "ステージアップ
+ステージ XⅣ を
+クリアする"
+msgstr ""
+msgid "ときのそら"
+msgstr ""
+msgid "「ホロライブ × WACCA」
+「ホロライブ × WACCA」第2弾
+イベント報酬"
+msgstr ""
+msgid "ＡＺＫｉ"
+msgstr ""
+msgid "「ホロライブ × WACCA」
+「ホロライブ × WACCA」第2弾
+イベント報酬"
+msgstr ""
+msgid "ときのそら（live edition)"
+msgstr ""
+msgid "「ホロライブ × WACCA」
+「ホロライブ × WACCA」第2弾
+イベント報酬"
+msgstr ""
+msgid "ＡＺＫｉ（live edition)"
+msgstr ""
+msgid "「ホロライブ × WACCA」
+「ホロライブ × WACCA」第2弾
+イベント報酬"
+msgstr ""
+msgid "あいつ（REDALiCE ver)"
+msgstr ""
+msgid "「ＪＡＥＰＯ
+ ２０２０」
+ＷＡＣＣＡブース
+来場特典"
+msgstr ""
+msgid "Murasaki"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Mazy Metroplex"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "早苗"
+msgstr ""
+msgid "「東方風神録 × WACCA」
+「東方風神録 × WACCA」リニューアル
+イベント報酬"
+msgstr ""
+msgid "リンカ"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ユメ"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "セイネ"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "リンカ ＥＸ"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ユメ ＥＸ"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "セイネ ＥＸ"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ＧＣ ＣＲＡＢ"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "Brain Power"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "桜ノ宮苺香"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "日向夏帆"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "星川麻冬"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "天野美雨"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "神崎ひでり"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "秋月紅葉"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ディーノ"
+msgstr ""
+msgid "「ブレンド・S × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ＤORO*Ｃ"
+msgstr ""
+msgid "「タノシーコロシアム」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "IRRENA"
+msgstr ""
+msgid "「タノシーコロシアム」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "Metamorphose"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "MAGiC4LG1RL M3GA S7R1KE!"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "METEOR BURST"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "XTREME"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "天使光輪"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "with U"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "SUPER REACTOR"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "ONOMATO Pairing!!!"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "GENOCIDER"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "エンジョイ勢"
+msgstr ""
+msgid "｢WACCA Lily 
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "ガチ勢"
+msgstr ""
+msgid "｢WACCA Lily 
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "神"
+msgstr ""
+msgid "｢WACCA Lily 
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "I ◎ WACCA"
+msgstr ""
+msgid "｢WACCA Lily 
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "リリィ"
+msgstr ""
+msgid "｢WACCA Lily 
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "INFERNO"
+msgstr ""
+msgid "難易度INFERNOを1回クリア"
+msgstr ""
+msgid "クラウン"
+msgstr ""
+msgid "シーズン2の
+全トロフィー
+獲得"
+msgstr ""
+msgid "ブーケ"
+msgstr ""
+msgid "累計獲得
+Lilyポイント
+100000達成"
+msgstr ""
+msgid "あきれ"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "うちゅうのしんり"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "もえつきた"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "のびしろ"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "たいくつ"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ばくはつ"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "どらみんぐ"
+msgstr ""
+msgid "VIP継続特典"
+msgstr ""
+msgid "じこしゅちょう"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "おやつ"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "オエー"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢標準｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢絶望｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢焦り｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢ス〇イリー｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢やられた｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢美味｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢キマり｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢考察｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢天へ｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢真顔｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢よだれ｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢グラサン｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢愉悦｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "ワッ顔リシーズ｢白目｣"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "妹"
+msgstr ""
+msgid "｢リリィボックス｣
+から獲得"
+msgstr ""
+msgid "彩瀬なる"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "福原あん"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "涼野いと"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "真中らぁら"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "南みれぃ"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "北条そふぃ"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "桃山みらい"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "萌黄えも"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "青葉りんか"
+msgstr ""
+msgid "「プリティーシリーズ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ベル・クラネル"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ヘスティア"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ヴェルフ・クロッゾ"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "リリルカ・アーデ"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ヤマト・命"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "サンジョウノ・春姫"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "アイズ・ヴァレンシュタイン"
+msgstr ""
+msgid "「ダンまちⅢ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "兎田ぺこら"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "さくらみこ"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "白上フブキ"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "星街すいせい"
+msgstr ""
+msgid "「ホロライブ × WACCA」第2弾
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "パニックポップ☆フェスティバル!!!"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "エリザベス（Dot）"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」第2弾
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "リリィ（Dot）"
+msgstr ""
+msgid "「グルーヴコースター × WACCA」第2弾
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "はげしこの夜 -Psylent Crazy Night-"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "ユニコーン"
+msgstr ""
+msgid "VIP継続特典"
+msgstr ""
+msgid "Liberate"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Animosity"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Big Bang"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "萌"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "君WACCAうまいねぇ"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "こんせき"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "しんげき"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "無名"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "リズム"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "渦"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "トライアングル"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "目玉焼き"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "双子焼き"
+msgstr ""
+msgid "｢アールボックス｣
+から獲得"
+msgstr ""
+msgid "わかば"
+msgstr ""
+msgid "｢WACCA Lily R ゲート｣
+達成報酬"
+msgstr ""
+msgid "みっちゃく"
+msgstr ""
+msgid "｢WACCA Lily R ゲート｣
+達成報酬"
+msgstr ""
+msgid "れっちゅーらいぶ！"
+msgstr ""
+msgid "フレンドの
+スコア表示を
+3人設定する"
+msgstr ""
+msgid "SHAKE!"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "DUAL BREAKER XX"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "リツモ"
+msgstr ""
+msgid "「Lanota × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "フィシカ"
+msgstr ""
+msgid "「Lanota × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ネロ"
+msgstr ""
+msgid "「Lanota × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ロッサ"
+msgstr ""
+msgid "「Lanota × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ゴリラ"
+msgstr ""
+msgid "VIP継続特典"
+msgstr ""
+msgid "レミリア・スカーレット"
+msgstr ""
+msgid "「東方紅魔郷 × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "フランドール・スカーレット"
+msgstr ""
+msgid "「東方紅魔郷 × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "愛本りんく"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "明石真秀"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "大鳴門むに"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "渡月麗"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "山手響子"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "犬寄しのぶ"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "笹子･ジェニファー･由香"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "清水絵空"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "出雲咲姫"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "新島衣舞紀"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "花巻乙和"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "福島ノア"
+msgstr ""
+msgid "「D4DJ 
+Groovy Mix
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ラフィー"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "クリーブランド"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "エンタープライズ"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ジャベリン"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "イラストリアス"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ベルファスト"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "Z23"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "アドミラル・ヒッパー"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "プリンツ・オイゲン"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "綾波"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "高雄"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "赤城"
+msgstr ""
+msgid "「アズールレーン
+ × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "エリザベス(2nd ANNIVERSARY)"
+msgstr ""
+msgid "WACCA2周年！
+いつもプレイ
+してくれて
+ありがとう！
+期間中にプレイ"
+msgstr ""
+msgid "リリィ(2nd ANNIVERSARY)"
+msgstr ""
+msgid "WACCA2周年！
+いつもプレイ
+してくれて
+ありがとう！
+期間中にプレイ"
+msgstr ""
+msgid "EVE"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "eden"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Silentphobia"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "こんにちは、ARuFaです。"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "さんさーら！"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "じまん"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "あつ"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "しょうげき"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "こんにちは"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "いんふぇるの"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "でれでれ"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "ナメクジ"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "文鳥"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "マグロ"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "馬男爵"
+msgstr ""
+msgid "｢リバース
+ボックス｣
+から獲得"
+msgstr ""
+msgid "超MANJIラッシュ"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Meta-Mysteria"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Ouvertüre"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "ローズ"
+msgstr ""
+msgid "VIP継続特典"
+msgstr ""
+msgid "ファラオ"
+msgstr ""
+msgid "VIP継続特典"
+msgstr ""
+msgid "ルーン"
+msgstr ""
+msgid "｢WACCA
+Reverse
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "【裏】ルーン"
+msgstr ""
+msgid "WACCA BINGO で
+ALL CLEAR
+10回達成"
+msgstr ""
+msgid "リバース"
+msgstr ""
+msgid "｢WACCA
+Reverse
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "インフィニティ"
+msgstr ""
+msgid "｢WACCA
+Reverse
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "Ouch!"
+msgstr ""
+msgid "｢WACCA
+Reverse
+ゲート｣
+達成報酬"
+msgstr ""
+msgid "光"
+msgstr ""
+msgid "「Arcaea × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "対立"
+msgstr ""
+msgid "「Arcaea × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "サヤ"
+msgstr ""
+msgid "「Arcaea × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "シア"
+msgstr ""
+msgid "「Arcaea × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "DORO*C(Stream)"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "IRRENA(Stream)"
+msgstr ""
+msgid "「TANO*C EX*Stream」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "リン　- ベーシスト -"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "リン　- 不良少女 -"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "リン　- 夢遊少女 -"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ブロウ　- パイロット -"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ブロウ　- ジョーカー -"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "ブロウ　- アイドル -"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "マリヤ　- バイオリニスト -"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "マリヤ　- メイド -"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "マリヤ　- 黒衣の女王 -"
+msgstr ""
+msgid "「Muse Dash × WACCA」
+イベントゲート
+達成報酬"
+msgstr ""
+msgid "EPHMR"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "DANGEROOOOUS JUNGLE"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "Dimension Hacker"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "クリムゾン帝王"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "エリザベス(SPURT)"
+msgstr ""
+msgid "ラストスパート
+イベント報酬"
+msgstr ""
+msgid "リリィ(SPURT)"
+msgstr ""
+msgid "ラストスパート
+イベント報酬"
+msgstr ""
+msgid "ルーン(SPURT)"
+msgstr ""
+msgid "ラストスパート
+イベント報酬"
+msgstr ""
+msgid "【裏】ルーン(SPURT)"
+msgstr ""
+msgid "ラストスパート
+イベント報酬"
+msgstr ""
+msgid "Getty"
+msgstr ""
+msgid "4月1日～4月8日
+プレイで獲得"
+msgstr ""
+msgid "肉球"
+msgstr ""
+msgid "VIP継続特典"
+msgstr ""
+msgid "WACCA"
+msgstr ""
+msgid "VIP継続特典"
+msgstr ""
+msgid "WACCA Lily"
+msgstr ""
+msgid "VIP継続特典"
+msgstr ""
+msgid "WACCA Reverse"
+msgstr ""
+msgid "VIP継続特典"
+msgstr ""
+msgid "エリザベス(Final)"
+msgstr ""
+msgid "ステージアップ
+｢BOSS Re:MIX Vol.1｣
+をクリアする"
+msgstr ""
+msgid "リリィ(Final)"
+msgstr ""
+msgid "ステージアップ
+｢BOSS Re:MIX Vol.2｣
+をクリアする"
+msgstr ""
+msgid "ルーン(Final)"
+msgstr ""
+msgid "ステージアップ
+｢BOSS Re:MIX Vol.3｣
+をクリアする"
+msgstr ""
+msgid "Möbius"
+msgstr ""
+msgid "左記楽曲の
+ＮＯＲＭＡＬ
+ＨＡＲＤ
+ＥＸＰＥＲＴを
+各１回ずつ
+クリアする"
+msgstr ""
+msgid "DIVE with Ü"
+msgstr ""
+msgid "DIVE with Üを1回プレイ"
+msgstr ""

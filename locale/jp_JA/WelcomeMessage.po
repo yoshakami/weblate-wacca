@@ -1,0 +1,88 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "・このプレイは「Reverseポイント」を追加獲得！"
+msgstr ""
+msgid "・このプレイは「経験値」を追加獲得！"
+msgstr ""
+msgid "・このプレイは「ゲートポイント」を追加獲得！"
+msgstr ""
+msgid "ログインボーナス"
+msgstr ""
+msgid "ログインボーナス"
+msgstr ""
+msgid "マンスリーログインボーナス"
+msgstr ""
+msgid "<NUMBER>月ログインボーナス！"
+msgstr ""
+msgid "残り<NUMBER>日"
+msgstr ""
+msgid "本日中"
+msgstr ""
+msgid "<NUMBER>日"
+msgstr ""
+msgid "その他ログインボーナス"
+msgstr ""
+msgid "<ITEM_CATEGORY>「<ITEM_NAME>」"
+msgstr ""
+msgid "・<TICKET_NAME>×<NUMBER>
+　　所持数(期限有) <LIMITED_TICKET_NUM> / <LIMITED_TICKET_MAX>
+　　所持数(期限無) <TICKET_NUM> / <TICKET_MAX>
+　※<LIMITED_TICKET_NAME>は
+　　獲得から3日間有効です。"
+msgstr ""
+msgid "<TICKET_NAME>×<NUMBER>"
+msgstr ""
+msgid "<NUMBER> Reverseポイント"
+msgstr ""
+msgid "<NUMBER> EXP"
+msgstr ""
+msgid "ソフトとユーザーデータのVerが一致しません。
+Ver.<VERSION>以降の機械でプレイしてください。
+データが破損しているわけではありません。
+今回はゲストプレイとなります。"
+msgstr ""
+msgid "このマシンでプレイすると
+ユーザーデータが更新されます。
+Ver.<VERSION>より前のマシンでは
+プレイ出来なくなります。
+最新のソフトをプレイするには
+必要な処理となります。
+更新しますか？"
+msgstr ""
+msgid "Aimeカードをスキャンしてください。"
+msgstr ""
+msgid "Aimeカード 又は Amusement IC対応カードを持って
+いない場合は「スキップ」をタッチしてください。"
+msgstr ""
+msgid "コインを投入してください"
+msgstr ""
+msgid "新規のAimeカードを
+スキャンしました。
+このAimeカードでプレイ
+するにはプレイデータを
+作成する必要があります。
+
+ユーザーデータを作成すると
+このAimeカードはカード
+紛失時などのデータ移行先に
+使用できなくなります。
+同意しますか？"
+msgstr ""
+msgid "！携帯電話利用上の注意！
+【電話機のトラブル】
+紛失 故障等のトラブルは
+一切の責任を負いかねます。
+電話機の状態でカードリーダー
+が認識しない場合があります。
+【個人情報】
+データの管理には電話機に内蔵
+されたICチップの製造番号
+のみ利用します。
+同意しますか？"
+msgstr ""
+msgid "アクセスコード：<ACCESS_CODE>"
+msgstr ""
+msgid "新規AimeはEVENTモードでは使用できません。"
+msgstr ""

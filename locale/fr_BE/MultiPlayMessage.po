@@ -1,0 +1,191 @@
+﻿msgid ""
+msgstr ""
+"Language: fr_BE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "Vous êtes l'<span color=\"#FF0095\">\"hôte\"</>.
+Si le nombre de voix pour chaque type est le même,
+<span color=\"#FF0095\">\"Priorité de l'hôte\"</>."
+msgstr ""
+msgid "Vous êtes un <span color=\"#FF0095\">\"invité\"</>.
+En cas d'égalité de voix,
+<span color=\"#FF0095\">\"Priorité de l'hôte\"</>."
+msgstr ""
+msgid "À la recherche d'une séance."
+msgstr ""
+msgid "Séance trouvée."
+msgstr ""
+msgid "Séance introuvable."
+msgstr ""
+msgid "Séance de création."
+msgstr ""
+msgid "La création de la session a réussi."
+msgstr ""
+msgid "La création de la session a échoué."
+msgstr ""
+msgid "Participer à une séance."
+msgstr ""
+msgid "Vous avez rejoint la session avec succès."
+msgstr ""
+msgid "Impossible de rejoindre la session."
+msgstr ""
+msgid "Abandon de la séance."
+msgstr ""
+msgid "La session a été détruite avec succès."
+msgstr ""
+msgid "Échec de la destruction de la session."
+msgstr ""
+msgid "Il a été décidé de jouer en \"<MultiPlayMode>\" sur la base des \"votes de compétition <MultiVsVoteNum>\" et de \"votes de coopération <MultiCoopVoteNum>\"."
+msgstr ""
+msgid "Rivalisez par score sur la même chanson"
+msgstr ""
+msgid "Tout le monde vise à effacer la même chanson."
+msgstr ""
+msgid "<HostGuest> \"<MatchingMember>\" vote."
+msgstr ""
+msgid "<HostGuest> \"<MatchingMember>\" a voté pour \"<MultiPlayMode>\"."
+msgstr ""
+msgid "Votez pour le mode de jeu auquel vous souhaitez jouer.
+D'autres joueurs votent également."
+msgstr ""
+msgid "Votez pour le mode de jeu auquel vous souhaitez jouer.
+Si aucun membre ne se rassemble, veuillez « dissoudre la salle » et relancer la recherche."
+msgstr ""
+msgid "Veuillez attendre que les autres membres aient fini de voter.
+Lorsque vous touchez « START »
+Commencez à jouer avec vos membres actuels."
+msgstr ""
+msgid "Veuillez attendre que les autres membres aient fini de voter."
+msgstr ""
+msgid "Tous les votes sont terminés.
+Commencez dans le mode de lecture ci-dessus."
+msgstr ""
+msgid "Le temps s'est écoulé. Le vote a été annulé.
+Commencez dans le mode de lecture ci-dessus."
+msgstr ""
+msgid "Le vote a été annulé.
+Commencez dans le mode de lecture ci-dessus."
+msgstr ""
+msgid "membres dans les délais
+Nous ne nous sommes pas réunis.
+Cette fois
+\"Jeu unique\"
+Cela devient."
+msgstr ""
+msgid "sans membres
+\"COMMENCER\"
+a été touché.
+Cette fois, nous reviendrons à l'écran d'origine.
+Encore la même opération
+Si c'est
+\"Jeu unique\"
+va déménager vers."
+msgstr ""
+msgid "sans membres
+\"COMMENCER\"
+Touché.
+Cette fois
+\"Jeu unique\"
+Cela devient."
+msgstr ""
+msgid "La salle a été dissoute.
+Essayez à nouveau de faire correspondre."
+msgstr ""
+msgid "« <Membre correspondant> »
+Nous avons décidé de la chanson."
+msgstr ""
+msgid "Je n'ai pas assez de points Reverse."
+msgstr ""
+msgid "\"<Nom de la difficulté>\"
+C’est décidé.
+d'autres membres
+déterminer le niveau de difficulté
+J'attendrai."
+msgstr ""
+msgid "ticket ouvert expert
+Je ne le possède pas."
+msgstr ""
+msgid "Commencez à jouer dans \"<Time>\" secondes.
+Si vous avez modifié les paramètres des options
+Veuillez décider à temps."
+msgstr ""
+msgid "\"<Mode MultiLecture>\"
+Commencer."
+msgstr ""
+msgid "Après"
+msgstr ""
+msgid "en secondes"
+msgstr ""
+msgid "Commencez à jouer."
+msgstr ""
+msgid "Les préparatifs pour les membres participants sont terminés."
+msgstr ""
+msgid "Si vous avez modifié les paramètres des options
+Veuillez décider."
+msgstr ""
+msgid "Connexion multijoueur
+J'ai été coupé.
+En \"jeu unique\"
+Émigrer.
+
+les données sont bonnes
+non enregistré
+Peut-être."
+msgstr ""
+msgid "Connexion multijoueur
+J'ai été coupé.
+
+les données sont bonnes
+non enregistré
+Peut-être."
+msgstr ""
+msgid "hôte"
+msgstr ""
+msgid "<span color=\"#FF0095\">Hôte</>"
+msgstr ""
+msgid "invité"
+msgstr ""
+msgid "invité"
+msgstr ""
+msgid "correspondre"
+msgstr ""
+msgid "Rivalisez pour les partitions sur la même chanson"
+msgstr ""
+msgid "CONTRE"
+msgstr ""
+msgid "coopération"
+msgstr ""
+msgid "Tout le monde vise à effacer la même chanson."
+msgstr ""
+msgid "COOPÉRATIVE"
+msgstr ""
+msgid "En préparation"
+msgstr ""
+msgid "achèvement"
+msgstr ""
+msgid "Recherche de réseau..."
+msgstr ""
+msgid "Recrutement de membres"
+msgstr ""
+msgid "Recrute actuellement"
+msgstr ""
+msgid "Vote en cours"
+msgstr ""
+msgid "A voté"
+msgstr ""
+msgid "Création de chambre assortie"
+msgstr ""
+msgid "Attendez les participants correspondants"
+msgstr ""
+msgid "Rejoindre la salle correspondante"
+msgstr ""
+msgid "Participer au jumelage"
+msgstr ""
+msgid "dans le temps
+Pas décidé.
+Cette fois
+\"Jeu unique\"
+Cela devient."
+msgstr ""
+msgid "Créez une salle et attendez les participants, ou
+Trouvez une salle et choisissez de la rejoindre."
+msgstr ""

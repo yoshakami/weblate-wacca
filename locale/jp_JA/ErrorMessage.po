@@ -1,0 +1,37 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "Aimeリーダーが認識されていません。
+現在、Aimeをご利用いただけません。"
+msgstr ""
+msgid "Aimeのファームウェアを更新中です。
+現在、Aimeをご利用いただけません。"
+msgstr ""
+msgid "Aimeのファームウェアが正常ではありません。
+現在、Aimeをご利用いただけません。"
+msgstr ""
+msgid "Aimeデータベースとの通信に失敗しました。
+Aimeカードを使用できない可能性があります。
+テストモードよりネットワークテストを行い、
+通信状況をご確認ください。"
+msgstr ""
+msgid "ネットワークとの接続が確認できません。
+現在、ネットワークを用いた機能がご利用いただけません。"
+msgstr ""
+msgid "ALL.Net認証サーバーとの接続が確認できません。
+現在、ネットワークを用いた機能がご利用いただけません。"
+msgstr ""
+msgid "Aimeデータベースとの接続が確認できません。
+現在、Aimeを用いた機能がご利用いただけません。"
+msgstr ""
+msgid "電子マネー処理サーバーとの接続が確認できません。
+現在、電子マネー決済機能をご利用いただけません。"
+msgstr ""
+msgid "
+インストールメディアを取り外した後、
+テストモードよりバージョンを確認してください。"
+msgstr ""
+msgid "Aimeエラー
+<ERROR_MESSAGE>"
+msgstr ""

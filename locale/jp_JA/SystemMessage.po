@@ -1,0 +1,1198 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "「[WACCA] には Unreal® Engine が使用されています。
+
+Unreal® は、米国およびその他の国と地域における 
+Epic Games, Inc. の商標または登録商標です。」
+
+「Unreal® Engine, Copyright 1998-2018, Epic Games, Inc. All rights reserved.」"
+msgstr ""
+msgid "好きな曲を
+1人でプレイする
+モードです。"
+msgstr ""
+msgid "店内の仲間と
+「対戦」や「協力」
+プレイを行います。"
+msgstr ""
+msgid "自分のウデマエ
+を試します。"
+msgstr ""
+msgid "タイムアップ。
+シングルプレイに
+決定しました。"
+msgstr ""
+msgid "「WACCA」はスライド操作でメニューを選択します。
+<span color=\"#E5006D\">光っているエリア上で手を滑らせて</>
+メニューを選んでください。"
+msgstr ""
+msgid "VIPメンバーになって
+WACCAを更に
+楽しくプレイ！"
+msgstr ""
+msgid "VIPメンバー期限
+を更新する。"
+msgstr ""
+msgid "VIPメンバーは
+期間終了の
+１０日前から
+ 更新できます。"
+msgstr ""
+msgid "ステージアップでは
+LIFEがなくなった時点で
+チャレンジ失敗となります。
+先に進みますか？"
+msgstr ""
+msgid "光っているエリアを
+スライドさせて
+プレイするモードを
+選んでください。"
+msgstr ""
+msgid "VIPメンバー登録や
+便利なアイテムを
+購入できます。"
+msgstr ""
+msgid "使用したアイテムの効果が発動しませんがよろしいですか？"
+msgstr ""
+msgid "一定時間内に
+何曲でもプレイできる
+モードです。"
+msgstr ""
+msgid "頑張って起動中です。
+もう少し待っててね。"
+msgstr ""
+msgid "タッチデバイスの初期化を行います。
+WACCAコンソールに触れないでください。
+
+Initialize the Touch Device.
+Please don't touch the WACCA Console."
+msgstr ""
+msgid "アップデートが見つかりました。
+再起動します。"
+msgstr ""
+msgid "起動に必要な処理が行われていません。
+アップデートUSBがお店に届いたら
+アップデートを行ってください。"
+msgstr ""
+msgid "Ver.3.00.00 に更新されました。
+<YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> を過ぎないと稼働しません。
+<YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> を過ぎてもこのメッセージが
+表示されている場合は再起動してください。"
+msgstr ""
+msgid "WACCA Reverse アップデート完了
+<YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE> より
+新機能で遊べます。"
+msgstr ""
+msgid "アップデートファイルが
+見つかりました。
+再起動してアップデートを
+適用してください。
+Please reboot."
+msgstr ""
+msgid "EVENTモード
+※データは保存されません"
+msgstr ""
+msgid "ネットワーク接続エラー
+現在ゲームをプレイすることができません。"
+msgstr ""
+msgid "このマシンは本日の稼働を終了しました。
+改めてご来店ください。"
+msgstr ""
+msgid "このマシンはあと<NUMBER>分で稼働を終了します。
+現在「コイン受付」「プレイ開始」を中止しています。
+改めてご来店ください。"
+msgstr ""
+msgid "現在「メンテナンス中」です。プレイ出来ません。
+終了時刻は「WACCA公式サイト」で
+ご確認ください。 https://wacca.marv.jp/"
+msgstr ""
+msgid "このマシンはまもなく再起動します。
+再起動後、通常通りプレイできます。
+少々お待ちください。"
+msgstr ""
+msgid "メンテナンスが「終了」しました。
+筐体を「再起動」してください。
+Please reboot."
+msgstr ""
+msgid "名前入力"
+msgstr ""
+msgid "「WACCA」はスライド操作でカーソルを移動させます。
+<span color=\"#E5006D\">光っているエリア上で手を滑らせて</>
+選んでください。"
+msgstr ""
+msgid "プレイヤーの名前を入力してください。
+入力した名前はインターネット上で
+公開される可能性があります。
+ご了承の上、入力してください。"
+msgstr ""
+msgid "「<USER_NAME>」
+でよろしいですか？"
+msgstr ""
+msgid "WACCAの世界へようこそ！"
+msgstr ""
+msgid "！使用できない文字が含まれています！"
+msgstr ""
+msgid "タイムアップです！
+今回は「ゲストプレイヤー」となります。
+次のプレイ時に再登録をお願いします。"
+msgstr ""
+msgid "タイムアップです！
+今回は「ゲストプレイヤー」となります。
+次のプレイ時に再登録をお願いします。"
+msgstr ""
+msgid "騒がしい連中が帰ってきたぞ！
+鑑賞を許しますか？"
+msgstr ""
+msgid "ご"
+msgstr ""
+msgid "注"
+msgstr ""
+msgid "意"
+msgstr ""
+msgid "使用中に、身体に痛みや不快感などを感じた場合は
+ただちにプレイを中止し、医師の診察を受けてください。
+また、思わぬ怪我や故障の原因となる行為はおやめください。
+
+より良いゲームを提供するため
+予告なくゲーム内容の「変更」「修正」が 
+行われる場合がございます。
+
+プレイ時期によってゲーム内容が異なる
+場合がございますがご了承ください。"
+msgstr ""
+msgid "スキップ"
+msgstr ""
+msgid "本当に
+スキップ？"
+msgstr ""
+msgid "WACCAコンソール"
+msgstr ""
+msgid "判定ライン"
+msgstr ""
+msgid "ノルマゲージ"
+msgstr ""
+msgid "ノルマライン"
+msgstr ""
+msgid "シングルプレイ"
+msgstr ""
+msgid "マルチプレイ"
+msgstr ""
+msgid "ステージアップ"
+msgstr ""
+msgid "ショップ"
+msgstr ""
+msgid "シングルプレイ(フリータイム)"
+msgstr ""
+msgid "はい"
+msgstr ""
+msgid "いいえ"
+msgstr ""
+msgid "NORMAL"
+msgstr ""
+msgid "HARD"
+msgstr ""
+msgid "EXPERT"
+msgstr ""
+msgid "INFERNO"
+msgstr ""
+msgid "ＦＡＳＴ"
+msgstr ""
+msgid "ＬＡＴＥ"
+msgstr ""
+msgid "ＲＰ"
+msgstr ""
+msgid "RP"
+msgstr ""
+msgid "Lv."
+msgstr ""
+msgid "ＳＣＯＲＥ"
+msgstr ""
+msgid "ＴＯＴＡＬ　ＳＣＯＲＥ"
+msgstr ""
+msgid "Rate"
+msgstr ""
+msgid "ＥＸＰ"
+msgstr ""
+msgid "Reverseポイント"
+msgstr ""
+msgid "ＬＩＦＥ"
+msgstr ""
+msgid "？？？"
+msgstr ""
+msgid "<POINT><CURRENCY>"
+msgstr ""
+msgid "WACCA"
+msgstr ""
+msgid "WACCA S"
+msgstr ""
+msgid "WACCA Lily"
+msgstr ""
+msgid "WACCA Lily R"
+msgstr ""
+msgid "WACCA Reverse"
+msgstr ""
+msgid "％"
+msgstr ""
+msgid "ＵＰ！"
+msgstr ""
+msgid "START"
+msgstr ""
+msgid "REBOOST"
+msgstr ""
+msgid "/  曲 目"
+msgstr ""
+msgid "MARVELOUS"
+msgstr ""
+msgid "GREAT"
+msgstr ""
+msgid "GOOD"
+msgstr ""
+msgid "MISS"
+msgstr ""
+msgid "MASTER"
+msgstr ""
+msgid "SSS"
+msgstr ""
+msgid "SS"
+msgstr ""
+msgid "S"
+msgstr ""
+msgid "AAA"
+msgstr ""
+msgid "AA"
+msgstr ""
+msgid "A"
+msgstr ""
+msgid "B"
+msgstr ""
+msgid "C"
+msgstr ""
+msgid "D"
+msgstr ""
+msgid "-"
+msgstr ""
+msgid "1st"
+msgstr ""
+msgid "2nd"
+msgstr ""
+msgid "3rd"
+msgstr ""
+msgid "4th"
+msgstr ""
+msgid "FAILED"
+msgstr ""
+msgid "CLEAR"
+msgstr ""
+msgid "Ｍｉｓｓｌｅｓｓ"
+msgstr ""
+msgid "Ｆｕｌｌ Cｏｍｂｏ"
+msgstr ""
+msgid "ＡＬＬ Ｍａｒｖｅｌｏｕｓ"
+msgstr ""
+msgid "獲得
+Reverse
+ポイント"
+msgstr ""
+msgid "決定"
+msgstr ""
+msgid "ＯＫ"
+msgstr ""
+msgid "戻る"
+msgstr ""
+msgid "次へ"
+msgstr ""
+msgid "準備OK"
+msgstr ""
+msgid "リセット"
+msgstr ""
+msgid "デフォルト"
+msgstr ""
+msgid "ページ"
+msgstr ""
+msgid "栞を
+開く"
+msgstr ""
+msgid "栞に
+追加"
+msgstr ""
+msgid "ソート"
+msgstr ""
+msgid "ソート
+クリア"
+msgstr ""
+msgid "ジャンル
+ジャンプ"
+msgstr ""
+msgid "ジャンル"
+msgstr ""
+msgid "お気に入り
+追加"
+msgstr ""
+msgid "お気に入り
+開く"
+msgstr ""
+msgid "ソート"
+msgstr ""
+msgid "ランダム"
+msgstr ""
+msgid "マスク
+濃度"
+msgstr ""
+msgid "ＳＥ
+再生"
+msgstr ""
+msgid "シンボル"
+msgstr ""
+msgid "カラー"
+msgstr ""
+msgid "スピード"
+msgstr ""
+msgid "判定調整"
+msgstr ""
+msgid "START"
+msgstr ""
+msgid "ソート
+デフォルト
+順"
+msgstr ""
+msgid "ソート
+レアリティ
+順"
+msgstr ""
+msgid "ソート
+獲得順"
+msgstr ""
+msgid "マイデータ"
+msgstr ""
+msgid "ランキング"
+msgstr ""
+msgid "トロフィー"
+msgstr ""
+msgid "テスト
+プレイ"
+msgstr ""
+msgid "ＥＸＩＴへ"
+msgstr ""
+msgid "ルーム
+解散"
+msgstr ""
+msgid "一文字
+削除"
+msgstr ""
+msgid "小文字"
+msgstr ""
+msgid "大文字"
+msgstr ""
+msgid "アルファベット"
+msgstr ""
+msgid "確定"
+msgstr ""
+msgid "数字
+記号"
+msgstr ""
+msgid "空白"
+msgstr ""
+msgid "入力"
+msgstr ""
+msgid "セット"
+msgstr ""
+msgid "選択できません"
+msgstr ""
+msgid "右"
+msgstr ""
+msgid "左"
+msgstr ""
+msgid "アイテム
+チェック"
+msgstr ""
+msgid "アイテム
+使用"
+msgstr ""
+msgid "オプション"
+msgstr ""
+msgid "デフォルトの位置にカーソルを戻します。"
+msgstr ""
+msgid "ノーツの速度を変更できます。"
+msgstr ""
+msgid "背景にマスクをかけることができます。
+ノーツが見えづらい時は
+背景マスクの濃度を濃くしてください。"
+msgstr ""
+msgid "入力判定のタイミングを調整できます。"
+msgstr ""
+msgid "２回連続でタッチすると、
+チュートリアルをスキップ出来ます。"
+msgstr ""
+msgid "アクセス
+コード"
+msgstr ""
+msgid "次へ"
+msgstr ""
+msgid "決済"
+msgstr ""
+msgid "残高照会"
+msgstr ""
+msgid "　
+1Play
+無料"
+msgstr ""
+msgid "難易度"
+msgstr ""
+msgid "最終確認へ
+戻る"
+msgstr ""
+msgid "WACCA
+BINGO"
+msgstr ""
+msgid "シャッフル"
+msgstr ""
+msgid "楽曲選択"
+msgstr ""
+msgid "RPでオープン可能"
+msgstr ""
+msgid "Reverseポイント <NUMBER_PRICE> 消費
+この楽曲をオープンします。よろしいですか？
+Reverseポイント <NUMBER_FUNDAGE> 所持"
+msgstr ""
+msgid "ソート
+クリア"
+msgstr ""
+msgid "決定"
+msgstr ""
+msgid "詳細"
+msgstr ""
+msgid "「お気に入り」が指定されていません。
+楽曲選択に戻ります。"
+msgstr ""
+msgid "お気に入り"
+msgstr ""
+msgid "<span color=\"#E5006D\">RPが不足しています</>"
+msgstr ""
+msgid "GUEST は楽曲をオープンできません。
+Aimeカードを使用してプレイしてください。"
+msgstr ""
+msgid "曲目"
+msgstr ""
+msgid "BPM"
+msgstr ""
+msgid "消費<CURRENCY>"
+msgstr ""
+msgid "<DIFFICULTY>のLOCK解除"
+msgstr ""
+msgid "ノーツデザイナー：<NAME>"
+msgstr ""
+msgid "該当の楽曲が存在しないため、選択できません
+ジャンルや難易度を変更してください。"
+msgstr ""
+msgid "はじめてWACCAをプレイする方に、
+オススメの楽曲フォルダです！"
+msgstr ""
+msgid "本当に終了しますか？"
+msgstr ""
+msgid "フィルター指定"
+msgstr ""
+msgid "優先順位"
+msgstr ""
+msgid "タグ指定"
+msgstr ""
+msgid "タグを選んでください"
+msgstr ""
+msgid "ソート指定"
+msgstr ""
+msgid "ソートが選択されていません。"
+msgstr ""
+msgid "項目を「決定」するとソートできます。"
+msgstr ""
+msgid "ソート条件"
+msgstr ""
+msgid "難易度選択"
+msgstr ""
+msgid "難易度HARDを「S」以上でクリア
+もしくは
+「エキスパートオープンチケット」を消費してオープンできます。
+<ADD_STRING>"
+msgstr ""
+msgid "「Reverseポイント」を消費してオープンすることが出来ます。
+<ADD_STRING>"
+msgstr ""
+msgid "エキスパートオープンチケットを
+所持していません。"
+msgstr ""
+msgid "所持Reverseポイントが足りません。
+あと <NUMBER_SHORTAGE> RP必要です。"
+msgstr ""
+msgid "エキスパートオープンチケットを消費して
+この難易度をオープンします。
+よろしいですか？
+(使用期限の近いチケットから消費します。)"
+msgstr ""
+msgid "<NUMBER_PRICE> RP 消費して
+この難易度をオープンします。よろしいですか？
+Reverseポイント 【<NUMBER_FUNDAGE>】所持。"
+msgstr ""
+msgid "EXオープンチケットで
+オープン可能"
+msgstr ""
+msgid "<span color=\"#E5006D\">チケットが不足しています</>"
+msgstr ""
+msgid "達成率"
+msgstr ""
+msgid "GUEST は難易度をオープンできません。
+Aimeカードを使用してプレイしてください。"
+msgstr ""
+msgid "「GUESTプレイ」または「マルチプレイ」時はオープンできません。"
+msgstr ""
+msgid "RP 消費でアンロック可能"
+msgstr ""
+msgid "<span color=\"#E5006D\">RP が不足しています</>"
+msgstr ""
+msgid "難易度EXPERTが
+オープンされていません。"
+msgstr ""
+msgid "難易度EXPERTを
+オープンする必要があります。"
+msgstr ""
+msgid "楽曲が
+オープンされていません。"
+msgstr ""
+msgid "楽曲を
+オープンする必要があります。"
+msgstr ""
+msgid "曲名"
+msgstr ""
+msgid "ARTIST"
+msgstr ""
+msgid "Notes Designer"
+msgstr ""
+msgid "マスク"
+msgstr ""
+msgid "無し"
+msgstr ""
+msgid "マスク無し"
+msgstr ""
+msgid "濃度+1"
+msgstr ""
+msgid "濃度+2"
+msgstr ""
+msgid "濃度+3"
+msgstr ""
+msgid "濃度+4"
+msgstr ""
+msgid "濃度最大"
+msgstr ""
+msgid "動画再生に対応した楽曲です。
+動画を再生しますか？"
+msgstr ""
+msgid "Guest"
+msgstr ""
+msgid "新人プレイヤー"
+msgstr ""
+msgid "―"
+msgstr ""
+msgid "ポップス"
+msgstr ""
+msgid "J-POP"
+msgstr ""
+msgid "ロック"
+msgstr ""
+msgid "テクノ"
+msgstr ""
+msgid "ハウス"
+msgstr ""
+msgid "クラブ"
+msgstr ""
+msgid "アニメ"
+msgstr ""
+msgid "ゲーム"
+msgstr ""
+msgid "ボーカロイド"
+msgstr ""
+msgid "2.5次元"
+msgstr ""
+msgid "パワフル"
+msgstr ""
+msgid "元気が出る"
+msgstr ""
+msgid "落ち着いた"
+msgstr ""
+msgid "優雅な"
+msgstr ""
+msgid "神秘的"
+msgstr ""
+msgid "美しい"
+msgstr ""
+msgid "癒される"
+msgstr ""
+msgid "軽快"
+msgstr ""
+msgid "踊るような"
+msgstr ""
+msgid "ぞくぞくする"
+msgstr ""
+msgid "かわいらしい"
+msgstr ""
+msgid "歌うような"
+msgstr ""
+msgid "情熱的"
+msgstr ""
+msgid "疾走感"
+msgstr ""
+msgid "牧歌的"
+msgstr ""
+msgid "華やか"
+msgstr ""
+msgid "初心者にオススメ"
+msgstr ""
+msgid "中級者を目指してます"
+msgstr ""
+msgid "上級者を目指すよ"
+msgstr ""
+msgid "超上級者だから"
+msgstr ""
+msgid "殺しに来てる"
+msgstr ""
+msgid "初見殺し"
+msgstr ""
+msgid "REDALiCEの挑戦状"
+msgstr ""
+msgid "t+pazoliteの挑戦状"
+msgstr ""
+msgid "DJ Genkiの挑戦状"
+msgstr ""
+msgid "P*Lightの挑戦状"
+msgstr ""
+msgid "名曲"
+msgstr ""
+msgid "代表曲"
+msgstr ""
+msgid "REDALiCEオススメ"
+msgstr ""
+msgid "t+pazoliteオススメ"
+msgstr ""
+msgid "P*Lightオススメ"
+msgstr ""
+msgid "DJ Genkiオススメ"
+msgstr ""
+msgid "高橋のお気に入り"
+msgstr ""
+msgid "70'"
+msgstr ""
+msgid "80'"
+msgstr ""
+msgid "90'"
+msgstr ""
+msgid "HARDCORE TANO*C"
+msgstr ""
+msgid "オリジナル"
+msgstr ""
+msgid "2.5次元"
+msgstr ""
+msgid "アニメ／ＰＯＰ"
+msgstr ""
+msgid "ボカロ"
+msgstr ""
+msgid "東方アレンジ"
+msgstr ""
+msgid "バラエティ"
+msgstr ""
+msgid "Vtuber"
+msgstr ""
+msgid "初心者オススメ！"
+msgstr ""
+msgid "デフォルト順"
+msgstr ""
+msgid "新曲"
+msgstr ""
+msgid "全曲"
+msgstr ""
+msgid "お気に入り"
+msgstr ""
+msgid "スコア順"
+msgstr ""
+msgid "クリアマーク順"
+msgstr ""
+msgid "ジャンル順"
+msgstr ""
+msgid "レベル順"
+msgstr ""
+msgid "バージョン順"
+msgstr ""
+msgid "曲名順"
+msgstr ""
+msgid "行"
+msgstr ""
+msgid "あ"
+msgstr ""
+msgid "か"
+msgstr ""
+msgid "さ"
+msgstr ""
+msgid "た"
+msgstr ""
+msgid "な"
+msgstr ""
+msgid "は"
+msgstr ""
+msgid "ま"
+msgstr ""
+msgid "や"
+msgstr ""
+msgid "ら"
+msgstr ""
+msgid "わ"
+msgstr ""
+msgid "数字"
+msgstr ""
+msgid "未プレイ"
+msgstr ""
+msgid "未クリア"
+msgstr ""
+msgid "-"
+msgstr ""
+msgid "経験値"
+msgstr ""
+msgid "Reverseポイント"
+msgstr ""
+msgid "楽曲"
+msgstr ""
+msgid "難易度<DIFFICULTY>"
+msgstr ""
+msgid "トロフィー"
+msgstr ""
+msgid "称号"
+msgstr ""
+msgid "スキル"
+msgstr ""
+msgid "アイコン"
+msgstr ""
+msgid "マイカラー"
+msgstr ""
+msgid "SE"
+msgstr ""
+msgid "チケット"
+msgstr ""
+msgid "ＥＸオープンチケット"
+msgstr ""
+msgid "EXPERTプレイチケット"
+msgstr ""
+msgid "+1曲ボーナスチケット"
+msgstr ""
+msgid "ブーストアイテム"
+msgstr ""
+msgid "ゲートポイント"
+msgstr ""
+msgid "ナビゲーター"
+msgstr ""
+msgid "プレート"
+msgstr ""
+msgid "タッチエフェクト(ポップ)"
+msgstr ""
+msgid "「<Item>」を獲得"
+msgstr ""
+msgid "「<Item>」が解放されました"
+msgstr ""
+msgid "「<Item>」が解放されました"
+msgstr ""
+msgid "楽曲がオープン可能。"
+msgstr ""
+msgid "楽曲がオープンしました"
+msgstr ""
+msgid "　　　"
+msgstr ""
+msgid "楽曲選択でオープンできます。"
+msgstr ""
+msgid "楽曲選択でプレイできます。"
+msgstr ""
+msgid "『ステージアップ』に
+挑戦できるようになりました。"
+msgstr ""
+msgid "ユーザーデータが取得できませんでした。
+今回はゲストプレイとなります。"
+msgstr ""
+msgid "このユーザーは他のマシンでプレイ中のため
+同時にプレイできません。
+今回はゲストプレイとなります。"
+msgstr ""
+msgid "このカードには「他の地域のユーザーデータ」が
+設定されています。
+このマシンではスキャンすることは出来ません。
+This card contains another region's user data.
+This machine cannot scan it."
+msgstr ""
+msgid "ユーザーデータが作成できませんでした。
+今回はゲストプレイとなります。"
+msgstr ""
+msgid "ユーザーデータが作成できませんでした。
+タイトル画面に戻ります。"
+msgstr ""
+msgid "Aimeスキャンエラー
+<ERROR_MESSAGE>"
+msgstr ""
+msgid "ログインに失敗しました。
+今回はゲストプレイとなります。"
+msgstr ""
+msgid "VIPメンバー１０大特典"
+msgstr ""
+msgid "Please INSERT"
+msgstr ""
+msgid "「<Day>日間」有効です。"
+msgstr ""
+msgid "<Date>のAM06:59まで有効です。"
+msgstr ""
+msgid "ＶＩＰ利用規約"
+msgstr ""
+msgid "このアイテムは既に
+受け取り済みです"
+msgstr ""
+msgid "300円で30日間有効な特典サービスです！"
+msgstr ""
+msgid "①楽曲配信日が「1日」早くなる！"
+msgstr ""
+msgid "　　※一部、対象外の楽曲も存在します。"
+msgstr ""
+msgid "②ゲート追加日が「1日」早くなる！"
+msgstr ""
+msgid "　　※一部、対象外のゲートも存在します。"
+msgstr ""
+msgid "③Reverseポイントの獲得量が1.2倍！"
+msgstr ""
+msgid "④ゲートポイントの獲得量が1.2倍！"
+msgstr ""
+msgid "⑤ログインボーナス時のReverseポイント獲得量がUP！"
+msgstr ""
+msgid "⑥ログインボーナス時の経験値獲得量がUP！"
+msgstr ""
+msgid "⑦VIP限定ログインボーナスが貰える！"
+msgstr ""
+msgid "⑧VIPを継続する度素敵なアイテムをプレゼント！"
+msgstr ""
+msgid "⑨フレンドとスコアの比較ができる！"
+msgstr ""
+msgid "⑩シングルプレイ(フリータイム)の残り時間3分UP！"
+msgstr ""
+msgid "
+　　　　　　　　　【ＶＩＰメンバーシステム注意事項】
+
+　　ＶＩＰメンバーシステム（以下、本システムといいます）の利用を
+　　希望するお客様は、株式会社マーベラス（以下、弊社といいます）が
+　　定める以下の注意事項をご確認のうえ同意する必要があります。
+
+
+　　本システムは、プレイ料金とは別途、300円の本システム利用料を
+　　お支払い頂くことにより、支払日から30日間、楽曲の早期解禁、
+　　オプションカスタマイズの解放その他各種特典を提供するものです。
+
+
+　　お客様による本システム利用料のお支払後、
+　　弊社はいかなる理由・場合であっても本システム利用料を
+　　返還致しかねます。
+
+
+　　弊社は、お客様に事前に告知することなく、
+　　本システム内容の全部又は一部を変更することができるものとします。
+　　本システムを通じて提供する弊社のサービスの詳細は、
+　　WACCA公式Webサイトをご確認ください。
+　　https://wacca.marv.jp/
+
+　　株式会社セガ・インタラクティブが提供する
+　　アーケードゲーム用ネットサービス「ALL.Net」、
+　　認証システム「Aime」に起因する本システムの
+　　不具合・障害等によりお客様に生じた損害について、
+　　弊社は一切責任を負わないものとします。
+
+
+　　本システム、注意事項に関するお問い合わせは、
+　　WACCA公式Webサイト上の<span color=\"#E5006D\">「お問い合わせはこちら」</>からご連絡ください。"
+msgstr ""
+msgid "2"
+msgstr ""
+msgid "3"
+msgstr ""
+msgid "4"
+msgstr ""
+msgid "5555
+55"
+msgstr ""
+msgid "
+　　　　　　　　　【VIPメンバーシステム注意事項】
+
+　　VIPメンバーシステム（以下、本システムといいます）の
+　　利用期間の更新を希望するお客様は、
+　　株式会社マーベラス（以下、弊社といいます）が定める以下の
+　　注意事項をご確認のうえ同意する必要があります。
+ 
+　　本システムは、プレイ料金とは別途、300円の本システム利用料を
+　　お支払い頂くことにより、現在ご利用頂いている本システムの
+　　利用期間を30日間延長し、楽曲の早期解禁、オプションカスタマイズの
+　　解放その他各種特典を提供するものです。
+
+　　お客様による本システム利用料のお支払後、
+　　弊社はいかなる理由・場合であっても本システム利用料を
+　　返還致しかねます。
+
+　　弊社は、お客様に事前に告知することなく、本システム内容の
+　　全部又は一部を変更することができるものとします。
+　　本システムを通じて提供する弊社のサービスの詳細は、
+　　WACCA公式Webサイトをご確認ください。
+　　https://wacca.marv.jp/
+
+　　株式会社セガ・インタラクティブが提供する
+　　アーケードゲーム用ネットサービス「ALL.Net」、
+　　認証システム「Aime」に起因する本システムの
+　　不具合・障害等によりお客様に生じた損害について、
+　　弊社は一切責任を負わないものとします。
+
+
+　　本システム、注意事項に関するお問い合わせは、
+　　WACCA公式Webサイト上の<span color=\"#E5006D\">「お問い合わせはこちら」</>からご連絡ください。"
+msgstr ""
+msgid "延長時02"
+msgstr ""
+msgid "延長時03"
+msgstr ""
+msgid "延長時04"
+msgstr ""
+msgid "延長時05"
+msgstr ""
+msgid "以上です。
+
+同意しますか？"
+msgstr ""
+msgid "通信に失敗しました。"
+msgstr ""
+msgid "通信に失敗しました。
+CREDITの消費は行っていません。"
+msgstr ""
+msgid "ＶＩＰメンバーは<Date>の
+ＡＭ０６：５９まで有効です。"
+msgstr ""
+msgid "現在VIPメンバーは有効ではありません。"
+msgstr ""
+msgid "VIPメンバー"
+msgstr ""
+msgid "残り"
+msgstr ""
+msgid "日"
+msgstr ""
+msgid "本日中"
+msgstr ""
+msgid "正常にログアウトができていない
+可能性があります。
+
+３０分程度時間を空けてから、コイン投入前に
+カードをスキャンして動作を確認してください。"
+msgstr ""
+msgid "COIN"
+msgstr ""
+msgid "CREDIT"
+msgstr ""
+msgid "ⓒCrypton Future Media,INC.www.piapro.net"
+msgstr ""
+msgid "ⓒ CAFFEIN / スミス・ヒオカ / Crypton Future Media, INC. www.piapro.net"
+msgstr ""
+msgid "ⓒ 線/小山乃舞世/"
+msgstr ""
+msgid "コインを投入してください"
+msgstr ""
+msgid "電子マネーもご利用頂けます"
+msgstr ""
+msgid "電子マネー残高照会中です"
+msgstr ""
+msgid "決済金額"
+msgstr ""
+msgid "円"
+msgstr ""
+msgid "ご利用になるブランドをWACCAコンソールで選択し、Aimeリーダーにタッチしてください
+残高照会を行う場合は残高照会ボタンを押してください"
+msgstr ""
+msgid "残高照会を行うブランドをWACCAコンソールで選択し、Aimeリーダーにタッチしてください
+電子マネー決済を行う場合は決済ボタンを押してください"
+msgstr ""
+msgid "このユーザーでプレイしますか？"
+msgstr ""
+msgid "ゲストでプレイしますか？"
+msgstr ""
+msgid "新規データでプレイしますか？"
+msgstr ""
+msgid "プレイには<NUMBER> CREDIT(S)必要です"
+msgstr ""
+msgid "FREE PLAY"
+msgstr ""
+msgid "初回は1プレイ無料で
+遊ぶことができます"
+msgstr ""
+msgid "VIPユーザーになりますか？
+VIPユーザーになるには
+<NUMBER> CREDIT(S)必要です"
+msgstr ""
+msgid "<ITEM_NAME>を
+購入しますか？
+購入するには
+<NUMBER> CREDIT(S)必要です"
+msgstr ""
+msgid "シングルプレイ(フリータイム)
+をプレイしますか？
+プレイするには追加で
+<NUMBER> CREDIT(S)必要です"
+msgstr ""
+msgid "操作に関するご案内は
+Aimeリーダー横に表示されるメッセージをご確認ください"
+msgstr ""
+msgid "コンティニューしますか？"
+msgstr ""
+msgid "「<PLAYER_NAME>」は
+「VIPメンバー」になりました！"
+msgstr ""
+msgid "「<PLAYER_NAME>」は
+「VIPメンバー」の期間を更新しました！"
+msgstr ""
+msgid "キャンセルします。"
+msgstr ""
+msgid "難易度を
+選択してください。"
+msgstr ""
+msgid "「対戦」プレイする
+難易度を選んでください。
+同点の時は難易度が
+高い方が有利です。"
+msgstr ""
+msgid "「協力」プレイする
+難易度を選んでください。
+同点の時は難易度が
+高い方が有利です。"
+msgstr ""
+msgid "名前を入力してください。
+「英語」「数字＆記号」で
+入力することができます。"
+msgstr ""
+msgid "チュートリアルを
+プレイしますか？"
+msgstr ""
+msgid "ユーザーデータの
+「アイコン」を
+変更することができます。"
+msgstr ""
+msgid "ユーザーデータの
+「称号」を
+変更することができます。"
+msgstr ""
+msgid "ノーツの速度を
+調整することが出来ます。
+自分に合った速度に
+合わせてください。"
+msgstr ""
+msgid "マスク濃度を
+調整することができます。
+濃度を上げるほど
+背景が暗くなっていきます。"
+msgstr ""
+msgid "ノーツをタッチしたときの
+ＳＥを変更できます。
+自分の好みに合ったＳＥを
+設定してください。"
+msgstr ""
+msgid "プレイ中(演奏中)の
+ＢＧＭの音量を
+細かく調整できます。"
+msgstr ""
+msgid "プレイ中(演奏中)の
+ＳＥの音量を
+細かく調整できます。"
+msgstr ""
+msgid "ＷＡＣＣＡコンソールの
+カラーパターンを
+変更できます。"
+msgstr ""
+msgid "動画再生に対応した楽曲を
+プレイする場合
+動画を再生するか
+設定できます。"
+msgstr ""
+msgid "判定の表示位置を
+調整できます。"
+msgstr ""
+msgid "Ｍａｒｖｅｌｏｕｓ以外
+の判定の際、その入力が
+早い(ＦＡＳＴ)か
+遅い(ＬＡＴＥ)か表示する。"
+msgstr ""
+msgid "ガイドラインの「間隔線」の
+表示をＯＮ／ＯＦＦ
+することができます。"
+msgstr ""
+msgid "ガイドラインの濃度を
+調整できます。
+濃度を上げるほど
+暗くなっていきます。"
+msgstr ""
+msgid "小節線の表示を
+ＯＮ／ＯＦＦ
+することができます。"
+msgstr ""
+msgid "ＣＯＭＢＯの表示を
+ＯＮ／ＯＦＦ
+することができます。"
+msgstr ""
+msgid "スキル設定中の
+タイトルの上のメッセージ"
+msgstr ""
+msgid "入力タイミングを調整します。
+「FAST」が多くでるなら「+」
+「LATE」が多くでるなら「-」
+に調整してください。"
+msgstr ""
+msgid "スコア表示方式を変更します。
+通常は「プラス方式」です。
+「マイナス方式」は
+Ｍａｒｖｅｌｏｕｓ
+以外の場合減算されます。"
+msgstr ""
+msgid "ギブアップ（途中終了）を
+ＯＮ／ＯＦＦ
+することができます。"
+msgstr ""
+msgid "ボーナスエフェクト設定中の
+タイトルの上のメッセージ"
+msgstr ""
+msgid "ガイド音（正確なリズム音）の
+再生をＯＮ／ＯＦＦ
+することができます。"
+msgstr ""
+msgid "ＯＮにすると、
+ボーナスノーツ入力の際
+通常よりもノルマ上昇率が
+高くなります。"
+msgstr ""
+msgid "プレイ中（演奏中）の
+ボイス再生をＯＮ／ＯＦＦ
+することができます。"
+msgstr ""
+msgid "ユーザーデータの
+「プレート」を
+変更することができます。"
+msgstr ""
+msgid "ユーザーデータの
+「ナビゲーター」を
+変更することができます。"
+msgstr ""
+msgid "所持数 ×<POSSESS_NUM>"
+msgstr ""
+msgid "<ITEM_NAME>を使用しますか?"
+msgstr ""
+msgid "「<ITEM_NAME>」を使用しました"
+msgstr ""
+msgid "Rate:"
+msgstr ""
+msgid "-"
+msgstr ""
+msgid "今VIPに加入すると
+アイテムを獲得することができます"
+msgstr ""
+msgid "VIP加入ボーナス"
+msgstr ""
+msgid "Dive into the INFERNO　　　Dive into the INFERNO　　　Dive into the INFERNO　　　Dive into the INFERNO　　　"
+msgstr ""
+msgid "VIP期限"
+msgstr ""

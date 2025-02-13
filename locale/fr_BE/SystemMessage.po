@@ -1,0 +1,1198 @@
+﻿msgid ""
+msgstr ""
+"Language: fr_BE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "« [WACCA] est propulsé par Unreal® Engine.
+
+Unreal® est disponible aux États-Unis et dans d'autres pays et régions.
+Une marque commerciale ou une marque déposée d'Epic Games, Inc. »
+
+\"Unreal® Engine, Copyright 1998-2018, Epic Games, Inc. Tous droits réservés.\""
+msgstr ""
+msgid "ta chanson préférée
+jouer seul
+mode."
+msgstr ""
+msgid "Avec des amis dans le magasin
+« Concurrence » et « Coopération »
+Faites une pièce de théâtre."
+msgstr ""
+msgid "mon propre udemae
+essayer."
+msgstr ""
+msgid "Le temps est écoulé.
+Pour un jeu simple
+C’est décidé."
+msgstr ""
+msgid "\"WACCA\" sélectionne le menu par glissement.
+<span color=\"#E5006D\">Faites glisser votre main sur la zone lumineuse</>
+Veuillez sélectionner un menu."
+msgstr ""
+msgid "Devenez membre VIP
+Plus de WACCA
+Amusez-vous à jouer !"
+msgstr ""
+msgid "Date limite d'adhésion VIP
+Mise à jour."
+msgstr ""
+msgid "Les membres VIP sont
+fin de période
+Depuis 10 jours
+ Peut être mis à jour."
+msgstr ""
+msgid "Au stade supérieur
+Quand la VIE est partie
+Le défi sera raté.
+Voulez-vous continuer ?"
+msgstr ""
+msgid "la zone brillante
+faites-le glisser
+mode pour jouer
+Veuillez choisir."
+msgstr ""
+msgid "Inscription membre VIP
+objets utiles
+Vous pouvez l'acheter."
+msgstr ""
+msgid "Est-ce que ça va si l’effet de l’objet que j’ai utilisé ne s’active pas ?"
+msgstr ""
+msgid "dans un certain délai
+Vous pouvez jouer autant de chansons que vous le souhaitez
+mode."
+msgstr ""
+msgid "Je travaille dur pour le démarrer.
+Veuillez patienter encore un peu."
+msgstr ""
+msgid "Initialise le périphérique tactile.
+Ne touchez pas la console WACCA.
+
+Initialisez l'appareil tactile.
+Veuillez ne pas toucher à la console WACCA."
+msgstr ""
+msgid "Mise à jour trouvée.
+Redémarrez."
+msgstr ""
+msgid "Le traitement requis pour le démarrage n'a pas été effectué.
+Quand la mise à jour USB arrive au magasin
+Veuillez mettre à jour."
+msgstr ""
+msgid "Mise à jour vers la version 3.00.00.
+Cela ne fonctionnera pas avant <YEAR>/<MONTH>/<DAY> <HOUR>:<MINUTE>.
+Ce message s'affiche même après <ANNÉE>/<MOIS>/<JOUR> <HOUR>:<MINUTE>.
+S'il s'affiche, veuillez redémarrer."
+msgstr ""
+msgid "Mise à jour inversée de WACCA terminée
+De <ANNÉE>/<MOIS>/<JOUR> <HOUR> :<MINUTE>
+Vous pouvez jouer avec de nouvelles fonctionnalités."
+msgstr ""
+msgid "Le fichier de mise à jour
+Je l'ai trouvé.
+Redémarrer et mettre à jour
+Veuillez postuler.
+Veuillez redémarrer."
+msgstr ""
+msgid "Mode ÉVÉNEMENT
+*Les données ne seront pas enregistrées"
+msgstr ""
+msgid "Erreur de connexion réseau
+Je ne parviens actuellement pas à jouer au jeu."
+msgstr ""
+msgid "Cette machine a cessé de fonctionner aujourd'hui.
+S'il vous plaît, visitez-nous à nouveau."
+msgstr ""
+msgid "Cette machine cessera de fonctionner dans <NUMBER> minutes.
+« Acceptation des pièces » et « Démarrer le jeu » sont actuellement suspendus.
+S'il vous plaît, visitez-nous à nouveau."
+msgstr ""
+msgid "Actuellement en maintenance. Je ne peux pas jouer.
+Les horaires de fermeture sont disponibles sur le site officiel de WACCA.
+Vérifiez s'il vous plaît. https://wacca.marv.jp/"
+msgstr ""
+msgid "Cette machine va bientôt redémarrer.
+Après le redémarrage, vous pouvez jouer normalement.
+s'il vous plaît, attendez un moment."
+msgstr ""
+msgid "La maintenance est \"terminée\".
+Veuillez \"redémarrer\" le châssis.
+Veuillez redémarrer."
+msgstr ""
+msgid "Entrez le nom"
+msgstr ""
+msgid "\"WACCA\" déplace le curseur par glissement.
+<span color=\"#E5006D\">Faites glisser votre main sur la zone lumineuse</>
+Veuillez choisir."
+msgstr ""
+msgid "Veuillez entrer le nom du joueur.
+Le nom que vous avez saisi apparaîtra sur Internet.
+Peut être publié.
+Veuillez en prendre connaissance avant d'entrer."
+msgstr ""
+msgid "\"<USER_NAME>\"
+Es-tu sûr?"
+msgstr ""
+msgid "Bienvenue dans le monde de WACCA !"
+msgstr ""
+msgid "! Contient des caractères invalides !"
+msgstr ""
+msgid "Le temps s'est écoulé!
+Cette fois, je serai un \"joueur invité\".
+Veuillez vous réinscrire la prochaine fois que vous jouerez."
+msgstr ""
+msgid "Le temps s'est écoulé!
+Cette fois, je serai un \"joueur invité\".
+Veuillez vous réinscrire la prochaine fois que vous jouerez."
+msgstr ""
+msgid "Les gars bruyants sont de retour !
+Me permettez-vous de le regarder ?"
+msgstr ""
+msgid "Aller"
+msgstr ""
+msgid "Note"
+msgstr ""
+msgid "signification"
+msgstr ""
+msgid "Si vous ressentez une douleur ou un inconfort lors de l'utilisation du produit,
+Arrêtez immédiatement de jouer et consultez un médecin.
+Veuillez également vous abstenir de toute action susceptible de provoquer des blessures ou un dysfonctionnement inattendus.
+
+Pour proposer de meilleurs jeux
+Le contenu du jeu peut être changé ou modifié sans préavis.
+Cela peut être fait.
+
+Le contenu du jeu varie en fonction du temps de jeu
+Merci pour votre compréhension."
+msgstr ""
+msgid "sauter"
+msgstr ""
+msgid "Vraiment
+sauter?"
+msgstr ""
+msgid "Console WACCA"
+msgstr ""
+msgid "Ligne de jugement"
+msgstr ""
+msgid "jauge de quota"
+msgstr ""
+msgid "ligne normale"
+msgstr ""
+msgid "jeu unique"
+msgstr ""
+msgid "multijoueur"
+msgstr ""
+msgid "mettre en scène"
+msgstr ""
+msgid "boutique"
+msgstr ""
+msgid "Jeu unique (temps libre)"
+msgstr ""
+msgid "Oui"
+msgstr ""
+msgid "Non"
+msgstr ""
+msgid "NORMALE"
+msgstr ""
+msgid "DUR"
+msgstr ""
+msgid "EXPERT"
+msgstr ""
+msgid "ENFER"
+msgstr ""
+msgid "RAPIDE"
+msgstr ""
+msgid "EN RETARD"
+msgstr ""
+msgid "R.P."
+msgstr ""
+msgid "PR"
+msgstr ""
+msgid "Niv."
+msgstr ""
+msgid "SCORE"
+msgstr ""
+msgid "NOTE TOTALE"
+msgstr ""
+msgid "Taux"
+msgstr ""
+msgid "EXP."
+msgstr ""
+msgid "Point inversé"
+msgstr ""
+msgid "VIE"
+msgstr ""
+msgid "? ? ?"
+msgstr ""
+msgid "<POINT><MONNAIE>"
+msgstr ""
+msgid "WACCA"
+msgstr ""
+msgid "WACCA s"
+msgstr ""
+msgid "WACCA Lily"
+msgstr ""
+msgid "WACCA Lily R."
+msgstr ""
+msgid "WACCA Inverse"
+msgstr ""
+msgid "%"
+msgstr ""
+msgid "EN HAUT!"
+msgstr ""
+msgid "COMMENCER"
+msgstr ""
+msgid "REBOOSTER"
+msgstr ""
+msgid "/ Numéro de chanson"
+msgstr ""
+msgid "MERVEILLEUX"
+msgstr ""
+msgid "SUPER"
+msgstr ""
+msgid "BIEN"
+msgstr ""
+msgid "MANQUER"
+msgstr ""
+msgid "MAÎTRE"
+msgstr ""
+msgid "SSS"
+msgstr ""
+msgid "SS"
+msgstr ""
+msgid "S"
+msgstr ""
+msgid "AAA"
+msgstr ""
+msgid "Les AA"
+msgstr ""
+msgid "UN"
+msgstr ""
+msgid "B"
+msgstr ""
+msgid "C"
+msgstr ""
+msgid "D"
+msgstr ""
+msgid "-"
+msgstr ""
+msgid "1er"
+msgstr ""
+msgid "2ème"
+msgstr ""
+msgid "3ème"
+msgstr ""
+msgid "4ème"
+msgstr ""
+msgid "ÉCHOUÉ"
+msgstr ""
+msgid "CLAIR"
+msgstr ""
+msgid "Sans faute"
+msgstr ""
+msgid "Combinaison complète"
+msgstr ""
+msgid "TOUT Merveilleux"
+msgstr ""
+msgid "acquisition
+Inverse
+indiquer"
+msgstr ""
+msgid "décision"
+msgstr ""
+msgid "D'ACCORD"
+msgstr ""
+msgid "retour"
+msgstr ""
+msgid "au prochain"
+msgstr ""
+msgid "Prêt à partir"
+msgstr ""
+msgid "réinitialiser"
+msgstr ""
+msgid "défaut"
+msgstr ""
+msgid "page"
+msgstr ""
+msgid "signet
+ouvrir"
+msgstr ""
+msgid "Vers le signet
+ajout"
+msgstr ""
+msgid "trier"
+msgstr ""
+msgid "trier
+clair"
+msgstr ""
+msgid "Genre
+saut"
+msgstr ""
+msgid "Genre"
+msgstr ""
+msgid "préféré
+ajout"
+msgstr ""
+msgid "préféré
+ouvrir"
+msgstr ""
+msgid "trier"
+msgstr ""
+msgid "aléatoire"
+msgstr ""
+msgid "masque
+concentration"
+msgstr ""
+msgid "S.E.
+reproduction"
+msgstr ""
+msgid "symbole"
+msgstr ""
+msgid "couleur"
+msgstr ""
+msgid "vitesse"
+msgstr ""
+msgid "Ajustement du jugement"
+msgstr ""
+msgid "COMMENCER"
+msgstr ""
+msgid "trier
+défaut
+commande"
+msgstr ""
+msgid "trier
+rareté
+commande"
+msgstr ""
+msgid "trier
+Ordre d'acquisition"
+msgstr ""
+msgid "Mes données"
+msgstr ""
+msgid "Classement"
+msgstr ""
+msgid "trophée"
+msgstr ""
+msgid "test
+jouer"
+msgstr ""
+msgid "Pour QUITTER"
+msgstr ""
+msgid "chambre
+dissolution"
+msgstr ""
+msgid "un personnage
+supprimer"
+msgstr ""
+msgid "lettre minuscule"
+msgstr ""
+msgid "lettre majuscule"
+msgstr ""
+msgid "alphabet"
+msgstr ""
+msgid "Confirmé"
+msgstr ""
+msgid "Nombres
+symbole"
+msgstr ""
+msgid "vide"
+msgstr ""
+msgid "saisir"
+msgstr ""
+msgid "ensemble"
+msgstr ""
+msgid "Ne peut pas être sélectionné"
+msgstr ""
+msgid "droite"
+msgstr ""
+msgid "gauche"
+msgstr ""
+msgid "article
+vérifier"
+msgstr ""
+msgid "article
+utiliser"
+msgstr ""
+msgid "option"
+msgstr ""
+msgid "Ramène le curseur à sa position par défaut."
+msgstr ""
+msgid "Vous pouvez modifier la vitesse de Notes."
+msgstr ""
+msgid "Vous pouvez appliquer un masque à l'arrière-plan.
+Quand il est difficile de voir les notes
+Augmentez la densité du masque d'arrière-plan."
+msgstr ""
+msgid "Vous pouvez ajuster le timing du jugement d’entrée."
+msgstr ""
+msgid "Si vous le touchez deux fois de suite,
+Vous pouvez ignorer le didacticiel."
+msgstr ""
+msgid "accéder
+code"
+msgstr ""
+msgid "au prochain"
+msgstr ""
+msgid "règlement"
+msgstr ""
+msgid "Demande de solde"
+msgstr ""
+msgid "　
+1Jouer
+gratuit"
+msgstr ""
+msgid "Niveau de difficulté"
+msgstr ""
+msgid "Aller à la confirmation finale
+retour"
+msgstr ""
+msgid "WACCA
+BINGO"
+msgstr ""
+msgid "mélanger"
+msgstr ""
+msgid "Sélection de chansons"
+msgstr ""
+msgid "Peut être ouvert avec RP"
+msgstr ""
+msgid "Point inverse <NUMBER_PRICE> consommation
+Ouvrez cette chanson. Es-tu sûr?
+Possession de points inversés <NUMBER_FUNDAGE>"
+msgstr ""
+msgid "trier
+clair"
+msgstr ""
+msgid "décision"
+msgstr ""
+msgid "détail"
+msgstr ""
+msgid "Les « Favoris » ne sont pas précisés.
+Revenir à la sélection de chansons."
+msgstr ""
+msgid "préféré"
+msgstr ""
+msgid "<span color=\"#E5006D\">RP insuffisant</>"
+msgstr ""
+msgid "L'INVITÉ ne peut pas ouvrir la chanson.
+Veuillez jouer avec des cartes Aime."
+msgstr ""
+msgid "Liste des pistes"
+msgstr ""
+msgid "temporisation"
+msgstr ""
+msgid "Consommation <DEVISE>"
+msgstr ""
+msgid "Déverrouillage de <DIFFICULTÉ>"
+msgstr ""
+msgid "Concepteur Notes : <NOM>"
+msgstr ""
+msgid "La chanson ne peut pas être sélectionnée car elle n'existe pas.
+Veuillez changer le genre ou le niveau de difficulté."
+msgstr ""
+msgid "Pour ceux qui jouent à WACCA pour la première fois,
+Ceci est un dossier de chansons recommandé !"
+msgstr ""
+msgid "Êtes-vous sûr de vouloir arrêter ?"
+msgstr ""
+msgid "Spécification du filtre"
+msgstr ""
+msgid "priorité"
+msgstr ""
+msgid "Spécification de la balise"
+msgstr ""
+msgid "Veuillez sélectionner une balise"
+msgstr ""
+msgid "Spécification de tri"
+msgstr ""
+msgid "Aucun tri sélectionné."
+msgstr ""
+msgid "Vous pouvez trier en « déterminant » l'élément."
+msgstr ""
+msgid "Condition de tri"
+msgstr ""
+msgid "Sélection de difficulté"
+msgstr ""
+msgid "Terminer la difficulté DIFFICILE sur \"S\" ou supérieur
+ou
+Vous pouvez l'ouvrir en consommant \"Expert Open Ticket\".
+<ADD_STRING>"
+msgstr ""
+msgid "Vous pouvez l'ouvrir en consommant des \"Points inversés\".
+<ADD_STRING>"
+msgstr ""
+msgid "ticket ouvert expert
+Je ne le possède pas."
+msgstr ""
+msgid "Je n'ai pas assez de points Reverse.
+Nécessite également <NUMBER_SHORTAGE> RP."
+msgstr ""
+msgid "Dépenser un ticket ouvert expert
+Ouvrez ce niveau de difficulté.
+Es-tu sûr?
+(Les billets dont la date d'expiration est la plus proche seront consommés en premier.)"
+msgstr ""
+msgid "<NUMBER_PRICE> Consommer des RP
+Ouvrez ce niveau de difficulté. Es-tu sûr?
+Possession de points inversés [<NUMBER_FUNDAGE>]."
+msgstr ""
+msgid "Avec billet ouvert EX
+ouvrable"
+msgstr ""
+msgid "<span color=\"#E5006D\">Pas assez de billets</>"
+msgstr ""
+msgid "Taux de réussite"
+msgstr ""
+msgid "L'INVITÉ ne peut pas ouvrir le niveau de difficulté.
+Veuillez jouer avec des cartes Aime."
+msgstr ""
+msgid "Il ne peut pas être ouvert pendant le « jeu INVITÉ » ou le « multijoueur »."
+msgstr ""
+msgid "Peut être débloqué en dépensant des RP"
+msgstr ""
+msgid "<span color=\"#E5006D\">RP insuffisant</>"
+msgstr ""
+msgid "Niveau de difficulté EXPERT
+Pas ouvert."
+msgstr ""
+msgid "Niveau de difficulté EXPERT
+Doit être ouvert."
+msgstr ""
+msgid "La chanson est
+Pas ouvert."
+msgstr ""
+msgid "chansons
+Doit être ouvert."
+msgstr ""
+msgid "Titre de la chanson"
+msgstr ""
+msgid "ARTISTE"
+msgstr ""
+msgid "Concepteur de notes"
+msgstr ""
+msgid "masque"
+msgstr ""
+msgid "aucun"
+msgstr ""
+msgid "Pas de masque"
+msgstr ""
+msgid "Concentration +1"
+msgstr ""
+msgid "Concentration +2"
+msgstr ""
+msgid "Concentration +3"
+msgstr ""
+msgid "Concentration +4"
+msgstr ""
+msgid "concentration maximale"
+msgstr ""
+msgid "Cette chanson est compatible avec la lecture vidéo.
+Souhaitez-vous lire la vidéo ?"
+msgstr ""
+msgid "Invité"
+msgstr ""
+msgid "nouveau joueur"
+msgstr ""
+msgid "-"
+msgstr ""
+msgid "pops"
+msgstr ""
+msgid "J-POP"
+msgstr ""
+msgid "rocher"
+msgstr ""
+msgid "techno"
+msgstr ""
+msgid "maison"
+msgstr ""
+msgid "club"
+msgstr ""
+msgid "animé"
+msgstr ""
+msgid "jeu"
+msgstr ""
+msgid "vocaloïde"
+msgstr ""
+msgid "2,5 dimensions"
+msgstr ""
+msgid "puissant"
+msgstr ""
+msgid "Je me sens plein d'énergie"
+msgstr ""
+msgid "Calme"
+msgstr ""
+msgid "élégant"
+msgstr ""
+msgid "mystérieux"
+msgstr ""
+msgid "beau"
+msgstr ""
+msgid "être guéri"
+msgstr ""
+msgid "agile"
+msgstr ""
+msgid "comme danser"
+msgstr ""
+msgid "palpitant"
+msgstr ""
+msgid "mignon"
+msgstr ""
+msgid "comme chanter"
+msgstr ""
+msgid "passionné"
+msgstr ""
+msgid "Sensation de courir"
+msgstr ""
+msgid "idyllique"
+msgstr ""
+msgid "Magnifique"
+msgstr ""
+msgid "Recommandé pour les débutants"
+msgstr ""
+msgid "Je vise le niveau intermédiaire"
+msgstr ""
+msgid "Mon objectif est de devenir un joueur de niveau avancé."
+msgstr ""
+msgid "Parce qu'il est super avancé"
+msgstr ""
+msgid "je viens pour te tuer"
+msgstr ""
+msgid "Tuer au premier regard"
+msgstr ""
+msgid "Défi REDALiCE"
+msgstr ""
+msgid "défi t+pazolite"
+msgstr ""
+msgid "Le défi de DJ Genki"
+msgstr ""
+msgid "Le défi de P*Light"
+msgstr ""
+msgid "chef-d'œuvre"
+msgstr ""
+msgid "Chanson représentative"
+msgstr ""
+msgid "REDALiCE recommandé"
+msgstr ""
+msgid "t+pazolite recommandé"
+msgstr ""
+msgid "P*Lumière recommandée"
+msgstr ""
+msgid "DJ Genki recommandé"
+msgstr ""
+msgid "Les favoris de Takahashi"
+msgstr ""
+msgid "70'"
+msgstr ""
+msgid "80'"
+msgstr ""
+msgid "90'"
+msgstr ""
+msgid "HARDCORE TANO*C"
+msgstr ""
+msgid "original"
+msgstr ""
+msgid "2,5 dimensions"
+msgstr ""
+msgid "Anime/POP"
+msgstr ""
+msgid "vocaloïde"
+msgstr ""
+msgid "arrangement touhou"
+msgstr ""
+msgid "variété"
+msgstr ""
+msgid "Vtuber"
+msgstr ""
+msgid "Recommandé pour les débutants !"
+msgstr ""
+msgid "Ordre par défaut"
+msgstr ""
+msgid "Nouvelle chanson"
+msgstr ""
+msgid "Toutes les chansons"
+msgstr ""
+msgid "préféré"
+msgstr ""
+msgid "Trier par note"
+msgstr ""
+msgid "Effacer l'ordre des marques"
+msgstr ""
+msgid "Trier par genre"
+msgstr ""
+msgid "Trier par niveau"
+msgstr ""
+msgid "Par version"
+msgstr ""
+msgid "Trier par titre de chanson"
+msgstr ""
+msgid "doubler"
+msgstr ""
+msgid "un"
+msgstr ""
+msgid "moustique"
+msgstr ""
+msgid "différence"
+msgstr ""
+msgid "Ta"
+msgstr ""
+msgid "N / A"
+msgstr ""
+msgid "dents"
+msgstr ""
+msgid "Maman"
+msgstr ""
+msgid "ou"
+msgstr ""
+msgid "et d'autres"
+msgstr ""
+msgid "cercle"
+msgstr ""
+msgid "Nombres"
+msgstr ""
+msgid "Non joué"
+msgstr ""
+msgid "Non effacé"
+msgstr ""
+msgid "-"
+msgstr ""
+msgid "Points d'expérience"
+msgstr ""
+msgid "Point inversé"
+msgstr ""
+msgid "chansons"
+msgstr ""
+msgid "Niveau de difficulté <DIFFICULTÉ>"
+msgstr ""
+msgid "trophée"
+msgstr ""
+msgid "titre"
+msgstr ""
+msgid "compétence"
+msgstr ""
+msgid "icône"
+msgstr ""
+msgid "ma couleur"
+msgstr ""
+msgid "S.E."
+msgstr ""
+msgid "billet"
+msgstr ""
+msgid "Billet ouvert EX"
+msgstr ""
+msgid "Billet de jeu EXPERT"
+msgstr ""
+msgid "+1 ticket bonus de chanson"
+msgstr ""
+msgid "booster les objets"
+msgstr ""
+msgid "point de porte"
+msgstr ""
+msgid "navigateur"
+msgstr ""
+msgid "plaque"
+msgstr ""
+msgid "Effet tactile (pop)"
+msgstr ""
+msgid "Obtenir « <Objet> »"
+msgstr ""
+msgid "\"<Item>\" a été publié"
+msgstr ""
+msgid "\"<Item>\" a été publié"
+msgstr ""
+msgid "Les chansons peuvent être ouvertes."
+msgstr ""
+msgid "La chanson s'est ouverte"
+msgstr ""
+msgid "　　　"
+msgstr ""
+msgid "Vous pouvez l'ouvrir en sélectionnant une chanson."
+msgstr ""
+msgid "Vous pouvez jouer en sélectionnant des chansons."
+msgstr ""
+msgid "Pour \"mettre en scène\"
+Vous pouvez désormais relever le défi."
+msgstr ""
+msgid "Les données utilisateur n'ont pas pu être obtenues.
+Cette fois, ce sera une pièce invitée."
+msgstr ""
+msgid "Cet utilisateur joue sur une autre machine.
+Ne peut pas être joué en même temps.
+Cette fois, ce sera une pièce invitée."
+msgstr ""
+msgid "Cette carte contient des \"données utilisateur d'autres régions\"
+C’est réglé.
+Cette machine ne peut pas être numérisée.
+Cette carte contient les données utilisateur d'une autre région.
+Cette machine ne peut pas le scanner."
+msgstr ""
+msgid "Les données utilisateur n'ont pas pu être créées.
+Cette fois, ce sera une pièce invitée."
+msgstr ""
+msgid "Les données utilisateur n'ont pas pu être créées.
+Revenez à l’écran titre."
+msgstr ""
+msgid "Erreur de numérisation Aime
+<ERREUR_MESSAGE>"
+msgstr ""
+msgid "La connexion a échoué.
+Cette fois, ce sera une pièce invitée."
+msgstr ""
+msgid "10 avantages majeurs pour les membres VIP"
+msgstr ""
+msgid "Veuillez INSÉRER"
+msgstr ""
+msgid "Valable pour les \"<Day> jours\"."
+msgstr ""
+msgid "Valable jusqu'à 06h59 le <Date>."
+msgstr ""
+msgid "Conditions d'utilisation VIP"
+msgstr ""
+msgid "Cet article est déjà
+Déjà reçu"
+msgstr ""
+msgid "Il s'agit d'un service d'avantages spéciaux valable pendant 30 jours pour 300 yens !"
+msgstr ""
+msgid "① La date de distribution de la chanson sera « 1 jour » plus tôt !"
+msgstr ""
+msgid "*Certaines chansons ne sont pas éligibles."
+msgstr ""
+msgid "② La date d'ajout de la porte sera « 1 jour » plus tôt !"
+msgstr ""
+msgid "*Certaines portes ne sont pas éligibles."
+msgstr ""
+msgid "③ Gagnez 1,2 fois des points inversés !"
+msgstr ""
+msgid "④Le nombre de points de porte gagnés est de 1,2 fois !"
+msgstr ""
+msgid "⑤Le nombre de points Reverse gagnés lors du bonus de connexion est augmenté !"
+msgstr ""
+msgid "⑥ Augmentation du nombre de points d'expérience gagnés lors du bonus de connexion !"
+msgstr ""
+msgid "⑦Vous pouvez obtenir un bonus de connexion VIP limité !"
+msgstr ""
+msgid "⑧ Recevez de merveilleux objets à chaque fois que vous continuez à être VIP !"
+msgstr ""
+msgid "⑨ Vous pouvez comparer les scores avec vos amis !"
+msgstr ""
+msgid "⑩ Le temps restant du jeu unique (temps libre) est augmenté de 3 minutes !"
+msgstr ""
+msgid "
+[Notes sur le système des membres VIP]
+
+Utilisation du système de membre VIP (ci-après dénommé ce système)
+Pour les clients qui le souhaitent, Marvelous Co., Ltd. (ci-après dénommée notre société)
+Vous devez lire et accepter les précautions suivantes.
+
+
+Ce système nécessite des frais d'utilisation du système de 300 yens en plus des frais de jeu.
+En payant, vous pouvez débloquer la chanson plus tôt pendant 30 jours à compter de la date de paiement.
+Il offre divers avantages tels que la sortie d'une personnalisation optionnelle.
+
+
+Une fois que le client a payé les frais d'utilisation du système,
+　Notre société ne facturera pas ces frais d'utilisation du système pour quelque raison ou cas que ce soit.
+　Nous ne pouvons pas le rembourser.
+
+
+Notre société, sans préavis au client,
+　　Tout ou partie du contenu de ce système peut être modifié.
+Pour plus de détails sur nos services fournis via ce système, veuillez consulter
+Veuillez consulter le site officiel de WACCA.
+　　https://wacca.marv.jp/
+
+Fourni par SEGA Interactive Co., Ltd.
+　　　Service de jeux d'arcade en ligne « ALL.Net »,
+Ce système est dû au système d'authentification « Aime »
+Concernant les dommages causés aux clients en raison de défauts, pannes, etc.
+Notre société n'assume aucune responsabilité.
+
+
+Pour toute question concernant ce système et les précautions, veuillez contacter
+Veuillez nous contacter à partir de <span color=\"#E5006D\">\"Cliquez ici pour toute demande de renseignements\"</> sur le site officiel de WACCA."
+msgstr ""
+msgid "2"
+msgstr ""
+msgid "3"
+msgstr ""
+msgid "4"
+msgstr ""
+msgid "5555
+55"
+msgstr ""
+msgid "
+[Notes sur le système des membres VIP]
+
+　　　　Système de membre VIP (ci-après dénommé ce système)
+Si vous souhaitez renouveler votre période d'utilisation, veuillez
+Ce qui suit, tel que spécifié par Marvelous Co., Ltd. (ci-après dénommée notre société)
+Vous devez lire et accepter les notes.
+ 
+Ce système nécessite des frais d'utilisation du système de 300 yens en plus des frais de jeu.
+En payant, vous pourrez utiliser ce système que vous utilisez actuellement.
+La période d'utilisation a été prolongée de 30 jours, permettant une sortie anticipée des chansons et une personnalisation facultative.
+Il offre divers avantages tels que la libération.
+
+Une fois que le client a payé les frais d'utilisation du système,
+　Notre société ne facturera pas ces frais d'utilisation du système pour quelque raison ou cas que ce soit.
+　Nous ne pouvons pas le rembourser.
+
+Notre société peut modifier le contenu de ce système sans préavis au client.
+Il peut être modifié en tout ou en partie.
+Pour plus de détails sur nos services fournis via ce système, veuillez consulter
+Veuillez consulter le site officiel de WACCA.
+　　https://wacca.marv.jp/
+
+Fourni par SEGA Interactive Co., Ltd.
+　　　Service de jeux d'arcade en ligne « ALL.Net »,
+Ce système est dû au système d'authentification « Aime »
+Concernant les dommages causés aux clients en raison de défauts, pannes, etc.
+Notre société n'assume aucune responsabilité.
+
+
+Pour toute question concernant ce système et les précautions, veuillez contacter
+Veuillez nous contacter à partir de <span color=\"#E5006D\">\"Cliquez ici pour toute demande de renseignements\"</> sur le site officiel de WACCA."
+msgstr ""
+msgid "Temps de prolongation 02"
+msgstr ""
+msgid "Temps de prolongation 03"
+msgstr ""
+msgid "Temps de prolongation 04"
+msgstr ""
+msgid "Une fois prolongé 05"
+msgstr ""
+msgid "C'est ça.
+
+êtes-vous d'accord?"
+msgstr ""
+msgid "La communication a échoué."
+msgstr ""
+msgid "La communication a échoué.
+Le CRÉDIT n'est pas consommé."
+msgstr ""
+msgid "Les membres VIP sont le <Date>
+Valable jusqu'à 06h59."
+msgstr ""
+msgid "L'adhésion VIP n'est actuellement pas active."
+msgstr ""
+msgid "Membre VIP"
+msgstr ""
+msgid "repos"
+msgstr ""
+msgid "jour"
+msgstr ""
+msgid "Aujourd'hui"
+msgstr ""
+msgid "Impossible de se déconnecter correctement
+Peut-être.
+
+Attendez environ 30 minutes avant d'insérer des pièces.
+Veuillez scanner votre carte pour voir si elle fonctionne."
+msgstr ""
+msgid "PIÈCE DE MONNAIE"
+msgstr ""
+msgid "CRÉDIT"
+msgstr ""
+msgid "ⓒCrypton Future Media,INC.www.piapro.net"
+msgstr ""
+msgid "ⓒ CAFFÉINE / Hioka Smith / Crypton Future Media, INC. www.piapro.net"
+msgstr ""
+msgid "ⓒLigne/Koyama no Maiyo/"
+msgstr ""
+msgid "Veuillez insérer une pièce de monnaie"
+msgstr ""
+msgid "Vous pouvez également utiliser la monnaie électronique."
+msgstr ""
+msgid "Demander le solde de la monnaie électronique"
+msgstr ""
+msgid "Montant du paiement"
+msgstr ""
+msgid "cercle"
+msgstr ""
+msgid "Sélectionnez votre marque sur la console WACCA et touchez-la sur votre lecteur Aime
+Pour vérifier votre solde, veuillez appuyer sur le bouton de vérification du solde"
+msgstr ""
+msgid "Sélectionnez la marque dont vous souhaitez vous renseigner sur le solde sur la console WACCA et touchez le lecteur Aime
+Si vous souhaitez effectuer un paiement en monnaie électronique, veuillez appuyer sur le bouton de paiement."
+msgstr ""
+msgid "Souhaitez-vous jouer avec cet utilisateur ?"
+msgstr ""
+msgid "Voulez-vous jouer en tant qu'invité ?"
+msgstr ""
+msgid "Souhaitez-vous jouer avec de nouvelles données ?"
+msgstr ""
+msgid "<NUMBER> CRÉDIT(S) requis pour jouer"
+msgstr ""
+msgid "JEU GRATUIT"
+msgstr ""
+msgid "1 jeu est gratuit pour la première fois
+peut jouer"
+msgstr ""
+msgid "Souhaitez-vous devenir utilisateur VIP ?
+Comment devenir un utilisateur VIP
+<NUMBER> CRÉDIT(S) requis"
+msgstr ""
+msgid "<ITEM_NAME>
+Souhaitez-vous acheter ?
+Pour acheter
+<NUMBER> CRÉDIT(S) requis"
+msgstr ""
+msgid "Jeu unique (temps libre)
+Voulez-vous jouer?
+supplémentaire pour jouer
+<NUMBER> CRÉDIT(S) requis"
+msgstr ""
+msgid "Pour obtenir des instructions sur le fonctionnement
+Veuillez vérifier le message affiché à côté du lecteur Aime."
+msgstr ""
+msgid "Voulez-vous continuer ?"
+msgstr ""
+msgid "\"<PLAYER_NAME>\" est
+Vous êtes devenu « membre VIP » !"
+msgstr ""
+msgid "\"<PLAYER_NAME>\" est
+La période \"Membre VIP\" a été mise à jour !"
+msgstr ""
+msgid "Annuler."
+msgstr ""
+msgid "niveau de difficulté
+veuillez sélectionner."
+msgstr ""
+msgid "Jouer à la « compétition »
+Veuillez sélectionner un niveau de difficulté.
+En cas d'égalité, le niveau de difficulté changera
+Plus haut, c'est mieux."
+msgstr ""
+msgid "Jouez en « coop »
+Veuillez choisir un niveau de difficulté.
+En cas d'égalité, le niveau de difficulté changera
+Plus haut, c'est mieux."
+msgstr ""
+msgid "Veuillez entrer votre nom.
+« Anglais » et « Chiffres et symboles »
+Vous pouvez entrer."
+msgstr ""
+msgid "Tutoriel
+Voulez-vous jouer?"
+msgstr ""
+msgid "des données utilisateur
+\"Icône\"
+Peut être modifié."
+msgstr ""
+msgid "des données utilisateur
+\"Titre\"
+Peut être modifié."
+msgstr ""
+msgid "vitesse des notes
+Il peut être ajusté.
+à une vitesse qui vous convient
+Veuillez faire correspondre."
+msgstr ""
+msgid "Concentration du masque
+Il peut être ajusté.
+Plus la concentration est élevée
+L'arrière-plan deviendra plus sombre."
+msgstr ""
+msgid "Lorsque vous touchez Notes
+Vous pouvez changer de SE.
+Choisissez une SE qui correspond à vos goûts
+Veuillez le définir."
+msgstr ""
+msgid "En jouant (en jouant)
+Volume de la musique de fond
+Vous pouvez effectuer des réglages fins."
+msgstr ""
+msgid "En jouant (en jouant)
+Volume SE
+Vous pouvez effectuer des réglages fins."
+msgstr ""
+msgid "Console WACCA
+motif de couleur
+Vous pouvez le changer."
+msgstr ""
+msgid "Chansons compatibles avec la lecture vidéo
+Si tu veux jouer
+Voulez-vous lire la vidéo ?
+Peut être réglé."
+msgstr ""
+msgid "Position d'affichage du jugement
+Il peut être ajusté."
+msgstr ""
+msgid "Autre que merveilleux
+Lors de la détermination, si l'entrée est
+Est-ce rapide ?
+Indique s'il est en retard (LATE)."
+msgstr ""
+msgid "La « ligne d’espacement » de la ligne directrice
+Allumer/éteindre l'affichage
+Tu peux."
+msgstr ""
+msgid "Concentration recommandée
+Il peut être ajusté.
+Plus la concentration est élevée
+Il fait noir."
+msgstr ""
+msgid "Afficher les lignes de mesure
+MARCHE/ARRÊT
+Tu peux."
+msgstr ""
+msgid "Afficher COMBO
+MARCHE/ARRÊT
+Tu peux."
+msgstr ""
+msgid "Définition des compétences
+message au dessus du titre"
+msgstr ""
+msgid "Ajustez le timing d’entrée.
+S'il y a beaucoup de \"RAPIDE\", \"+\"
+S'il y a beaucoup de \"LATE\", \"-\"
+Veuillez ajuster en conséquence."
+msgstr ""
+msgid "Changez la méthode d’affichage du score.
+Il s'agit généralement de la \"méthode plus\".
+La « méthode moins » est
+Merveilleux
+Sinon, il sera soustrait."
+msgstr ""
+msgid "Abandonner (arrêter à mi-chemin)
+MARCHE/ARRÊT
+Tu peux."
+msgstr ""
+msgid "Paramétrage de l'effet bonus en cours
+message au dessus du titre"
+msgstr ""
+msgid "Son de guidage (son de rythme précis)
+Activer/désactiver la lecture
+Tu peux."
+msgstr ""
+msgid "Lorsqu'il est allumé,
+Lors de la saisie des notes de bonus
+Le taux d’augmentation des quotas est plus élevé que d’habitude
+Cela coûtera cher."
+msgstr ""
+msgid "En jouant (en jouant)
+Activer/désactiver la lecture vocale
+Tu peux."
+msgstr ""
+msgid "des données utilisateur
+\"Plaque\"
+Peut être modifié."
+msgstr ""
+msgid "des données utilisateur
+\"Navigateur\"
+Peut être modifié."
+msgstr ""
+msgid "Nombre de biens ×<POSSESS_NUM>"
+msgstr ""
+msgid "Souhaitez-vous utiliser <ITEM_NAME> ?"
+msgstr ""
+msgid "\"<ITEM_NAME>\" utilisé"
+msgstr ""
+msgid "Taux:"
+msgstr ""
+msgid "-"
+msgstr ""
+msgid "Si vous rejoignez VIP maintenant
+vous pouvez obtenir des objets"
+msgstr ""
+msgid "Bonus d'adhésion VIP"
+msgstr ""
+msgid "Plongez dans l'INFERNO Plongez dans l'INFERNO Plongez dans l'INFERNO Plongez dans l'INFERNO"
+msgstr ""
+msgid "Date limite VIP"
+msgstr ""

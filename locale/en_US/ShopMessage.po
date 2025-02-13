@@ -1,0 +1,73 @@
+﻿msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "Become a VIP member"
+msgstr ""
+msgid "<CREDIT>CREDIT"
+msgstr ""
+msgid "By registering as a VIP member, you can receive various benefits and enjoy WACCA even more."
+msgstr ""
+msgid "Boost Badge"
+msgstr ""
+msgid "<CREDIT>CREDIT"
+msgstr ""
+msgid "You'll earn 
+double Gate Points and RP by playing songs. 
+Plus, it comes with the effect of an EX Play Ticket!"
+msgstr ""
+msgid "Boost Badge S"
+msgstr ""
+msgid "<CREDIT>CREDIT"
+msgstr ""
+msgid "You'll earn 3.1 times the Gate Points and RP when playing songs. Plus, you'll get the benefits of an EX Play Ticket!"
+msgstr ""
+msgid "EX Open Ticket"
+msgstr ""
+msgid "<WACCA_POINT>RP"
+msgstr ""
+msgid "Convert RP to EX Open Tickets (no expiration date). 
+
+Number of tickets in possession (with expiration date) <LIMITED_TICKET_NUM> / <LIMITED_TICKET_MAX> 
+Number of tickets in possession (no expiration date) <TICKET_NUM> / <TICKET_MAX>"
+msgstr ""
+msgid "Note"
+msgstr ""
+msgid "This product is a separate fee that you pay to receive advantageous bonuses to your gate points and RP during gameplay. After you have paid the product fee, we cannot exchange it for any reason or under any circumstances."
+msgstr ""
+msgid "That's it.
+
+Do you agree?"
+msgstr ""
+msgid "<CREDIT> Use CREDIT to purchase 
+<ITEM_NAME>. 
+Are you sure? 
+CREDIT <NOW_CREDIT>/<NEED_CREDIT>"
+msgstr ""
+msgid "<ITEM_NAME> will be exchanged for RP. 
+Are you sure? 
+<NEED_WACCA_POINT> RP consumed (<HAVE_WACCA_POINT> RP available)"
+msgstr ""
+msgid "Not enough RP."
+msgstr ""
+msgid "You have reached your limit. 
+Number of tickets you have (no limit) <TICKET_NUM> / <TICKET_MAX>"
+msgstr ""
+msgid "Communication failed."
+msgstr ""
+msgid "VIP Member Renewal"
+msgstr ""
+msgid "VIP members can renew their membership 10 days before the end of the period."
+msgstr ""
+msgid "Reverse points"
+msgstr ""
+msgid "RP"
+msgstr ""
+msgid "I returned the EX Play ticket."
+msgstr ""
+msgid "Please scan this QR code."
+msgstr ""
+msgid "You can purchase various items, such as a \"VIP Membership\" that lets you play all songs, and a \"Boost Badge\" that lets you earn a large amount of various points."
+msgstr ""
+msgid "After purchasing, be sure to touch \"End Purchase.\" If you do not touch \"End Purchase,\" the effect of the purchased item will not be reflected in this play."
+msgstr ""

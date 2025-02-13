@@ -1,0 +1,34 @@
+﻿msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "Page number"
+msgstr ""
+msgid "Would you like to shuffle the topics?
+
+If you shuffle the topics,
+your progress on the topics will also be reset."
+msgstr ""
+msgid "Failed to update topic."
+msgstr ""
+msgid "WACCA BINGO"
+msgstr ""
+msgid "In WACCA BINGO, you can earn rewards by taking on various challenges and achieving BINGO. The challenges become more difficult as the number of BINGO sheets increases."
+msgstr ""
+msgid "shuffle"
+msgstr ""
+msgid "When you shuffle, 
+the topics on the current BINGO sheet will be reselected. 
+
+*The progress of the topics will be reset."
+msgstr ""
+msgid "WACCA BINGO"
+msgstr ""
+msgid "If you complete the challenge and achieve BINGO or ALL CLEAR, you will receive the rewards shown on the screen."
+msgstr ""
+msgid "BINGO BONUS"
+msgstr ""
+msgid "ALL CLEAR"
+msgstr ""
+msgid "WACCA BINGO"
+msgstr ""

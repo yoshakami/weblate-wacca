@@ -1,0 +1,279 @@
+﻿msgid ""
+msgstr ""
+"Language: fr_BE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "<span color=\"#E5006D\">Zone lumineuse</>
+Touchez-le simplement pour commencer !"
+msgstr ""
+msgid "Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la <span color=\"#E5006D\">zone brillante</> !"
+msgstr ""
+msgid "Tanoshi ultime
+!!!!!!!!!!! Actuellement en détention.
+Chansons de Tanoshi ajoutées d'un seul coup !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "Tanoshi ultime
+!!!!!!!!!!! Actuellement en détention.
+Scannez la carte Aime ou la carte compatible Amusement IC
+Touchez la <span color=\"#E5006D\">Zone lumineuse</> !"
+msgstr ""
+msgid "<span color=\"#E5006D\">Projet Touhou×WACCA</> Événement en cours !
+Les chansons « Touhou Arranged » sont désormais disponibles sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "<span color=\"#E5006D\">Projet Touhou×WACCA</> Événement en cours !
+Compatible avec carte Aime ou Amusement IC
+Scannez la carte ou elle clignotera
+Touchez la zone !"
+msgstr ""
+msgid "<span color=\"#000000\">Kizuna AI × WACCA</> Événement en cours !
+Les chansons de Kizuna AI apparaissent sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "<span color=\"#000000\">Kizuna AI × WACCA</> Événement en cours !
+Scannez la carte Aime ou la carte compatible Amusement IC
+Touchez la zone lumineuse !"
+msgstr ""
+msgid "Vous pouvez désormais obtenir une <span color=\"#000000\">icône limitée</> !
+jouer pendant la période
+Obtenez une icône dans le jeu !"
+msgstr ""
+msgid "Vous pouvez désormais obtenir une <span color=\"#000000\">icône limitée</> !
+Scannez la carte Aime ou la carte compatible Amusement IC
+Touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « Hololive x WACCA » est en cours !
+Les chansons Hololive apparaissent sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Hololive x WACCA » est en cours !
+Scannez la carte Aime ou la carte compatible Amusement IC
+Touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « Touhou Fujinroku x WACCA » est en cours !
+De nouvelles chansons ajoutées aux chansons arrangées de Touhou !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Touhou Fujinroku x WACCA » est en cours !
+Scannez la carte Aime ou la carte compatible Amusement IC
+Touchez la zone lumineuse !"
+msgstr ""
+msgid "\"Groove Coaster x WACCA\"
+Événement en cours !
+Les chansons de Groove Coaster sont maintenant disponibles sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "\"Groove Coaster x WACCA\"
+Événement en cours !
+Scannez la carte Aime ou la carte compatible Amusement IC
+Touchez la zone lumineuse !"
+msgstr ""
+msgid "<span color=\"#E5006D\">　　　Les gars bruyants sont venus jouer ! </>"
+msgstr ""
+msgid "<span color=\"#E5006D\">　　　Les gars bruyants sont venus jouer ! </>
+Carte Aime ou carte compatible Amusement IC
+veux-tu scanner
+Touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « Blend S x WACCA » est en cours !
+Les chansons de Blend S apparaissent sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Blend S x WACCA » est en cours !
+Scannez la carte Aime ou la carte compatible Amusement IC
+Touchez la zone lumineuse !"
+msgstr ""
+msgid "Le « Tanosee Coliseum » a lieu !
+Chansons de Tanoshi ajoutées d'un seul coup !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "Le « Tanosee Coliseum » a maintenant lieu !
+Scannez la carte Aime ou la carte compatible Amusement IC
+Touchez la zone lumineuse !"
+msgstr ""
+msgid "10ème anniversaire de la série !
+L'événement « Pretty Series x WACCA » est en cours !
+Les jolies chansons de la série sont désormais disponibles sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Pretty Series x WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "\"Touhou Fujinroku × WACCA\"
+Événement de renouveau en cours !
+La scène « Touhou Fujinroku x WACCA » est maintenant disponible !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "\"Touhou Fujinroku × WACCA\"
+Événement de renouveau en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « Danmachi III × WACCA » est en cours !
+Les chansons de Danmachi apparaissent sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Danmachi III × WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "Le 2ème événement « Hololive x WACCA » est en cours !
+Nouvelles chansons « Hololive » ajoutées !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "Le 2ème événement « Hololive x WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "Le 2ème événement « Groove Coaster x WACCA » est en cours !
+Nouvelles chansons « Groove Coaster » ajoutées !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "Le 2ème événement « Groove Coaster x WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « Lanota x WACCA » est en cours !
+Les chansons de Lanota apparaissent sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Lanota x WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "<span color=\"#E5006D\">Les gens bruyants nous regardent ! </>"
+msgstr ""
+msgid "<span color=\"#E5006D\">Les gens bruyants nous regardent ! </>
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « Touhou Koumakyo x WACCA » est en cours !
+De nouvelles chansons ajoutées aux chansons arrangées de Touhou !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Touhou Koumakyo x WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « D4DJ Groovy Mix × WACCA » est en cours !
+Les chansons de D4DJ apparaissent sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « D4DJ Groovy Mix × WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « Azur Lane x WACCA » est en cours !
+Les chansons d'Azur Lane sont désormais disponibles sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Azur Lane x WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "<span color=\"#E5006D\">2ème anniversaire de WACCA ! </>
+Jouez au jeu et obtenez des objets commémoratifs !"
+msgstr ""
+msgid "<span color=\"#E5006D\">2ème anniversaire de WACCA ! </>
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "[Réimpression] L'événement « ARuFa × WACCA » a lieu !
+De nouvelles chansons ajoutées aux chansons d'ARuFa !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "[Réimpression] L'événement « ARuFa × WACCA » a lieu !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « Arcaea x WACCA » est en cours !
+Les chansons d'Arcaea apparaissent sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Arcaea x WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "« TANO*C EX*Stream » a maintenant lieu !
+Nouvelles chansons ajoutées aux chansons HARDCORE TANO*C !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "\"TANO*C EX*Stream\" a lieu maintenant !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "L'événement « Muse Dash × WACCA » est en cours !
+Les chansons de Muse Dash sont désormais disponibles sur WACCA !
+Découvrez également les articles limités !"
+msgstr ""
+msgid "L'événement « Muse Dash × WACCA » est en cours !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "Gagnez des points de porte et une campagne RP 3x !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "Gagnez des points de porte et une campagne RP 3x !
+Carte Aime ou carte compatible Amusement IC
+Scannez ou touchez la zone lumineuse !"
+msgstr ""
+msgid "Vous êtes-vous amusé ? Je me suis amusé.
+Au revoir alors."
+msgstr ""
+msgid "Le meilleur, le meilleur, le meilleur ! ! ! !"
+msgstr ""
+msgid "Je m'appelle Dorothy et ma compétence particulière est le rap.
+Yoroshiku"
+msgstr ""
+msgid "On dirait que ça vous a plu, merci
+Je veux te revoir"
+msgstr ""
+msgid "Hé, tu es classé ? C'est incroyable !"
+msgstr ""
+msgid "Oui, bonjour ! C'est Kizuna AI !
+Merci d'avoir joué mes chansons.
+On se reverra ♪"
+msgstr ""
+msgid "Ai-chan! !
+Très très mignon ! !"
+msgstr ""
+msgid "C'est juste un petit peu"
+msgstr ""
+msgid "Bonne année!"
+msgstr ""
+msgid "J'ai toujours voulu essayer de porter des vêtements japonais.
+Ne trouvez-vous pas que c'est cool et merveilleux ?"
+msgstr ""
+msgid "Sora et tout le monde, comment allez-vous ?
+Merci d'avoir joué♪"
+msgstr ""
+msgid "Merci d'avoir rejoué cette fois !
+Salut Azuki."
+msgstr ""
+msgid "merci pour votre travail acharné. Ça brillait !"
+msgstr ""
+msgid "merci beaucoup.
+S'il vous plaît, revenez me voir."
+msgstr ""
+msgid "Félicitations!
+Excellent travail de mise à jour du dossier !"
+msgstr ""
+msgid "Merci à tous d'avoir joué !
+S'il vous plaît, jouez à nouveau ! !"
+msgstr ""
+msgid "Parfois, ça fait du bien d'écouter des chansons qui ne sont pas de la techno hardcore !"
+msgstr ""
+msgid "Félicitations pour votre classement ! !
+Vous travaillez vraiment dur ! ! ! !"
+msgstr ""
+msgid "Touchez la zone lumineuse pour démarrer le jeu !"
+msgstr ""
+msgid "dernier événement de poussée
+En cours maintenant !"
+msgstr ""
+msgid "dernière poussée
+événement"
+msgstr ""

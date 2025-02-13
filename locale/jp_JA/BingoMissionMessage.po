@@ -1,0 +1,42 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "枚目"
+msgstr ""
+msgid "お題をシャッフルしますか？
+
+お題をシャッフルすると、
+お題のクリア状況もリセットされます。"
+msgstr ""
+msgid "お題の更新に失敗しました。"
+msgstr ""
+msgid "WACCA BINGO"
+msgstr ""
+msgid "WACCA BINGOでは、様々なお題に
+挑戦してBINGOを達成することで
+報酬を獲得できます。
+お題は、BINGOシートの枚数が
+増えるにつれ難しくなっていきます。"
+msgstr ""
+msgid "シャッフル"
+msgstr ""
+msgid "シャッフルをすると、
+現在のBINGOシートのお題が
+再選出されます。
+
+※お題のクリア状況はリセットされます。"
+msgstr ""
+msgid "WACCA BINGO"
+msgstr ""
+msgid "お題をクリアして
+BINGOやALL CLEARを達成すると、
+画面に表示されている
+報酬を獲得できます。"
+msgstr ""
+msgid "BINGO BONUS"
+msgstr ""
+msgid "ALL CLEAR"
+msgstr ""
+msgid "WACCA BINGO"
+msgstr ""

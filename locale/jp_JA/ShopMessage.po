@@ -1,0 +1,94 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "VIPメンバーになる"
+msgstr ""
+msgid "<CREDIT>CREDIT"
+msgstr ""
+msgid "VIPメンバー登録をすると
+様々な特典を得られて
+WACCAをさらに楽しめます。"
+msgstr ""
+msgid "ブーストバッジ"
+msgstr ""
+msgid "<CREDIT>CREDIT"
+msgstr ""
+msgid "楽曲プレイで獲得できる
+ゲートポイントとRPが
+2倍になります。
+さらに、EXプレイチケットの
+効果付き！"
+msgstr ""
+msgid "ブーストバッジS"
+msgstr ""
+msgid "<CREDIT>CREDIT"
+msgstr ""
+msgid "楽曲プレイで獲得できる
+ゲートポイントとRPが
+3.1倍になります。
+さらに、EXプレイチケットの
+効果付き！"
+msgstr ""
+msgid "ＥＸオープンチケット"
+msgstr ""
+msgid "<WACCA_POINT>RP"
+msgstr ""
+msgid "RPをEXオープンチケット(期限無)に
+変換します。
+
+所持数(期限有) <LIMITED_TICKET_NUM> / <LIMITED_TICKET_MAX>
+所持数(期限無) <TICKET_NUM> / <TICKET_MAX>"
+msgstr ""
+msgid "ご注意"
+msgstr ""
+msgid "本商品は、プレイ料金とは別途本商品利用料を
+お支払いいただくことにより、このゲームプレイ中、ゲートの獲得ポイントや
+獲得RPに有利なボーナスが発生するものです。
+
+お客様による本商品利用料お支払い後、
+弊社はいかなる理由・場合であっても
+本商品利用料を変換いたしかねます。"
+msgstr ""
+msgid "以上です。
+
+同意しますか？"
+msgstr ""
+msgid "<CREDIT>CREDIT消費して
+<ITEM_NAME>を
+購入します。
+よろしいですか？
+CREDIT <NOW_CREDIT>/<NEED_CREDIT>"
+msgstr ""
+msgid "<ITEM_NAME>を
+RPと交換します。
+よろしいですか？
+<NEED_WACCA_POINT>RP消費(<HAVE_WACCA_POINT>RP所持)"
+msgstr ""
+msgid "RPが不足しています。"
+msgstr ""
+msgid "所持数がいっぱいです。
+所持数(期限無) <TICKET_NUM> / <TICKET_MAX>"
+msgstr ""
+msgid "通信に失敗しました。"
+msgstr ""
+msgid "VIPメンバー更新"
+msgstr ""
+msgid "VIPメンバーは期間終了の
+10日前から更新できます。"
+msgstr ""
+msgid "Reverseポイント"
+msgstr ""
+msgid "ＲＰ"
+msgstr ""
+msgid "EXプレイチケットを返却しました。"
+msgstr ""
+msgid "このQRをスキャンしてください。"
+msgstr ""
+msgid "全ての曲がプレイできる「VIP会員」
+様々なポイントが大量獲得できる「ブーストバッジ」
+など、いろんな商品が購入できます。"
+msgstr ""
+msgid "購入後は必ず「購入終了」をタッチしてください。
+「購入終了」をタッチしないと、このプレイでは、購入した商品の効果が反映されません。"
+msgstr ""

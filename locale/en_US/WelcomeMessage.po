@@ -1,0 +1,74 @@
+﻿msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "・This play earns you additional \"Reverse Points\"!"
+msgstr ""
+msgid "・This play earns you additional \"experience points\"!"
+msgstr ""
+msgid "・This play earns you additional \"Gate Points\"!"
+msgstr ""
+msgid "Login Bonus"
+msgstr ""
+msgid "Login Bonus"
+msgstr ""
+msgid "Monthly Login Bonus"
+msgstr ""
+msgid "<NUMBER>Monthly Login Bonus!"
+msgstr ""
+msgid "<NUMBER> days left"
+msgstr ""
+msgid "Today"
+msgstr ""
+msgid "<NUMBER> days"
+msgstr ""
+msgid "Other login bonuses"
+msgstr ""
+msgid "<ITEM_CATEGORY> \"<ITEM_NAME>\""
+msgstr ""
+msgid "・<TICKET_NAME>×<NUMBER> 
+Number of tickets owned (with time limit) <LIMITED_TICKET_NUM> / <LIMITED_TICKET_MAX> 
+Number of tickets owned (no time limit) <TICKET_NUM> / <TICKET_MAX> 
+※<LIMITED_TICKET_NAME> is valid for 3 days from the time of acquisition."
+msgstr ""
+msgid "<TICKET_NAME>×<NUMBER>"
+msgstr ""
+msgid "<NUMBER> Reverse points"
+msgstr ""
+msgid "<NUMBER> EXP"
+msgstr ""
+msgid "The version of the software and user data do not match. 
+Please play on a machine with Ver.<VERSION> or later. 
+The data is not corrupted. 
+You will be playing as a guest this time."
+msgstr ""
+msgid "If you play on this machine, 
+your user data will be updated. 
+You will no longer be able to play on machines with versions earlier than Ver.<VERSION>. 
+This is a necessary process to play the latest software. 
+Do you want to update?"
+msgstr ""
+msgid "Please scan your Aime card."
+msgstr ""
+msgid "If you do not have an Aime Card or Amusement IC compatible card, please touch \"Skip\"."
+msgstr ""
+msgid "Please insert a coin"
+msgstr ""
+msgid "A new Aime card has been scanned. 
+To play with this Aime card, you need to create play data. 
+Once you create user data, 
+this Aime card will no longer be usable as a data transfer destination in the event that the card is lost. 
+Do you agree?"
+msgstr ""
+msgid "! Precautions when using mobile phones! 
+[Phone problems] 
+We are not responsible for any problems such as loss or breakdown. 
+The card reader may not recognize the phone in its current state. 
+[Personal information] 
+Data will only be managed using the serial number of the IC chip built into the phone. 
+Do you agree?"
+msgstr ""
+msgid "Access Code: <ACCESS_CODE>"
+msgstr ""
+msgid "New Aime cannot be used in EVENT mode."
+msgstr ""

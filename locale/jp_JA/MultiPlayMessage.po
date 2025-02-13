@@ -1,0 +1,191 @@
+﻿msgid ""
+msgstr ""
+"Language: jp_JA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+msgid "アナタが<span color=\"#FF0095\">「ホスト」</>です。
+各種投票が同数の場合は、
+<span color=\"#FF0095\">「ホスト優先」</>となります。"
+msgstr ""
+msgid "アナタは<span color=\"#FF0095\">「ゲスト」</>です。
+各種投票が同数の場合は、
+<span color=\"#FF0095\">「ホスト優先」</>となります。"
+msgstr ""
+msgid "セッションを探しています。"
+msgstr ""
+msgid "セッションが見つかりました。"
+msgstr ""
+msgid "セッションが見つかりませんでした。"
+msgstr ""
+msgid "セッションを作成しています。"
+msgstr ""
+msgid "セッションの作成が成功しました。"
+msgstr ""
+msgid "セッションの作成が失敗しました。"
+msgstr ""
+msgid "セッションに参加しています。"
+msgstr ""
+msgid "セッションの参加が成功しました。"
+msgstr ""
+msgid "セッションの参加に失敗しました。"
+msgstr ""
+msgid "セッションを破棄しています。"
+msgstr ""
+msgid "セッションの破棄に成功しました。"
+msgstr ""
+msgid "セッションの破棄に失敗しました。"
+msgstr ""
+msgid "「対戦<MultiVsVoteNum>票」 「協力<MultiCoopVoteNum>票」で「<MultiPlayMode>」プレイに決定しました。"
+msgstr ""
+msgid "同じ楽曲でスコアで競う"
+msgstr ""
+msgid "全員で同じ楽曲のクリアを目指す"
+msgstr ""
+msgid "<HostGuest>「<MatchingMember>」は投票中。"
+msgstr ""
+msgid "<HostGuest>「<MatchingMember>」は「<MultiPlayMode>」に投票。"
+msgstr ""
+msgid "プレイしたいゲームモードに投票してください。
+他のプレイヤーも投票中です。"
+msgstr ""
+msgid "プレイしたいゲームモードに投票してください。
+メンバーが１人も集まらない場合は「ルーム解散」して再検索してください。"
+msgstr ""
+msgid "他のメンバーの投票終了を待ってください。
+「START」をタッチすると
+現在のメンバーでプレイ開始します。"
+msgstr ""
+msgid "他のメンバーの投票終了を待ってください。"
+msgstr ""
+msgid "全員の投票が終了しました。
+上記プレイモードで開始します。"
+msgstr ""
+msgid "時間切れです。投票を打ち切りました。
+上記プレイモードで開始します。"
+msgstr ""
+msgid "投票を打ち切りました。
+上記プレイモードで開始します。"
+msgstr ""
+msgid "時間内にメンバーが
+集まりませんでした。
+今回は
+「シングルプレイ」
+となります。"
+msgstr ""
+msgid "メンバーがいない状態で
+「START」
+がタッチされました。
+今回は元の画面に戻ります。
+もう1度同じ操作が
+された場合は
+「シングルプレイ」
+に移行します。"
+msgstr ""
+msgid "メンバーがいない状態で
+「START」が
+タッチされました。
+今回は
+「シングルプレイ」
+となります。"
+msgstr ""
+msgid "ルームを解散しました。
+再度マッチングを行います。"
+msgstr ""
+msgid "「<MatchingMember>」さんが
+楽曲を決定しました。"
+msgstr ""
+msgid "所持Reverseポイントが足りません。"
+msgstr ""
+msgid "「<DifficultyName>」を
+決定しました。
+他のメンバーが
+難易度を決定するのを
+待っています。"
+msgstr ""
+msgid "エキスパートオープンチケットを
+所持していません。"
+msgstr ""
+msgid "「<Time>」秒でプレイを開始します。
+オプション設定を変更している場合は
+時間内に決定してください。"
+msgstr ""
+msgid "「<MultiPlayMode>」を
+開始します。"
+msgstr ""
+msgid "あと"
+msgstr ""
+msgid "秒で"
+msgstr ""
+msgid "プレイを開始します。"
+msgstr ""
+msgid "参加メンバーの準備が完了しました。"
+msgstr ""
+msgid "オプション設定を変更している場合は
+決定してください。"
+msgstr ""
+msgid "マルチプレイの接続が
+断たれました。
+「シングルプレイ」に
+移行します。
+
+データが正常に
+保存されていない
+可能性があります。"
+msgstr ""
+msgid "マルチプレイの接続が
+断たれました。
+
+データが正常に
+保存されていない
+可能性があります。"
+msgstr ""
+msgid "ホスト"
+msgstr ""
+msgid "<span color=\"#FF0095\">ホスト</>"
+msgstr ""
+msgid "ゲスト"
+msgstr ""
+msgid "guest"
+msgstr ""
+msgid "対戦"
+msgstr ""
+msgid "同じ楽曲でスコアを競う"
+msgstr ""
+msgid "ＶＳ"
+msgstr ""
+msgid "協力"
+msgstr ""
+msgid "全員で同じ楽曲のクリアを目指す"
+msgstr ""
+msgid "ＣＯ- ＯＰ"
+msgstr ""
+msgid "準備中"
+msgstr ""
+msgid "完了"
+msgstr ""
+msgid "ネットワーク検索中…"
+msgstr ""
+msgid "メンバー募集中"
+msgstr ""
+msgid "募集中"
+msgstr ""
+msgid "投票中"
+msgstr ""
+msgid "投票済"
+msgstr ""
+msgid "マッチングルーム作成"
+msgstr ""
+msgid "マッチング参加者を待ちます"
+msgstr ""
+msgid "マッチングルームに参加"
+msgstr ""
+msgid "マッチングに参加します"
+msgstr ""
+msgid "時間内に
+決定されませんでした。
+今回は
+「シングルプレイ」
+となります。"
+msgstr ""
+msgid "ルームを作成して参加者を待つか、
+ルームを探して参加するか選択してください。"
+msgstr ""
