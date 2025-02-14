@@ -1,81 +1,125 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-15 11:02+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"touchpanelsymbolcolormessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "couleur par défaut"
 msgstr ""
+
 msgid "Propriété depuis le début"
-msgstr ""
+msgstr "Obtenu depuis le début"
+
 msgid "ALiCE rouge"
 msgstr ""
+
 msgid "Jouer la chanson REDALiCE 20 fois"
 msgstr ""
+
 msgid "EX violette"
 msgstr ""
+
 msgid "Terminer EXPERT 80 fois"
 msgstr ""
+
 msgid "HA orange"
 msgstr ""
+
 msgid "Réalisez un combo complet 50 fois en DIFFICILE ou supérieur"
 msgstr ""
+
 msgid "arc coloré"
 msgstr ""
+
 msgid "Augmenter le niveau du joueur à 11"
 msgstr ""
+
 msgid "I.A. Rose"
 msgstr ""
+
 msgid "Lors de l'événement Kizuna AI × WACCA\r\nJouer toutes les chansons de Kizuna AI"
 msgstr ""
+
 msgid "couleur inversée"
 msgstr ""
+
 msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
 msgstr ""
+
 msgid "couleur lys"
 msgstr ""
+
 msgid "Jaune ruée vers l'or"
 msgstr ""
+
 msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Avantages VIP"
+
 msgid "Rose SSR"
 msgstr ""
+
 msgid "Obtenu auprès de \"Lily Box\""
-msgstr ""
+msgstr "Obtenu à partir de «Lily Box»"
+
 msgid "tricolore"
 msgstr ""
+
 msgid "Valeur de notation atteinte 400"
 msgstr ""
+
 msgid "Vert topaze"
 msgstr ""
+
 msgid "t+pazolite Joue la chanson 20 fois"
 msgstr ""
+
 msgid "violet foncé"
 msgstr ""
+
 msgid "Obtenu à partir de \"R Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"R Box\""
+
 msgid "amitié rouge"
 msgstr ""
+
 msgid "Définir l'affichage des scores pour deux amis"
 msgstr ""
+
 msgid "obscurité"
 msgstr ""
+
 msgid "Au niveau de difficulté INFERNO\r\nTaux atteint SS ou supérieur 10 fois"
 msgstr ""
+
 msgid "tropical"
 msgstr ""
+
 msgid "couleur des runes"
 msgstr ""
+
 msgid "USAO violet"
 msgstr ""
+
 msgid "Joue la chanson USAO 20 fois"
 msgstr ""
+
 msgid "Genki Soleil"
 msgstr ""
+
 msgid "Joue la chanson de DJ Genki 20 fois"
 msgstr ""
+
 msgid "fleur"
 msgstr ""
+
 msgid "Obtenu à partir de \"Reverse Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"Reverse Box\""
+
 msgid "nature"
 msgstr ""
