@@ -2,143 +2,210 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "sélection de porte"
-msgstr ""
+msgstr "sélection de porte"
+
 msgid "Porte WACCA S"
-msgstr ""
+msgstr "Porte WACCA S"
+
 msgid "[Réimpression] Porte de l'événement « Hololive x WACCA »"
-msgstr ""
+msgstr "[Réimpression] Porte de l'événement « Hololive x WACCA »"
+
 msgid "Porte de l'événement « Touhou Fujinroku x WACCA »"
-msgstr ""
+msgstr "Porte de l'événement « Touhou Fujinroku x WACCA »"
+
 msgid "[Réimpression] Porte de l'événement « Groove Coaster x WACCA »"
-msgstr ""
+msgstr "[Réimpression] Porte de l'événement « Groove Coaster x WACCA »"
+
 msgid "Porte de l’événement « Blend S x WACCA »"
-msgstr ""
+msgstr "Porte de l’événement « Blend S x WACCA »"
+
 msgid "Porte du \"Colisée Tanosee\""
-msgstr ""
+msgstr "Porte du \"Colisée Tanosee\""
+
 msgid "WACCA Porte Lily"
-msgstr ""
+msgstr "WACCA Porte Lily"
+
 msgid "Porte de l'événement « Pretty Series x WACCA »"
-msgstr ""
+msgstr "Porte de l'événement « Pretty Series x WACCA »"
+
 msgid "Porte de l'événement de renouvellement « Touhou Fujinroku x WACCA »"
-msgstr ""
+msgstr "Porte de l'événement de renouvellement « Touhou Fujinroku x WACCA »"
+
 msgid "Porte de l'événement « Danmachi Ⅲ × WACCA »"
-msgstr ""
+msgstr "Porte de l'événement « Danmachi Ⅲ × WACCA »"
+
 msgid "« Hololive × WACCA » 2ème porte de l'événement"
-msgstr ""
+msgstr "« Hololive × WACCA » 2ème porte de l'événement"
+
 msgid "« Groove Coaster x WACCA » 2ème porte de l'événement"
-msgstr ""
+msgstr "« Groove Coaster x WACCA » 2ème porte de l'événement"
+
 msgid "porte supplémentaire"
-msgstr ""
+msgstr "porte supplémentaire"
+
 msgid "WACCA Lily R Gate"
-msgstr ""
+msgstr "WACCA Lily R Gate"
+
 msgid "Porte de l'événement « Lanota × WACCA »"
-msgstr ""
+msgstr "Porte de l'événement « Lanota × WACCA »"
+
 msgid "Porte de l'événement « Touhou Koumakyo × WACCA »"
-msgstr ""
+msgstr "Porte de l'événement « Touhou Koumakyo × WACCA »"
+
 msgid "Porte de l'événement « D4DJ Groovy Mix × WACCA »"
-msgstr ""
+msgstr "Porte de l'événement « D4DJ Groovy Mix × WACCA »"
+
 msgid "Porte événementielle \"Azur Lane x WACCA\""
-msgstr ""
+msgstr "Porte événementielle \"Azur Lane x WACCA\""
+
 msgid "porte supplémentaire 2"
-msgstr ""
+msgstr "porte supplémentaire 2"
+
 msgid "Porte inversée WACCA"
-msgstr ""
+msgstr "Porte inversée WACCA"
+
 msgid "Porte de l'événement « Arcaea × WACCA »"
-msgstr ""
+msgstr "Porte de l'événement « Arcaea × WACCA »"
+
 msgid "Porte d'événement \"TANO*C EX*Stream\""
-msgstr ""
+msgstr "Porte d'événement \"TANO*C EX*Stream\""
+
 msgid "Porte de l’événement « Muse Dash × WACCA »"
-msgstr ""
+msgstr "Porte de l’événement « Muse Dash × WACCA »"
+
 msgid "porte supplémentaire 3"
-msgstr ""
+msgstr "porte supplémentaire 3"
+
 msgid "Jusqu'au prochain article"
-msgstr ""
+msgstr "Jusqu'au prochain article"
+
 msgid "repos"
-msgstr ""
+msgstr "repos"
+
 msgid "indiquer"
-msgstr ""
+msgstr "indiquer"
+
 msgid "Jouez aussi à WACCA aujourd'hui"
-msgstr ""
+msgstr "Jouez aussi à WACCA aujourd'hui"
+
 msgid "partition de chanson"
-msgstr ""
+msgstr "partition de chanson"
+
 msgid "combinaison complète"
-msgstr ""
+msgstr "combinaison complète"
+
 msgid "Effacer avec Missless ou supérieur"
-msgstr ""
+msgstr "Effacer avec Missless ou supérieur"
+
 msgid "bonus multijoueur"
-msgstr ""
+msgstr "bonus multijoueur"
+
 msgid "Bonus de lecture de chanson de devoir"
-msgstr ""
+msgstr "Bonus de lecture de chanson de devoir"
+
 msgid "bonus de badge boost"
-msgstr ""
+msgstr "bonus de badge boost"
+
 msgid "Bonus de membre VIP"
-msgstr ""
+msgstr "Bonus de membre VIP"
+
 msgid "total"
-msgstr ""
+msgstr "total"
+
 msgid "Gagnez des points"
-msgstr ""
+msgstr "Gagnez des points"
+
 msgid "Vous pouvez gagner des chansons, des titres, etc. sur l'écran du portail.\r\nEn fonction de vos résultats de jeu, vous recevrez des points pour avancer dans la porte."
-msgstr ""
+msgstr "Vous pouvez gagner des chansons, des titres, etc. sur l'écran du portail.\r\nEn fonction de vos résultats de jeu, vous recevrez des points pour avancer dans la porte."
+
 msgid "Gate pour continuer après avoir joué la chanson\r\nVous pouvez choisir.\r\nChansons pouvant être obtenues via les portes\r\nLes titres sont différents."
-msgstr ""
+msgstr "Gate pour continuer après avoir joué la chanson\r\nVous pouvez choisir.\r\nChansons pouvant être obtenues via les portes\r\nLes titres sont différents."
+
 msgid "grille"
-msgstr ""
-msgid "Jusqu'au prochain article"
-msgstr ""
+msgstr "grille"
+
 msgid "Grille"
-msgstr ""
+msgstr "Grille"
+
 msgid "Suivant\r\nGrille!!"
-msgstr ""
+msgstr "Suivant\r\nGrille!!"
+
 msgid "Échec de la communication"
-msgstr ""
+msgstr "Échec de la communication"
+
 msgid "<NUM>Résumé de la chanson"
-msgstr ""
+msgstr "<NUM>Résumé de la chanson"
+
 msgid "Bonus de mission accomplie"
-msgstr ""
+msgstr "Bonus de mission accomplie"
+
 msgid "La mission se produit ! !"
-msgstr ""
+msgstr "La mission se produit ! !"
+
 msgid "Les chansons ci-dessus sont <Difficulté> ou supérieure\r\n<ClearType> avec <ClearRate>"
-msgstr ""
+msgstr "Les chansons ci-dessus sont <Difficulté> ou supérieure\r\n<ClearType> avec <ClearRate>"
+
 msgid "NORMALE"
-msgstr ""
+msgstr "NORMALE"
+
 msgid "DUR"
-msgstr ""
+msgstr "DUR"
+
 msgid "EXPERT"
-msgstr ""
+msgstr "EXPERT"
+
 msgid "ENFER"
-msgstr ""
+msgstr "ENFER"
+
 msgid "Taux d'effacement D ou supérieur"
-msgstr ""
+msgstr "Taux d'effacement D ou supérieur"
+
 msgid "Effacer le taux C ou supérieur"
-msgstr ""
+msgstr "Effacer le taux C ou supérieur"
+
 msgid "Effacer le taux B ou supérieur"
-msgstr ""
+msgstr "Effacer le taux B ou supérieur"
+
 msgid "Taux d'effacement A ou supérieur"
-msgstr ""
+msgstr "Taux d'effacement A ou supérieur"
+
 msgid "Taux clair AA ou supérieur"
-msgstr ""
+msgstr "Taux clair AA ou supérieur"
+
 msgid "Taux clair AAA ou supérieur"
-msgstr ""
+msgstr "Taux clair AAA ou supérieur"
+
 msgid "Taux d'effacement S ou supérieur"
-msgstr ""
+msgstr "Taux d'effacement S ou supérieur"
+
 msgid "Taux d'effacement SS ou supérieur"
-msgstr ""
+msgstr "Taux d'effacement SS ou supérieur"
+
 msgid "Taux d'effacement SSS ou supérieur"
-msgstr ""
+msgstr "Taux d'effacement SSS ou supérieur"
+
 msgid "Taux d'effacement MAÎTRE"
-msgstr ""
+msgstr "Taux d'effacement MAÎTRE"
+
 msgid "jouer"
-msgstr ""
+msgstr "jouer"
+
 msgid "clair"
-msgstr ""
+msgstr "clair"
+
 msgid "POINT DE PORTE"
-msgstr ""
+msgstr "POINT DE PORTE"
+
 msgid "Gagner!"
-msgstr ""
+msgstr "Gagner!"
+
 msgid "Bonus d'augmentation des revenus"
-msgstr ""
+msgstr "Bonus d'augmentation des revenus"
+
 msgid "Parce que l'article est déjà en votre possession,\r\nJ'ai eu du RP."
-msgstr ""
+msgstr "Parce que l'article est déjà en votre possession,\r\nJ'ai eu du RP."
+
 msgid "MISSION CLAIRE"
-msgstr ""
+msgstr "MISSION CLAIRE"

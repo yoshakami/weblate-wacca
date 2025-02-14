@@ -2,809 +2,1188 @@
 msgstr ""
 "Language: jp_JA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "<ADVERTISE>"
-msgstr ""
-msgid "へえ～"
-msgstr ""
-msgid "ふぅん"
-msgstr ""
-msgid "もう少し！"
-msgstr ""
-msgid "ラストスパート！"
-msgstr ""
-msgid "じゃあ、頑張って！"
-msgstr ""
-msgid "2曲目も頑張って！"
-msgstr ""
-msgid "ラストか・・・。油断するなよ！"
-msgstr ""
-msgid "また明日ね。"
-msgstr ""
-msgid "おやすみ。"
-msgstr ""
-msgid "準備ができたら<span color=\"#E5006D\">決定</>を押して。\r\n設定を変えたいなら今のうちに済ませてね。"
-msgstr ""
-msgid "じかんぎれ。ほら、早く行こ？"
-msgstr ""
-msgid "よし！出発！"
-msgstr ""
-msgid "ざんねーん。時間切れ。"
-msgstr ""
-msgid "ゲットだ！"
-msgstr ""
-msgid "これはなんだ？"
-msgstr ""
-msgid "アイテムゲット"
-msgstr ""
-msgid "新しい曲だって"
-msgstr ""
-msgid "へ～"
-msgstr ""
-msgid "どんな曲かな？"
-msgstr ""
-msgid "ミッションをクリアしないと先に進めないよ"
-msgstr ""
-msgid "次のミッションだね"
-msgstr ""
-msgid "さっさと終わらしちゃおう！"
-msgstr ""
-msgid "ミッションクリア！"
-msgstr ""
-msgid "さあ、先に進もう"
-msgstr ""
-msgid "次のゲートだ"
-msgstr ""
-msgid "ここで進みたいゲートを選択して"
-msgstr ""
-msgid "進めたいゲートを選んで"
-msgstr ""
-msgid "これね"
-msgstr ""
-msgid "ゲートによって手に入るアイテムも変わるから、\r\nいろんなゲートを進めてみてよ"
-msgstr ""
-msgid "期間限定のゲートが発生することもあるからチェックして"
-msgstr ""
-msgid "楽曲をプレイすると、ゲートを進むためのポイントが手に入るよ\r\nゲートを進めれば楽曲やアイテムが貰えるよ\r\nお前がどこまでゲートを進められるか見ててあげるよ"
-msgstr ""
-msgid "へえ"
-msgstr ""
-msgid "やるじゃん"
-msgstr ""
-msgid "レベルアップ！"
-msgstr ""
-msgid "今メンテナンス中なの。ごめんね！"
-msgstr ""
-msgid "メンテナンス中なんだって。"
-msgstr ""
-msgid "このモードはまだ遊べないね"
-msgstr ""
-msgid "それは無理だね。"
-msgstr ""
-msgid "シングルプレイ！"
-msgstr ""
-msgid "マルチプレイ！"
-msgstr ""
-msgid "VIPモード！"
-msgstr ""
-msgid "ステージアップ！"
-msgstr ""
-msgid "SHOP！"
-msgstr ""
-msgid "そのモードはプレイできないね"
-msgstr ""
-msgid "プレイするモードを選んでね。"
-msgstr ""
-msgid "マルチプレイは、\r\n最大4人で同時に遊べるモードだよ。"
-msgstr ""
-msgid "同じ曲でスコアを競う「対戦」、\r\nみんなでクリアを目指す「協力」の\r\n2つから選べるよ。"
-msgstr ""
-msgid "いつもよりポイントも多めにもらえるから\r\nお得だね。"
-msgstr ""
-msgid "対戦と協力、プレイしたいモードを選んで。"
-msgstr ""
-msgid "ルームを解散したよ。\r\n仕方ないから今回はシングルプレイで遊んで。"
-msgstr ""
-msgid "ルームを解散したよ。\r\nもう一度マッチングしてみるね。"
-msgstr ""
-msgid "他のメンバーが「対戦」に投票したよ。"
-msgstr ""
-msgid "他のメンバーが「協力」に投票したよ。"
-msgstr ""
-msgid "「対戦」ね。"
-msgstr ""
-msgid "「協力」ね。"
-msgstr ""
-msgid "アンタの希望通り「対戦」に決定したよ。"
-msgstr ""
-msgid "アンタの希望通り「協力」に決定したよ。"
-msgstr ""
-msgid "今回は「対戦」になったよ。"
-msgstr ""
-msgid "今回は「協力」になったよ。"
-msgstr ""
-msgid "メンバーが集まらなかったみたいだよ。\r\n仕方ないから今回はシングルプレイで遊んで。"
-msgstr ""
-msgid "ええっ・・・！\r\nネットワークが切断されちゃった・・・"
-msgstr ""
-msgid "どちらかえらんで"
-msgstr ""
-msgid "マッチングルームを作るよ"
-msgstr ""
-msgid "ルームを探すからちょっとまってて"
-msgstr ""
-msgid "ルームが見つかったよ"
-msgstr ""
-msgid "他のルールが見つからないな・・・。\r\n今回はルームを作ろう。"
-msgstr ""
-msgid "他のメンバーが楽曲を決定したよ。"
-msgstr ""
-msgid "今回はこの楽曲で遊んで。"
-msgstr ""
-msgid "他のメンバーを待ってるよ。"
-msgstr ""
-msgid "メンバー全員が難易度を\r\n決定したよ。\r\nもうすぐプレイ開始よ！"
-msgstr ""
-msgid "この難易度でいいのね。\r\n「スピード設定」の調整\r\nとかも、プレイ前に行えるよ。"
-msgstr ""
-msgid "まぁ頑張って。"
-msgstr ""
-msgid "おお・・・"
-msgstr ""
-msgid "無難な成績だな"
-msgstr ""
-msgid "まあ、こんなもんか"
-msgstr ""
-msgid "あー、はいはい　アンタらしい成績だな。"
-msgstr ""
-msgid "アンタの成績は？"
-msgstr ""
-msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。"
-msgstr ""
-msgid "じゃあ、次の曲を選んで\r\n今2曲目だよ。"
-msgstr ""
-msgid "楽曲の並び順を変更するよ。"
-msgstr ""
-msgid "この難易度はまだ遊べないね。"
-msgstr ""
-msgid "チケットを使ってオープンする？"
-msgstr ""
-msgid "ポイントを使ってオープンする？"
-msgstr ""
-msgid "この楽曲をオープンするの？"
-msgstr ""
-msgid "楽曲をオープンしたよ。"
-msgstr ""
-msgid "ポイントが足りないよ。"
-msgstr ""
-msgid "ざんねーん。時間切れ。\r\n今回はこの曲で遊んで。"
-msgstr ""
-msgid "じゃあ、次の曲を選んで"
-msgstr ""
-msgid "じゃあ、次の曲を選んで。次が最後だってさ。"
-msgstr ""
-msgid "残り時間やばいよ。"
-msgstr ""
-msgid "あと10秒！"
-msgstr ""
-msgid "インフェルノが開放されたよ・・・"
-msgstr ""
-msgid "ジャンル順！"
-msgstr ""
-msgid "レベル順！"
-msgstr ""
-msgid "バージョン順！"
-msgstr ""
-msgid "曲名順！"
-msgstr ""
-msgid "全曲！"
-msgstr ""
-msgid "新曲！"
-msgstr ""
-msgid "アニメ・POP！"
-msgstr ""
-msgid "ボカロ！"
-msgstr ""
-msgid "東方アレンジ！"
-msgstr ""
-msgid "2.5次元！"
-msgstr ""
-msgid "バラエティ！"
-msgstr ""
-msgid "オリジナル！"
-msgstr ""
-msgid "TANO*C（タノシー）！"
-msgstr ""
-msgid "全楽曲！"
-msgstr ""
-msgid "お気に入り！"
-msgstr ""
-msgid "インフェルノ開放。地獄の入り口だ・・・。"
-msgstr ""
-msgid "称号を変更するよ。\r\n公式サイトで更に細かくカスタマイズできるから、\r\n興味があったらそっちも確認してみて。"
-msgstr ""
-msgid "アイコンを変更するよ。\r\nなんのアイコンにするの？"
-msgstr ""
-msgid "設定の変更やステータスの確認ができる場所だよ"
-msgstr ""
-msgid "カードを使って遊ぶと、\r\nWACCAをもっと楽しむことができるよ。\r\n遊べる曲も増えるし、データの保存も\r\nできるようになるから使ってみて。"
-msgstr ""
-msgid "アンタの総合成績だよ"
-msgstr ""
-msgid "アンタのランキング成績だよ。\r\n公式サイトに行けばもっと詳しい情報が乗ってるよ。"
-msgstr ""
-msgid "まー、まだまだだね"
-msgstr ""
-msgid "まあまあって感じ？"
-msgstr ""
-msgid "まだまだでしょ！"
-msgstr ""
-msgid "なかなか集まってきてるじゃん・・・"
-msgstr ""
-msgid "ま、まあまあやるじゃん・・・"
-msgstr ""
-msgid "こんなに集めるなんて・・・。\r\nす、すごい・・・"
-msgstr ""
-msgid "コンプリート！？マジでっ！？"
-msgstr ""
-msgid "この名前でいいの？"
-msgstr ""
-msgid "アンタの名前、なんていうの？"
-msgstr ""
-msgid "お前・・・何をしてるの・・・？"
-msgstr ""
-msgid "お前・・・何をしてるの・・・？"
-msgstr ""
-msgid "New Record!"
-msgstr ""
-msgid "お知らせだよ。"
-msgstr ""
-msgid "お店の人を呼んで"
-msgstr ""
-msgid "再起動中！ちょっと待っててね。"
-msgstr ""
-msgid "クリア！"
-msgstr ""
-msgid "ミスレス！\r\n"
-msgstr ""
-msgid "フルコンボ！\r\n"
-msgstr ""
-msgid "オールマーベラス！！"
-msgstr ""
-msgid "クリア\r\n"
-msgstr ""
-msgid "クリア！\r\n"
-msgstr ""
-msgid "クリア！！\r\n"
-msgstr ""
-msgid "レート D！\r\nお前、ダメダメか・・・！？"
-msgstr ""
-msgid "レートC！\r\nアンタらしい結果だな～"
-msgstr ""
-msgid "レートB！\r\nアンタらしい結果だな～"
-msgstr ""
-msgid "レートA！\r\nまだまだここからだね"
-msgstr ""
-msgid "レートAA！\r\nまあまあかな"
-msgstr ""
-msgid "レートAAA！\r\nもうちょっと行けそうだね・・・"
-msgstr ""
-msgid "レートS！\r\nなかなか・・・やるじゃん・・・"
-msgstr ""
-msgid "レートS+！\r\nお前・・・実はすごい・・・？"
-msgstr ""
-msgid "レートSS！！\r\nわ、私だってこのくらいできるし・・・！"
-msgstr ""
-msgid "レートSS+！！\r\nね、姉さまのほうがすごいし・・・！"
-msgstr ""
-msgid "レートSSS！！\r\nす、すごいスコア・・・！お前が・・・！？"
-msgstr ""
-msgid "レートSSS+！！\r\nう、うそだ！こんなスコア・・・高すぎるよ！"
-msgstr ""
-msgid "マスター レート！！！\r\nわかったよ！認めるよ！\r\nアンタすごいよ・・・！"
-msgstr ""
-msgid "レートD\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートC\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートB\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートA\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートAA\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートAAA\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートS\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートS+\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートSS！\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートSS+！\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートSSS！\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートSSS+！\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "MASTERレート！\r\nこんなのクリアできないって・・・"
-msgstr ""
-msgid "レートD\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートC\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートB\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートA\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートAA\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートAAA\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートS\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートS+\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートSS！\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートSS+！\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートSSS！\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "レートSSS+！\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "MASTERレート！\r\nほんとにクリアするなんて・・・！"
-msgstr ""
-msgid "い、今プレイした楽曲\r\nランキングに乗ったって・・・\r\nマジか～！？"
-msgstr ""
-msgid "次のチャレンジを期待してるよ"
-msgstr ""
-msgid "あと少しだったから、また挑戦して。"
-msgstr ""
-msgid "ざーんねん。練習して出直してきなよ"
-msgstr ""
-msgid "想定外だ・・・"
-msgstr ""
-msgid "これもクリアするなんて・・・。"
-msgstr ""
-msgid "クリアおめでと・・・"
-msgstr ""
-msgid "気をつけなよ・・・。"
-msgstr ""
-msgid "本気でやるの・・・？"
-msgstr ""
-msgid "エキスパートオープンチケットでいいの？"
-msgstr ""
-msgid "ブーストバッジでいいの？"
-msgstr ""
-msgid "ブーストバッジSでいいの？"
-msgstr ""
-msgid "ここではVIPメンバーの登録や、\r\nアイテムの購入ができるよ"
-msgstr ""
-msgid "VIPメンバーになるといろんな特典が得られるよ"
-msgstr ""
-msgid "エキスパートの難易度を開放できるアイテムだよ"
-msgstr ""
-msgid "ブーストバッジがあれば\r\nポイントやゲートの進み方にボーナスがつくよ\r\nEXPERTプレイチケットの効果も付与されるみたい。"
-msgstr ""
-msgid "えへへ・・・\r\nお買い上げありがとうございました～"
-msgstr ""
-msgid "これ以上は持てないよ。"
-msgstr ""
-msgid "ポイントが足りないみたい。"
-msgstr ""
-msgid "おいまだか～？\r\nお前、コンビニで友達待たせるタイプか？"
-msgstr ""
-msgid "カーソルを移動させるには、\r\n光ってるエリアの上で手を滑らせてみて"
-msgstr ""
-msgid "メニューを選ぶには\r\n光ってるエリアの上で手を滑らせてみて"
-msgstr ""
-msgid "「ステージアップ」は\r\nゲームオーバーのあるモードだよ。\r\nLIFEがゼロになった時点で終わっちゃうから、\r\n気をつけて。"
-msgstr ""
-msgid "合格か。なかなかやるじゃん・・・"
-msgstr ""
-msgid "ま、そんなもんだよ。"
-msgstr ""
-msgid "ステージアップ！\r\n1曲目をスタートするよ。\r\n準備ができたら<span color=\"#E5006D\">決定</>を押して。\r\n設定を変えたいなら今のうちに済ませてね。"
-msgstr ""
-msgid "ステージアップ！\r\n2曲目をスタートするよ。\r\n準備ができたら<span color=\"#E5006D\">決定</>を押して。\r\n設定を変えたいなら今のうちに済ませてね。"
-msgstr ""
-msgid "ステージアップ！\r\n3曲目をスタートするよ。\r\n準備ができたら<span color=\"#E5006D\">決定</>を押して。\r\n設定を変えたいなら今のうちに済ませてね。"
-msgstr ""
-msgid "ステージ1に昇格！"
-msgstr ""
-msgid "ステージ2に昇格！"
-msgstr ""
-msgid "ステージ3に昇格！"
-msgstr ""
-msgid "ステージ4に昇格！"
-msgstr ""
-msgid "ステージ5に昇格！"
-msgstr ""
-msgid "ステージ6に昇格！"
-msgstr ""
-msgid "ステージ7に昇格！"
-msgstr ""
-msgid "ステージ8に昇格！"
-msgstr ""
-msgid "ステージ9に昇格！"
-msgstr ""
-msgid "ステージ10に昇格！"
-msgstr ""
-msgid "ステージ11に昇格！"
-msgstr ""
-msgid "ステージ12に昇格！"
-msgstr ""
-msgid "ステージ13に昇格！"
-msgstr ""
-msgid "ステージ14に昇格！"
-msgstr ""
-msgid "挑戦したいステージを選んで。"
-msgstr ""
-msgid "ステージアップへようこそ。\r\nアンタはここに来るのは初めてだっけ？\r\nステージアップは実力を試す場所。\r\n決められた課題曲を連続でプレイするよ。"
-msgstr ""
-msgid "WACCA！"
-msgstr ""
-msgid "WACCA S！"
-msgstr ""
-msgid "WACCA Lily！"
-msgstr ""
-msgid "今回の成績はこんな感じだよ"
-msgstr ""
-msgid "プレイ中\r\n<span color=\"#E5006D\">「？」</>マークのついたボタンを長押しすると\r\nヘルプが表示されるから\r\n困ったらそれも試してみて。"
-msgstr ""
-msgid "次は<span color=\"#E5006D\">「チェインノーツ」</> \r\n見た目はタッチノーツに近いね。"
-msgstr ""
-msgid "連続して降ってくることがあっても\r\n実は予め<span color=\"#E5006D\">押しっぱなし</>にしておくだけでOKだよ。"
-msgstr ""
-msgid "お前、ダメダメか・・・！？"
-msgstr ""
-msgid "そうそう、そんな感じね！"
-msgstr ""
-msgid "一見難しそうに見えるけど\r\n見た目より全然かんたんだと思う。\r\nアンタもやってみて。"
-msgstr ""
-msgid "ちなみにノーツは、\r\nこの<span color=\"#E5006D\">「ガイドライン」</>の中にしか\r\n落ちてこないから。"
-msgstr ""
-msgid "画面をくまなく見る必要はないよ。\r\nどう？アンタでもできそうでしょ？"
-msgstr ""
-msgid "次は<span color=\"#E5006D\">「ホールドノーツ」</> \r\n長いノーツが来たら、<span color=\"#E5006D\">最後まで</>長押しして。\r\nノーツの最後は手を離さなくても大丈夫だよ。"
-msgstr ""
-msgid "ハァー、時間の無駄。"
-msgstr ""
-msgid "こうやって曲がったり、ターンする場合もあるから\r\n手の位置がずれないように気をつける感じ。"
-msgstr ""
-msgid "うん、いいんじゃないかな。"
-msgstr ""
-msgid "じゃあ次はアンタの番。"
-msgstr ""
-msgid "\r\nそうそう、本番では<span color=\"#E5006D\">ノルマゲージ</> \r\nっていうのがあるんだよ。\r\nアンタのプレイ次第で\r\n溜まっていくゲージなんだけどさ。"
-msgstr ""
-msgid "ま、クリアできなくても\r\nゲームオーバーにはならないよ。\r\nだから好きな曲を自由に遊んで。"
-msgstr ""
-msgid "楽曲を演奏し終わったときに\r\n<span color=\"#E5006D\">ノルマライン</>を超えていればクリア。"
-msgstr ""
-msgid "どう？よくわかった？\r\nアンタの活躍を楽しみにしてるよ。"
-msgstr ""
-msgid "じゃあ、実際にやってみようか。"
-msgstr ""
-msgid "<span color=\"#E5006D\">逆方向のパターン</>もあるよ。\r\n操作方法は一緒。\r\n向きによって色が違うから\r\n<span color=\"#E5006D\">色で覚える</>とわかりやすいかもね。"
-msgstr ""
-msgid "これが<span color=\"#E5006D\">「スライドノーツ」</> \r\n<span color=\"#E5006D\">矢印の方向</>にWACCAコンソールを\r\n<span color=\"#E5006D\">滑らせる</>イメージ。"
-msgstr ""
-msgid "次は<span color=\"#E5006D\">「スライドノーツ」</>と\r\n<span color=\"#E5006D\">「スナップノーツ」</>\r\n操作方法が似てるからまとめて説明するよ。"
-msgstr ""
-msgid "お前・・・ホントは私のこと\r\n馬鹿にしてるだろ・・・！？"
-msgstr ""
-msgid "なかなかやるじゃん・・・"
-msgstr ""
-msgid "それじゃ、まとめて練習して。"
-msgstr ""
-msgid "これが<span color=\"#E5006D\">「スナップノーツ」</> \r\n攻略方法は「スライドノーツ」と一緒。"
-msgstr ""
-msgid "このノーツが来たら\r\nWACCAコンソールを<span color=\"#E5006D\">手前に</>滑らせる。\r\nこの場合は逆。\r\n<span color=\"#E5006D\">画面の方に</>滑らせる。"
-msgstr ""
-msgid "今アンタが操作しているのは<span color=\"#E5006D\">「WACCAコンソール」</>\r\n目の前の光っているデバイスのことね。\r\nこの<span color=\"#E5006D\">「WACCAコンソール」</>を使ってプレイするよ。"
-msgstr ""
-msgid "まずは基本操作<span color=\"#E5006D\">「タッチノーツ」</> \r\nノーツが<span color=\"#E5006D\">判定ライン</>に重なったら、\r\nWACCAコンソールを<span color=\"#E5006D\">「タッチ」</>！"
-msgstr ""
-msgid "ノーツの大きさは様々だけど、\r\nエリア内なら<span color=\"#E5006D\">どこをタッチしてもOK</>だよ。"
-msgstr ""
-msgid "せっかく私が教えてるのに、お前ふざけてるのか？"
-msgstr ""
-msgid "そう、そんな感じ。"
-msgstr ""
-msgid "はい、じゃあアンタもやってみて"
-msgstr ""
-msgid "それじゃあ、私がWACCAの動かし方を\r\n教えてあげる。\r\nいいか？<span color=\"#E5006D\">一度しか説明しないから</>\r\nちゃんと聞いてるんだぞー？"
-msgstr ""
-msgid "VIPメンバーの説明をするよ。\r\n300円で30日間VIPメンバーになれるよ。\r\n特典を見て気に入ったなら価値があるかもね。"
-msgstr ""
-msgid "いい考えかもね"
-msgstr ""
-msgid "あ、ありがと・・・"
-msgstr ""
-msgid "あ、ありがと・・・"
-msgstr ""
-msgid "あっそ\r\nじゃあね"
-msgstr ""
-msgid "まあ、興味が出たらまた来てよ"
-msgstr ""
-msgid "スキャン成功！"
-msgstr ""
-msgid "新規データを作るよ"
-msgstr ""
-msgid "あれ・・・？"
-msgstr ""
-msgid "今回はゲストとしてプレイして"
-msgstr ""
-msgid "時間切れか・・・。今回はこのままゲストとしてプレイして。"
-msgstr ""
-msgid "Aimeカード 又は Amusement IC対応カードを\r\n持っているならスキャンして"
-msgstr ""
-msgid "よろしく。"
-msgstr ""
-msgid "新規データでプレイするよ"
-msgstr ""
-msgid "プレイするにはセーブデータの更新が必要だよ\r\nデータを更新すると、古いバージョンでは\r\nプレイできなくなるから気を付けて！"
-msgstr ""
-msgid "また来たの？ありがと！\r\n特別なログインボーナスだよ。"
-msgstr ""
-msgid "エラー・・・？"
-msgstr ""
-msgid "あれ・・・読み込みに失敗してるみたい・・・"
-msgstr ""
-msgid "ご・・・ごめんなさい・・・。"
-msgstr ""
-msgid "新しいカードみたいだけど、\r\n使っちゃっていいの？"
-msgstr ""
-msgid "おめでと"
-msgstr ""
-msgid "おめでと"
-msgstr ""
-msgid "ようこそ、WACCAの世界へ。"
-msgstr ""
-msgid "私の名前はリリィ。\r\nアンタのサポート役は私がしてあげる。\r\nフフ、よろしくね。"
-msgstr ""
-msgid "私の名前はリリィ。\r\n今日から姉さまに変わって\r\n私がアンタのナビ役だよ。\r\nもう、姉さまには近づけさせないから！"
-msgstr ""
-msgid "あー、アンタに何度も会うなら\r\n姉さまに会いたいよ・・・"
-msgstr ""
-msgid "また来たのか。\r\nまー何度も来てくれるのは嬉しいけどさ・・・。"
-msgstr ""
-msgid "早速だけど、チュートリアルは必要？\r\nこの私が教えてあげるけど？？"
-msgstr ""
-msgid "データを作ったよ"
-msgstr ""
-msgid "ログインボーナス！"
-msgstr ""
-msgid "今日のログインボーナスだよ"
-msgstr ""
-msgid "今月のログインボーナスを全て獲得！\r\nい、いつもありがと・・・。"
-msgstr ""
-msgid "遊んでくれてありがと。また来てよ。"
-msgstr ""
-msgid "遊んでくれてありがと。次も待ってるよ。"
-msgstr ""
-msgid "おつかれ。またプレイしに来てよ。"
-msgstr ""
-msgid "どいつもこいつも・・・姉さまに近づくやつは\r\nひどい目に合わせてやるんだ・・・"
-msgstr ""
-msgid "姉さまの服、勝手に着てるのバレた・・・。"
-msgstr ""
-msgid "私も楽しかった。それじゃまた、ね。"
-msgstr ""
-msgid "遊び足りないの？まあいつでもおいでよ。"
-msgstr ""
-msgid "適度に休憩しながら遊びなよ。\r\n疲れちゃうからね。"
-msgstr ""
-msgid "アンタのプレイは、\r\n悔しいけど見ていて楽しい・・・。\r\nだから、また来て。"
-msgstr ""
-msgid "私、いつか姉さまと\r\n一緒にステージに立つんだぁ・・・！"
-msgstr ""
-msgid "私サルミアッキ大好き！\r\nでも姉さまには理解してもらえないんだ。"
-msgstr ""
-msgid "今日もありがとう。また来てくれたら・・・\r\n嬉しい・・・。"
-msgstr ""
-msgid "姉さまとのティータイムはとても楽しいんだけど、\r\n食べ物の量が尋常じゃないんだ・・・。"
-msgstr ""
-msgid "この格好はかあさまには内緒にしてるよ。\r\nし、叱られるから・・・。"
-msgstr ""
-msgid "アンタとはもう長いこと一緒にいるな・・・。\r\n今は結構、楽しいよ。"
-msgstr ""
-msgid "アンタといる時間、結構居心地いいよ。\r\nもちろん姉さまほどじゃないけどな！"
-msgstr ""
-msgid "またすぐに遊びに来てよ。"
-msgstr ""
-msgid "ようこそ、WACCAの世界へ"
-msgstr ""
-msgid "よろしく。"
-msgstr ""
-msgid "じゃあ、行くよ！"
-msgstr ""
-msgid "よ、よろしく・・・。"
-msgstr ""
-msgid "アンタを姉さまには近づかせないから！"
-msgstr ""
-msgid "おかえり"
-msgstr ""
-msgid "いらっしゃい。じゃあ、始めよう。"
-msgstr ""
-msgid "うう～ん・・・　お昼寝したい・・・"
-msgstr ""
-msgid "今日も来たのか。よろしく。"
-msgstr ""
-msgid "はぁ～～～。\r\nアンタじゃなくて姉さまに会いたい・・・。"
-msgstr ""
-msgid "しょうがないな～　今日も付き合ってあげるよ"
-msgstr ""
-msgid "もうアンタの顔も見慣れてきた"
-msgstr ""
-msgid "おかえり。まあ、結構会いたかったよ。"
-msgstr ""
-msgid "ねえー、そろそろ休憩しない？"
-msgstr ""
-msgid "やっと来た・・・。\r\nずっと待ってたんだけど・・・。"
-msgstr ""
-msgid "WACCA Lily R！"
-msgstr ""
+
+msgid "<ANNONCER>"
+msgstr "<ADVERTISE>"
+
+msgid "Hein~"
+msgstr "へえ～"
+
+msgid "Hmm"
+msgstr "ふぅん"
+
+msgid "Un peu plus !"
+msgstr "もう少し！"
+
+msgid "Dernière poussée !"
+msgstr "ラストスパート！"
+
+msgid "Eh bien, bonne chance !"
+msgstr "じゃあ、頑張って！"
+
+msgid "Bonne chance pour la deuxième chanson !"
+msgstr "2曲目も頑張って！"
+
+msgid "Le dernier... Ne baissez pas votre garde !"
+msgstr "ラストか・・・。油断するなよ！"
+
+msgid "à demain."
+msgstr "また明日ね。"
+
+msgid "bonne nuit."
+msgstr "おやすみ。"
+
+msgid "Lorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.\r\nSi vous souhaitez modifier les paramètres, faites-le maintenant."
+msgstr "準備ができたら<span color=\"#E5006D\">決定</>を押して。\r\n設定を変えたいなら今のうちに済ませてね。"
+
+msgid "Jikangire. Hé, allons-y vite ?"
+msgstr "じかんぎれ。ほら、早く行こ？"
+
+msgid "D'accord! départ!"
+msgstr "よし！出発！"
+
+msgid "Bien joué. Le temps s'est écoulé."
+msgstr "ざんねーん。時間切れ。"
+
+msgid "L'obtenir!"
+msgstr "ゲットだ！"
+
+msgid "Qu'est-ce que c'est?"
+msgstr "これはなんだ？"
+
+msgid "Obtenir l'article"
+msgstr "アイテムゲット"
+
+msgid "Même une nouvelle chanson"
+msgstr "新しい曲だって"
+
+msgid "Hé ~"
+msgstr "へ～"
+
+msgid "De quel genre de chanson s'agit-il ?"
+msgstr "どんな曲かな？"
+
+msgid "Vous ne pouvez pas avancer sans avoir terminé la mission."
+msgstr "ミッションをクリアしないと先に進めないよ"
+
+msgid "C'est la prochaine mission"
+msgstr "次のミッションだね"
+
+msgid "Finissons-en vite !"
+msgstr "さっさと終わらしちゃおう！"
+
+msgid "Mission accomplie !"
+msgstr "ミッションクリア！"
+
+msgid "Passons à autre chose"
+msgstr "さあ、先に進もう"
+
+msgid "C'est la prochaine porte"
+msgstr "次のゲートだ"
+
+msgid "Sélectionnez ici la porte vers laquelle vous souhaitez vous rendre"
+msgstr "ここで進みたいゲートを選択して"
+
+msgid "Sélectionnez la porte vers laquelle vous souhaitez avancer"
+msgstr "進めたいゲートを選んで"
+
+msgid "C'est ça"
+msgstr "これね"
+
+msgid "Les objets que vous pouvez obtenir changeront en fonction de la porte, donc\r\nEssayez de franchir différentes portes."
+msgstr "ゲートによって手に入るアイテムも変わるから、\r\nいろんなゲートを進めてみてよ"
+
+msgid "Veuillez vérifier car il peut y avoir des portes à durée limitée."
+msgstr "期間限定のゲートが発生することもあるからチェックして"
+
+msgid "En jouant les chansons, vous obtiendrez des points pour franchir la porte.\r\nSi vous franchissez la porte, vous pourrez recevoir des chansons et des objets.\r\nJe vais voir jusqu'où vous pouvez pousser la porte."
+msgstr "楽曲をプレイすると、ゲートを進むためのポイントが手に入るよ\r\nゲートを進めれば楽曲やアイテムが貰えるよ\r\nお前がどこまでゲートを進められるか見ててあげるよ"
+
+msgid "Hein?"
+msgstr "へえ"
+
+msgid "je vais le faire"
+msgstr "やるじゃん"
+
+msgid "Passez au niveau supérieur !"
+msgstr "レベルアップ！"
+
+msgid "Il est actuellement en maintenance. Désolé!"
+msgstr "今メンテナンス中なの。ごめんね！"
+
+msgid "C'est en maintenance."
+msgstr "メンテナンス中なんだって。"
+
+msgid "Je ne peux pas encore jouer à ce mode"
+msgstr "このモードはまだ遊べないね"
+
+msgid "C'est impossible."
+msgstr "それは無理だね。"
+
+msgid "Jeu unique !"
+msgstr "シングルプレイ！"
+
+msgid "Multijoueur !"
+msgstr "マルチプレイ！"
+
+msgid "Mode VIP !"
+msgstr "VIPモード！"
+
+msgid "Mettez-vous en scène !"
+msgstr "ステージアップ！"
+
+msgid "BOUTIQUE!"
+msgstr "SHOP！"
+
+msgid "Je ne peux pas jouer à ce mode"
+msgstr "そのモードはプレイできないね"
+
+msgid "Choisissez le mode auquel vous souhaitez jouer."
+msgstr "プレイするモードを選んでね。"
+
+msgid "Le multijoueur est\r\nCe mode permet à jusqu'à 4 personnes de jouer en même temps."
+msgstr "マルチプレイは、\r\n最大4人で同時に遊べるモードだよ。"
+
+msgid "\"Concours\" où vous concourez pour la même partition avec la même chanson,\r\n\"Coopération\" où chacun vise à dégager la scène\r\nVous pouvez en choisir deux."
+msgstr "同じ曲でスコアを競う「対戦」、\r\nみんなでクリアを目指す「協力」の\r\n2つから選べるよ。"
+
+msgid "Vous obtiendrez plus de points que d'habitude\r\nC'est une bonne affaire."
+msgstr "いつもよりポイントも多めにもらえるから\r\nお得だね。"
+
+msgid "Compétitif ou coopératif, choisissez le mode auquel vous souhaitez jouer."
+msgstr "対戦と協力、プレイしたいモードを選んで。"
+
+msgid "La salle a été dissoute.\r\nJe n'ai pas d'autre choix que de jouer en solo cette fois."
+msgstr "ルームを解散したよ。\r\n仕方ないから今回はシングルプレイで遊んで。"
+
+msgid "La salle a été dissoute.\r\nEssayons à nouveau de faire correspondre."
+msgstr "ルームを解散したよ。\r\nもう一度マッチングしてみるね。"
+
+msgid "D'autres membres ont voté pour « bataille »."
+msgstr "他のメンバーが「対戦」に投票したよ。"
+
+msgid "D'autres membres ont voté pour « Coopération »."
+msgstr "他のメンバーが「協力」に投票したよ。"
+
+msgid "\"Concours\"."
+msgstr "「対戦」ね。"
+
+msgid "\"Coopération\"."
+msgstr "「協力」ね。"
+
+msgid "Conformément à votre demande, nous avons décidé de mener une « bataille »."
+msgstr "アンタの希望通り「対戦」に決定したよ。"
+
+msgid "Comme vous l'avez demandé, nous avons décidé de coopérer."
+msgstr "アンタの希望通り「協力」に決定したよ。"
+
+msgid "Cette fois, il s'agissait d'un « concours »."
+msgstr "今回は「対戦」になったよ。"
+
+msgid "Cette fois, il s'agissait de « coopération »."
+msgstr "今回は「協力」になったよ。"
+
+msgid "Il semble que les membres n'ont pas pu se réunir.\r\nJe n'ai pas d'autre choix que de jouer en solo cette fois."
+msgstr "メンバーが集まらなかったみたいだよ。\r\n仕方ないから今回はシングルプレイで遊んで。"
+
+msgid "Ouais...!\r\nLe réseau a été déconnecté..."
+msgstr "ええっ・・・！\r\nネットワークが切断されちゃった・・・"
+
+msgid "Choisissez-en un"
+msgstr "どちらかえらんで"
+
+msgid "Je vais créer une pièce assortie"
+msgstr "マッチングルームを作るよ"
+
+msgid "Attendez un instant pendant que je cherche une chambre."
+msgstr "ルームを探すからちょっとまってて"
+
+msgid "J'ai trouvé une chambre"
+msgstr "ルームが見つかったよ"
+
+msgid "Je ne trouve pas d'autres règles...\r\nCette fois, créons une pièce."
+msgstr "他のルールが見つからないな・・・。\r\n今回はルームを作ろう。"
+
+msgid "Les autres membres ont choisi la chanson."
+msgstr "他のメンバーが楽曲を決定したよ。"
+
+msgid "Jouons avec cette chanson cette fois."
+msgstr "今回はこの楽曲で遊んで。"
+
+msgid "J'attends les autres membres."
+msgstr "他のメンバーを待ってるよ。"
+
+msgid "Tous les membres peuvent définir le niveau de difficulté\r\nJ'ai décidé.\r\nCommencez bientôt à jouer !"
+msgstr "メンバー全員が難易度を\r\n決定したよ。\r\nもうすぐプレイ開始よ！"
+
+msgid "Ce niveau de difficulté est bien.\r\nAjustement des « Paramètres de vitesse »\r\nVous pouvez également le faire avant de jouer."
+msgstr "この難易度でいいのね。\r\n「スピード設定」の調整\r\nとかも、プレイ前に行えるよ。"
+
+msgid "Eh bien, bonne chance."
+msgstr "まぁ頑張って。"
+
+msgid "Oh···"
+msgstr "おお・・・"
+
+msgid "C'est un résultat passable."
+msgstr "無難な成績だな"
+
+msgid "Eh bien, quelque chose comme ça"
+msgstr "まあ、こんなもんか"
+
+msgid "Ah, oui, c'est une performance typique pour vous."
+msgstr "あー、はいはい　アンタらしい成績だな。"
+
+msgid "Quelles sont vos notes ?"
+msgstr "アンタの成績は？"
+
+msgid "Choisissez ensuite une chanson à jouer\r\nC'est la première chanson maintenant."
+msgstr "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。"
+
+msgid "Alors choisis la chanson suivante\r\nC'est la deuxième chanson maintenant."
+msgstr "じゃあ、次の曲を選んで\r\n今2曲目だよ。"
+
+msgid "Changez l'ordre des chansons."
+msgstr "楽曲の並び順を変更するよ。"
+
+msgid "Je ne peux pas encore jouer à ce niveau de difficulté."
+msgstr "この難易度はまだ遊べないね。"
+
+msgid "Ouvrir avec des tickets ?"
+msgstr "チケットを使ってオープンする？"
+
+msgid "Ouvrir avec des points ?"
+msgstr "ポイントを使ってオープンする？"
+
+msgid "Allez-vous ouvrir cette chanson ?"
+msgstr "この楽曲をオープンするの？"
+
+msgid "J'ai ouvert la chanson."
+msgstr "楽曲をオープンしたよ。"
+
+msgid "Je n'ai pas assez de points."
+msgstr "ポイントが足りないよ。"
+
+msgid "Bien joué. Le temps s'est écoulé.\r\nJouons avec cette chanson cette fois."
+msgstr "ざんねーん。時間切れ。\r\n今回はこの曲で遊んで。"
+
+msgid "Alors choisis la chanson suivante"
+msgstr "じゃあ、次の曲を選んで"
+
+msgid "Choisissez ensuite la chanson suivante. Le prochain sera le dernier."
+msgstr "じゃあ、次の曲を選んで。次が最後だってさ。"
+
+msgid "Le temps restant est terrible."
+msgstr "残り時間やばいよ。"
+
+msgid "Il reste 10 secondes !"
+msgstr "あと10秒！"
+
+msgid "Inferno est sorti..."
+msgstr "インフェルノが開放されたよ・・・"
+
+msgid "Trier par genre !"
+msgstr "ジャンル順！"
+
+msgid "Trier par niveau !"
+msgstr "レベル順！"
+
+msgid "Ordre des versions !"
+msgstr "バージョン順！"
+
+msgid "Trier par nom de chanson !"
+msgstr "曲名順！"
+
+msgid "Toutes les chansons !"
+msgstr "全曲！"
+
+msgid "Nouvelle chanson !"
+msgstr "新曲！"
+
+msgid "Anime/POP!"
+msgstr "アニメ・POP！"
+
+msgid "Vocaloïde !"
+msgstr "ボカロ！"
+
+msgid "Arrangement Touhou !"
+msgstr "東方アレンジ！"
+
+msgid "2,5 dimensions !"
+msgstr "2.5次元！"
+
+msgid "Variété!"
+msgstr "バラエティ！"
+
+msgid "original!"
+msgstr "オリジナル！"
+
+msgid "TANO*C !"
+msgstr "TANO*C（タノシー）！"
+
+msgid "préféré!"
+msgstr "お気に入り！"
+
+msgid "Inferno libéré. C'est l'entrée de l'enfer..."
+msgstr "インフェルノ開放。地獄の入り口だ・・・。"
+
+msgid "Je vais changer le titre.\r\nVous pouvez le personnaliser davantage sur le site officiel.\r\nSi vous êtes intéressé, vérifiez également cela."
+msgstr "称号を変更するよ。\r\n公式サイトで更に細かくカスタマイズできるから、\r\n興味があったらそっちも確認してみて。"
+
+msgid "Je vais changer l'icône.\r\nQuelle icône dois-je utiliser ?"
+msgstr "アイコンを変更するよ。\r\nなんのアイコンにするの？"
+
+msgid "C'est ici que vous pouvez modifier les paramètres et vérifier l'état."
+msgstr "設定の変更やステータスの確認ができる場所だよ"
+
+msgid "Quand tu joues aux cartes,\r\nVous pouvez profiter encore plus de WACCA.\r\nVous pouvez lire plus de chansons et enregistrer des données.\r\nVous pouvez le faire, alors essayez de l'utiliser."
+msgstr "カードを使って遊ぶと、\r\nWACCAをもっと楽しむことができるよ。\r\n遊べる曲も増えるし、データの保存も\r\nできるようになるから使ってみて。"
+
+msgid "C'est votre score global."
+msgstr "アンタの総合成績だよ"
+
+msgid "Ce sont vos résultats de classement.\r\nSi vous allez sur le site officiel, vous trouverez des informations plus détaillées."
+msgstr "アンタのランキング成績だよ。\r\n公式サイトに行けばもっと詳しい情報が乗ってるよ。"
+
+msgid "Eh bien, pas encore."
+msgstr "まー、まだまだだね"
+
+msgid "Est-ce que ça va ?"
+msgstr "まあまあって感じ？"
+
+msgid "Pas encore!"
+msgstr "まだまだでしょ！"
+
+msgid "Ils commencent à se rassembler..."
+msgstr "なかなか集まってきてるじゃん・・・"
+
+msgid "Eh bien, je suppose que je m'en sortirai très bien..."
+msgstr "ま、まあまあやるじゃん・・・"
+
+msgid "Je ne peux pas croire que j'ai collecté autant...\r\nWow, c'est incroyable..."
+msgstr "こんなに集めるなんて・・・。\r\nす、すごい・・・"
+
+msgid "complet! ? Sérieusement! ?"
+msgstr "コンプリート！？マジでっ！？"
+
+msgid "Est-ce que ce nom est correct ?"
+msgstr "この名前でいいの？"
+
+msgid "Quel est ton nom?"
+msgstr "アンタの名前、なんていうの？"
+
+msgid "Tu... qu'est-ce que tu fais... ?"
+msgstr "お前・・・何をしてるの・・・？"
+
+msgid "Nouveau disque !"
+msgstr "New Record!"
+
+msgid "C'est un avis."
+msgstr "お知らせだよ。"
+
+msgid "appelle le personnel du magasin"
+msgstr "お店の人を呼んで"
+
+msgid "Redémarrage ! Veuillez patienter un instant."
+msgstr "再起動中！ちょっと待っててね。"
+
+msgid "Clair!"
+msgstr "クリア！"
+
+msgid "Maîtresse!\r\n"
+msgstr "ミスレス！\r\n"
+
+msgid "Combo complet !\r\n"
+msgstr "フルコンボ！\r\n"
+
+msgid "Tout merveilleux ! !"
+msgstr "オールマーベラス！！"
+
+msgid "clair\r\n"
+msgstr "クリア\r\n"
+
+msgid "Clair!\r\n"
+msgstr "クリア！\r\n"
+
+msgid "Clair! !\r\n"
+msgstr "クリア！！\r\n"
+
+msgid "Notez D!\r\nN'êtes-vous pas bon... ! ?"
+msgstr "レート D！\r\nお前、ダメダメか・・・！？"
+
+msgid "Notez C!\r\nC'est un résultat typique pour vous !"
+msgstr "レートC！\r\nアンタらしい結果だな～"
+
+msgid "Notez B !\r\nC'est un résultat typique pour vous !"
+msgstr "レートB！\r\nアンタらしい結果だな～"
+
+msgid "Notez A !\r\nC'est toujours là"
+msgstr "レートA！\r\nまだまだここからだね"
+
+msgid "Notez AA !\r\nJe suppose que ça va"
+msgstr "レートAA！\r\nまあまあかな"
+
+msgid "Notez AAA !\r\nOn dirait que je peux aller un peu plus loin..."
+msgstr "レートAAA！\r\nもうちょっと行けそうだね・・・"
+
+msgid "Notez S !\r\nC'est tout à fait... je vais le faire..."
+msgstr "レートS！\r\nなかなか・・・やるじゃん・・・"
+
+msgid "Notez S+ !\r\nÊtes-vous... vraiment incroyable... ?"
+msgstr "レートS+！\r\nお前・・・実はすごい・・・？"
+
+msgid "Notez SS ! !\r\nWow, je peux faire ça aussi... !"
+msgstr "レートSS！！\r\nわ、私だってこのくらいできるし・・・！"
+
+msgid "Notez SS+ ! !\r\nEh bien, ma sœur est incroyable... !"
+msgstr "レートSS+！！\r\nね、姉さまのほうがすごいし・・・！"
+
+msgid "Notez SSS ! !\r\nWow, super score...! Toi...! ?"
+msgstr "レートSSS！！\r\nす、すごいスコア・・・！お前が・・・！？"
+
+msgid "Notez SSS+ ! !\r\nOh, c'est un mensonge ! Un score comme celui-là... c'est trop élevé !"
+msgstr "レートSSS+！！\r\nう、うそだ！こんなスコア・・・高すぎるよ！"
+
+msgid "Tarif maître ! ! !\r\nJ'ai compris! Je l'avoue !\r\nTu es incroyable...!"
+msgstr "マスター レート！！！\r\nわかったよ！認めるよ！\r\nアンタすごいよ・・・！"
+
+msgid "tarif D\r\nJe ne peux pas effacer ça..."
+msgstr "レートD\r\nこんなのクリアできないって・・・"
+
+msgid "tarif C\r\nJe ne peux pas effacer ça..."
+msgstr "レートC\r\nこんなのクリアできないって・・・"
+
+msgid "tarif B\r\nJe ne peux pas effacer ça..."
+msgstr "レートB\r\nこんなのクリアできないって・・・"
+
+msgid "Tarif A\r\nJe ne peux pas effacer ça..."
+msgstr "レートA\r\nこんなのクリアできないって・・・"
+
+msgid "Tarif AA\r\nJe ne peux pas effacer ça..."
+msgstr "レートAA\r\nこんなのクリアできないって・・・"
+
+msgid "Tarif AAA\r\nJe ne peux pas effacer ça..."
+msgstr "レートAAA\r\nこんなのクリアできないって・・・"
+
+msgid "taux S\r\nJe ne peux pas effacer ça..."
+msgstr "レートS\r\nこんなのクリアできないって・・・"
+
+msgid "Tarif S+\r\nJe ne peux pas effacer ça..."
+msgstr "レートS+\r\nこんなのクリアできないって・・・"
+
+msgid "Notez SS !\r\nJe ne peux pas effacer ça..."
+msgstr "レートSS！\r\nこんなのクリアできないって・・・"
+
+msgid "Notez SS+ !\r\nJe ne peux pas effacer ça..."
+msgstr "レートSS+！\r\nこんなのクリアできないって・・・"
+
+msgid "Notez SSS !\r\nJe ne peux pas effacer ça..."
+msgstr "レートSSS！\r\nこんなのクリアできないって・・・"
+
+msgid "Notez SSS+ !\r\nJe ne peux pas effacer ça..."
+msgstr "レートSSS+！\r\nこんなのクリアできないって・・・"
+
+msgid "Tarif MAÎTRE !\r\nJe ne peux pas effacer ça..."
+msgstr "MASTERレート！\r\nこんなのクリアできないって・・・"
+
+msgid "tarif D\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートD\r\nほんとにクリアするなんて・・・！"
+
+msgid "tarif C\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートC\r\nほんとにクリアするなんて・・・！"
+
+msgid "tarif B\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートB\r\nほんとにクリアするなんて・・・！"
+
+msgid "Tarif A\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートA\r\nほんとにクリアするなんて・・・！"
+
+msgid "Tarif AA\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートAA\r\nほんとにクリアするなんて・・・！"
+
+msgid "Tarif AAA\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートAAA\r\nほんとにクリアするなんて・・・！"
+
+msgid "taux S\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートS\r\nほんとにクリアするなんて・・・！"
+
+msgid "Tarif S+\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートS+\r\nほんとにクリアするなんて・・・！"
+
+msgid "Notez SS !\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートSS！\r\nほんとにクリアするなんて・・・！"
+
+msgid "Notez SS+ !\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートSS+！\r\nほんとにクリアするなんて・・・！"
+
+msgid "Notez SSS !\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートSSS！\r\nほんとにクリアするなんて・・・！"
+
+msgid "Notez SSS+ !\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "レートSSS+！\r\nほんとにクリアするなんて・・・！"
+
+msgid "Tarif MAÎTRE !\r\nJe n'arrive pas à croire que ce soit vraiment clair... !"
+msgstr "MASTERレート！\r\nほんとにクリアするなんて・・・！"
+
+msgid "La chanson que je viens de jouer\r\nMême si tu es dans le classement...\r\nSérieusement? ?"
+msgstr "い、今プレイした楽曲\r\nランキングに乗ったって・・・\r\nマジか～！？"
+
+msgid "J'attends avec impatience le prochain défi"
+msgstr "次のチャレンジを期待してるよ"
+
+msgid "Il me restait un peu de temps, alors j'ai réessayé."
+msgstr "あと少しだったから、また挑戦して。"
+
+msgid "Zannen. Entraînez-vous et revenez"
+msgstr "ざーんねん。練習して出直してきなよ"
+
+msgid "C'est inattendu..."
+msgstr "想定外だ・・・"
+
+msgid "J'aimerais pouvoir effacer ça aussi..."
+msgstr "これもクリアするなんて・・・。"
+
+msgid "Félicitations pour la compensation..."
+msgstr "クリアおめでと・・・"
+
+msgid "Ne soyez pas prudent..."
+msgstr "気をつけなよ・・・。"
+
+msgid "Êtes-vous sérieux à l'idée de le faire... ?"
+msgstr "本気でやるの・・・？"
+
+msgid "Est-il acceptable d’utiliser un ticket ouvert expert ?"
+msgstr "エキスパートオープンチケットでいいの？"
+
+msgid "Est-il possible d'utiliser le badge boost ?"
+msgstr "ブーストバッジでいいの？"
+
+msgid "Est-ce que le Boost Badge S va bien ?"
+msgstr "ブーストバッジSでいいの？"
+
+msgid "Ici, vous pouvez vous inscrire en tant que membre VIP,\r\nVous pouvez acheter des articles"
+msgstr "ここではVIPメンバーの登録や、\r\nアイテムの購入ができるよ"
+
+msgid "Devenir membre VIP vous offre de nombreux avantages."
+msgstr "VIPメンバーになるといろんな特典が得られるよ"
+
+msgid "C'est un objet qui peut débloquer le niveau de difficulté expert."
+msgstr "エキスパートの難易度を開放できるアイテムだよ"
+
+msgid "Si vous disposez d'un badge boost\r\nVous recevrez des bonus pour les points et la façon dont vous progressez à travers les portes.\r\nIl semble que l'effet du ticket de jeu EXPERT sera également donné."
+msgstr "ブーストバッジがあれば\r\nポイントやゲートの進み方にボーナスがつくよ\r\nEXPERTプレイチケットの効果も付与されるみたい。"
+
+msgid "Héhé...\r\nMerci pour votre achat ~"
+msgstr "えへへ・・・\r\nお買い上げありがとうございました～"
+
+msgid "Je n'en peux plus."
+msgstr "これ以上は持てないよ。"
+
+msgid "Il semble que je n'ai pas assez de points."
+msgstr "ポイントが足りないみたい。"
+
+msgid "Êtes-vous déjà là ?\r\nÊtes-vous du genre à faire attendre vos amis dans un dépanneur ?"
+msgstr "おいまだか～？\r\nお前、コンビニで友達待たせるタイプか？"
+
+msgid "Pour déplacer le curseur,\r\nEssayez de glisser votre main sur la zone lumineuse"
+msgstr "カーソルを移動させるには、\r\n光ってるエリアの上で手を滑らせてみて"
+
+msgid "Pour choisir un menu\r\nEssayez de glisser votre main sur la zone lumineuse"
+msgstr "メニューを選ぶには\r\n光ってるエリアの上で手を滑らせてみて"
+
+msgid "\"Mettez en scène\"\r\nC'est un mode game over.\r\nCela se terminera lorsque la VIE atteindra zéro,\r\nsois prudent."
+msgstr "「ステージアップ」は\r\nゲームオーバーのあるモードだよ。\r\nLIFEがゼロになった時点で終わっちゃうから、\r\n気をつけて。"
+
+msgid "Avez-vous réussi ? Je vais faire beaucoup de travail..."
+msgstr "合格か。なかなかやるじゃん・・・"
+
+msgid "Eh bien, c'est tout."
+msgstr "ま、そんなもんだよ。"
+
+msgid "Mettez-vous en scène !\r\nCommençons la première chanson.\r\nLorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.\r\nSi vous souhaitez modifier les paramètres, faites-le maintenant."
+msgstr "ステージアップ！\r\n1曲目をスタートするよ。\r\n準備ができたら<span color=\"#E5006D\">決定</>を押して。\r\n設定を変えたいなら今のうちに済ませてね。"
+
+msgid "Mettez-vous en scène !\r\nCommençons la deuxième chanson.\r\nLorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.\r\nSi vous souhaitez modifier les paramètres, faites-le maintenant."
+msgstr "ステージアップ！\r\n2曲目をスタートするよ。\r\n準備ができたら<span color=\"#E5006D\">決定</>を押して。\r\n設定を変えたいなら今のうちに済ませてね。"
+
+msgid "Mettez-vous en scène !\r\nCommençons la troisième chanson.\r\nLorsque vous êtes prêt, appuyez sur <span color=\"#E5006D\">Confirmer</>.\r\nSi vous souhaitez modifier les paramètres, faites-le maintenant."
+msgstr "ステージアップ！\r\n3曲目をスタートするよ。\r\n準備ができたら<span color=\"#E5006D\">決定</>を押して。\r\n設定を変えたいなら今のうちに済ませてね。"
+
+msgid "Promu au stade 1 !"
+msgstr "ステージ1に昇格！"
+
+msgid "Promu au niveau 2 !"
+msgstr "ステージ2に昇格！"
+
+msgid "Promu au niveau 3 !"
+msgstr "ステージ3に昇格！"
+
+msgid "Promu au niveau 4 !"
+msgstr "ステージ4に昇格！"
+
+msgid "Promu au niveau 5 !"
+msgstr "ステージ5に昇格！"
+
+msgid "Promu au niveau 6 !"
+msgstr "ステージ6に昇格！"
+
+msgid "Promu au niveau 7 !"
+msgstr "ステージ7に昇格！"
+
+msgid "Promu au niveau 8 !"
+msgstr "ステージ8に昇格！"
+
+msgid "Promu au niveau 9 !"
+msgstr "ステージ9に昇格！"
+
+msgid "Promu au niveau 10 !"
+msgstr "ステージ10に昇格！"
+
+msgid "Promu au niveau 11 !"
+msgstr "ステージ11に昇格！"
+
+msgid "Promu au niveau 12 !"
+msgstr "ステージ12に昇格！"
+
+msgid "Promu au niveau 13 !"
+msgstr "ステージ13に昇格！"
+
+msgid "Promu au niveau 14 !"
+msgstr "ステージ14に昇格！"
+
+msgid "Choisissez l'étape que vous souhaitez essayer."
+msgstr "挑戦したいステージを選んで。"
+
+msgid "Bienvenue sur Stage Up.\r\nEst-ce votre première fois ici ?\r\nStage up est un endroit pour tester vos compétences.\r\nNous jouerons successivement les chansons de tâches assignées."
+msgstr "ステージアップへようこそ。\r\nアンタはここに来るのは初めてだっけ？\r\nステージアップは実力を試す場所。\r\n決められた課題曲を連続でプレイするよ。"
+
+msgid "WACCA!"
+msgstr "WACCA！"
+
+msgid "WACCA S!"
+msgstr "WACCA S！"
+
+msgid "WACCA Lily!"
+msgstr "WACCA Lily！"
+
+msgid "Voici à quoi ressemblent les résultats cette fois"
+msgstr "今回の成績はこんな感じだよ"
+
+msgid "Je joue actuellement\r\n<span color=\"#E5006D\">Appuyez et maintenez enfoncé le bouton marqué d'un \"?\"</>\r\nl'aide sera affichée\r\nSi vous rencontrez des problèmes, essayez-le aussi."
+msgstr "プレイ中\r\n<span color=\"#E5006D\">「？」</>マークのついたボタンを長押しすると\r\nヘルプが表示されるから\r\n困ったらそれも試してみて。"
+
+msgid "Vient ensuite <span color=\"#E5006D\">\"Notes en chaîne\"</>\r\nCela ressemble à Touch Notes."
+msgstr "次は<span color=\"#E5006D\">「チェインノーツ」</> \r\n見た目はタッチノーツに近いね。"
+
+msgid "Même s'il pleut continuellement\r\nEn fait, tout ce que vous avez à faire est de <span color=\"#E5006D\">appuyer longuement</> à l'avance."
+msgstr "連続して降ってくることがあっても\r\n実は予め<span color=\"#E5006D\">押しっぱなし</>にしておくだけでOKだよ。"
+
+msgid "N'êtes-vous pas bon... ! ?"
+msgstr "お前、ダメダメか・・・！？"
+
+msgid "Ouais, c'est ce que l'on ressent !"
+msgstr "そうそう、そんな感じね！"
+
+msgid "Même si cela semble difficile à première vue\r\nJe pense que c'est beaucoup plus facile qu'il n'y paraît.\r\nTu devrais l'essayer aussi."
+msgstr "一見難しそうに見えるけど\r\n見た目より全然かんたんだと思う。\r\nアンタもやってみて。"
+
+msgid "À propos, Notes est\r\nUniquement dans ces <span color=\"#E5006D\">\"Directives\"</>\r\nParce qu'il ne tombera pas."
+msgstr "ちなみにノーツは、\r\nこの<span color=\"#E5006D\">「ガイドライン」</>の中にしか\r\n落ちてこないから。"
+
+msgid "Vous n'êtes pas obligé de regarder partout sur l'écran.\r\ncuivre? Même vous pouvez le faire, n'est-ce pas ?"
+msgstr "画面をくまなく見る必要はないよ。\r\nどう？アンタでもできそうでしょ？"
+
+msgid "Vient ensuite <span color=\"#E5006D\">\"Conserver les notes\"</>\r\nLorsqu'une longue note arrive, appuyez et maintenez <span color=\"#E5006D\">jusqu'à la fin</>.\r\nVous n'êtes pas obligé de lâcher votre main à la fin de Notes."
+msgstr "次は<span color=\"#E5006D\">「ホールドノーツ」</> \r\n長いノーツが来たら、<span color=\"#E5006D\">最後まで</>長押しして。\r\nノーツの最後は手を離さなくても大丈夫だよ。"
+
+msgid "Ha, quelle perte de temps."
+msgstr "ハァー、時間の無駄。"
+
+msgid "Parfois, il se plie et tourne comme ça\r\nJ'ai l'impression que je dois faire attention à ne pas changer la position de mes mains."
+msgstr "こうやって曲がったり、ターンする場合もあるから\r\n手の位置がずれないように気をつける感じ。"
+
+msgid "Ouais, je pense que ça va."
+msgstr "うん、いいんじゃないかな。"
+
+msgid "Ensuite c'est votre tour."
+msgstr "じゃあ次はアンタの番。"
+
+msgid "\r\nC'est vrai, dans la <span color=\"#E5006D\">jauge norma</> des performances réelles\r\nIl y a quelque chose comme ça.\r\nCela dépend de votre jeu\r\nC'est un jeu qui ne cesse d'accumuler."
+msgstr "\r\nそうそう、本番では<span color=\"#E5006D\">ノルマゲージ</> \r\nっていうのがあるんだよ。\r\nアンタのプレイ次第で\r\n溜まっていくゲージなんだけどさ。"
+
+msgid "Eh bien, même si tu ne peux pas l'effacer\r\nCe ne sera pas la fin du jeu.\r\nAlors n'hésitez pas à jouer vos chansons préférées."
+msgstr "ま、クリアできなくても\r\nゲームオーバーにはならないよ。\r\nだから好きな曲を自由に遊んで。"
+
+msgid "quand tu auras fini de jouer la chanson\r\nEffacer si elle dépasse la <span color=\"#E5006D\">ligne normale</>."
+msgstr "楽曲を演奏し終わったときに\r\n<span color=\"#E5006D\">ノルマライン</>を超えていればクリア。"
+
+msgid "cuivre? Avez-vous compris ?\r\nJ'attends avec impatience votre réussite."
+msgstr "どう？よくわかった？\r\nアンタの活躍を楽しみにしてるよ。"
+
+msgid "Alors, essayons-le."
+msgstr "じゃあ、実際にやってみようか。"
+
+msgid "Le <span color=\"#E5006D\">Motif inversé</> est également disponible.\r\nLa méthode de fonctionnement est la même.\r\nLa couleur change en fonction de la direction\r\n<span color=\"#E5006D\">Cela pourrait être plus facile à comprendre si vous vous souvenez par couleur</>."
+msgstr "<span color=\"#E5006D\">逆方向のパターン</>もあるよ。\r\n操作方法は一緒。\r\n向きによって色が違うから\r\n<span color=\"#E5006D\">色で覚える</>とわかりやすいかもね。"
+
+msgid "Ceci est <span color=\"#E5006D\">\"Notes de diapositive\"</>\r\n<span color=\"#E5006D\">direction de la flèche</> vers la console WACCA\r\nImage <span color=\"#E5006D\">Coulissante</>."
+msgstr "これが<span color=\"#E5006D\">「スライドノーツ」</> \r\n<span color=\"#E5006D\">矢印の方向</>にWACCAコンソールを\r\n<span color=\"#E5006D\">滑らせる</>イメージ。"
+
+msgid "Vient ensuite <span color=\"#E5006D\">\"Notes de diapositive\"</>\r\n<span color=\"#E5006D\">\"Notes instantanées\"</>\r\nLes opérations étant similaires, je vais les expliquer ensemble."
+msgstr "次は<span color=\"#E5006D\">「スライドノーツ」</>と\r\n<span color=\"#E5006D\">「スナップノーツ」</>\r\n操作方法が似てるからまとめて説明するよ。"
+
+msgid "Toi... c'est vraiment moi\r\nVous vous moquez de moi...! ?"
+msgstr "お前・・・ホントは私のこと\r\n馬鹿にしてるだろ・・・！？"
+
+msgid "Cela va demander beaucoup de travail..."
+msgstr "なかなかやるじゃん・・・"
+
+msgid "Alors pratiquons ensemble."
+msgstr "それじゃ、まとめて練習して。"
+
+msgid "Il s'agit de <span color=\"#E5006D\">\"Snap Notes\"</>\r\nLa stratégie est la même que celle des « Slide Notes »."
+msgstr "これが<span color=\"#E5006D\">「スナップノーツ」</> \r\n攻略方法は「スライドノーツ」と一緒。"
+
+msgid "Si cette note arrive\r\nFaites glisser la console WACCA <span color=\"#E5006D\">vers</>.\r\nDans ce cas c'est le contraire.\r\n<span color=\"#E5006D\">Glissez vers l'écran</>."
+msgstr "このノーツが来たら\r\nWACCAコンソールを<span color=\"#E5006D\">手前に</>滑らせる。\r\nこの場合は逆。\r\n<span color=\"#E5006D\">画面の方に</>滑らせる。"
+
+msgid "Ce que vous utilisez actuellement est la <span color=\"#E5006D\">\"Console WACCA\"</>\r\nC'est l'appareil lumineux devant vous.\r\nJe jouerai avec cette <span color=\"#E5006D\">\"console WACCA\"</>."
+msgstr "今アンタが操作しているのは<span color=\"#E5006D\">「WACCAコンソール」</>\r\n目の前の光っているデバイスのことね。\r\nこの<span color=\"#E5006D\">「WACCAコンソール」</>を使ってプレイするよ。"
+
+msgid "Tout d'abord, les opérations de base<span color=\"#E5006D\">\"Touch Notes\"</>\r\nLorsque les notes chevauchent la <span color=\"#E5006D\">ligne de jugement</>,\r\n<span color=\"#E5006D\">\"Touchez\"</> la console WACCA !"
+msgstr "まずは基本操作<span color=\"#E5006D\">「タッチノーツ」</> \r\nノーツが<span color=\"#E5006D\">判定ライン</>に重なったら、\r\nWACCAコンソールを<span color=\"#E5006D\">「タッチ」</>！"
+
+msgid "Les notes varient en taille, mais\r\n<span color=\"#E5006D\">touchez n'importe où dans la zone."
+msgstr "ノーツの大きさは様々だけど、\r\nエリア内なら<span color=\"#E5006D\">どこをタッチしてもOK</>だよ。"
+
+msgid "Vous vous moquez de moi même si je vous apprends ça ?"
+msgstr "せっかく私が教えてるのに、お前ふざけてるのか？"
+
+msgid "Oui, c'est ce que l'on ressent."
+msgstr "そう、そんな感じ。"
+
+msgid "Oui, alors vous devriez l'essayer aussi."
+msgstr "はい、じゃあアンタもやってみて"
+
+msgid "Eh bien, je vais vous expliquer comment faire fonctionner WACCA.\r\nJe vais vous le dire.\r\nD'accord? <span color=\"#E5006D\">Je ne l'expliquerai qu'une fois</>\r\nÉcoutez-vous correctement ?"
+msgstr "それじゃあ、私がWACCAの動かし方を\r\n教えてあげる。\r\nいいか？<span color=\"#E5006D\">一度しか説明しないから</>\r\nちゃんと聞いてるんだぞー？"
+
+msgid "Je vais vous expliquer les membres VIP.\r\nVous pouvez devenir membre VIP pendant 30 jours pour 300 yens.\r\nSi vous aimez les avantages, cela en vaut peut-être la peine."
+msgstr "VIPメンバーの説明をするよ。\r\n300円で30日間VIPメンバーになれるよ。\r\n特典を見て気に入ったなら価値があるかもね。"
+
+msgid "Cela pourrait être une bonne idée"
+msgstr "いい考えかもね"
+
+msgid "Ah, merci..."
+msgstr "あ、ありがと・・・"
+
+msgid "Ah donc\r\nA bientôt alors"
+msgstr "あっそ\r\nじゃあね"
+
+msgid "Eh bien, si vous êtes intéressé, revenez."
+msgstr "まあ、興味が出たらまた来てよ"
+
+msgid "Scan réussi !"
+msgstr "スキャン成功！"
+
+msgid "Créer de nouvelles données"
+msgstr "新規データを作るよ"
+
+msgid "Hein...?"
+msgstr "あれ・・・？"
+
+msgid "Cette fois, j'ai joué en tant qu'invité."
+msgstr "今回はゲストとしてプレイして"
+
+msgid "Le temps presse-t-il ? Cette fois, jouez simplement en tant qu'invité."
+msgstr "時間切れか・・・。今回はこのままゲストとしてプレイして。"
+
+msgid "Carte Aime ou carte compatible Amusement IC\r\nSi vous l'avez, scannez-le"
+msgstr "Aimeカード 又は Amusement IC対応カードを\r\n持っているならスキャンして"
+
+msgid "ravi de vous rencontrer."
+msgstr "よろしく。"
+
+msgid "Jouons avec de nouvelles données"
+msgstr "新規データでプレイするよ"
+
+msgid "Vous devez mettre à jour vos données de sauvegarde pour jouer.\r\nLors de la mise à jour des données, les anciennes versions\r\nAttention, vous ne pourrez pas jouer !"
+msgstr "プレイするにはセーブデータの更新が必要だよ\r\nデータを更新すると、古いバージョンでは\r\nプレイできなくなるから気を付けて！"
+
+msgid "Êtes-vous revenu? merci!\r\nC'est un bonus de connexion spécial."
+msgstr "また来たの？ありがと！\r\n特別なログインボーナスだよ。"
+
+msgid "erreur···?"
+msgstr "エラー・・・？"
+
+msgid "Euh... on dirait que le chargement ne parvient pas..."
+msgstr "あれ・・・読み込みに失敗してるみたい・・・"
+
+msgid "Je suis désolé..."
+msgstr "ご・・・ごめんなさい・・・。"
+
+msgid "On dirait une nouvelle carte, mais\r\nEst-il acceptable de l'utiliser ?"
+msgstr "新しいカードみたいだけど、\r\n使っちゃっていいの？"
+
+msgid "Félicitations"
+msgstr "おめでと"
+
+msgid "Bienvenue dans le monde de WACCA."
+msgstr "ようこそ、WACCAの世界へ。"
+
+msgid "Je m'appelle Lily.\r\nJe serai votre rôle de soutien.\r\nHéhé, ravi de vous rencontrer."
+msgstr "私の名前はリリィ。\r\nアンタのサポート役は私がしてあげる。\r\nフフ、よろしくね。"
+
+msgid "Je m'appelle Lily.\r\nÀ partir d'aujourd'hui, je deviendrai ta sœur.\r\nJe serai votre navigateur.\r\nJe ne te laisserai plus t'approcher de ma sœur !"
+msgstr "私の名前はリリィ。\r\n今日から姉さまに変わって\r\n私がアンタのナビ役だよ。\r\nもう、姉さまには近づけさせないから！"
+
+msgid "Ah, si je te rencontre encore et encore\r\nJe veux rencontrer ma sœur..."
+msgstr "あー、アンタに何度も会うなら\r\n姉さまに会いたいよ・・・"
+
+msgid "Êtes-vous revenu?\r\nEh bien, je suis heureux que vous veniez ici encore et encore..."
+msgstr "また来たのか。\r\nまー何度も来てくれるのは嬉しいけどさ・・・。"
+
+msgid "Tout de suite, avez-vous besoin d'un tutoriel ?\r\nJe vais te dire ça, d'accord ? ?"
+msgstr "早速だけど、チュートリアルは必要？\r\nこの私が教えてあげるけど？？"
+
+msgid "J'ai créé les données"
+msgstr "データを作ったよ"
+
+msgid "Bonus de connexion !"
+msgstr "ログインボーナス！"
+
+msgid "Le bonus de connexion du jour"
+msgstr "今日のログインボーナスだよ"
+
+msgid "Obtenez tous les bonus de connexion de ce mois-ci !\r\nMerci comme toujours..."
+msgstr "今月のログインボーナスを全て獲得！\r\nい、いつもありがと・・・。"
+
+msgid "Merci d'avoir joué. Reviens."
+msgstr "遊んでくれてありがと。また来てよ。"
+
+msgid "Merci d'avoir joué. J'attendrai le prochain."
+msgstr "遊んでくれてありがと。次も待ってるよ。"
+
+msgid "Bon travail. Venez jouer à nouveau."
+msgstr "おつかれ。またプレイしに来てよ。"
+
+msgid "Qui est-ce... celui qui s'approche de ma sœur ?\r\nJe vais te traiter horriblement..."
+msgstr "どいつもこいつも・・・姉さまに近づくやつは\r\nひどい目に合わせてやるんだ・・・"
+
+msgid "J'ai découvert que je portais les vêtements de ma sœur sans autorisation..."
+msgstr "姉さまの服、勝手に着てるのバレた・・・。"
+
+msgid "Je me suis bien amusé aussi. A bientôt alors."
+msgstr "私も楽しかった。それじゃまた、ね。"
+
+msgid "Vous ne vous amusez pas assez ? Eh bien, vous pouvez venir n'importe quand."
+msgstr "遊び足りないの？まあいつでもおいでよ。"
+
+msgid "Veuillez prendre des pauses adéquates et jouer.\r\nVous serez fatigué."
+msgstr "適度に休憩しながら遊びなよ。\r\n疲れちゃうからね。"
+
+msgid "Votre jeu est\r\nC'est frustrant mais amusant à regarder...\r\nAlors reviens."
+msgstr "アンタのプレイは、\r\n悔しいけど見ていて楽しい・・・。\r\nだから、また来て。"
+
+msgid "Moi et ma sœur un jour\r\nNous serons sur scène ensemble...!"
+msgstr "私、いつか姉さまと\r\n一緒にステージに立つんだぁ・・・！"
+
+msgid "J'adore le salmiakki !\r\nMais ma sœur ne comprend pas."
+msgstr "私サルミアッキ大好き！\r\nでも姉さまには理解してもらえないんだ。"
+
+msgid "Merci encore pour aujourd'hui. Si tu reviens...\r\nheureux···."
+msgstr "今日もありがとう。また来てくれたら・・・\r\n嬉しい・・・。"
+
+msgid "L'heure du thé avec ma sœur est tellement amusante,\r\nLa quantité de nourriture est inhabituelle..."
+msgstr "姉さまとのティータイムはとても楽しいんだけど、\r\n食べ物の量が尋常じゃないんだ・・・。"
+
+msgid "Je garde cette tenue secrète pour ma mère.\r\nEh bien, je vais me faire gronder..."
+msgstr "この格好はかあさまには内緒にしてるよ。\r\nし、叱られるから・・・。"
+
+msgid "Je suis avec toi depuis longtemps...\r\nC'est plutôt amusant en ce moment."
+msgstr "アンタとはもう長いこと一緒にいるな・・・。\r\n今は結構、楽しいよ。"
+
+msgid "Je me sens assez à l'aise quand je suis avec toi.\r\nBien sûr, je ne suis pas aussi bonne que ma sœur !"
+msgstr "アンタといる時間、結構居心地いいよ。\r\nもちろん姉さまほどじゃないけどな！"
+
+msgid "Revenez nous rendre visite bientôt."
+msgstr "またすぐに遊びに来てよ。"
+
+msgid "Bienvenue dans le monde de WACCA"
+msgstr "ようこそ、WACCAの世界へ"
+
+msgid "Eh bien, allons-y !"
+msgstr "じゃあ、行くよ！"
+
+msgid "Ravi de vous rencontrer..."
+msgstr "よ、よろしく・・・。"
+
+msgid "Je ne te laisserai pas t'approcher de ma sœur !"
+msgstr "アンタを姉さまには近づかせないから！"
+
+msgid "Content de te revoir"
+msgstr "おかえり"
+
+msgid "Accueillir. Eh bien, commençons."
+msgstr "いらっしゃい。じゃあ、始めよう。"
+
+msgid "Hmm... je veux faire une sieste..."
+msgstr "うう～ん・・・　お昼寝したい・・・"
+
+msgid "Es-tu venu aujourd'hui aussi ? ravi de vous rencontrer."
+msgstr "今日も来たのか。よろしく。"
+
+msgid "Soupir.\r\nJe veux rencontrer ma sœur, pas toi..."
+msgstr "はぁ～～～。\r\nアンタじゃなくて姉さまに会いたい・・・。"
+
+msgid "Je n'y peux rien ~ Je t'accompagnerai aussi aujourd'hui."
+msgstr "しょうがないな～　今日も付き合ってあげるよ"
+
+msgid "Je suis déjà habitué à voir ton visage"
+msgstr "もうアンタの顔も見慣れてきた"
+
+msgid "Content de te revoir. Eh bien, tu m'as vraiment manqué."
+msgstr "おかえり。まあ、結構会いたかったよ。"
+
+msgid "Hé, pourquoi ne ferais-tu pas une pause bientôt ?"
+msgstr "ねえー、そろそろ休憩しない？"
+
+msgid "C'est enfin là...\r\nJ'attends depuis longtemps..."
+msgstr "やっと来た・・・。\r\nずっと待ってたんだけど・・・。"
+
+msgid "WACCA Lily R!"
+msgstr "WACCA Lily R！"
+
 msgid "LV1"
-msgstr ""
+msgstr "LV1"
+
 msgid "LV2"
-msgstr ""
+msgstr "LV2"
+
 msgid "LV3"
-msgstr ""
+msgstr "LV3"
+
 msgid "LV4"
-msgstr ""
+msgstr "LV4"
+
 msgid "LV5"
-msgstr ""
+msgstr "LV5"
+
 msgid "LV5+"
-msgstr ""
+msgstr "LV5+"
+
 msgid "LV6"
-msgstr ""
+msgstr "LV6"
+
 msgid "LV6+"
-msgstr ""
+msgstr "LV6+"
+
 msgid "LV7"
-msgstr ""
+msgstr "LV7"
+
 msgid "LV7+"
-msgstr ""
+msgstr "LV7+"
+
 msgid "LV8"
-msgstr ""
+msgstr "LV8"
+
 msgid "LV8+"
-msgstr ""
+msgstr "LV8+"
+
 msgid "LV9"
-msgstr ""
+msgstr "LV9"
+
 msgid "LV9+"
-msgstr ""
+msgstr "LV9+"
+
 msgid "LV10"
-msgstr ""
+msgstr "LV10"
+
 msgid "LV10+"
-msgstr ""
+msgstr "LV10+"
+
 msgid "LV11"
-msgstr ""
+msgstr "LV11"
+
 msgid "LV11+"
-msgstr ""
+msgstr "LV11+"
+
 msgid "LV12"
-msgstr ""
+msgstr "LV12"
+
 msgid "LV12+"
-msgstr ""
+msgstr "LV12+"
+
 msgid "LV13"
-msgstr ""
+msgstr "LV13"
+
 msgid "LV13+"
-msgstr ""
+msgstr "LV13+"
+
 msgid "LV14"
-msgstr ""
-msgid "あ行！"
-msgstr ""
-msgid "か行！"
-msgstr ""
-msgid "さ行！"
-msgstr ""
-msgid "た行！"
-msgstr ""
-msgid "な行！"
-msgstr ""
-msgid "は行！"
-msgstr ""
-msgid "ま行！"
-msgstr ""
-msgid "や行！"
-msgstr ""
-msgid "ら行！"
-msgstr ""
-msgid "わ行！"
-msgstr ""
-msgid "数字！"
-msgstr ""
-msgid "AからD！"
-msgstr ""
-msgid "EからH！"
-msgstr ""
-msgid "IからL！"
-msgstr ""
-msgid "MからP！"
-msgstr ""
-msgid "QからT！"
-msgstr ""
-msgid "UからZ！"
-msgstr ""
-msgid "未プレイ！"
-msgstr ""
-msgid "未クリア！"
-msgstr ""
-msgid "クリア！"
-msgstr ""
-msgid "ミスレス！"
-msgstr ""
-msgid "フルコンボ！"
-msgstr ""
-msgid "オールマーベラス！"
-msgstr ""
-msgid "設定の変更ができるよ。\r\nおすすめの設定も用意したけど、\r\n細かく設定したい場合はカスタムをえらんで。"
-msgstr ""
-msgid "初心者向け！"
-msgstr ""
-msgid "中級者向け！"
-msgstr ""
-msgid "上級者向け！"
-msgstr ""
-msgid "カスタム！"
-msgstr ""
-msgid "オススメ！"
-msgstr ""
-msgid "クリアマーク順！"
-msgstr ""
-msgid "もう少しでVIPの有効期限が終了するよ。"
-msgstr ""
-msgid "WACCA Reverse！"
-msgstr ""
-msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nアニメ/POPジャンルの楽曲が追加されたよ！"
-msgstr ""
-msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nボカロジャンルの楽曲が追加されたよ！"
-msgstr ""
-msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\n東方アレンジジャンルの楽曲が追加されたよ！"
-msgstr ""
-msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nバラエティジャンルの楽曲が追加されたよ！"
-msgstr ""
-msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\n2.5次元ジャンルの楽曲が追加されたよ！"
-msgstr ""
-msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nオリジナルジャンルの楽曲が追加されたよ！"
-msgstr ""
-msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nタノシージャンルの楽曲が追加されたよ！"
-msgstr ""
-msgid "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\n新しい楽曲が追加されたよ！"
-msgstr ""
-msgid "今日くらいは一緒にお祝いしてやるよ。\r\n・・・ありがとう。"
-msgstr ""
-msgid "WACCA2周年！！！！"
-msgstr ""
-msgid "お題が選出されるよ\r\nいろんなお題があるみたい。挑戦してみて。"
-msgstr ""
-msgid "シャッフルを押すとお題が再選出されるよ\r\nお題を切り替えたいときは試してみて\r\nただしクリアしたお題もリセットされちゃうから、注意して。"
-msgstr ""
-msgid "お題をクリアしてBINGOやALL CLEARを達成するとアイテムが貰えるよ。\r\n最初は簡単だけど、お題を達成していくたびに少しずつ難しくなっていくよ。"
-msgstr ""
-msgid "プレートの変更ができるよ"
-msgstr ""
-msgid "ナビゲーターの変更ができるよ。変えちゃうのか・・・？"
-msgstr ""
-msgid "シングルプレイ フリータイム！"
-msgstr ""
-msgid "本当に終わるの？"
-msgstr ""
-msgid "終了でいいの？"
-msgstr ""
-msgid "じゃあ今回はここまでね。"
-msgstr ""
-msgid "そう？じゃあここで終わらせるよ。"
-msgstr ""
-msgid "ビンゴ！"
-msgstr ""
-msgid "まだまだいけそうだな"
-msgstr ""
-msgid "やるじゃん"
-msgstr ""
-msgid "オールクリア！"
-msgstr ""
-msgid "完全クリアだ！"
-msgstr ""
-msgid "なかなかやるな・・・"
-msgstr ""
+msgstr "LV14"
+
+msgid "Ah vas-y !"
+msgstr "あ行！"
+
+msgid "Ligne Ka !"
+msgstr "か行！"
+
+msgid "Poursuivre!"
+msgstr "さ行！"
+
+msgid "Ta ligne!"
+msgstr "た行！"
+
+msgid "Na ligne!"
+msgstr "な行！"
+
+msgid "Aller!"
+msgstr "は行！"
+
+msgid "Ma dispute !"
+msgstr "ま行！"
+
+msgid "Ya la ligne!"
+msgstr "や行！"
+
+msgid "Ra rame !"
+msgstr "ら行！"
+
+msgid "Nombres!"
+msgstr "数字！"
+
+msgid "A à D !"
+msgstr "AからD！"
+
+msgid "E à H !"
+msgstr "EからH！"
+
+msgid "Je à L!"
+msgstr "IからL！"
+
+msgid "M à P !"
+msgstr "MからP！"
+
+msgid "Q à T !"
+msgstr "QからT！"
+
+msgid "De U à Z !"
+msgstr "UからZ！"
+
+msgid "Pas joué !"
+msgstr "未プレイ！"
+
+msgid "Pas effacé !"
+msgstr "未クリア！"
+
+msgid "Maîtresse!"
+msgstr "ミスレス！"
+
+msgid "Combo complet !"
+msgstr "フルコンボ！"
+
+msgid "Tout merveilleux !"
+msgstr "オールマーベラス！"
+
+msgid "Vous pouvez modifier les paramètres.\r\nNous avons également préparé quelques paramètres recommandés,\r\nSi vous souhaitez effectuer des réglages détaillés, sélectionnez Personnalisé."
+msgstr "設定の変更ができるよ。\r\nおすすめの設定も用意したけど、\r\n細かく設定したい場合はカスタムをえらんで。"
+
+msgid "Pour les débutants !"
+msgstr "初心者向け！"
+
+msgid "Pour les joueurs intermédiaires !"
+msgstr "中級者向け！"
+
+msgid "Pour les utilisateurs avancés !"
+msgstr "上級者向け！"
+
+msgid "coutume!"
+msgstr "カスタム！"
+
+msgid "Recommandé!"
+msgstr "オススメ！"
+
+msgid "Effacer l'ordre des marques !"
+msgstr "クリアマーク順！"
+
+msgid "Votre statut VIP est sur le point d'expirer."
+msgstr "もう少しでVIPの有効期限が終了するよ。"
+
+msgid "WACCA inversé!"
+msgstr "WACCA Reverse！"
+
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre Anime/POP ont été ajoutées !"
+msgstr "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nアニメ/POPジャンルの楽曲が追加されたよ！"
+
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre Vocaloid ont été ajoutées !"
+msgstr "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nボカロジャンルの楽曲が追加されたよ！"
+
+msgid "Choisissez ensuite une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre d'arrangement Touhou ont été ajoutées !"
+msgstr "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\n東方アレンジジャンルの楽曲が追加されたよ！"
+
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre variées ont été ajoutées !"
+msgstr "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nバラエティジャンルの楽曲が追加されたよ！"
+
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre 2.5D ont été ajoutées !"
+msgstr "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\n2.5次元ジャンルの楽曲が追加されたよ！"
+
+msgid "Choisissez ensuite une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons de genre originales ont été ajoutées !"
+msgstr "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nオリジナルジャンルの楽曲が追加されたよ！"
+
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDes chansons du genre Tanoshi ont été ajoutées !"
+msgstr "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\nタノシージャンルの楽曲が追加されたよ！"
+
+msgid "Maintenant, choisis une chanson à jouer\r\nC'est la première chanson maintenant.\r\nDe nouvelles chansons ont été ajoutées !"
+msgstr "じゃあ、プレイする曲を選んで\r\n今1曲目だよ。\r\n新しい楽曲が追加されたよ！"
+
+msgid "Je vais célébrer avec vous aujourd'hui.\r\n···merci."
+msgstr "今日くらいは一緒にお祝いしてやるよ。\r\n・・・ありがとう。"
+
+msgid "WACCA 2ème anniversaire ! ! ! !"
+msgstr "WACCA2周年！！！！"
+
+msgid "Un sujet sera sélectionné\r\nIl semble qu'il y ait plusieurs problèmes. Essayez-le."
+msgstr "お題が選出されるよ\r\nいろんなお題があるみたい。挑戦してみて。"
+
+msgid "Si vous appuyez sur shuffle, le thème sera resélectionné.\r\nEssayez-le si vous souhaitez changer de sujet.\r\nCependant, soyez prudent car les thèmes effacés seront également réinitialisés."
+msgstr "シャッフルを押すとお題が再選出されるよ\r\nお題を切り替えたいときは試してみて\r\nただしクリアしたお題もリセットされちゃうから、注意して。"
+
+msgid "Vous pouvez recevoir des objets en accomplissant les tâches et en réalisant BINGO ou ALL CLEAR.\r\nC'est facile au début, mais chaque fois que vous accomplissez une tâche, cela devient un peu plus difficile."
+msgstr "お題をクリアしてBINGOやALL CLEARを達成するとアイテムが貰えるよ。\r\n最初は簡単だけど、お題を達成していくたびに少しずつ難しくなっていくよ。"
+
+msgid "Vous pouvez changer la plaque"
+msgstr "プレートの変更ができるよ"
+
+msgid "Vous pouvez changer de navigateur. Allez-vous le changer...?"
+msgstr "ナビゲーターの変更ができるよ。変えちゃうのか・・・？"
+
+msgid "Temps libre en mode solo !"
+msgstr "シングルプレイ フリータイム！"
+
+msgid "Est-ce que ça va vraiment finir ?"
+msgstr "本当に終わるの？"
+
+msgid "Est-ce que je peux y mettre fin ?"
+msgstr "終了でいいの？"
+
+msgid "Eh bien, c'est tout pour le moment."
+msgstr "じゃあ今回はここまでね。"
+
+msgid "Oui? Je vais donc terminer ici."
+msgstr "そう？じゃあここで終わらせるよ。"
+
+msgid "bingo !"
+msgstr "ビンゴ！"
+
+msgid "On dirait que je peux encore continuer"
+msgstr "まだまだいけそうだな"
+
+msgid "Tout est clair !"
+msgstr "オールクリア！"
+
+msgid "C'est tout à fait clair !"
+msgstr "完全クリアだ！"
+
+msgid "C'est difficile à faire..."
+msgstr "なかなかやるな・・・"

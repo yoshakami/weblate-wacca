@@ -2,15 +2,21 @@
 msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "OFF"
-msgstr ""
-msgid "Turn off the effect"
-msgstr ""
-msgid "Defaults"
-msgstr ""
-msgid "Owned from the beginning"
-msgstr ""
-msgid "bubble"
-msgstr ""
-msgid "\"WACCA Reverse Gate\" achievement reward"
-msgstr ""
+
+msgid "DÉSACTIVÉ"
+msgstr "OFF"
+
+msgid "désactiver l'effet"
+msgstr "Turn off the effect"
+
+msgid "défaut"
+msgstr "Defaults"
+
+msgid "Propriété depuis le début"
+msgstr "Owned from the beginning"
+
+msgid "bulle"
+msgstr "bubble"
+
+msgid "Récompense de réussite « WACCA Reverse Gate »"
+msgstr "\"WACCA Reverse Gate\" achievement reward"

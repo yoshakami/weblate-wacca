@@ -2,61 +2,90 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "Commande d'ouverture (2 dernières semaines)"
-msgstr ""
+msgstr "Commande d'ouverture (2 dernières semaines)"
+
 msgid "Trier par difficulté (difficulté la plus élevée)"
-msgstr ""
+msgstr "Trier par difficulté (difficulté la plus élevée)"
+
 msgid "Trier par difficulté (EXPERT)"
-msgstr ""
+msgstr "Trier par difficulté (EXPERT)"
+
 msgid "Trier par difficulté (DIFFICILE)"
-msgstr ""
+msgstr "Trier par difficulté (DIFFICILE)"
+
 msgid "Trier par difficulté (NORMAL)"
-msgstr ""
+msgstr "Trier par difficulté (NORMAL)"
+
 msgid "Classement TOP30 populaire"
-msgstr ""
+msgstr "Classement TOP30 populaire"
+
 msgid "Trier par titre de chanson"
-msgstr ""
+msgstr "Trier par titre de chanson"
+
 msgid "Non effacé"
-msgstr ""
+msgstr "Non effacé"
+
 msgid "Non effacé (INFERNO)"
-msgstr ""
+msgstr "Non effacé (INFERNO)"
+
 msgid "Non effacé (EXPERT)"
-msgstr ""
+msgstr "Non effacé (EXPERT)"
+
 msgid "Non effacé (DIFFICILE)"
-msgstr ""
+msgstr "Non effacé (DIFFICILE)"
+
 msgid "Non effacé (NORMAL)"
-msgstr ""
+msgstr "Non effacé (NORMAL)"
+
 msgid "déverrouillable"
-msgstr ""
+msgstr "déverrouillable"
+
 msgid "Fermé"
-msgstr ""
+msgstr "Fermé"
+
 msgid "Non joué"
-msgstr ""
+msgstr "Non joué"
+
 msgid "COMBO COMPLET non effacé\r\n(toutes difficultés)"
-msgstr ""
+msgstr "COMBO COMPLET non effacé\r\n(toutes difficultés)"
+
 msgid "COMBO COMPLET non effacé\r\n(ENFER)"
-msgstr ""
+msgstr "COMBO COMPLET non effacé\r\n(ENFER)"
+
 msgid "COMBO COMPLET non effacé\r\n(EXPERT)"
-msgstr ""
+msgstr "COMBO COMPLET non effacé\r\n(EXPERT)"
+
 msgid "SS non validé (toutes les difficultés)"
-msgstr ""
+msgstr "SS non validé (toutes les difficultés)"
+
 msgid "SS non autorisé (INFERNO)"
-msgstr ""
+msgstr "SS non autorisé (INFERNO)"
+
 msgid "SS non effacé (EXPERT)"
-msgstr ""
+msgstr "SS non effacé (EXPERT)"
+
 msgid "SSS non validé (toutes les difficultés)"
-msgstr ""
+msgstr "SSS non validé (toutes les difficultés)"
+
 msgid "SSS non effacé (INFERNO)"
-msgstr ""
+msgstr "SSS non effacé (INFERNO)"
+
 msgid "SSS non effacé (EXPERT)"
-msgstr ""
+msgstr "SSS non effacé (EXPERT)"
+
 msgid "MASTER non terminé (toutes les difficultés)"
-msgstr ""
+msgstr "MASTER non terminé (toutes les difficultés)"
+
 msgid "MAÎTRE non effacé (INFERNO)"
-msgstr ""
+msgstr "MAÎTRE non effacé (INFERNO)"
+
 msgid "MASTER non effacé (EXPERT)"
-msgstr ""
+msgstr "MASTER non effacé (EXPERT)"
+
 msgid "MISS terminé 1 à 2 fois (INFERNO)"
-msgstr ""
+msgstr "MISS terminé 1 à 2 fois (INFERNO)"
+
 msgid "MISS effacé en 1 à 2 fois (EXPERT)"
-msgstr ""
+msgstr "MISS effacé en 1 à 2 fois (EXPERT)"

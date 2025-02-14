@@ -2,105 +2,123 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "ANAL"
-msgstr ""
+msgstr "ANAL"
+
 msgid "Putain"
-msgstr ""
+msgstr "Putain"
+
 msgid "PUTAIN"
-msgstr ""
+msgstr "PUTAIN"
+
 msgid "FUCK"
-msgstr ""
+msgstr "FUCK"
+
 msgid "Merde"
-msgstr ""
+msgstr "Merde"
+
 msgid "MERDE"
-msgstr ""
+msgstr "MERDE"
+
 msgid "PÉDÉ"
-msgstr ""
+msgstr "PÉDÉ"
+
 msgid "PERSONNEL"
-msgstr ""
+msgstr "PERSONNEL"
+
 msgid "DICK"
-msgstr ""
+msgstr "DICK"
+
 msgid "QUEUE"
-msgstr ""
+msgstr "QUEUE"
+
 msgid "FUC`K"
-msgstr ""
+msgstr "FUC`K"
+
 msgid "PUTAIN~K"
-msgstr ""
-msgid "PUTAIN"
-msgstr ""
-msgid "MERDE"
-msgstr ""
+msgstr "PUTAIN~K"
+
 msgid "TITES"
-msgstr ""
+msgstr "TITES"
+
 msgid "VAGIN"
-msgstr ""
+msgstr "VAGIN"
+
 msgid "PUTES"
-msgstr ""
+msgstr "PUTES"
+
 msgid "YOUPIN"
-msgstr ""
+msgstr "YOUPIN"
+
 msgid "CHIENNE"
-msgstr ""
+msgstr "CHIENNE"
+
 msgid "DICKS"
-msgstr ""
+msgstr "DICKS"
+
 msgid "DI'CKS"
-msgstr ""
+msgstr "DI'CKS"
+
 msgid "FUC'KY"
-msgstr ""
-msgid "PUTAIN"
-msgstr ""
+msgstr "FUC'KY"
+
 msgid "FU'CKS"
-msgstr ""
+msgstr "FU'CKS"
+
 msgid "WACCAeur"
-msgstr ""
+msgstr "WACCAeur"
+
 msgid "CONNARD"
-msgstr ""
+msgstr "CONNARD"
+
 msgid "SOUTIEN"
-msgstr ""
+msgstr "SOUTIEN"
+
 msgid "BAISE"
-msgstr ""
+msgstr "BAISE"
+
 msgid "FUC'KIN"
-msgstr ""
+msgstr "FUC'KIN"
+
 msgid "FU'CKAS"
-msgstr ""
-msgid "BAISE"
-msgstr ""
-msgid "PUTAIN"
-msgstr ""
+msgstr "FU'CKAS"
+
 msgid "ENFOIRÉ"
-msgstr ""
-msgid "PUTAIN"
-msgstr ""
-msgid "PUTAIN"
-msgstr ""
-msgid "PUTAIN"
-msgstr ""
-msgid "MERDE"
-msgstr ""
+msgstr "ENFOIRÉ"
+
 msgid "éveiller"
-msgstr ""
+msgstr "éveiller"
+
 msgid "Trou du cul"
-msgstr ""
+msgstr "Trou du cul"
+
 msgid "CONNUS"
-msgstr ""
+msgstr "CONNUS"
+
 msgid "TOUT LE CUL"
-msgstr ""
+msgstr "TOUT LE CUL"
+
 msgid "ASZHOLES"
-msgstr ""
+msgstr "ASZHOLES"
+
 msgid "TROUS D'AZZZ"
-msgstr ""
+msgstr "TROUS D'AZZZ"
+
 msgid "PUTAIN DE VISAGE"
-msgstr ""
-msgid "BAISE"
-msgstr ""
+msgstr "PUTAIN DE VISAGE"
+
 msgid "OFFICIEL"
-msgstr ""
+msgstr "OFFICIEL"
+
 msgid "SEXUELLEMENT"
-msgstr ""
-msgid "CONNARD"
-msgstr ""
+msgstr "SEXUELLEMENT"
+
 msgid "FU'CKI~N"
-msgstr ""
+msgstr "FU'CKI~N"
+
 msgid "PUTAIN DE"
-msgstr ""
+msgstr "PUTAIN DE"
+
 msgid "SE BRANLER"
-msgstr ""
+msgstr "SE BRANLER"
