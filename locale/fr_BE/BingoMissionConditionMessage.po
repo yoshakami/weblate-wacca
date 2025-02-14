@@ -2,7 +2,6 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
 msgid "Jouer des chansons du genre \"<V1>\" <V2> fois"
 msgstr ""
 msgid "Jouez la chanson dans la ligne « <V1> »"
