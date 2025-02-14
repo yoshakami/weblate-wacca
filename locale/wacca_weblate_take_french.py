@@ -26,7 +26,7 @@ for file in os.listdir("fr_BE"):
         if "msgstr" in file_lines_vanilla[file][i]:
             print(i, file)
             end = ''
-            end_id = 0
+            end_id = None
             if file_lines_ja[file][i - 1][-1:] == '.' and file_lines_vanilla[file][i - 1][-1:] != '.':
                 end = '.'
             if file_lines_vanilla[file][i - 1][-1:] == '.' and file_lines_ja[file][i - 1][-1:] != '.':
