@@ -2,105 +2,71 @@
 msgstr ""
 "Language: jp_JA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "mettre en scène"
-msgstr "ステージアップ"
-
-msgid "Description du mode"
-msgstr "モード説明"
-
-msgid "・Essayez de commencer par le niveau qui correspond à vos capacités !\r\n・ Jouez 3 chansons et assurez-vous que votre VIE n'atteint pas 0 !\r\n・Vérifiez les conditions de réduction de VIE lors de la sélection d'une étape !"
-msgstr "・自分の実力にあったステージからトライしてみよう！\r\n・3曲プレイして、LIFEが0にならないようにしよう！\r\n・LIFEが減る条件は、ステージ選択時にチェックしよう！"
-
+msgid "ステージアップ"
+msgstr ""
+msgid "モード説明"
+msgstr ""
+msgid "・自分の実力にあったステージからトライしてみよう！\r\n・3曲プレイして、LIFEが0にならないようにしよう！\r\n・LIFEが減る条件は、ステージ選択時にチェックしよう！"
+msgstr ""
 msgid "------"
-msgstr "------"
-
-msgid "Chanson de devoir"
-msgstr "課題曲"
-
-msgid "Liste des pistes"
-msgstr "曲目"
-
-msgid "Étape I"
-msgstr "ステージ I"
-
-msgid "Étape II"
-msgstr "ステージ II"
-
-msgid "Stade III"
-msgstr "ステージ III"
-
-msgid "Stade IV"
-msgstr "ステージ IV"
-
-msgid "Étape V"
-msgstr "ステージ V"
-
-msgid "Stade VI"
-msgstr "ステージ VI"
-
-msgid "Stade VII"
-msgstr "ステージ VII"
-
-msgid "Stade VIII"
-msgstr "ステージ VIII"
-
-msgid "Stade IX"
-msgstr "ステージ IX"
-
-msgid "Étape X"
-msgstr "ステージ X"
-
-msgid "Étape XI"
-msgstr "ステージ XI"
-
-msgid "Stade XII"
-msgstr "ステージ XII"
-
-msgid "Stade XIII"
-msgstr "ステージ XIII"
-
-msgid "Étape XIV"
-msgstr "ステージ XIV"
-
-msgid "Fujinroku étape I"
-msgstr "風神録ステージI"
-
-msgid "Fujinroku étape II"
-msgstr "風神録ステージII"
-
-msgid "Fujinroku étape III"
-msgstr "風神録ステージIII"
-
-msgid "Échec de l'obtention des données utilisateur.\r\nRevenir au mode de sélection."
-msgstr "ユーザーデータの取得に失敗しました。\r\nモードセレクトに戻ります。"
-
-msgid "ci-dessous"
-msgstr "以下"
-
-msgid "Forcer à quitter avec"
-msgstr "回で強制終了"
-
-msgid "A la fin de chaque chanson"
-msgstr "各曲終了時に"
-
-msgid "récupération"
-msgstr "回復"
-
+msgstr ""
+msgid "課題曲"
+msgstr ""
+msgid "曲目"
+msgstr ""
+msgid "ステージ I"
+msgstr ""
+msgid "ステージ II"
+msgstr ""
+msgid "ステージ III"
+msgstr ""
+msgid "ステージ IV"
+msgstr ""
+msgid "ステージ V"
+msgstr ""
+msgid "ステージ VI"
+msgstr ""
+msgid "ステージ VII"
+msgstr ""
+msgid "ステージ VIII"
+msgstr ""
+msgid "ステージ IX"
+msgstr ""
+msgid "ステージ X"
+msgstr ""
+msgid "ステージ XI"
+msgstr ""
+msgid "ステージ XII"
+msgstr ""
+msgid "ステージ XIII"
+msgstr ""
+msgid "ステージ XIV"
+msgstr ""
+msgid "風神録ステージI"
+msgstr ""
+msgid "風神録ステージII"
+msgstr ""
+msgid "風神録ステージIII"
+msgstr ""
+msgid "ユーザーデータの取得に失敗しました。\r\nモードセレクトに戻ります。"
+msgstr ""
+msgid "以下"
+msgstr ""
+msgid "回で強制終了"
+msgstr ""
+msgid "各曲終了時に"
+msgstr ""
+msgid "回復"
+msgstr ""
 msgid "SPURT Re:MIX Vol.1"
-msgstr "SPURT Re:MIX Vol.1"
-
+msgstr ""
 msgid "SPURT Re:MIX Vol.2"
-msgstr "SPURT Re:MIX Vol.2"
-
+msgstr ""
 msgid "SPURT Re:MIX Vol.3"
-msgstr "SPURT Re:MIX Vol.3"
-
+msgstr ""
 msgid "BOSS Re:MIX Vol.1"
-msgstr "BOSS Re:MIX Vol.1"
-
+msgstr ""
 msgid "BOSS Re:MIX Vol.2"
-msgstr "BOSS Re:MIX Vol.2"
-
+msgstr ""
 msgid "BOSS Re:MIX Vol.3"
-msgstr "BOSS Re:MIX Vol.3"
+msgstr ""

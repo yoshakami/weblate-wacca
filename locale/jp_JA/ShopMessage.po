@@ -2,81 +2,59 @@
 msgstr ""
 "Language: jp_JA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "Devenez membre VIP"
-msgstr "VIPメンバーになる"
-
-msgid "<CRÉDIT>CRÉDIT"
-msgstr "<CREDIT>CREDIT"
-
-msgid "Lorsque vous vous inscrivez en tant que membre VIP\r\nbénéficiez de divers avantages\r\nVous pouvez profiter encore plus de WACCA."
-msgstr "VIPメンバー登録をすると\r\n様々な特典を得られて\r\nWACCAをさらに楽しめます。"
-
-msgid "insigne de renforcement"
-msgstr "ブーストバッジ"
-
-msgid "Peut être gagné en jouant des chansons\r\nPoints de porte et RP\r\nIl sera doublé.\r\nDe plus, un ticket de jeu EX\r\nAvec des effets !"
-msgstr "楽曲プレイで獲得できる\r\nゲートポイントとRPが\r\n2倍になります。\r\nさらに、EXプレイチケットの\r\n効果付き！"
-
-msgid "badge boost S"
-msgstr "ブーストバッジS"
-
-msgid "Peut être gagné en jouant des chansons\r\nPoints de porte et RP\r\nCe sera 3,1 fois.\r\nDe plus, un ticket de jeu EX\r\nAvec des effets !"
-msgstr "楽曲プレイで獲得できる\r\nゲートポイントとRPが\r\n3.1倍になります。\r\nさらに、EXプレイチケットの\r\n効果付き！"
-
-msgid "Billet ouvert EX"
-msgstr "ＥＸオープンチケット"
-
+msgid "VIPメンバーになる"
+msgstr ""
+msgid "<CREDIT>CREDIT"
+msgstr ""
+msgid "VIPメンバー登録をすると\r\n様々な特典を得られて\r\nWACCAをさらに楽しめます。"
+msgstr ""
+msgid "ブーストバッジ"
+msgstr ""
+msgid "<CREDIT>CREDIT"
+msgstr ""
+msgid "楽曲プレイで獲得できる\r\nゲートポイントとRPが\r\n2倍になります。\r\nさらに、EXプレイチケットの\r\n効果付き！"
+msgstr ""
+msgid "ブーストバッジS"
+msgstr ""
+msgid "<CREDIT>CREDIT"
+msgstr ""
+msgid "楽曲プレイで獲得できる\r\nゲートポイントとRPが\r\n3.1倍になります。\r\nさらに、EXプレイチケットの\r\n効果付き！"
+msgstr ""
+msgid "ＥＸオープンチケット"
+msgstr ""
 msgid "<WACCA_POINT>RP"
-msgstr "<WACCA_POINT>RP"
-
-msgid "Billet ouvert RP à EX (sans date d'expiration)\r\nConvertir.\r\n\r\nNombre de possessions (durée limitée) <LIMITED_TICKET_NUM> / <LIMITED_TICKET_MAX>\r\nNombre de possessions (pas de date d'expiration) <TICKET_NUM> / <TICKET_MAX>"
-msgstr "RPをEXオープンチケット(期限無)に\r\n変換します。\r\n\r\n所持数(期限有) <LIMITED_TICKET_NUM> / <LIMITED_TICKET_MAX>\r\n所持数(期限無) <TICKET_NUM> / <TICKET_MAX>"
-
-msgid "Veuillez noter"
-msgstr "ご注意"
-
-msgid "Ce produit nécessite des frais d'utilisation distincts des frais de jeu.\r\nEn payant, vous pouvez gagner des points d'entrée et\r\nIl s’agit d’un bonus bénéfique aux RP que vous gagnez.\r\n\r\nUne fois que le client a payé les frais d'utilisation de ce produit,\r\nNotre société, pour quelque raison ou situation que ce soit,\r\nCes frais d'utilisation du produit ne peuvent pas être convertis."
-msgstr "本商品は、プレイ料金とは別途本商品利用料を\r\nお支払いいただくことにより、このゲームプレイ中、ゲートの獲得ポイントや\r\n獲得RPに有利なボーナスが発生するものです。\r\n\r\nお客様による本商品利用料お支払い後、\r\n弊社はいかなる理由・場合であっても\r\n本商品利用料を変換いたしかねます。"
-
-msgid "C'est ça.\r\n\r\nêtes-vous d'accord?"
-msgstr "以上です。\r\n\r\n同意しますか？"
-
-msgid "<CREDIT>Consommer du CRÉDIT\r\n<ITEM_NAME>\r\nJe vais l'acheter.\r\nEs-tu sûr?\r\nCRÉDIT <NOW_CREDIT>/<NEED_CREDIT>"
-msgstr "<CREDIT>CREDIT消費して\r\n<ITEM_NAME>を\r\n購入します。\r\nよろしいですか？\r\nCREDIT <NOW_CREDIT>/<NEED_CREDIT>"
-
-msgid "<ITEM_NAME>\r\nÉchangez-le contre des RP.\r\nEs-tu sûr?\r\n<NEED_WACCA_POINT> Consommation de RP (<HAVE_WACCA_POINT> Possession de RP)"
-msgstr "<ITEM_NAME>を\r\nRPと交換します。\r\nよろしいですか？\r\n<NEED_WACCA_POINT>RP消費(<HAVE_WACCA_POINT>RP所持)"
-
-msgid "Le RP est insuffisant."
-msgstr "RPが不足しています。"
-
-msgid "J'en ai beaucoup en stock.\r\nNombre de possessions (pas de date d'expiration) <TICKET_NUM> / <TICKET_MAX>"
-msgstr "所持数がいっぱいです。\r\n所持数(期限無) <TICKET_NUM> / <TICKET_MAX>"
-
-msgid "La communication a échoué."
-msgstr "通信に失敗しました。"
-
-msgid "Mise à jour des membres VIP"
-msgstr "VIPメンバー更新"
-
-msgid "Les membres VIP ont expiré\r\nVous pouvez mettre à jour à partir de 10 jours à l'avance."
-msgstr "VIPメンバーは期間終了の\r\n10日前から更新できます。"
-
-msgid "Point inversé"
-msgstr "Reverseポイント"
-
-msgid "R.P."
-msgstr "ＲＰ"
-
-msgid "J'ai rendu mon ticket de jeu EX."
-msgstr "EXプレイチケットを返却しました。"
-
-msgid "Veuillez scanner ce QR."
-msgstr "このQRをスキャンしてください。"
-
-msgid "\"Membre VIP\" qui peut jouer toutes les chansons\r\n\"Boost Badge\" où vous pouvez gagner une grande quantité de points divers\r\nVous pouvez acheter divers produits tels que"
-msgstr "全ての曲がプレイできる「VIP会員」\r\n様々なポイントが大量獲得できる「ブーストバッジ」\r\nなど、いろんな商品が購入できます。"
-
-msgid "Assurez-vous de toucher « Terminer l'achat » après l'achat.\r\nSi vous ne touchez pas « Fin de l'achat », les effets des produits achetés ne seront pas reflétés dans ce jeu."
-msgstr "購入後は必ず「購入終了」をタッチしてください。\r\n「購入終了」をタッチしないと、このプレイでは、購入した商品の効果が反映されません。"
+msgstr ""
+msgid "RPをEXオープンチケット(期限無)に\r\n変換します。\r\n\r\n所持数(期限有) <LIMITED_TICKET_NUM> / <LIMITED_TICKET_MAX>\r\n所持数(期限無) <TICKET_NUM> / <TICKET_MAX>"
+msgstr ""
+msgid "ご注意"
+msgstr ""
+msgid "本商品は、プレイ料金とは別途本商品利用料を\r\nお支払いいただくことにより、このゲームプレイ中、ゲートの獲得ポイントや\r\n獲得RPに有利なボーナスが発生するものです。\r\n\r\nお客様による本商品利用料お支払い後、\r\n弊社はいかなる理由・場合であっても\r\n本商品利用料を変換いたしかねます。"
+msgstr ""
+msgid "以上です。\r\n\r\n同意しますか？"
+msgstr ""
+msgid "<CREDIT>CREDIT消費して\r\n<ITEM_NAME>を\r\n購入します。\r\nよろしいですか？\r\nCREDIT <NOW_CREDIT>/<NEED_CREDIT>"
+msgstr ""
+msgid "<ITEM_NAME>を\r\nRPと交換します。\r\nよろしいですか？\r\n<NEED_WACCA_POINT>RP消費(<HAVE_WACCA_POINT>RP所持)"
+msgstr ""
+msgid "RPが不足しています。"
+msgstr ""
+msgid "所持数がいっぱいです。\r\n所持数(期限無) <TICKET_NUM> / <TICKET_MAX>"
+msgstr ""
+msgid "通信に失敗しました。"
+msgstr ""
+msgid "VIPメンバー更新"
+msgstr ""
+msgid "VIPメンバーは期間終了の\r\n10日前から更新できます。"
+msgstr ""
+msgid "Reverseポイント"
+msgstr ""
+msgid "ＲＰ"
+msgstr ""
+msgid "EXプレイチケットを返却しました。"
+msgstr ""
+msgid "このQRをスキャンしてください。"
+msgstr ""
+msgid "全ての曲がプレイできる「VIP会員」\r\n様々なポイントが大量獲得できる「ブーストバッジ」\r\nなど、いろんな商品が購入できます。"
+msgstr ""
+msgid "購入後は必ず「購入終了」をタッチしてください。\r\n「購入終了」をタッチしないと、このプレイでは、購入した商品の効果が反映されません。"
+msgstr ""

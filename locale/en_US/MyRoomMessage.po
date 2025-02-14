@@ -2,114 +2,77 @@
 msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "Changement de titre"
-msgstr "Title Change"
-
-msgid "Affichage dans les données utilisateur\r\nDéfinissez le titre."
-msgstr "Set the title to be displayed in the user data."
-
-msgid "changement d'icône"
-msgstr "Icon change"
-
-msgid "Affichage dans les données utilisateur\r\nConfigurez les paramètres des icônes."
-msgstr "Set the icon to be displayed in the user data."
-
-msgid "changement de plaque"
-msgstr "Plate change"
-
-msgid "Affichage dans les données utilisateur\r\nConfigurez la plaque."
-msgstr "Set the plates to be displayed in the user data."
-
-msgid "Changement de navigateur"
-msgstr "Change Navigator"
-
-msgid "Affichage pendant le jeu\r\nConfigurez le navigateur."
-msgstr "Set the navigator to be displayed during the game."
-
-msgid "SORTIE"
-msgstr "EXIT"
-
-msgid "Sortez de ma chambre."
-msgstr "Exit My Room."
-
-msgid "Les informations sur ma chambre n'ont pas pu être obtenues."
-msgstr "My room information could not be obtained."
-
-msgid "Échec de la mise à jour des données utilisateur."
-msgstr "Failed to update user data."
-
-msgid "Avantages des cartes à jouer"
-msgstr "The benefits of playing cards"
-
-msgid "Si vous possédez une carte Aime, vous pouvez accéder aux données.\r\nVous pourrez le sauvegarder.\r\nen utilisant une carte\r\nJouons à WACCA !"
-msgstr "If you have an Aime card, you will be able to save your data. Use the card to play WACCA!"
-
-msgid "Cela peut prendre un certain temps avant que le classement soit reflété."
-msgstr "It may take some time for the rankings to be reflected."
-
-msgid "Classement global"
-msgstr "Overall Score Ranking"
-
-msgid "Classement des meilleurs scores par chanson"
-msgstr "High score ranking by song"
-
-msgid "Classement des scores cumulatifs"
-msgstr "Cumulative score ranking"
-
-msgid "Améliorer le classement"
-msgstr "Stage Up Ranking"
-
-msgid "Classement RP gagné"
-msgstr "RP Earned Ranking"
-
-msgid "Nombre de rangs"
-msgstr "Number of rankings"
-
-msgid "rang"
-msgstr "Rank"
-
-msgid "Inscrivez-vous en tant qu'utilisateur sur le site officiel de WACCA ! !"
-msgstr "Register as a user on the WACCA official website!"
-
-msgid "Code QR"
-msgstr "QR Code"
-
+msgid "Title Change"
+msgstr ""
+msgid "Set the title to be displayed in the user data."
+msgstr ""
+msgid "Icon change"
+msgstr ""
+msgid "Set the icon to be displayed in the user data."
+msgstr ""
+msgid "Plate change"
+msgstr ""
+msgid "Set the plates to be displayed in the user data."
+msgstr ""
+msgid "Change Navigator"
+msgstr ""
+msgid "Set the navigator to be displayed during the game."
+msgstr ""
+msgid "EXIT"
+msgstr ""
+msgid "Exit My Room."
+msgstr ""
+msgid "My room information could not be obtained."
+msgstr ""
+msgid "Failed to update user data."
+msgstr ""
+msgid "The benefits of playing cards"
+msgstr ""
+msgid "If you have an Aime card, you will be able to save your data. Use the card to play WACCA!"
+msgstr ""
+msgid "It may take some time for the rankings to be reflected."
+msgstr ""
+msgid "Overall Score Ranking"
+msgstr ""
+msgid "High score ranking by song"
+msgstr ""
+msgid "Cumulative score ranking"
+msgstr ""
+msgid "Stage Up Ranking"
+msgstr ""
+msgid "RP Earned Ranking"
+msgstr ""
+msgid "Number of rankings"
+msgstr ""
+msgid "Rank"
+msgstr ""
+msgid "Register as a user on the WACCA official website!"
+msgstr ""
+msgid "QR Code"
+msgstr ""
 msgid "https://wacca.marv.jp"
-msgstr "https://wacca.marv.jp"
-
-msgid "Consultez le classement détaillé sur « Ma page » sur le site officiel de WACCA !"
-msgstr "Check out the detailed rankings on the WACCA official website's \"My Page\"!"
-
-msgid "Nombre de titres"
-msgstr "Number of titles"
-
-msgid "Nombre d'icônes"
-msgstr "Number of icons"
-
-msgid "Nombre de dégagements"
-msgstr "Number of clears"
-
-msgid "Numéro de combo complet"
-msgstr "Full Combo Count"
-
-msgid "nombre de maîtres"
-msgstr "Master Number"
-
-msgid "Échec de l'obtention du classement."
-msgstr "Failed to get ranking."
-
-msgid "R.P."
-msgstr "RP"
-
-msgid "Saison"
-msgstr "Season"
-
+msgstr ""
+msgid "Check out the detailed rankings on the WACCA official website's \"My Page\"!"
+msgstr ""
+msgid "Number of titles"
+msgstr ""
+msgid "Number of icons"
+msgstr ""
+msgid "Number of clears"
+msgstr ""
+msgid "Full Combo Count"
+msgstr ""
+msgid "Master Number"
+msgstr ""
+msgid "Failed to get ranking."
+msgstr ""
+msgid "RP"
+msgstr ""
+msgid "Season"
+msgstr ""
 msgid "page"
-msgstr "page"
-
-msgid "Taux de réussite"
-msgstr "Achievement rate"
-
-msgid "Conditions d'acquisition des icônes"
-msgstr "Icon Acquisition Conditions"
+msgstr ""
+msgid "Achievement rate"
+msgstr ""
+msgid "Icon Acquisition Conditions"
+msgstr ""

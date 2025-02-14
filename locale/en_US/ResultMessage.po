@@ -2,30 +2,21 @@
 msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "<Numéro>Numéro de piste"
-msgstr "<Number> Song"
-
-msgid "La communication a été interrompue.\r\nSi vous utilisez une carte Aime,\r\nLa sauvegarde des données a peut-être échoué."
-msgstr "Communication has been interrupted. \nIf you are using an Aime card, \nit may be that data saving has failed."
-
-msgid "Échec de l'enregistrement des données."
-msgstr "Failed to save data."
-
-msgid "MON MEILLEUR"
-msgstr "MY BEST"
-
-msgid "＋<NUMÉRO>"
-msgstr "+<NUMBER>"
-
-msgid "-<NUMÉRO>"
-msgstr "-<NUMBER>"
-
-msgid "Taux:"
-msgstr "Rate:"
-
-msgid "Notes R"
-msgstr "R Notes"
-
-msgid "Taux d'acquisition"
-msgstr "Acquisition rate"
+msgid "<Number> Song"
+msgstr ""
+msgid "Communication has been interrupted. \nIf you are using an Aime card, \nit may be that data saving has failed."
+msgstr ""
+msgid "Failed to save data."
+msgstr ""
+msgid "MY BEST"
+msgstr ""
+msgid "+<NUMBER>"
+msgstr ""
+msgid "-<NUMBER>"
+msgstr ""
+msgid "Rate:"
+msgstr ""
+msgid "R Notes"
+msgstr ""
+msgid "Acquisition rate"
+msgstr ""

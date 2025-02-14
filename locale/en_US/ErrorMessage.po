@@ -2,33 +2,23 @@
 msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "Aime le lecteur n'est pas reconnu.\r\nAimé est actuellement indisponible."
-msgstr "Aime reader is not recognized. \nAime is currently unavailable."
-
-msgid "Le firmware d'Aime est actuellement en cours de mise à jour.\r\nAimé est actuellement indisponible."
-msgstr "Aime's firmware is being updated. \nAime is currently unavailable."
-
-msgid "Le firmware d'Aime n'est pas normal.\r\nAimé est actuellement indisponible."
-msgstr "Aime's firmware is not normal. \nAime is currently unavailable."
-
-msgid "La communication avec la base de données Aime a échoué.\r\nVous ne pourrez peut-être pas utiliser votre carte Aime.\r\nEffectuer un test réseau depuis le mode test,\r\nVeuillez vérifier l'état de la communication."
-msgstr "Communication with the Aime database has failed. \nThe Aime card may not be usable. \nPerform a network test in test mode to check the communication status."
-
-msgid "La connexion au réseau ne peut pas être confirmée.\r\nActuellement, les fonctions utilisant le réseau ne sont pas disponibles."
-msgstr "Network connection cannot be confirmed. \nNetwork-based functions are currently unavailable."
-
-msgid "La connexion avec le serveur d'authentification ALL.Net ne peut pas être confirmée.\r\nActuellement, les fonctions utilisant le réseau ne sont pas disponibles."
-msgstr "Unable to confirm connection to ALL.Net authentication server. \nNetwork-based functions are currently unavailable."
-
-msgid "La connexion avec la base de données Aime ne peut pas être confirmée.\r\nActuellement, les fonctions utilisant Aime ne sont pas disponibles."
-msgstr "Connection to the Aime database cannot be confirmed. \nFunctions using Aime are currently unavailable."
-
-msgid "La connexion avec le serveur de traitement de monnaie électronique ne peut pas être confirmée.\r\nActuellement, la fonction de paiement en monnaie électronique n'est pas disponible."
-msgstr "Unable to confirm connection to electronic money processing server. \nElectronic money payment function is currently unavailable."
-
-msgid "\r\nAprès avoir retiré le support d'installation,\r\nVeuillez vérifier la version en mode test."
-msgstr "After removing the installation media, check the version in test mode."
-
-msgid "Erreur de visée\r\n<ERREUR_MESSAGE>"
-msgstr "Aime Error \n<ERROR_MESSAGE>"
+msgid "Aime reader is not recognized. \nAime is currently unavailable."
+msgstr ""
+msgid "Aime's firmware is being updated. \nAime is currently unavailable."
+msgstr ""
+msgid "Aime's firmware is not normal. \nAime is currently unavailable."
+msgstr ""
+msgid "Communication with the Aime database has failed. \nThe Aime card may not be usable. \nPerform a network test in test mode to check the communication status."
+msgstr ""
+msgid "Network connection cannot be confirmed. \nNetwork-based functions are currently unavailable."
+msgstr ""
+msgid "Unable to confirm connection to ALL.Net authentication server. \nNetwork-based functions are currently unavailable."
+msgstr ""
+msgid "Connection to the Aime database cannot be confirmed. \nFunctions using Aime are currently unavailable."
+msgstr ""
+msgid "Unable to confirm connection to electronic money processing server. \nElectronic money payment function is currently unavailable."
+msgstr ""
+msgid "After removing the installation media, check the version in test mode."
+msgstr ""
+msgid "Aime Error \n<ERROR_MESSAGE>"
+msgstr ""

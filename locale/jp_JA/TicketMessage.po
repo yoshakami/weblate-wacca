@@ -2,21 +2,15 @@
 msgstr ""
 "Language: jp_JA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "Billet ouvert EX à durée limitée"
-msgstr "期限付きEXオープンチケット"
-
-msgid "Billet ouvert EX sans date d'expiration"
-msgstr "期限なしEXオープンチケット"
-
-msgid "Billet de jeu EXPERT"
-msgstr "EXPERTプレイチケット"
-
-msgid "Ce n'est que pendant cette partie que vous pourrez jouer à tous les EXPERTS inédits.\r\n<span size=\"13\">*Aucun effet sur la montée en scène. </>"
-msgstr "今回のプレイ中に限り、未開放のEXPERTがすべて遊べるようになります。\r\n<span size=\"13\">※ステージアップでは効果がありません。</>"
-
-msgid "+1 ticket bonus de chanson"
-msgstr "+1曲ボーナスチケット"
-
-msgid "Une chanson supplémentaire sera disponible pour cette pièce.\r\n<span size=\"13\">*Aucun effet sauf en jeu simple. </>"
-msgstr "今回のプレイに限り遊べる曲が1曲増えます。\r\n<span size=\"13\">※シングルプレイ以外では効果がありません。</>"
+msgid "期限付きEXオープンチケット"
+msgstr ""
+msgid "期限なしEXオープンチケット"
+msgstr ""
+msgid "EXPERTプレイチケット"
+msgstr ""
+msgid "今回のプレイ中に限り、未開放のEXPERTがすべて遊べるようになります。\r\n<span size=\"13\">※ステージアップでは効果がありません。</>"
+msgstr ""
+msgid "+1曲ボーナスチケット"
+msgstr ""
+msgid "今回のプレイに限り遊べる曲が1曲増えます。\r\n<span size=\"13\">※シングルプレイ以外では効果がありません。</>"
+msgstr ""

@@ -2,21 +2,15 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
 msgid "DÉSACTIVÉ"
-msgstr "DÉSACTIVÉ"
-
+msgstr ""
 msgid "désactiver l'effet"
-msgstr "désactiver l'effet"
-
+msgstr ""
 msgid "défaut"
-msgstr "défaut"
-
+msgstr ""
 msgid "Propriété depuis le début"
-msgstr "Propriété depuis le début"
-
+msgstr ""
 msgid "bulle"
-msgstr "bulle"
-
+msgstr ""
 msgid "Récompense de réussite « WACCA Reverse Gate »"
-msgstr "Récompense de réussite « WACCA Reverse Gate »"
+msgstr ""
