@@ -2,83 +2,111 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "Par défaut (WACCA Lily R)"
-msgstr ""
+msgstr "Par défaut (WACCA Lily R)"
+
 msgid "Propriété depuis le début"
-msgstr ""
+msgstr "Propriété depuis le début"
+
 msgid "bois"
-msgstr ""
+msgstr "bois"
+
 msgid "Augmenter le niveau du joueur à 4"
-msgstr ""
+msgstr "Augmenter le niveau du joueur à 4"
+
 msgid "lumière des étoiles"
-msgstr ""
+msgstr "lumière des étoiles"
+
 msgid "Jouez la chanson 40 fois"
-msgstr ""
+msgstr "Jouez la chanson 40 fois"
+
 msgid "J-tambour"
-msgstr ""
+msgstr "J-tambour"
+
 msgid "Effacez la chanson 80 fois"
-msgstr ""
+msgstr "Effacez la chanson 80 fois"
+
 msgid "conduire"
-msgstr ""
+msgstr "conduire"
+
 msgid "Au niveau de difficulté EXPERT\r\nVous avez réussi TOUT Merveilleux 3 fois."
-msgstr ""
+msgstr "Au niveau de difficulté EXPERT\r\nVous avez réussi TOUT Merveilleux 3 fois."
+
 msgid "Taper"
-msgstr ""
+msgstr "Taper"
+
 msgid "Jouez la chanson 20 fois"
-msgstr ""
+msgstr "Jouez la chanson 20 fois"
+
 msgid "Parc Wanyan"
-msgstr ""
+msgstr "Parc Wanyan"
+
 msgid "Au niveau de difficulté EXPERT\r\nRéalisez un combo complet 20 fois"
-msgstr ""
+msgstr "Au niveau de difficulté EXPERT\r\nRéalisez un combo complet 20 fois"
+
 msgid "Tanoshi Gachi"
-msgstr ""
+msgstr "Tanoshi Gachi"
+
 msgid "Tanoshi ultime !!!!!!!!!!!!\r\nColisée de Tanosee\r\nrécompense d'événement"
-msgstr ""
+msgstr "Tanoshi ultime !!!!!!!!!!!!\r\nColisée de Tanosee\r\nrécompense d'événement"
+
 msgid "coup de pied hardcore"
-msgstr ""
+msgstr "coup de pied hardcore"
+
 msgid "Obtenu à partir de \"Reverse Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"Reverse Box\""
+
 msgid "simple"
-msgstr ""
+msgstr "simple"
+
 msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
-msgstr ""
+msgstr "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
+
 msgid "tennis"
-msgstr ""
+msgstr "tennis"
+
 msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Avantages de continuation VIP"
+
 msgid "tambourin"
-msgstr ""
+msgstr "tambourin"
+
 msgid "Obtenu auprès de \"Lily Box\""
-msgstr ""
+msgstr "Obtenu auprès de \"Lily Box\""
+
 msgid "RAINURE"
-msgstr ""
+msgstr "RAINURE"
+
 msgid "\"Groove Coaster x WACCA\" 2ème édition\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "\"Groove Coaster x WACCA\" 2ème édition\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Par défaut (WACCA)"
-msgstr ""
-msgid "Propriété depuis le début"
-msgstr ""
+msgstr "Par défaut (WACCA)"
+
 msgid "Couteau tonne tonne"
-msgstr ""
+msgstr "Couteau tonne tonne"
+
 msgid "Obtenu à partir de \"R Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"R Box\""
+
 msgid "porte"
-msgstr ""
+msgstr "porte"
+
 msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
-msgstr ""
+msgstr "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
+
 msgid "douche"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "douche"
+
 msgid "Shikaashi"
-msgstr ""
-msgid "Obtenu à partir de \"Reverse Box\""
-msgstr ""
+msgstr "Shikaashi"
+
 msgid "métronome"
-msgstr ""
+msgstr "métronome"
+
 msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
-msgstr ""
+msgstr "«Porte inversée WACCA»\r\nRécompense de réussite"
+
 msgid "Tambourin Mk-Ⅱ"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Tambourin Mk-Ⅱ"

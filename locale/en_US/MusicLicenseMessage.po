@@ -2,41 +2,60 @@
 msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "\"VOCALOID\" and \"VOCALOID\" are registered trademarks of Yamaha Corporation."
-msgstr ""
-msgid "VOCALOID and VOCALO are trademarks of Yamaha Corporation."
-msgstr ""
-msgid "Licensed by Sony Music Records"
-msgstr ""
-msgid "© 2016 Happy Elements K.K. / Ensemble Stars Production Committee"
-msgstr ""
-msgid "2018 MAGES./KADOKAWA/Future Gadget Laboratory"
-msgstr ""
-msgid "©2015 Sankakuhead/Shueisha, \"Himouto! Umaru-chan\" Production Committee"
-msgstr ""
-msgid "©Okawa Bukubu/Takeshobo・King Records"
-msgstr ""
-msgid "ⓒ Kemono Friends Project 2A"
-msgstr ""
-msgid "© Taiki Kawakami, Fuse, Kodansha / TenSura Production Committee"
-msgstr ""
-msgid "©2017 Natsume Akatsuki, Kurone Mishima, KADOKAWA, KonoSuba 2 Production Committee"
-msgstr ""
-msgid "© Negi Haruba, Kodansha / \"The Quintessential Quintuplets\" Production Committee ¶ PONY CANYON INC."
-msgstr ""
-msgid "ⓒEarth Star Entertainment"
-msgstr ""
-msgid "ⓒREISSUE RECORDS"
-msgstr ""
-msgid "Illustration by Hachi"
-msgstr ""
-msgid "ⓒAI,Inc."
-msgstr ""
-msgid "ⓒ INTERNET Co., Ltd. All rights reserved."
-msgstr ""
-msgid "ⓒVOCALOMAKETS Powered by Bumpy Factory Corporation."
-msgstr ""
-msgid "\"Yuzuki Yukari\" is a registered trademark of Bumpy Factory Co., Ltd."
-msgstr ""
+
+msgid "« VOCALOID » et « Vocaloid » sont des marques déposées de Yamaha Corporation."
+msgstr "\"VOCALOID\" and \"VOCALOID\" are registered trademarks of Yamaha Corporation."
+
+msgid "VOCALOID et VOCALO sont des marques commerciales de Yamaha Corporation."
+msgstr "VOCALOID and VOCALO are trademarks of Yamaha Corporation."
+
+msgid "Sous licence Sony Music Records"
+msgstr "Licensed by Sony Music Records"
+
+msgid "ⓒ Comité de production Happy Elements K.K/Anste 2016"
+msgstr "© 2016 Happy Elements K.K. / Ensemble Stars Production Committee"
+
+msgid "2018 MAGES./KADOKAWA/Laboratoire des gadgets du futur"
+msgstr "2018 MAGES./KADOKAWA/Future Gadget Laboratory"
+
+msgid "ⓒ2015 Chef de Sankaku/Shueisha/Comité de production « Himono Imouto !"
+msgstr "©2015 Sankakuhead/Shueisha, \"Himouto! Umaru-chan\" Production Committee"
+
+msgid "ⓒOkawa Bukubu/Takeshobo/King Records"
+msgstr "©Okawa Bukubu/Takeshobo・King Records"
+
+msgid "ⓒProjet Kemono Friends 2A"
+msgstr "ⓒ Kemono Friends Project 2A"
+
+msgid "ⓒTaiki Kawakami, Fuse, Comité de production Kodansha/Tensura"
+msgstr "© Taiki Kawakami, Fuse, Kodansha / TenSura Production Committee"
+
+msgid "ⓒ2017 Comité de production Natsume Akatsuki/Kurone Mishima/KADOKAWA/Konosuba 2"
+msgstr "©2017 Natsume Akatsuki, Kurone Mishima, KADOKAWA, KonoSuba 2 Production Committee"
+
+msgid "ⓒComité de production Negi Haruba/Kodansha/« Les quintuplés quintessentiels » ¶PONY CANYON INC."
+msgstr "© Negi Haruba, Kodansha / \"The Quintessential Quintuplets\" Production Committee ¶ PONY CANYON INC."
+
+msgid "ⓒEarth Star Divertissement"
+msgstr "ⓒEarth Star Entertainment"
+
+msgid "ⓒRÉÉDITION DES DOSSIERS"
+msgstr "ⓒREISSUE RECORDS"
+
+msgid "illustration de Hachi"
+msgstr "Illustration by Hachi"
+
+msgid "ⓒAI, Inc."
+msgstr "ⓒAI,Inc."
+
+msgid "ⓒ INTERNET Co., Ltd. Tous droits réservés."
+msgstr "ⓒ INTERNET Co., Ltd. All rights reserved."
+
+msgid "ⓒVOCALOMAKETS Propulsé par Bumpy Factory Corporation."
+msgstr "ⓒVOCALOMAKETS Powered by Bumpy Factory Corporation."
+
+msgid "« Yukari Yuzuki » est une marque déposée de Bumpy Factory Co., Ltd."
+msgstr "\"Yuzuki Yukari\" is a registered trademark of Bumpy Factory Co., Ltd."
+
 msgid "ⓒAHS Co. Ltd."
-msgstr ""
+msgstr "ⓒAHS Co. Ltd."

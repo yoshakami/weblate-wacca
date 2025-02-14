@@ -2,227 +2,243 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "défaut"
-msgstr ""
+msgstr "défaut"
+
 msgid "Propriété depuis le début"
-msgstr ""
+msgstr "Propriété depuis le début"
+
 msgid "Élisabeth"
-msgstr ""
+msgstr "Élisabeth"
+
 msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
-msgstr ""
+msgstr "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
+
 msgid "Lis"
-msgstr ""
-msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
-msgstr ""
+msgstr "Lis"
+
 msgid "riche"
-msgstr ""
+msgstr "riche"
+
 msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Avantages de continuation VIP"
+
 msgid "Joli rythme arc-en-ciel en direct"
-msgstr ""
+msgstr "Joli rythme arc-en-ciel en direct"
+
 msgid "« Jolie série x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "« Jolie série x WACCA »\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Pripara"
-msgstr ""
-msgid "« Jolie série x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Pripara"
+
 msgid "Kiratto Puri☆chan"
-msgstr ""
-msgid "« Jolie série x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Kiratto Puri☆chan"
+
 msgid "Hestia"
-msgstr ""
+msgstr "Hestia"
+
 msgid "\"Danmachi III × WACCA\"\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "\"Danmachi III × WACCA\"\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Yeux Wallenstein"
-msgstr ""
-msgid "\"Danmachi III × WACCA\"\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Yeux Wallenstein"
+
 msgid "Sanaé"
-msgstr ""
+msgstr "Sanaé"
+
 msgid "Renouvellement « Touhou Fujinroku × WACCA »\r\nRécompense de réussite d'étape d'événement"
-msgstr ""
+msgstr "Renouvellement « Touhou Fujinroku × WACCA »\r\nRécompense de réussite d'étape d'événement"
+
 msgid "Pekora Usada"
-msgstr ""
+msgstr "Pekora Usada"
+
 msgid "« Hololive × WACCA » 2ème édition\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "« Hololive × WACCA » 2ème édition\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Miko Sakura"
-msgstr ""
+msgstr "Miko Sakura"
+
 msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Shirakami Fubuki"
-msgstr ""
-msgid "« Hololive × WACCA » 2ème édition\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Shirakami Fubuki"
+
 msgid "Hoshimachi Suisei"
-msgstr ""
-msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Hoshimachi Suisei"
+
 msgid "ciel du temps"
-msgstr ""
+msgstr "ciel du temps"
+
 msgid "« Hololive × WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "« Hololive × WACCA »\r\nRécompense de réussite de la porte d'événement"
+
 msgid "AZKi"
-msgstr ""
-msgid "« Hololive × WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "AZKi"
+
 msgid "Seine"
-msgstr ""
+msgstr "Seine"
+
 msgid "\"Groove Coaster x WACCA\" 2e édition\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "\"Groove Coaster x WACCA\" 2e édition\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Crevettes de grande taille"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Crevettes de grande taille"
+
 msgid "Fibre"
-msgstr ""
+msgstr "Fibre"
+
 msgid "Obtenu à partir de \"R Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"R Box\""
+
 msgid "Printemps"
-msgstr ""
+msgstr "Printemps"
+
 msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
-msgstr ""
+msgstr "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
+
 msgid "Été"
-msgstr ""
-msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
-msgstr ""
+msgstr "Été"
+
 msgid "Automne"
-msgstr ""
-msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
-msgstr ""
+msgstr "Automne"
+
 msgid "Hiver"
-msgstr ""
-msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
-msgstr ""
+msgstr "Hiver"
+
 msgid "Lanota"
-msgstr ""
+msgstr "Lanota"
+
 msgid "«Lanota × WACCA»\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "«Lanota × WACCA»\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Pâques"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Pâques"
+
 msgid "Portion spéciale"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Portion spéciale"
+
 msgid "Rémilia Écarlate"
-msgstr ""
+msgstr "Rémilia Écarlate"
+
 msgid "« Touhou Koumakyo x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "« Touhou Koumakyo x WACCA »\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Flandre écarlate"
-msgstr ""
-msgid "« Touhou Koumakyo x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Flandre écarlate"
+
 msgid "Reimu"
-msgstr ""
-msgid "« Touhou Koumakyo x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Reimu"
+
 msgid "Marisa"
-msgstr ""
+msgstr "Marisa"
+
 msgid "« Touhou Koumakyo × WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "« Touhou Koumakyo × WACCA »\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Heureux autour!"
-msgstr ""
+msgstr "Heureux autour!"
+
 msgid "« D4DJ Groovy Mix × WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "« D4DJ Groovy Mix × WACCA »\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Touche P Peaky"
-msgstr ""
-msgid "« D4DJ Groovy Mix × WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Touche P Peaky"
+
 msgid "Jeune fille photonique"
-msgstr ""
-msgid "« D4DJ Groovy Mix × WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Jeune fille photonique"
+
 msgid "union"
-msgstr ""
+msgstr "union"
+
 msgid "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
+
 msgid "royal"
-msgstr ""
-msgid "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "royal"
+
 msgid "sang de fer"
-msgstr ""
-msgid "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "sang de fer"
+
 msgid "Juzakura"
-msgstr ""
-msgid "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "Juzakura"
+
 msgid "Elizabeth et Lily (2e ANNIVERSAIRE)"
-msgstr ""
+msgstr "Elizabeth et Lily (2e ANNIVERSAIRE)"
+
 msgid "WACCA 2ème anniversaire !\r\nMerci de toujours jouer !\r\nJouer pendant la période"
-msgstr ""
+msgstr "WACCA 2ème anniversaire !\r\nMerci de toujours jouer !\r\nJouer pendant la période"
+
 msgid "sombre"
-msgstr ""
+msgstr "sombre"
+
 msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
-msgstr ""
+msgstr "«Porte inversée WACCA»\r\nRécompense de réussite"
+
 msgid "rune"
-msgstr ""
-msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
-msgstr ""
+msgstr "rune"
+
 msgid "[Retour] Rune"
-msgstr ""
+msgstr "[Retour] Rune"
+
 msgid "Chez WACCA BINGO\r\nA obtenu TOUT CLAIR 30 fois"
-msgstr ""
+msgstr "Chez WACCA BINGO\r\nA obtenu TOUT CLAIR 30 fois"
+
 msgid "fantaisie"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "fantaisie"
+
 msgid "Incantation"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
-msgid "Élisabeth"
-msgstr ""
+msgstr "Incantation"
+
 msgid "Obtenu à partir de \"Reverse Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"Reverse Box\""
+
 msgid "Elisabeth et Lily"
-msgstr ""
-msgid "Obtenu à partir de \"Reverse Box\""
-msgstr ""
+msgstr "Elisabeth et Lily"
+
 msgid "lumière et conflit"
-msgstr ""
+msgstr "lumière et conflit"
+
 msgid "\"Arcée x WACCA\"\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "\"Arcée x WACCA\"\r\nRécompense de réussite de la porte d'événement"
+
 msgid "DORO*C"
-msgstr ""
+msgstr "DORO*C"
+
 msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
+
 msgid "IRRÉNA"
-msgstr ""
-msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "IRRÉNA"
+
 msgid "Ora"
-msgstr ""
+msgstr "Ora"
+
 msgid "«Muse Dash x WACCA»\r\nRécompense de réussite de la porte d'événement"
-msgstr ""
+msgstr "«Muse Dash x WACCA»\r\nRécompense de réussite de la porte d'événement"
+
 msgid "Ce mec est si spécial"
-msgstr ""
+msgstr "Ce mec est si spécial"
+
 msgid "Récompense de l'événement de la dernière poussée"
-msgstr ""
+msgstr "Récompense de l'événement de la dernière poussée"
+
 msgid "Bête géante extraordinaire"
-msgstr ""
-msgid "Récompense de l'événement de la dernière poussée"
-msgstr ""
+msgstr "Bête géante extraordinaire"
+
 msgid "aube"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "aube"
+
 msgid "marine"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
-msgid "Portion spéciale"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "marine"
+
 msgid "Elizabeth et Lily (DERNIÈRE SPURT)"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Elizabeth et Lily (DERNIÈRE SPURT)"
+
 msgid "PLONGEZ avec Ü"
-msgstr ""
+msgstr "PLONGEZ avec Ü"
+
 msgid "Jouez à DIVE avec Ü une fois"
-msgstr ""
+msgstr "Jouez à DIVE avec Ü une fois"

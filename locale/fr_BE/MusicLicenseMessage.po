@@ -2,41 +2,60 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "« VOCALOID » et « Vocaloid » sont des marques déposées de Yamaha Corporation."
-msgstr ""
+msgstr "« VOCALOID » et « Vocaloid » sont des marques déposées de Yamaha Corporation."
+
 msgid "VOCALOID et VOCALO sont des marques commerciales de Yamaha Corporation."
-msgstr ""
+msgstr "VOCALOID et VOCALO sont des marques commerciales de Yamaha Corporation."
+
 msgid "Sous licence Sony Music Records"
-msgstr ""
+msgstr "Sous licence Sony Music Records"
+
 msgid "ⓒ Comité de production Happy Elements K.K/Anste 2016"
-msgstr ""
+msgstr "ⓒ Comité de production Happy Elements K.K/Anste 2016"
+
 msgid "2018 MAGES./KADOKAWA/Laboratoire des gadgets du futur"
-msgstr ""
+msgstr "2018 MAGES./KADOKAWA/Laboratoire des gadgets du futur"
+
 msgid "ⓒ2015 Chef de Sankaku/Shueisha/Comité de production « Himono Imouto !"
-msgstr ""
+msgstr "ⓒ2015 Chef de Sankaku/Shueisha/Comité de production « Himono Imouto !"
+
 msgid "ⓒOkawa Bukubu/Takeshobo/King Records"
-msgstr ""
+msgstr "ⓒOkawa Bukubu/Takeshobo/King Records"
+
 msgid "ⓒProjet Kemono Friends 2A"
-msgstr ""
+msgstr "ⓒProjet Kemono Friends 2A"
+
 msgid "ⓒTaiki Kawakami, Fuse, Comité de production Kodansha/Tensura"
-msgstr ""
+msgstr "ⓒTaiki Kawakami, Fuse, Comité de production Kodansha/Tensura"
+
 msgid "ⓒ2017 Comité de production Natsume Akatsuki/Kurone Mishima/KADOKAWA/Konosuba 2"
-msgstr ""
+msgstr "ⓒ2017 Comité de production Natsume Akatsuki/Kurone Mishima/KADOKAWA/Konosuba 2"
+
 msgid "ⓒComité de production Negi Haruba/Kodansha/« Les quintuplés quintessentiels » ¶PONY CANYON INC."
-msgstr ""
+msgstr "ⓒComité de production Negi Haruba/Kodansha/« Les quintuplés quintessentiels » ¶PONY CANYON INC."
+
 msgid "ⓒEarth Star Divertissement"
-msgstr ""
+msgstr "ⓒEarth Star Divertissement"
+
 msgid "ⓒRÉÉDITION DES DOSSIERS"
-msgstr ""
+msgstr "ⓒRÉÉDITION DES DOSSIERS"
+
 msgid "illustration de Hachi"
-msgstr ""
+msgstr "illustration de Hachi"
+
 msgid "ⓒAI, Inc."
-msgstr ""
+msgstr "ⓒAI, Inc."
+
 msgid "ⓒ INTERNET Co., Ltd. Tous droits réservés."
-msgstr ""
+msgstr "ⓒ INTERNET Co., Ltd. Tous droits réservés."
+
 msgid "ⓒVOCALOMAKETS Propulsé par Bumpy Factory Corporation."
-msgstr ""
+msgstr "ⓒVOCALOMAKETS Propulsé par Bumpy Factory Corporation."
+
 msgid "« Yukari Yuzuki » est une marque déposée de Bumpy Factory Co., Ltd."
-msgstr ""
+msgstr "« Yukari Yuzuki » est une marque déposée de Bumpy Factory Co., Ltd."
+
 msgid "ⓒAHS Co. Ltd."
-msgstr ""
+msgstr "ⓒAHS Co. Ltd."

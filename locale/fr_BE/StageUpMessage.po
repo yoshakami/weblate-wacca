@@ -2,71 +2,105 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "mettre en scène"
-msgstr ""
+msgstr "mettre en scène"
+
 msgid "Description du mode"
-msgstr ""
+msgstr "Description du mode"
+
 msgid "・Essayez de commencer par le niveau qui correspond à vos capacités !\r\n・ Jouez 3 chansons et assurez-vous que votre VIE n'atteint pas 0 !\r\n・Vérifiez les conditions de réduction de VIE lors de la sélection d'une étape !"
-msgstr ""
+msgstr "・Essayez de commencer par le niveau qui correspond à vos capacités !\r\n・ Jouez 3 chansons et assurez-vous que votre VIE n'atteint pas 0 !\r\n・Vérifiez les conditions de réduction de VIE lors de la sélection d'une étape !"
+
 msgid "------"
-msgstr ""
+msgstr "------"
+
 msgid "Chanson de devoir"
-msgstr ""
+msgstr "Chanson de devoir"
+
 msgid "Liste des pistes"
-msgstr ""
+msgstr "Liste des pistes"
+
 msgid "Étape I"
-msgstr ""
+msgstr "Étape I"
+
 msgid "Étape II"
-msgstr ""
+msgstr "Étape II"
+
 msgid "Stade III"
-msgstr ""
+msgstr "Stade III"
+
 msgid "Stade IV"
-msgstr ""
+msgstr "Stade IV"
+
 msgid "Étape V"
-msgstr ""
+msgstr "Étape V"
+
 msgid "Stade VI"
-msgstr ""
+msgstr "Stade VI"
+
 msgid "Stade VII"
-msgstr ""
+msgstr "Stade VII"
+
 msgid "Stade VIII"
-msgstr ""
+msgstr "Stade VIII"
+
 msgid "Stade IX"
-msgstr ""
+msgstr "Stade IX"
+
 msgid "Étape X"
-msgstr ""
+msgstr "Étape X"
+
 msgid "Étape XI"
-msgstr ""
+msgstr "Étape XI"
+
 msgid "Stade XII"
-msgstr ""
+msgstr "Stade XII"
+
 msgid "Stade XIII"
-msgstr ""
+msgstr "Stade XIII"
+
 msgid "Étape XIV"
-msgstr ""
+msgstr "Étape XIV"
+
 msgid "Fujinroku étape I"
-msgstr ""
+msgstr "Fujinroku étape I"
+
 msgid "Fujinroku étape II"
-msgstr ""
+msgstr "Fujinroku étape II"
+
 msgid "Fujinroku étape III"
-msgstr ""
+msgstr "Fujinroku étape III"
+
 msgid "Échec de l'obtention des données utilisateur.\r\nRevenir au mode de sélection."
-msgstr ""
+msgstr "Échec de l'obtention des données utilisateur.\r\nRevenir au mode de sélection."
+
 msgid "ci-dessous"
-msgstr ""
+msgstr "ci-dessous"
+
 msgid "Forcer à quitter avec"
-msgstr ""
+msgstr "Forcer à quitter avec"
+
 msgid "A la fin de chaque chanson"
-msgstr ""
+msgstr "A la fin de chaque chanson"
+
 msgid "récupération"
-msgstr ""
+msgstr "récupération"
+
 msgid "SPURT Re:MIX Vol.1"
-msgstr ""
+msgstr "SPURT Re:MIX Vol.1"
+
 msgid "SPURT Re:MIX Vol.2"
-msgstr ""
+msgstr "SPURT Re:MIX Vol.2"
+
 msgid "SPURT Re:MIX Vol.3"
-msgstr ""
+msgstr "SPURT Re:MIX Vol.3"
+
 msgid "BOSS Re:MIX Vol.1"
-msgstr ""
+msgstr "BOSS Re:MIX Vol.1"
+
 msgid "BOSS Re:MIX Vol.2"
-msgstr ""
+msgstr "BOSS Re:MIX Vol.2"
+
 msgid "BOSS Re:MIX Vol.3"
-msgstr ""
+msgstr "BOSS Re:MIX Vol.3"
