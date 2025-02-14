@@ -1,17 +1,29 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-15 11:02+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"toucheffectmessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "DÉSACTIVÉ"
 msgstr ""
+
 msgid "désactiver l'effet"
 msgstr ""
+
 msgid "défaut"
 msgstr ""
+
 msgid "Propriété depuis le début"
-msgstr ""
+msgstr "Obtenu depuis le début"
+
 msgid "bulle"
 msgstr ""
+
 msgid "Récompense de réussite « WACCA Reverse Gate »"
 msgstr ""
