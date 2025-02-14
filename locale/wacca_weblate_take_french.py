@@ -21,6 +21,7 @@ for file in os.listdir("en_US"):
 
 for file in os.listdir("fr_BE"):
     lines_id = []
+    file_lines_fr[file][2] = '"Language: fr_FR\\n\n"'
     for i in range(2, len(file_lines_vanilla[file])):
         if "msgstr" in file_lines_vanilla[file][i]:
             print(i, file)
