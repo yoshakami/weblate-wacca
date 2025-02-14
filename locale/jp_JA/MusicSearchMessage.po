@@ -2,61 +2,90 @@
 msgstr ""
 "Language: jp_JA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "オープン順　(最近２週間) "
-msgstr ""
-msgid "難易度順　(最高難易度)"
-msgstr ""
-msgid "難易度順　(EXPERT)"
-msgstr ""
-msgid "難易度順　(HARD)"
-msgstr ""
-msgid "難易度順　(NORMAL)"
-msgstr ""
-msgid "人気TOP30ランキング"
-msgstr ""
-msgid "曲名順"
-msgstr ""
-msgid "クリアしていない"
-msgstr ""
-msgid "未クリア　(INFERNO)"
-msgstr ""
-msgid "未クリア　(EXPERT)"
-msgstr ""
-msgid "未クリア　(HARD)"
-msgstr ""
-msgid "未クリア　(NORMAL)"
-msgstr ""
-msgid "アンロック可能"
-msgstr ""
-msgid "ロック中"
-msgstr ""
-msgid "未プレイ"
-msgstr ""
-msgid "FULL COMBOクリアしていない\r\n(全難易度)"
-msgstr ""
-msgid "FULL COMBOクリアしていない\r\n(INFERNO)"
-msgstr ""
-msgid "FULL COMBOクリアしていない\r\n(EXPERT)"
-msgstr ""
-msgid "SSクリアしていない　(全難易度)"
-msgstr ""
-msgid "SSクリアしていない　(INFERNO)"
-msgstr ""
-msgid "SSクリアしていない　(EXPERT)"
-msgstr ""
-msgid "SSSクリアしていない　(全難易度)"
-msgstr ""
-msgid "SSSクリアしていない　(INFERNO)"
-msgstr ""
-msgid "SSSクリアしていない　(EXPERT)"
-msgstr ""
-msgid "MASTERクリアしていない　(全難易度)"
-msgstr ""
-msgid "MASTERクリアしていない　(INFERNO)"
-msgstr ""
-msgid "MASTERクリアしていない　(EXPERT)"
-msgstr ""
-msgid "MISS１～２回でクリアした　(INFERNO)"
-msgstr ""
-msgid "MISS１～２回でクリアした　(EXPERT)"
-msgstr ""
+
+msgid "Commande d'ouverture (2 dernières semaines)"
+msgstr "オープン順　(最近２週間) "
+
+msgid "Trier par difficulté (difficulté la plus élevée)"
+msgstr "難易度順　(最高難易度)"
+
+msgid "Trier par difficulté (EXPERT)"
+msgstr "難易度順　(EXPERT)"
+
+msgid "Trier par difficulté (DIFFICILE)"
+msgstr "難易度順　(HARD)"
+
+msgid "Trier par difficulté (NORMAL)"
+msgstr "難易度順　(NORMAL)"
+
+msgid "Classement TOP30 populaire"
+msgstr "人気TOP30ランキング"
+
+msgid "Trier par titre de chanson"
+msgstr "曲名順"
+
+msgid "Non effacé"
+msgstr "クリアしていない"
+
+msgid "Non effacé (INFERNO)"
+msgstr "未クリア　(INFERNO)"
+
+msgid "Non effacé (EXPERT)"
+msgstr "未クリア　(EXPERT)"
+
+msgid "Non effacé (DIFFICILE)"
+msgstr "未クリア　(HARD)"
+
+msgid "Non effacé (NORMAL)"
+msgstr "未クリア　(NORMAL)"
+
+msgid "déverrouillable"
+msgstr "アンロック可能"
+
+msgid "Fermé"
+msgstr "ロック中"
+
+msgid "Non joué"
+msgstr "未プレイ"
+
+msgid "COMBO COMPLET non effacé\r\n(toutes difficultés)"
+msgstr "FULL COMBOクリアしていない\r\n(全難易度)"
+
+msgid "COMBO COMPLET non effacé\r\n(ENFER)"
+msgstr "FULL COMBOクリアしていない\r\n(INFERNO)"
+
+msgid "COMBO COMPLET non effacé\r\n(EXPERT)"
+msgstr "FULL COMBOクリアしていない\r\n(EXPERT)"
+
+msgid "SS non validé (toutes les difficultés)"
+msgstr "SSクリアしていない　(全難易度)"
+
+msgid "SS non autorisé (INFERNO)"
+msgstr "SSクリアしていない　(INFERNO)"
+
+msgid "SS non effacé (EXPERT)"
+msgstr "SSクリアしていない　(EXPERT)"
+
+msgid "SSS non validé (toutes les difficultés)"
+msgstr "SSSクリアしていない　(全難易度)"
+
+msgid "SSS non effacé (INFERNO)"
+msgstr "SSSクリアしていない　(INFERNO)"
+
+msgid "SSS non effacé (EXPERT)"
+msgstr "SSSクリアしていない　(EXPERT)"
+
+msgid "MASTER non terminé (toutes les difficultés)"
+msgstr "MASTERクリアしていない　(全難易度)"
+
+msgid "MAÎTRE non effacé (INFERNO)"
+msgstr "MASTERクリアしていない　(INFERNO)"
+
+msgid "MASTER non effacé (EXPERT)"
+msgstr "MASTERクリアしていない　(EXPERT)"
+
+msgid "MISS terminé 1 à 2 fois (INFERNO)"
+msgstr "MISS１～２回でクリアした　(INFERNO)"
+
+msgid "MISS effacé en 1 à 2 fois (EXPERT)"
+msgstr "MISS１～２回でクリアした　(EXPERT)"

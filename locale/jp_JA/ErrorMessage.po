@@ -2,23 +2,33 @@
 msgstr ""
 "Language: jp_JA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-msgid "Aimeリーダーが認識されていません。\r\n現在、Aimeをご利用いただけません。"
-msgstr ""
-msgid "Aimeのファームウェアを更新中です。\r\n現在、Aimeをご利用いただけません。"
-msgstr ""
-msgid "Aimeのファームウェアが正常ではありません。\r\n現在、Aimeをご利用いただけません。"
-msgstr ""
-msgid "Aimeデータベースとの通信に失敗しました。\r\nAimeカードを使用できない可能性があります。\r\nテストモードよりネットワークテストを行い、\r\n通信状況をご確認ください。"
-msgstr ""
-msgid "ネットワークとの接続が確認できません。\r\n現在、ネットワークを用いた機能がご利用いただけません。"
-msgstr ""
-msgid "ALL.Net認証サーバーとの接続が確認できません。\r\n現在、ネットワークを用いた機能がご利用いただけません。"
-msgstr ""
-msgid "Aimeデータベースとの接続が確認できません。\r\n現在、Aimeを用いた機能がご利用いただけません。"
-msgstr ""
-msgid "電子マネー処理サーバーとの接続が確認できません。\r\n現在、電子マネー決済機能をご利用いただけません。"
-msgstr ""
-msgid "\r\nインストールメディアを取り外した後、\r\nテストモードよりバージョンを確認してください。"
-msgstr ""
-msgid "Aimeエラー\r\n<ERROR_MESSAGE>"
-msgstr ""
+
+msgid "Aime le lecteur n'est pas reconnu.\r\nAimé est actuellement indisponible."
+msgstr "Aimeリーダーが認識されていません。\r\n現在、Aimeをご利用いただけません。"
+
+msgid "Le firmware d'Aime est actuellement en cours de mise à jour.\r\nAimé est actuellement indisponible."
+msgstr "Aimeのファームウェアを更新中です。\r\n現在、Aimeをご利用いただけません。"
+
+msgid "Le firmware d'Aime n'est pas normal.\r\nAimé est actuellement indisponible."
+msgstr "Aimeのファームウェアが正常ではありません。\r\n現在、Aimeをご利用いただけません。"
+
+msgid "La communication avec la base de données Aime a échoué.\r\nVous ne pourrez peut-être pas utiliser votre carte Aime.\r\nEffectuer un test réseau depuis le mode test,\r\nVeuillez vérifier l'état de la communication."
+msgstr "Aimeデータベースとの通信に失敗しました。\r\nAimeカードを使用できない可能性があります。\r\nテストモードよりネットワークテストを行い、\r\n通信状況をご確認ください。"
+
+msgid "La connexion au réseau ne peut pas être confirmée.\r\nActuellement, les fonctions utilisant le réseau ne sont pas disponibles."
+msgstr "ネットワークとの接続が確認できません。\r\n現在、ネットワークを用いた機能がご利用いただけません。"
+
+msgid "La connexion avec le serveur d'authentification ALL.Net ne peut pas être confirmée.\r\nActuellement, les fonctions utilisant le réseau ne sont pas disponibles."
+msgstr "ALL.Net認証サーバーとの接続が確認できません。\r\n現在、ネットワークを用いた機能がご利用いただけません。"
+
+msgid "La connexion avec la base de données Aime ne peut pas être confirmée.\r\nActuellement, les fonctions utilisant Aime ne sont pas disponibles."
+msgstr "Aimeデータベースとの接続が確認できません。\r\n現在、Aimeを用いた機能がご利用いただけません。"
+
+msgid "La connexion avec le serveur de traitement de monnaie électronique ne peut pas être confirmée.\r\nActuellement, la fonction de paiement en monnaie électronique n'est pas disponible."
+msgstr "電子マネー処理サーバーとの接続が確認できません。\r\n現在、電子マネー決済機能をご利用いただけません。"
+
+msgid "\r\nAprès avoir retiré le support d'installation,\r\nVeuillez vérifier la version en mode test."
+msgstr "\r\nインストールメディアを取り外した後、\r\nテストモードよりバージョンを確認してください。"
+
+msgid "Erreur de visée\r\n<ERREUR_MESSAGE>"
+msgstr "Aimeエラー\r\n<ERROR_MESSAGE>"

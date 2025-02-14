@@ -2,87 +2,117 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "couleur par défaut"
-msgstr ""
+msgstr "couleur par défaut"
+
 msgid "Propriété depuis le début"
-msgstr ""
+msgstr "Propriété depuis le début"
+
 msgid "ALiCE rouge"
-msgstr ""
+msgstr "ALiCE rouge"
+
 msgid "Jouer la chanson REDALiCE 20 fois"
-msgstr ""
+msgstr "Jouer la chanson REDALiCE 20 fois"
+
 msgid "EX violette"
-msgstr ""
+msgstr "EX violette"
+
 msgid "Terminer EXPERT 80 fois"
-msgstr ""
+msgstr "Terminer EXPERT 80 fois"
+
 msgid "HA orange"
-msgstr ""
+msgstr "HA orange"
+
 msgid "Réalisez un combo complet 50 fois en DIFFICILE ou supérieur"
-msgstr ""
+msgstr "Réalisez un combo complet 50 fois en DIFFICILE ou supérieur"
+
 msgid "arc coloré"
-msgstr ""
+msgstr "arc coloré"
+
 msgid "Augmenter le niveau du joueur à 11"
-msgstr ""
+msgstr "Augmenter le niveau du joueur à 11"
+
 msgid "I.A. Rose"
-msgstr ""
+msgstr "I.A. Rose"
+
 msgid "Lors de l'événement Kizuna AI × WACCA\r\nJouer toutes les chansons de Kizuna AI"
-msgstr ""
+msgstr "Lors de l'événement Kizuna AI × WACCA\r\nJouer toutes les chansons de Kizuna AI"
+
 msgid "couleur inversée"
-msgstr ""
+msgstr "couleur inversée"
+
 msgid "\"Porte WACCA S\"\r\nRécompense de réussite"
-msgstr ""
+msgstr "\"Porte WACCA S\"\r\nRécompense de réussite"
+
 msgid "couleur lys"
-msgstr ""
-msgid "Propriété depuis le début"
-msgstr ""
+msgstr "couleur lys"
+
 msgid "Jaune ruée vers l'or"
-msgstr ""
+msgstr "Jaune ruée vers l'or"
+
 msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Avantages de continuation VIP"
+
 msgid "Rose SSR"
-msgstr ""
+msgstr "Rose SSR"
+
 msgid "Obtenu auprès de \"Lily Box\""
-msgstr ""
+msgstr "Obtenu auprès de \"Lily Box\""
+
 msgid "tricolore"
-msgstr ""
+msgstr "tricolore"
+
 msgid "Valeur de notation atteinte 400"
-msgstr ""
+msgstr "Valeur de notation atteinte 400"
+
 msgid "Vert topaze"
-msgstr ""
+msgstr "Vert topaze"
+
 msgid "t+pazolite Joue la chanson 20 fois"
-msgstr ""
+msgstr "t+pazolite Joue la chanson 20 fois"
+
 msgid "violet foncé"
-msgstr ""
+msgstr "violet foncé"
+
 msgid "Obtenu à partir de \"R Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"R Box\""
+
 msgid "amitié rouge"
-msgstr ""
+msgstr "amitié rouge"
+
 msgid "Définir l'affichage des scores pour deux amis"
-msgstr ""
+msgstr "Définir l'affichage des scores pour deux amis"
+
 msgid "obscurité"
-msgstr ""
+msgstr "obscurité"
+
 msgid "Au niveau de difficulté INFERNO\r\nTaux atteint SS ou supérieur 10 fois"
-msgstr ""
+msgstr "Au niveau de difficulté INFERNO\r\nTaux atteint SS ou supérieur 10 fois"
+
 msgid "tropical"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "tropical"
+
 msgid "couleur des runes"
-msgstr ""
-msgid "Propriété depuis le début"
-msgstr ""
+msgstr "couleur des runes"
+
 msgid "USAO violet"
-msgstr ""
+msgstr "USAO violet"
+
 msgid "Joue la chanson USAO 20 fois"
-msgstr ""
+msgstr "Joue la chanson USAO 20 fois"
+
 msgid "Genki Soleil"
-msgstr ""
+msgstr "Genki Soleil"
+
 msgid "Joue la chanson de DJ Genki 20 fois"
-msgstr ""
+msgstr "Joue la chanson de DJ Genki 20 fois"
+
 msgid "fleur"
-msgstr ""
+msgstr "fleur"
+
 msgid "Obtenu à partir de \"Reverse Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"Reverse Box\""
+
 msgid "nature"
-msgstr ""
-msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "nature"
