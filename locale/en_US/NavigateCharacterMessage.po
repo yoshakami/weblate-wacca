@@ -2,39 +2,27 @@
 msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "Élisabeth"
-msgstr "Elizabeth"
-
-msgid "Lis"
-msgstr "Lily"
-
+msgid "Elizabeth"
+msgstr ""
+msgid "Lily"
+msgstr ""
 msgid "Hestia"
-msgstr "Hestia"
-
-msgid "Yeux Wallenstein"
-msgstr "Ais Wallenstein"
-
-msgid "Pekora Usada"
-msgstr "Usada Pekora"
-
-msgid "Miko Sakura"
-msgstr "Sakura Miko"
-
+msgstr ""
+msgid "Ais Wallenstein"
+msgstr ""
+msgid "Usada Pekora"
+msgstr ""
+msgid "Sakura Miko"
+msgstr ""
 msgid "Shirakami Fubuki"
-msgstr "Shirakami Fubuki"
-
-msgid "Hoshimachi Suisei"
-msgstr "Star Town Suisei"
-
+msgstr ""
+msgid "Star Town Suisei"
+msgstr ""
 msgid "Seine"
-msgstr "Seine"
-
-msgid "Les gars de Tanoshi"
-msgstr "Fun people"
-
-msgid "rune"
-msgstr "Runes"
-
-msgid "[Retour] Rune"
-msgstr "[Back] Rune"
+msgstr ""
+msgid "Fun people"
+msgstr ""
+msgid "Runes"
+msgstr ""
+msgid "[Back] Rune"
+msgstr ""

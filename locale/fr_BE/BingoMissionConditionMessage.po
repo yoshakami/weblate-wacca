@@ -2,132 +2,89 @@
 msgstr ""
 "Language: fr_BE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
 msgid "Jouer des chansons du genre \"<V1>\" <V2> fois"
-msgstr "Jouer des chansons du genre \"<V1>\" <V2> fois"
-
+msgstr ""
 msgid "Jouez la chanson dans la ligne « <V1> »"
-msgstr "Jouez la chanson dans la ligne « <V1> »"
-
+msgstr ""
 msgid "Jouer une chanson avec un niveau de difficulté <V1> <V2> fois"
-msgstr "Jouer une chanson avec un niveau de difficulté <V1> <V2> fois"
-
+msgstr ""
 msgid "Jouer une chanson avec un niveau de difficulté <V1> ou supérieur <V2> fois"
-msgstr "Jouer une chanson avec un niveau de difficulté <V1> ou supérieur <V2> fois"
-
+msgstr ""
 msgid "Chansons terminées avec un niveau de difficulté <V1> <V2> fois"
-msgstr "Chansons terminées avec un niveau de difficulté <V1> <V2> fois"
-
+msgstr ""
 msgid "Terminer les chansons avec un niveau de difficulté <V1> ou supérieur <V2> fois"
-msgstr "Terminer les chansons avec un niveau de difficulté <V1> ou supérieur <V2> fois"
-
+msgstr ""
 msgid "Chansons du genre « <V1> »\r\nJoué <V3> fois en difficulté <V2>"
-msgstr "Chansons du genre « <V1> »\r\nJoué <V3> fois en difficulté <V2>"
-
+msgstr ""
 msgid "Chansons du genre « <V1> »\r\nJoué <V3> fois au niveau de difficulté <V2> ou supérieur"
-msgstr "Chansons du genre « <V1> »\r\nJoué <V3> fois au niveau de difficulté <V2> ou supérieur"
-
+msgstr ""
 msgid "Chansons du genre « <V1> »\r\nTerminé <V3> fois en difficulté <V2>"
-msgstr "Chansons du genre « <V1> »\r\nTerminé <V3> fois en difficulté <V2>"
-
+msgstr ""
 msgid "Chansons du genre « <V1> »\r\nTerminer <V3> fois au niveau de difficulté <V2> ou supérieur"
-msgstr "Chansons du genre « <V1> »\r\nTerminer <V3> fois au niveau de difficulté <V2> ou supérieur"
-
+msgstr ""
 msgid "Chansons du genre « <V1> »\r\nNiveau de difficulté <V2>, taux <V3> ou supérieur\r\nEffacé <V4> fois"
-msgstr "Chansons du genre « <V1> »\r\nNiveau de difficulté <V2>, taux <V3> ou supérieur\r\nEffacé <V4> fois"
-
+msgstr ""
 msgid "Chansons du genre « <V1> »\r\nNiveau de difficulté <V2> ou supérieur, taux <V3> ou supérieur\r\nEffacé <V4> fois"
-msgstr "Chansons du genre « <V1> »\r\nNiveau de difficulté <V2> ou supérieur, taux <V3> ou supérieur\r\nEffacé <V4> fois"
-
+msgstr ""
 msgid "Chansons du genre « <V1> »\r\nTerminez le combo complet au niveau de difficulté <V2>"
-msgstr "Chansons du genre « <V1> »\r\nTerminez le combo complet au niveau de difficulté <V2>"
-
+msgstr ""
 msgid "Chansons du genre « <V1> »\r\nTerminez le combo complet au niveau de difficulté <V2> ou supérieur"
-msgstr "Chansons du genre « <V1> »\r\nTerminez le combo complet au niveau de difficulté <V2> ou supérieur"
-
+msgstr ""
 msgid "Jouer la chanson par artiste « <V1> » <V2> fois"
-msgstr "Jouer la chanson par artiste « <V1> » <V2> fois"
-
+msgstr ""
 msgid "Effacer la chanson de l'artiste \"<V1>\" <V2> fois"
-msgstr "Effacer la chanson de l'artiste \"<V1>\" <V2> fois"
-
+msgstr ""
 msgid "Chansons de l'artiste « <V1> »\r\nTerminé <V3> fois en difficulté <V2>"
-msgstr "Chansons de l'artiste « <V1> »\r\nTerminé <V3> fois en difficulté <V2>"
-
+msgstr ""
 msgid "Chansons de l'artiste « <V1> »\r\nTerminer <V3> fois au niveau de difficulté <V2> ou supérieur"
-msgstr "Chansons de l'artiste « <V1> »\r\nTerminer <V3> fois au niveau de difficulté <V2> ou supérieur"
-
+msgstr ""
 msgid "Effacez la chanson <V2> fois avec une note de <V1> ou supérieure"
-msgstr "Effacez la chanson <V2> fois avec une note de <V1> ou supérieure"
-
+msgstr ""
 msgid "Effacer une chanson <V2> fois avec un combo <V1> ou supérieur"
-msgstr "Effacer une chanson <V2> fois avec un combo <V1> ou supérieur"
-
+msgstr ""
 msgid "Effacez la chanson ci-dessous Miss<V1>"
-msgstr "Effacez la chanson ci-dessous Miss<V1>"
-
+msgstr ""
 msgid "Effacez la chanson <V1> fois avec Missless ou supérieur"
-msgstr "Effacez la chanson <V1> fois avec Missless ou supérieur"
-
+msgstr ""
 msgid "Effacez la chanson <V1> fois avec un combo complet"
-msgstr "Effacez la chanson <V1> fois avec un combo complet"
-
+msgstr ""
 msgid "Terminez la chanson avec All Marvelous <V1> fois"
-msgstr "Terminez la chanson avec All Marvelous <V1> fois"
-
+msgstr ""
 msgid "Jouez des chansons avec un niveau de difficulté Lv.<V1> ou supérieur."
-msgstr "Jouez des chansons avec un niveau de difficulté Lv.<V1> ou supérieur."
-
+msgstr ""
 msgid "Terminez une chanson avec un niveau de difficulté Lv.<V1> ou supérieur"
-msgstr "Terminez une chanson avec un niveau de difficulté Lv.<V1> ou supérieur"
-
+msgstr ""
 msgid "Changez l'icône et jouez"
-msgstr "Changez l'icône et jouez"
-
+msgstr ""
 msgid "Changer le titre et jouer"
-msgstr "Changer le titre et jouer"
-
+msgstr ""
 msgid "Changer d'assiette et jouer"
-msgstr "Changer d'assiette et jouer"
-
+msgstr ""
 msgid "Changer de navigateur et jouer"
-msgstr "Changer de navigateur et jouer"
-
+msgstr ""
 msgid "Acquérir les icônes <V1>"
-msgstr "Acquérir les icônes <V1>"
-
+msgstr ""
 msgid "Acquérir les titres <V1>"
-msgstr "Acquérir les titres <V1>"
-
+msgstr ""
 msgid "Obtenir des <V1> RP cumulés"
-msgstr "Obtenir des <V1> RP cumulés"
-
+msgstr ""
 msgid "Score cumulé de lecture de chanson obtenu <V1>"
-msgstr "Score cumulé de lecture de chanson obtenu <V1>"
-
+msgstr ""
 msgid "Combo cumulatif <V1> réalisé"
-msgstr "Combo cumulatif <V1> réalisé"
-
+msgstr ""
 msgid "Atteint un BON cumulatif ou supérieur <V1>"
-msgstr "Atteint un BON cumulatif ou supérieur <V1>"
-
+msgstr ""
 msgid "Score cumulé EXCELLENT ou supérieur obtenu <V1>"
-msgstr "Score cumulé EXCELLENT ou supérieur obtenu <V1>"
-
+msgstr ""
 msgid "Cumul MERVEILLEUX atteint <V1>"
-msgstr "Cumul MERVEILLEUX atteint <V1>"
-
+msgstr ""
 msgid "Ajouter des chansons aux favoris"
-msgstr "Ajouter des chansons aux favoris"
-
+msgstr ""
 msgid "Défi de passer au niveau supérieur"
-msgstr "Défi de passer au niveau supérieur"
-
+msgstr ""
 msgid "Jouer à WACCA <V1> fois"
-msgstr "Jouer à WACCA <V1> fois"
-
+msgstr ""
 msgid "Effacer les réglages des rétroviseurs <V1> fois avec \"Rétroviseurs gauche et droit\""
-msgstr "Effacer les réglages des rétroviseurs <V1> fois avec \"Rétroviseurs gauche et droit\""
-
+msgstr ""
 msgid "Effacer les chansons avec un BPM<V1> ou des temps <V2> supérieurs"
-msgstr "Effacer les chansons avec un BPM<V1> ou des temps <V2> supérieurs"
+msgstr ""

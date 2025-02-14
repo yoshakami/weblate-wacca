@@ -2,114 +2,77 @@
 msgstr ""
 "Language: jp_JA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-
-msgid "Changement de titre"
-msgstr "称号変更"
-
-msgid "Affichage dans les données utilisateur\r\nDéfinissez le titre."
-msgstr "ユーザーデータに表示する\r\n称号の設定を行います。"
-
-msgid "changement d'icône"
-msgstr "アイコン変更"
-
-msgid "Affichage dans les données utilisateur\r\nConfigurez les paramètres des icônes."
-msgstr "ユーザーデータに表示する\r\nアイコンの設定を行います。"
-
-msgid "changement de plaque"
-msgstr "プレート変更"
-
-msgid "Affichage dans les données utilisateur\r\nConfigurez la plaque."
-msgstr "ユーザーデータに表示する\r\nプレートの設定を行います。"
-
-msgid "Changement de navigateur"
-msgstr "ナビゲーター変更"
-
-msgid "Affichage pendant le jeu\r\nConfigurez le navigateur."
-msgstr "ゲーム中に表示する\r\nナビゲーターの設定を行います。"
-
-msgid "SORTIE"
-msgstr "ＥＸＩＴ"
-
-msgid "Sortez de ma chambre."
-msgstr "マイルームを終了します。"
-
-msgid "Les informations sur ma chambre n'ont pas pu être obtenues."
-msgstr "マイルーム情報が取得できませんでした。"
-
-msgid "Échec de la mise à jour des données utilisateur."
-msgstr "ユーザーデータの更新に失敗しました。"
-
-msgid "Avantages des cartes à jouer"
-msgstr "カードプレイすることの利点"
-
-msgid "Si vous possédez une carte Aime, vous pouvez accéder aux données.\r\nVous pourrez le sauvegarder.\r\nen utilisant une carte\r\nJouons à WACCA !"
-msgstr "Ａｉｍｅカードがあればデータの\r\n保存ができるようになります。\r\nカードを使って\r\nＷＡＣＣＡを遊んでみよう！"
-
-msgid "Cela peut prendre un certain temps avant que le classement soit reflété."
-msgstr "ランキングの反映には時間がかかる場合があります。"
-
-msgid "Classement global"
-msgstr "総合スコアランキング"
-
-msgid "Classement des meilleurs scores par chanson"
-msgstr "楽曲別ハイスコアランキング"
-
-msgid "Classement des scores cumulatifs"
-msgstr "累計スコアランキング"
-
-msgid "Améliorer le classement"
-msgstr "ステージアップランキング"
-
-msgid "Classement RP gagné"
-msgstr "獲得ＲＰランキング"
-
-msgid "Nombre de rangs"
-msgstr "ランクイン数"
-
-msgid "rang"
-msgstr "位"
-
-msgid "Inscrivez-vous en tant qu'utilisateur sur le site officiel de WACCA ! !"
-msgstr "ＷＡＣＣＡ公式サイトでユーザー登録しよう！！"
-
-msgid "Code QR"
-msgstr "ＱＲコード"
-
+msgid "称号変更"
+msgstr ""
+msgid "ユーザーデータに表示する\r\n称号の設定を行います。"
+msgstr ""
+msgid "アイコン変更"
+msgstr ""
+msgid "ユーザーデータに表示する\r\nアイコンの設定を行います。"
+msgstr ""
+msgid "プレート変更"
+msgstr ""
+msgid "ユーザーデータに表示する\r\nプレートの設定を行います。"
+msgstr ""
+msgid "ナビゲーター変更"
+msgstr ""
+msgid "ゲーム中に表示する\r\nナビゲーターの設定を行います。"
+msgstr ""
+msgid "ＥＸＩＴ"
+msgstr ""
+msgid "マイルームを終了します。"
+msgstr ""
+msgid "マイルーム情報が取得できませんでした。"
+msgstr ""
+msgid "ユーザーデータの更新に失敗しました。"
+msgstr ""
+msgid "カードプレイすることの利点"
+msgstr ""
+msgid "Ａｉｍｅカードがあればデータの\r\n保存ができるようになります。\r\nカードを使って\r\nＷＡＣＣＡを遊んでみよう！"
+msgstr ""
+msgid "ランキングの反映には時間がかかる場合があります。"
+msgstr ""
+msgid "総合スコアランキング"
+msgstr ""
+msgid "楽曲別ハイスコアランキング"
+msgstr ""
+msgid "累計スコアランキング"
+msgstr ""
+msgid "ステージアップランキング"
+msgstr ""
+msgid "獲得ＲＰランキング"
+msgstr ""
+msgid "ランクイン数"
+msgstr ""
+msgid "位"
+msgstr ""
+msgid "ＷＡＣＣＡ公式サイトでユーザー登録しよう！！"
+msgstr ""
+msgid "ＱＲコード"
+msgstr ""
 msgid "https://wacca.marv.jp"
-msgstr "https://wacca.marv.jp"
-
-msgid "Consultez le classement détaillé sur « Ma page » sur le site officiel de WACCA !"
-msgstr "詳細なランキングはＷＡＣＣＡ公式サイトの「マイページ」で確認！"
-
-msgid "Nombre de titres"
-msgstr "称号数"
-
-msgid "Nombre d'icônes"
-msgstr "アイコン数"
-
-msgid "Nombre de dégagements"
-msgstr "クリア数"
-
-msgid "Numéro de combo complet"
-msgstr "フルコンボ数"
-
-msgid "nombre de maîtres"
-msgstr "マスター数"
-
-msgid "Échec de l'obtention du classement."
-msgstr "ランキングの取得に失敗しました。"
-
-msgid "R.P."
-msgstr "ＲＰ"
-
-msgid "Saison"
-msgstr "Ｓｅａｓｏｎ"
-
-msgid "page"
-msgstr "ページ"
-
-msgid "Taux de réussite"
-msgstr "達成率"
-
-msgid "Conditions d'acquisition des icônes"
-msgstr "アイコン獲得条件"
+msgstr ""
+msgid "詳細なランキングはＷＡＣＣＡ公式サイトの「マイページ」で確認！"
+msgstr ""
+msgid "称号数"
+msgstr ""
+msgid "アイコン数"
+msgstr ""
+msgid "クリア数"
+msgstr ""
+msgid "フルコンボ数"
+msgstr ""
+msgid "マスター数"
+msgstr ""
+msgid "ランキングの取得に失敗しました。"
+msgstr ""
+msgid "ＲＰ"
+msgstr ""
+msgid "Ｓｅａｓｏｎ"
+msgstr ""
+msgid "ページ"
+msgstr ""
+msgid "達成率"
+msgstr ""
+msgid "アイコン獲得条件"
+msgstr ""
