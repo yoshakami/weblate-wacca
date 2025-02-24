@@ -1,14 +1,14 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-15 11:02+0000\n"
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
 "Last-Translator: Yosh <yohgui29@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/wacca/"
 "userplatebackgroundmessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 msgid "défaut"
 msgstr ""
@@ -17,7 +17,7 @@ msgid "Propriété depuis le début"
 msgstr "Obtenu depuis le début"
 
 msgid "Élisabeth"
-msgstr ""
+msgstr "Élisabeth"
 
 msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
@@ -25,7 +25,7 @@ msgstr ""
 "Récompense obtenue"
 
 msgid "Lis"
-msgstr ""
+msgstr "Lily"
 
 msgid "riche"
 msgstr ""
@@ -46,13 +46,13 @@ msgid "Kiratto Puri☆chan"
 msgstr ""
 
 msgid "Hestia"
-msgstr ""
+msgstr "Hestia"
 
 msgid "\"Danmachi III × WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
 
 msgid "Yeux Wallenstein"
-msgstr ""
+msgstr "Ais Wallenstein"
 
 msgid "Sanaé"
 msgstr ""
@@ -61,22 +61,22 @@ msgid "Renouvellement « Touhou Fujinroku × WACCA »\r\nRécompense de réussit
 msgstr ""
 
 msgid "Pekora Usada"
-msgstr ""
+msgstr "Usada Pekora"
 
 msgid "« Hololive × WACCA » 2ème édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
 
 msgid "Miko Sakura"
-msgstr ""
+msgstr "Sakura Miko"
 
 msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
 
 msgid "Shirakami Fubuki"
-msgstr ""
+msgstr "Shirakami Fubuki"
 
 msgid "Hoshimachi Suisei"
-msgstr ""
+msgstr "Hoshimachi Suisei"
 
 msgid "ciel du temps"
 msgstr ""
@@ -88,7 +88,7 @@ msgid "AZKi"
 msgstr ""
 
 msgid "Seine"
-msgstr ""
+msgstr "Seine"
 
 msgid "\"Groove Coaster x WACCA\" 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
@@ -191,10 +191,10 @@ msgstr ""
 "Récompense obtenue"
 
 msgid "rune"
-msgstr ""
+msgstr "Rune"
 
 msgid "[Retour] Rune"
-msgstr ""
+msgstr "[EVIL] Rune"
 
 msgid "Chez WACCA BINGO\r\nA obtenu TOUT CLAIR 30 fois"
 msgstr ""
