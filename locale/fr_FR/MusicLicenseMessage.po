@@ -1,43 +1,72 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"musiclicensemessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "« VOCALOID » et « Vocaloid » sont des marques déposées de Yamaha Corporation."
 msgstr ""
+"« VOCALOID » et « Vocaloid » sont des marques déposées de Yamaha Corporation."
+
 msgid "VOCALOID et VOCALO sont des marques commerciales de Yamaha Corporation."
-msgstr ""
+msgstr "VOCALOID et VOCALO sont des marques commerciales de Yamaha Corporation."
+
 msgid "Sous licence Sony Music Records"
-msgstr ""
+msgstr "Licence déposée par Sony Music Records"
+
 msgid "ⓒ Comité de production Happy Elements K.K/Anste 2016"
-msgstr ""
+msgstr "ⓒ 2016 Comité de production Happy Elements K.K/Anste"
+
 msgid "2018 MAGES./KADOKAWA/Laboratoire des gadgets du futur"
-msgstr ""
+msgstr "2018 MAGES./KADOKAWA/Laboratoire des gadgets du futur"
+
 msgid "ⓒ2015 Chef de Sankaku/Shueisha/Comité de production « Himono Imouto !"
 msgstr ""
+"ⓒ2015 Chef de Sankaku/Shueisha/Comité de production « Himouto ! Umaru-chan »"
+
 msgid "ⓒOkawa Bukubu/Takeshobo/King Records"
-msgstr ""
+msgstr "©Okawa Bukubu/Takeshobo・King Records"
+
 msgid "ⓒProjet Kemono Friends 2A"
-msgstr ""
+msgstr "ⓒ Kemono Friends Project 2A"
+
 msgid "ⓒTaiki Kawakami, Fuse, Comité de production Kodansha/Tensura"
-msgstr ""
+msgstr "ⓒTaiki Kawakami, Fuse, Comité de production Kodansha/TenSura"
+
 msgid "ⓒ2017 Comité de production Natsume Akatsuki/Kurone Mishima/KADOKAWA/Konosuba 2"
 msgstr ""
+"ⓒ2017 Comité de production Natsume Akatsuki/Kurone Mishima/KADOKAWA/Konosuba "
+"2"
+
 msgid "ⓒComité de production Negi Haruba/Kodansha/« Les quintuplés quintessentiels » ¶PONY CANYON INC."
 msgstr ""
+
 msgid "ⓒEarth Star Divertissement"
 msgstr ""
+
 msgid "ⓒRÉÉDITION DES DOSSIERS"
 msgstr ""
+
 msgid "illustration de Hachi"
 msgstr ""
+
 msgid "ⓒAI, Inc."
 msgstr ""
+
 msgid "ⓒ INTERNET Co., Ltd. Tous droits réservés."
 msgstr ""
+
 msgid "ⓒVOCALOMAKETS Propulsé par Bumpy Factory Corporation."
 msgstr ""
+
 msgid "« Yukari Yuzuki » est une marque déposée de Bumpy Factory Co., Ltd."
 msgstr ""
+
 msgid "ⓒAHS Co. Ltd."
 msgstr ""
