@@ -1,85 +1,131 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"ngwordmessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "ANAL"
-msgstr ""
+msgstr "ANAL"
+
 msgid "Putain"
-msgstr ""
+msgstr "Putain"
+
 msgid "PUTAIN"
-msgstr ""
+msgstr "PUTAIN"
+
 msgid "FUCK"
-msgstr ""
+msgstr "PUTAIN"
+
 msgid "Merde"
-msgstr ""
+msgstr "Merde"
+
 msgid "MERDE"
-msgstr ""
+msgstr "MERDE"
+
 msgid "PÉDÉ"
-msgstr ""
+msgstr "PÉDÉ"
+
 msgid "PERSONNEL"
-msgstr ""
+msgstr "LA DIRECTION"
+
 msgid "DICK"
-msgstr ""
+msgstr "PENIS"
+
 msgid "QUEUE"
-msgstr ""
+msgstr "QUEUE"
+
 msgid "FUC`K"
-msgstr ""
+msgstr "PUTAIN"
+
 msgid "PUTAIN~K"
-msgstr ""
+msgstr "PUTAIN"
+
 msgid "TITES"
-msgstr ""
+msgstr "SEINS"
+
 msgid "VAGIN"
-msgstr ""
+msgstr "VAGIN"
+
 msgid "PUTES"
-msgstr ""
+msgstr "PUTES"
+
 msgid "YOUPIN"
-msgstr ""
+msgstr "YOUPIN"
+
 msgid "CHIENNE"
-msgstr ""
+msgstr "SALOPE"
+
 msgid "DICKS"
-msgstr ""
+msgstr "BITE"
+
 msgid "DI'CKS"
-msgstr ""
+msgstr "BITES"
+
 msgid "FUC'KY"
-msgstr ""
+msgstr "CHIENNE"
+
 msgid "FU'CKS"
-msgstr ""
+msgstr "CHIENNES"
+
 msgid "WACCAeur"
-msgstr ""
+msgstr "WACCAer"
+
 msgid "CONNARD"
-msgstr ""
+msgstr "CONNARD"
+
 msgid "SOUTIEN"
-msgstr ""
+msgstr "SUPPORT"
+
 msgid "BAISE"
-msgstr ""
+msgstr "BAISE"
+
 msgid "FUC'KIN"
-msgstr ""
+msgstr "ENCULER"
+
 msgid "FU'CKAS"
-msgstr ""
+msgstr "ENCULE"
+
 msgid "ENFOIRÉ"
-msgstr ""
+msgstr "ENFOIRÉ"
+
 msgid "éveiller"
-msgstr ""
+msgstr "AROUSING"
+
 msgid "Trou du cul"
-msgstr ""
+msgstr "TROUDUC"
+
 msgid "CONNUS"
-msgstr ""
+msgstr "CONNARDS"
+
 msgid "TOUT LE CUL"
-msgstr ""
+msgstr "TROUDUCUL"
+
 msgid "ASZHOLES"
-msgstr ""
+msgstr "ASZHOLES"
+
 msgid "TROUS D'AZZZ"
-msgstr ""
+msgstr "AZZHOLES"
+
 msgid "PUTAIN DE VISAGE"
-msgstr ""
+msgstr "FUCKFACE"
+
 msgid "OFFICIEL"
-msgstr ""
+msgstr "OFFICIAL"
+
 msgid "SEXUELLEMENT"
-msgstr ""
+msgstr "SEXUELLEMENT"
+
 msgid "FU'CKI~N"
-msgstr ""
+msgstr "SEXE"
+
 msgid "PUTAIN DE"
-msgstr ""
+msgstr "SEX"
+
 msgid "SE BRANLER"
-msgstr ""
+msgstr "BRANLETTE"
