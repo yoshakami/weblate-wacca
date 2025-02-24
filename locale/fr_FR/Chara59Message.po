@@ -1,99 +1,152 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"chara59message/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "【Hestia】<ANNONCER>"
-msgstr ""
+msgstr "【Hestia】<ADVERTISE>"
+
 msgid "C'est bien!"
 msgstr ""
+
 msgid "Ce ton."
 msgstr ""
+
 msgid "Juste un peu plus !"
 msgstr ""
+
 msgid "Dernière poussée !"
 msgstr ""
+
 msgid "N'est-ce pas une victoire facile ?"
 msgstr ""
+
 msgid "Le temps est révolu. Devons-nous continuer ?"
 msgstr ""
+
 msgid "Prêt, ok !"
 msgstr ""
+
 msgid "L'obtenir!"
 msgstr ""
+
 msgid "Quoi quoi ?"
 msgstr ""
+
 msgid "J'ai hâte d'y être ♪"
 msgstr ""
+
 msgid "Vous ne pouvez pas avancer sans avoir terminé la mission."
 msgstr ""
+
 msgid "Ouais! !"
 msgstr ""
+
 msgid "C'est impossible."
 msgstr ""
+
 msgid "jeu unique"
 msgstr ""
+
 msgid "multijoueur"
 msgstr ""
+
 msgid "mettre en scène"
-msgstr ""
+msgstr "Mode Défi (Stage Up)"
+
 msgid "boutique"
 msgstr ""
+
 msgid "Eh bien, allons-y !"
 msgstr ""
+
 msgid "Choisissez ensuite une chanson à jouer."
 msgstr ""
+
 msgid "Choisissez ensuite la chanson suivante."
 msgstr ""
+
 msgid "Choisissez ensuite la chanson suivante. C'est le dernier"
 msgstr ""
+
 msgid "Le temps restant n'est-il pas dangereux ?"
 msgstr ""
+
 msgid "Avis!"
 msgstr ""
+
 msgid "clair!"
 msgstr ""
+
 msgid "MissMoins ! !"
 msgstr ""
+
 msgid "Combinaison complète ! !"
 msgstr ""
+
 msgid "Tout merveilleux ! !"
 msgstr ""
+
 msgid "Je détourne trop le regard."
 msgstr ""
+
 msgid "Je suppose que ça continue de croître..."
 msgstr ""
+
 msgid "Ça fait du bien !"
 msgstr ""
+
 msgid "Quel score... c'est le meilleur ! !"
 msgstr ""
+
 msgid "Quel est ce score... c'est le meilleur ! !"
 msgstr ""
+
 msgid "Classé avec ma pièce actuelle... ? C'est incroyable ! !"
 msgstr ""
+
 msgid "Hein?"
 msgstr ""
+
 msgid "Bon travail. On se reverra, non ?"
 msgstr ""
+
 msgid "S'il vous plaît, souvenez-vous de moi quand vous rentrerez chez vous !"
 msgstr ""
+
 msgid "Collation! J'attends le prochain avec impatience ♪"
 msgstr ""
+
 msgid "Il y a une femme de chambre~♪"
 msgstr ""
+
 msgid "Voilà le résultat !"
 msgstr ""
+
 msgid "Yahoo♪ Etes-vous prêt ?"
 msgstr ""
+
 msgid "Bonus de connexion !"
 msgstr ""
+
 msgid "Et Sui-chan ?"
 msgstr ""
+
 msgid "Ravi de vous rencontrer!"
 msgstr ""
+
 msgid "Hé, ravi de te revoir !"
 msgstr ""
+
 msgid "Allez-vous toujours le faire ?"
 msgstr ""
+
 msgid "Je pensais que tu me choisirais !"
 msgstr ""
