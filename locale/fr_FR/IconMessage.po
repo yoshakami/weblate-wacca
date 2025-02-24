@@ -1,14 +1,14 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-02-15 11:02+0000\n"
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
 "Last-Translator: Yosh <yohgui29@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/wacca/iconmessage/"
 "fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 msgid "LOGO WACCA"
 msgstr ""
@@ -98,7 +98,7 @@ msgid "chansons\r\nJoué 100 fois"
 msgstr ""
 
 msgid "Élisabeth"
-msgstr ""
+msgstr "Élisabeth"
 
 msgid "chansons\r\nJoué 200 fois"
 msgstr ""
@@ -389,7 +389,7 @@ msgid "Rêve"
 msgstr ""
 
 msgid "Seine"
-msgstr ""
+msgstr "Seine"
 
 msgid "Éditeur de liens EX"
 msgstr ""
@@ -485,7 +485,7 @@ msgid "Je ◎ WACCA"
 msgstr ""
 
 msgid "Lis"
-msgstr ""
+msgstr "Lily"
 
 msgid "ENFER"
 msgstr ""
@@ -623,7 +623,7 @@ msgid "\"Danmachi III × WACCA\"\r\nporte d'événement\r\nRécompense de réuss
 msgstr ""
 
 msgid "Hestia"
-msgstr ""
+msgstr "Hestia"
 
 msgid "Welf Crozzo"
 msgstr ""
@@ -638,25 +638,25 @@ msgid "Sunjouno Haruhime"
 msgstr ""
 
 msgid "Yeux Wallenstein"
-msgstr ""
+msgstr "Ais Wallenstein"
 
 msgid "Pekora Usada"
-msgstr ""
+msgstr "Usada Pekora"
 
 msgid "« Hololive × WACCA » 2ème édition\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
 
 msgid "Miko Sakura"
-msgstr ""
+msgstr "Sakura Miko"
 
 msgid "« Hololive × WACCA » 2e édition\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
 
 msgid "Shirakami Fubuki"
-msgstr ""
+msgstr "Shirakami Fubuki"
 
 msgid "Hoshimachi Suisei"
-msgstr ""
+msgstr "Hoshimachi Suisei"
 
 msgid "Panique Pop☆Festival !!!"
 msgstr ""
@@ -931,13 +931,13 @@ msgid "pharaon"
 msgstr ""
 
 msgid "rune"
-msgstr ""
+msgstr "Rune"
 
 msgid "\" WACCA\r\nInverse\r\ngrille\"\r\nRécompense de réussite"
 msgstr ""
 
 msgid "[Retour] Rune"
-msgstr ""
+msgstr "[EVIL] Rune"
 
 msgid "Chez WACCA BINGO\r\nTOUT CLAIRE\r\nRéalisé 10 fois"
 msgstr ""
