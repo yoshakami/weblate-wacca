@@ -1,73 +1,113 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"stageupmessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "mettre en scène"
-msgstr ""
+msgstr "Mode Défi (Stage Up)"
+
 msgid "Description du mode"
-msgstr ""
+msgstr "Description"
+
 msgid "・Essayez de commencer par le niveau qui correspond à vos capacités !\r\n・ Jouez 3 chansons et assurez-vous que votre VIE n'atteint pas 0 !\r\n・Vérifiez les conditions de réduction de VIE lors de la sélection d'une étape !"
 msgstr ""
+
 msgid "------"
 msgstr ""
+
 msgid "Chanson de devoir"
 msgstr ""
+
 msgid "Liste des pistes"
 msgstr ""
+
 msgid "Étape I"
 msgstr ""
+
 msgid "Étape II"
 msgstr ""
+
 msgid "Stade III"
 msgstr ""
+
 msgid "Stade IV"
 msgstr ""
+
 msgid "Étape V"
 msgstr ""
+
 msgid "Stade VI"
 msgstr ""
+
 msgid "Stade VII"
 msgstr ""
+
 msgid "Stade VIII"
 msgstr ""
+
 msgid "Stade IX"
 msgstr ""
+
 msgid "Étape X"
 msgstr ""
+
 msgid "Étape XI"
 msgstr ""
+
 msgid "Stade XII"
 msgstr ""
+
 msgid "Stade XIII"
 msgstr ""
+
 msgid "Étape XIV"
 msgstr ""
+
 msgid "Fujinroku étape I"
 msgstr ""
+
 msgid "Fujinroku étape II"
 msgstr ""
+
 msgid "Fujinroku étape III"
 msgstr ""
+
 msgid "Échec de l'obtention des données utilisateur.\r\nRevenir au mode de sélection."
 msgstr ""
+
 msgid "ci-dessous"
 msgstr ""
+
 msgid "Forcer à quitter avec"
 msgstr ""
+
 msgid "A la fin de chaque chanson"
 msgstr ""
+
 msgid "récupération"
 msgstr ""
+
 msgid "SPURT Re:MIX Vol.1"
 msgstr ""
+
 msgid "SPURT Re:MIX Vol.2"
 msgstr ""
+
 msgid "SPURT Re:MIX Vol.3"
 msgstr ""
+
 msgid "BOSS Re:MIX Vol.1"
 msgstr ""
+
 msgid "BOSS Re:MIX Vol.2"
 msgstr ""
+
 msgid "BOSS Re:MIX Vol.3"
 msgstr ""
