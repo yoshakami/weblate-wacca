@@ -1,85 +1,131 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"chara60message/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "【Hestia】<ANNONCER>"
-msgstr ""
+msgstr "【Hestia】<ADVERTISE>"
+
 msgid "Comme prévu."
-msgstr ""
+msgstr "Comme prévu."
+
 msgid "A ce rythme"
-msgstr ""
+msgstr "Continuez ainsi!!"
+
 msgid "Faisons du Groove Coaster !"
-msgstr ""
+msgstr "Jouons à Groove Coaster !"
+
 msgid "Profitons-en jusqu'au bout."
-msgstr ""
+msgstr "Profitons-en jusqu'à la fin."
+
 msgid "Maintenant, allons-y."
-msgstr ""
+msgstr "Bien, commençons."
+
 msgid "Faites confiance au rythme et amusez-vous."
-msgstr ""
+msgstr "Faites confiance au rythme et amusez-vous."
+
 msgid "Félicitations."
-msgstr ""
+msgstr "Félicitations."
+
 msgid "Vous avez mérité votre récompense."
 msgstr ""
+
 msgid "Préparons-nous."
 msgstr ""
+
 msgid "La récompense est juste devant vous."
 msgstr ""
+
 msgid "N'est-ce pas étrange ?"
 msgstr ""
+
 msgid "Faisons de notre mieux."
 msgstr ""
+
 msgid "Je me demande ce que c'est"
 msgstr ""
+
 msgid "Choisissez le mode de jeu auquel vous souhaitez jouer."
 msgstr ""
+
 msgid "Choisissez la chanson que vous souhaitez jouer."
 msgstr ""
+
 msgid "Maintenant, que le jeu commence."
 msgstr ""
+
 msgid "Meilleur score mis à jour."
 msgstr ""
+
 msgid "Cliquez ici pour les dernières informations."
 msgstr ""
+
 msgid "Félicitations pour l'avoir effacé."
 msgstr ""
+
 msgid "merci pour votre travail acharné."
 msgstr ""
+
 msgid "Excellent travail."
 msgstr ""
+
 msgid "Parfait! ?"
 msgstr ""
+
 msgid "Jouez prudemment et essayez d’abord de réduire vos erreurs."
 msgstr ""
+
 msgid "Visons un score encore meilleur la prochaine fois."
 msgstr ""
+
 msgid "Faisons de notre mieux pour viser un score plus élevé."
 msgstr ""
+
 msgid "Quelle belle pièce !"
 msgstr ""
+
 msgid "Félicitations. Je l'ai cru."
 msgstr ""
+
 msgid "merci beaucoup.\r\nS'il vous plaît, revenez me voir."
 msgstr ""
+
 msgid "merci beaucoup.\r\nAttention à ne rien oublier."
 msgstr ""
+
 msgid "merci pour votre travail acharné. Il brillait."
 msgstr ""
+
 msgid "Maintenant, parcourons votre propre chemin lumineux !"
 msgstr ""
+
 msgid "merci."
 msgstr ""
+
 msgid "Les résultats sont annoncés."
 msgstr ""
+
 msgid "Faisons de notre mieux aujourd'hui également."
 msgstr ""
+
 msgid "S'il vous plaît, donnez-moi un cadeau."
 msgstr ""
+
 msgid "Je suis content de vous revoir."
 msgstr ""
+
 msgid "Fais de ton mieux, Seine-chan."
 msgstr ""
+
 msgid "Maintenant, juste pour toi\r\nCourons sur la route lumineuse !"
 msgstr ""
+
 msgid "C'est Seine, la navigatrice.\r\nMerci de m'avoir choisi."
 msgstr ""
