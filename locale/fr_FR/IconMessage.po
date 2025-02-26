@@ -1,719 +1,1084 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/iconmessage/"
+"fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 msgid "LOGO WACCA"
 msgstr ""
+
 msgid "Propriété depuis le début"
-msgstr ""
+msgstr "Obtenu depuis le début"
+
 msgid "Console WACCA"
 msgstr ""
+
 msgid "Rêve arc-en-ciel"
 msgstr ""
+
 msgid "de la chanson à gauche\r\nNORMALE\r\nDUR\r\nEXPERT\r\nUne fois chacun\r\nclair"
 msgstr ""
+
 msgid "Chevalier cavalier"
 msgstr ""
+
 msgid "Poséidon"
 msgstr ""
+
 msgid "PARALLÈLE★PRISME"
 msgstr ""
+
 msgid "Mémoriser"
 msgstr ""
+
 msgid "illanai-assortiment"
 msgstr ""
+
 msgid "Militaires"
 msgstr ""
+
 msgid "Battez-vous pour l'exploit CORE Daisuke."
 msgstr ""
+
 msgid "Laissez-vous PLONGER !"
 msgstr ""
+
 msgid "LEVATEiN avec Ayumi Nomiya"
 msgstr ""
+
 msgid "GROSSE TÊTE Cogner"
 msgstr ""
+
 msgid "Quon"
 msgstr ""
+
 msgid "FLAMME DE L'ENFER"
 msgstr ""
+
 msgid "Porte 1"
 msgstr ""
+
 msgid "Es-tu prêt"
 msgstr ""
+
 msgid "Au-dessus de ma main"
 msgstr ""
+
 msgid "Exitium"
 msgstr ""
+
 msgid "ÉTOILE"
 msgstr ""
+
 msgid "chansons\r\nJoué 5 fois"
 msgstr ""
+
 msgid "Débloqueur"
 msgstr ""
+
 msgid "chansons\r\n20 chansons\r\nouvrir"
 msgstr ""
+
 msgid "Plume"
 msgstr ""
+
 msgid "chansons\r\nEffacé 50 fois"
 msgstr ""
+
 msgid "Ce mec"
 msgstr ""
+
 msgid "chansons\r\nJoué 100 fois"
 msgstr ""
+
 msgid "Élisabeth"
-msgstr ""
+msgstr "Élisabeth"
+
 msgid "chansons\r\nJoué 200 fois"
 msgstr ""
+
 msgid "Hannya"
 msgstr ""
+
 msgid "Au niveau de difficulté DIFFICILE ou supérieur\r\nTarif SS ou supérieur\r\nObtenu 5 chansons"
 msgstr ""
+
 msgid "Engrenage"
 msgstr ""
+
 msgid "Au niveau de difficulté DIFFICILE ou supérieur\r\nCombinaison complète\r\nObtenu 8 fois"
 msgstr ""
+
 msgid "Impulsion"
 msgstr ""
+
 msgid "Au niveau de difficulté DIFFICILE ou supérieur\r\nTOUT Merveilleux\r\nréalisation"
 msgstr ""
+
 msgid "Tout cela pendant une seule pièce\r\nchansons\r\nAu niveau de difficulté DIFFICILE ou supérieur\r\ntaux sss\r\nréalisation"
 msgstr ""
+
 msgid "Bienvenue au paradis"
 msgstr ""
+
 msgid "Tout cela pendant une seule pièce\r\nchansons\r\nAu niveau de difficulté DIFFICILE ou supérieur\r\nCombinaison complète\r\nréalisation"
 msgstr ""
+
 msgid "Kare - Jugement"
 msgstr ""
+
 msgid "Tout cela pendant une seule pièce\r\nDifficulté de la chanson\r\nEXPERT\r\nTOUT Merveilleux\r\nréalisation"
 msgstr ""
+
 msgid "TANO＊C"
 msgstr ""
+
 msgid "HARDCORE TANO*C\r\nchansons d'étiquette\r\nJoué 50 fois"
 msgstr ""
+
 msgid "Jeu inactif"
 msgstr ""
+
 msgid "Tarif D\r\nRéalisé une fois"
 msgstr ""
+
 msgid "Iatu"
 msgstr ""
+
 msgid "Au niveau de difficulté DIFFICILE ou supérieur\r\nJugement : « MANQUE 1 »\r\net tout ce qui reste\r\nJugement\r\nDans \"Merveilleux\"\r\nclair"
 msgstr ""
+
 msgid "chat suffisant"
 msgstr ""
+
 msgid "Noter SSS\r\nRéalisé 150 fois"
 msgstr ""
+
 msgid "chien triste"
 msgstr ""
+
 msgid "Tarif A ou inférieur\r\nRéalisé deux fois"
 msgstr ""
+
 msgid "\"anneau\""
 msgstr ""
+
 msgid "Multijoueur\r\njouer une fois"
 msgstr ""
+
 msgid "ATARAX1A"
 msgstr ""
+
 msgid "13 ânes"
 msgstr ""
+
 msgid "Frénésie invisible"
 msgstr ""
+
 msgid "ADAM"
 msgstr ""
+
 msgid "Char"
 msgstr ""
+
 msgid "Mes rêves sont infinis"
 msgstr ""
+
 msgid "Plus haut"
 msgstr ""
+
 msgid "GRiDGALAXIE"
 msgstr ""
+
 msgid "BOUM ! BOUM !!"
 msgstr ""
+
 msgid "Chimère sonore"
 msgstr ""
+
 msgid "Soleil"
 msgstr ""
+
 msgid "Dorothée"
 msgstr ""
+
 msgid "`` Inverser\r\nboîte\"\r\ngagné de"
 msgstr ""
+
 msgid "Reimu"
 msgstr ""
+
 msgid "« Projet Touhou × WACCA »\r\nRenouvellement « Touhou Fujinroku × WACCA »\r\nrécompense d'événement"
 msgstr ""
+
 msgid "Marisa"
 msgstr ""
+
 msgid "Kizuna IA"
 msgstr ""
+
 msgid "Les chansons seront diffusées lors de l'événement « Kizuna AI × WACCA ».\r\nJoué 5 fois\r\nGagnez avec"
 msgstr ""
+
 msgid "Kizuna AI (A.I.Games)"
 msgstr ""
+
 msgid "Les chansons seront diffusées lors de l'événement « Kizuna AI × WACCA ».\r\nJouez 10 fois\r\nGagnez avec"
 msgstr ""
+
 msgid "Kizuna AI (suffisant)"
 msgstr ""
+
 msgid "Les chansons seront diffusées lors de l'événement « Kizuna AI × WACCA ».\r\nJoué 20 fois\r\nGagnez avec"
 msgstr ""
+
 msgid "MORT DE JINGLE"
 msgstr ""
+
 msgid "Furisode Elizabeth"
 msgstr ""
+
 msgid "Pendant la période ci-dessous\r\nGagnez en jouant\r\n01/01/2020\r\n 07h00～\r\n20/01/2020\r\n 06h59"
 msgstr ""
+
 msgid "badge"
 msgstr ""
+
 msgid "\" WACCA S.\r\ngrille\"\r\nRécompense de réussite"
 msgstr ""
+
 msgid "emblème"
 msgstr ""
+
 msgid "〇〇porte\r\nObtenez X en effaçant"
 msgstr ""
+
 msgid "Mettez en scène la conquête du « I »"
 msgstr ""
+
 msgid "mettre en scène\r\nÉtape I\r\nclair"
 msgstr ""
+
 msgid "Conquérir le Stage Up « II »"
 msgstr ""
+
 msgid "mettre en scène\r\nÉtape II\r\nclair"
 msgstr ""
+
 msgid "Conquérir le Stage Up « III »"
 msgstr ""
+
 msgid "mettre en scène\r\nStade III\r\nclair"
 msgstr ""
+
 msgid "Conquérir le Stage Up « IV »"
 msgstr ""
+
 msgid "mettre en scène\r\nStade IV\r\nclair"
 msgstr ""
+
 msgid "Mettez en scène la conquête « V »"
 msgstr ""
+
 msgid "mettre en scène\r\nÉtape V\r\nclair"
 msgstr ""
+
 msgid "Conquérir le niveau supérieur « VI »"
 msgstr ""
+
 msgid "mettre en scène\r\nStade VI\r\nclair"
 msgstr ""
+
 msgid "Stage de conquête « VII »"
 msgstr ""
+
 msgid "mettre en scène\r\nStade VII\r\nclair"
 msgstr ""
+
 msgid "Stage de conquête « VIII »"
 msgstr ""
+
 msgid "mettre en scène\r\nStade VIII\r\nclair"
 msgstr ""
+
 msgid "Conquérir le Stage Up « IX »"
 msgstr ""
+
 msgid "mettre en scène\r\nStade IX\r\nclair"
 msgstr ""
+
 msgid "Mettez en scène la conquête « X »"
 msgstr ""
+
 msgid "mettre en scène\r\nÉtape X\r\nclair"
 msgstr ""
+
 msgid "Stage de conquête « XI »"
 msgstr ""
+
 msgid "mettre en scène\r\nÉtape XI\r\nclair"
 msgstr ""
+
 msgid "Conquérir le Stage Up « XII »"
 msgstr ""
+
 msgid "mettre en scène\r\nStade XII\r\nclair"
 msgstr ""
+
 msgid "Stage de conquête « XIII »"
 msgstr ""
+
 msgid "mettre en scène\r\nStade XIII\r\nclair"
 msgstr ""
+
 msgid "Mettez en scène la conquête « XIV »"
 msgstr ""
+
 msgid "mettre en scène\r\nÉtape XIV\r\nclair"
 msgstr ""
+
 msgid "ciel du temps"
 msgstr ""
+
 msgid "« Hololive × WACCA »\r\n« Hololive × WACCA » 2e édition\r\nrécompense d'événement"
 msgstr ""
+
 msgid "AZKi"
 msgstr ""
+
 msgid "«Hololive x WACCA»\r\n« Hololive × WACCA » 2ème édition\r\nrécompense d'événement"
 msgstr ""
+
 msgid "Toki no Sora (édition live)"
 msgstr ""
+
 msgid "AZKi (édition live)"
 msgstr ""
+
 msgid "Ce type (REDALiCE ver)"
 msgstr ""
+
 msgid "\"JAEPO\r\n 2020 »\r\nStand WACCA\r\nAvantages pour les visiteurs"
 msgstr ""
+
 msgid "Murasaki"
 msgstr ""
+
 msgid "Mazy Métroplex"
 msgstr ""
+
 msgid "Sanaé"
 msgstr ""
+
 msgid "\"Touhou Fujinroku × WACCA\"\r\nRenouvellement « Touhou Fujinroku × WACCA »\r\nrécompense d'événement"
 msgstr ""
+
 msgid "éditeur de liens"
 msgstr ""
+
 msgid "\"Groove Coaster x WACCA\"\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Rêve"
 msgstr ""
+
 msgid "Seine"
-msgstr ""
+msgstr "Seine"
+
 msgid "Éditeur de liens EX"
 msgstr ""
+
 msgid "Yume EX"
 msgstr ""
+
 msgid "Seine EX"
 msgstr ""
+
 msgid "GC CRABE"
 msgstr ""
+
 msgid "Puissance cérébrale"
 msgstr ""
+
 msgid "Parfum fraise Sakuranomiya"
 msgstr ""
+
 msgid "« Mélange S × WACCA »\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Kaho Hinata"
 msgstr ""
+
 msgid "Mayu Hoshikawa"
 msgstr ""
+
 msgid "Miu Amano"
 msgstr ""
+
 msgid "«Mélanger S x WACCA»\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Hideri Kanzaki"
 msgstr ""
+
 msgid "Feuilles d'automne d'Akizuki"
 msgstr ""
+
 msgid "Dinosaure"
 msgstr ""
+
 msgid "DORO*C"
 msgstr ""
+
 msgid "\"Colisée Tanosee\"\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "IRRÉNA"
 msgstr ""
+
 msgid "Métamorphose"
 msgstr ""
+
 msgid "MAGiC4LG1RL M3GA S7R1KE!"
 msgstr ""
+
 msgid "ÉCLAT DE MÉTÉORE"
 msgstr ""
+
 msgid "XTRÊME"
 msgstr ""
+
 msgid "halo d'ange"
 msgstr ""
+
 msgid "avec toi"
 msgstr ""
+
 msgid "SUPER RÉACTEUR"
 msgstr ""
+
 msgid "Appariement ONOMATO !!!"
 msgstr ""
+
 msgid "GÉNOCIDE"
 msgstr ""
+
 msgid "Profitez du groupe"
 msgstr ""
+
 msgid "\"WACCA Lily\r\ngrille\"\r\nRécompense de réussite"
 msgstr ""
+
 msgid "De vraies personnes"
 msgstr ""
+
 msgid "Dieu"
 msgstr ""
+
 msgid "Je ◎ WACCA"
 msgstr ""
+
 msgid "Lis"
-msgstr ""
+msgstr "Lily"
+
 msgid "ENFER"
 msgstr ""
+
 msgid "Terminer la difficulté INFERNO une fois"
 msgstr ""
+
 msgid "couronne"
 msgstr ""
+
 msgid "saison 2\r\ntous les trophées\r\nacquisition"
 msgstr ""
+
 msgid "bouquet"
 msgstr ""
+
 msgid "Acquisition cumulée\r\nPoints de lys\r\nA atteint 100 000"
 msgstr ""
+
 msgid "Akire"
 msgstr ""
+
 msgid "\"Boîte à Lys\"\r\ngagné de"
 msgstr ""
+
 msgid "Shinri d'Uchuu"
 msgstr ""
+
 msgid "C'est devenu détrempé"
 msgstr ""
+
 msgid "Étendre"
 msgstr ""
+
 msgid "Taku"
 msgstr ""
+
 msgid "exposition"
 msgstr ""
+
 msgid "Dramatique"
 msgstr ""
+
 msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Avantages VIP"
+
 msgid "Jikoshucho"
 msgstr ""
+
 msgid "collation"
 msgstr ""
+
 msgid "Oh ouais"
 msgstr ""
+
 msgid "Le \"Standard\" de Wakao Reese"
 msgstr ""
+
 msgid "Le \"Désespoir\" de Wakao Rishi"
 msgstr ""
+
 msgid "\"Impatient\" de Wa-kao Rishi"
 msgstr ""
+
 msgid "\"Suiri\" de Wa-kao Rishi"
 msgstr ""
+
 msgid "Wah-kao Rishizu \"J'ai été touché\""
 msgstr ""
+
 msgid "\"Délicieux\" de Wakao Rishi"
 msgstr ""
+
 msgid "\"Kimari\" de Wakao Rishi"
 msgstr ""
+
 msgid "La « considération » de Wakao Reese"
 msgstr ""
+
 msgid "\"Vers le ciel\" de Wakao Rishi"
 msgstr ""
+
 msgid "\"Maikao\" de Wakkao Rishi"
 msgstr ""
+
 msgid "\"Bave\" de Wakkao Rishi"
 msgstr ""
+
 msgid "\"Glassan\" de Wakao Rishi"
 msgstr ""
+
 msgid "\"Yuetsu\" de Wakao Reese"
 msgstr ""
+
 msgid "Les « yeux blancs » de Wakkao Rishi"
 msgstr ""
+
 msgid "sœur cadette"
 msgstr ""
+
 msgid "Naru Ayase"
 msgstr ""
+
 msgid "« Jolie série x WACCA »\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Un Fukuhara"
 msgstr ""
+
 msgid "Suzuno et"
 msgstr ""
+
 msgid "Laala Manaka"
 msgstr ""
+
 msgid "Mirei Minami"
 msgstr ""
+
 msgid "Hojo Sophie"
 msgstr ""
+
 msgid "L'avenir de Momoyama"
 msgstr ""
+
 msgid "Moegi Emo"
 msgstr ""
+
 msgid "Rinka Aoba"
 msgstr ""
+
 msgid "cran de cloche"
 msgstr ""
+
 msgid "\"Danmachi III × WACCA\"\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Hestia"
-msgstr ""
+msgstr "Hestia"
+
 msgid "Welf Crozzo"
 msgstr ""
+
 msgid "Liliruka Aadé"
 msgstr ""
+
 msgid "La vie de Yamato"
 msgstr ""
+
 msgid "Sunjouno Haruhime"
 msgstr ""
+
 msgid "Yeux Wallenstein"
-msgstr ""
+msgstr "Ais Wallenstein"
+
 msgid "Pekora Usada"
-msgstr ""
+msgstr "Usada Pekora"
+
 msgid "« Hololive × WACCA » 2ème édition\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Miko Sakura"
-msgstr ""
+msgstr "Sakura Miko"
+
 msgid "« Hololive × WACCA » 2e édition\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Shirakami Fubuki"
-msgstr ""
+msgstr "Shirakami Fubuki"
+
 msgid "Hoshimachi Suisei"
-msgstr ""
+msgstr "Hoshimachi Suisei"
+
 msgid "Panique Pop☆Festival !!!"
 msgstr ""
+
 msgid "Elizabeth (Point)"
 msgstr ""
+
 msgid "« Groove Coaster x WACCA » 2e édition\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Lily (Point)"
 msgstr ""
+
 msgid "\"Groove Coaster x WACCA\" 2e édition\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Nuit Chauve -Psylent Crazy Night-"
 msgstr ""
+
 msgid "licorne"
 msgstr ""
+
 msgid "Libérer"
 msgstr ""
+
 msgid "Animosité"
 msgstr ""
+
 msgid "Big Bang"
 msgstr ""
+
 msgid "Moé"
 msgstr ""
+
 msgid "\"Boîte R\"\r\ngagné de"
 msgstr ""
+
 msgid "Vous WACCA êtes si bons"
 msgstr ""
+
 msgid "Konseki"
 msgstr ""
+
 msgid "Shingeki"
 msgstr ""
+
 msgid "anonyme"
 msgstr ""
+
 msgid "rythme"
 msgstr ""
+
 msgid "vortex"
 msgstr ""
+
 msgid "triangle"
 msgstr ""
+
 msgid "oeuf au plat"
 msgstr ""
+
 msgid "Jumeaux grillés"
 msgstr ""
+
 msgid "Wakaba"
 msgstr ""
+
 msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
 msgstr ""
+"«Portail WACCA Lily R Gate»\n"
+"Récompense obtenue"
+
 msgid "Michaku"
 msgstr ""
+
 msgid "Vivons !"
 msgstr ""
+
 msgid "amis\r\nAfficher le score\r\nEnsemble 3 personnes"
 msgstr ""
+
 msgid "SECOUER!"
 msgstr ""
+
 msgid "DISJONCTEUR DOUBLE XX"
 msgstr ""
+
 msgid "Rituel"
 msgstr ""
+
 msgid "«Lanota × WACCA»\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "poisson"
 msgstr ""
+
 msgid "Néron"
 msgstr ""
+
 msgid "Rossa"
 msgstr ""
+
 msgid "gorille"
 msgstr ""
+
 msgid "Rémilia Écarlate"
 msgstr ""
+
 msgid "« Touhou Koumakyo × WACCA »\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Flandre écarlate"
 msgstr ""
+
 msgid "« Touhou Koumakyo x WACCA »\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Lien Aimoto"
 msgstr ""
+
 msgid "\"D4DJ\r\nMélange groovy\r\n ×WACCA”\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Masahide Akashi"
 msgstr ""
+
 msgid "\"D4DJ\r\nMélange groovy\r\n × WACCA”\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Muni Onaruto"
 msgstr ""
+
 msgid "Rei Tozuki"
 msgstr ""
+
 msgid "Kyoko Yamate"
 msgstr ""
+
 msgid "Shinobu Inuyori"
 msgstr ""
+
 msgid "Sasoko・Jennifer・Yuka"
 msgstr ""
+
 msgid "Shimizu Ezora"
 msgstr ""
+
 msgid "Izumo Sakihime"
 msgstr ""
+
 msgid "Niijima Kinumaki"
 msgstr ""
+
 msgid "Hanamaki Otowa"
 msgstr ""
+
 msgid "Fukushima Noé"
 msgstr ""
+
 msgid "Raffy"
 msgstr ""
+
 msgid "``Azur Lane\r\n ×WACCA”\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "cleveland"
 msgstr ""
+
 msgid "``Azur Lane\r\n × WACCA”\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "entreprise"
 msgstr ""
+
 msgid "\"La voie d'Azur\"\r\n × WACCA”\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "javelot"
 msgstr ""
+
 msgid "Illustre"
 msgstr ""
+
 msgid "Belfast"
 msgstr ""
+
 msgid "Z23"
 msgstr ""
+
 msgid "Amiral Hipper"
 msgstr ""
+
 msgid "Prince Eugène"
 msgstr ""
+
 msgid "Ayanami"
 msgstr ""
+
 msgid "Kaohsiung"
 msgstr ""
+
 msgid "Akagi"
 msgstr ""
+
 msgid "Elisabeth (2ème ANNIVERSAIRE)"
 msgstr ""
+
 msgid "WACCA 2ème anniversaire !\r\njoue toujours\r\nMerci d'avoir fait ça\r\nmerci!\r\nJouer pendant la période"
 msgstr ""
+
 msgid "Lily (2ème ANNIVERSAIRE)"
 msgstr ""
+
 msgid "VEILLE"
 msgstr ""
+
 msgid "Eden"
 msgstr ""
+
 msgid "Silentphobie"
 msgstr ""
+
 msgid "Bonjour, c'est ARuFa."
 msgstr ""
+
 msgid "Sansara!"
 msgstr ""
+
 msgid "Jiman"
 msgstr ""
+
 msgid "Chaud"
 msgstr ""
+
 msgid "Shogeki"
 msgstr ""
+
 msgid "Bonjour"
 msgstr ""
+
 msgid "Enfer"
 msgstr ""
+
 msgid "amoureux"
 msgstr ""
+
 msgid "limace"
 msgstr ""
+
 msgid "Moineau de Java"
 msgstr ""
+
 msgid "Thon"
 msgstr ""
+
 msgid "baron du cheval"
 msgstr ""
+
 msgid "Super ruée vers MANJI"
 msgstr ""
+
 msgid "Méta-Mystère"
 msgstr ""
+
 msgid "Ouverture"
 msgstr ""
+
 msgid "rose"
 msgstr ""
+
 msgid "pharaon"
 msgstr ""
+
 msgid "rune"
-msgstr ""
+msgstr "Rune"
+
 msgid "\" WACCA\r\nInverse\r\ngrille\"\r\nRécompense de réussite"
 msgstr ""
+
 msgid "[Retour] Rune"
-msgstr ""
+msgstr "[EVIL] Rune"
+
 msgid "Chez WACCA BINGO\r\nTOUT CLAIRE\r\nRéalisé 10 fois"
 msgstr ""
+
 msgid "inverse"
 msgstr ""
+
 msgid "infini"
 msgstr ""
+
 msgid "Aie!"
 msgstr ""
+
 msgid "lumière"
 msgstr ""
+
 msgid "\"Arcée × WACCA\"\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "conflit"
 msgstr ""
+
 msgid "Saïa"
 msgstr ""
+
 msgid "\"Arcée x WACCA\"\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Karité"
 msgstr ""
+
 msgid "DORO*C (flux)"
 msgstr ""
+
 msgid "« TANO*C EX*Stream »\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "IRRENA(Stream)"
 msgstr ""
+
 msgid "Lin - Bassiste -"
 msgstr ""
+
 msgid "«Muse Dash x WACCA»\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Rin - Mauvaise fille -"
 msgstr ""
+
 msgid "Rin - Fille somnambule -"
 msgstr ""
+
 msgid "Coup - Pilote -"
 msgstr ""
+
 msgid "Coup - Joker -"
 msgstr ""
+
 msgid "Coup - Idole -"
 msgstr ""
+
 msgid "«Muse Dash × WACCA»\r\nporte d'événement\r\nRécompense de réussite"
 msgstr ""
+
 msgid "Mariya - Violoniste -"
 msgstr ""
+
 msgid "Mariya - Femme de ménage -"
 msgstr ""
+
 msgid "Mary - Reine en noir -"
 msgstr ""
+
 msgid "EPHMR"
 msgstr ""
+
 msgid "JUNGLE DANGEREUSE"
 msgstr ""
+
 msgid "Pirate dimensionnel"
 msgstr ""
+
 msgid "Empereur cramoisi"
 msgstr ""
+
 msgid "Elizabeth (SPURT)"
 msgstr ""
+
 msgid "dernière poussée\r\nrécompense d'événement"
 msgstr ""
+
 msgid "Lily (SPURT)"
 msgstr ""
+
 msgid "Rune (SPURTE)"
 msgstr ""
+
 msgid "[Retour] Rune (SPURT)"
 msgstr ""
+
 msgid "Getty"
 msgstr ""
+
 msgid "1er avril au 8 avril\r\nGagnez en jouant"
 msgstr ""
+
 msgid "pattes"
 msgstr ""
+
 msgid "WACCA"
 msgstr ""
+
 msgid "WACCA Lily"
 msgstr ""
+
 msgid "WACCA Inverse"
 msgstr ""
+
 msgid "Elisabeth (Finale)"
 msgstr ""
+
 msgid "mettre en scène\r\n« BOSS Re:MIX Vol.1 »\r\nclair"
 msgstr ""
+
 msgid "Lily (Finale)"
 msgstr ""
+
 msgid "mettre en scène\r\n« BOSS Re:MIX Vol.2 »\r\nclair"
 msgstr ""
+
 msgid "Rune (finale)"
 msgstr ""
+
 msgid "mettre en scène\r\n« BOSS Re:MIX Vol.3 »\r\nclair"
 msgstr ""
+
 msgid "Mobius"
 msgstr ""
+
 msgid "PLONGEZ avec Ü"
 msgstr ""
+
 msgid "Jouez à DIVE avec Ü une fois"
 msgstr ""

@@ -1,91 +1,160 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"bingomissionconditionmessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 msgid "Jouer des chansons du genre \"<V1>\" <V2> fois"
-msgstr ""
+msgstr "Jouer des musiques du genre «<V1>» <V2> fois"
+
 msgid "Jouez la chanson dans la ligne « <V1> »"
-msgstr ""
+msgstr "Jouer une musique dans la ligne « <V1> »"
+
 msgid "Jouer une chanson avec un niveau de difficulté <V1> <V2> fois"
-msgstr ""
+msgstr "Jouer une musique au niveau <V1> <V2> fois"
+
 msgid "Jouer une chanson avec un niveau de difficulté <V1> ou supérieur <V2> fois"
-msgstr ""
+msgstr "Jouer une musique au niveau <V1> ou supérieur <V2> fois"
+
 msgid "Chansons terminées avec un niveau de difficulté <V1> <V2> fois"
-msgstr ""
+msgstr "Réussir une musique de difficulté <V1> <V2> fois"
+
 msgid "Terminer les chansons avec un niveau de difficulté <V1> ou supérieur <V2> fois"
-msgstr ""
+msgstr "Réussir une musique au niveau <V1> ou supérieur <V2> fois"
+
 msgid "Chansons du genre « <V1> »\r\nJoué <V3> fois en difficulté <V2>"
 msgstr ""
+"Jouer <V3> fois une musique\n"
+"du genre « <V1> » au niveau <V2>"
+
 msgid "Chansons du genre « <V1> »\r\nJoué <V3> fois au niveau de difficulté <V2> ou supérieur"
 msgstr ""
+"Jouer <V3> fois une musique du genre\n"
+"« <V1> » au niveau <V2> ou supérieur"
+
 msgid "Chansons du genre « <V1> »\r\nTerminé <V3> fois en difficulté <V2>"
 msgstr ""
+"Réussir <V3> fois une musique du genre\n"
+"« <V1> » au niveau <V2>"
+
 msgid "Chansons du genre « <V1> »\r\nTerminer <V3> fois au niveau de difficulté <V2> ou supérieur"
 msgstr ""
+"Réussir <V3> fois une musique du genre\n"
+"« <V1> » au niveau <V2> ou supérieur"
+
 msgid "Chansons du genre « <V1> »\r\nNiveau de difficulté <V2>, taux <V3> ou supérieur\r\nEffacé <V4> fois"
 msgstr ""
+"Réussir <V4> fois des musiques du genre\n"
+"« <V1> » au moins en <V3>\n"
+"à minima en <V2>"
+
 msgid "Chansons du genre « <V1> »\r\nNiveau de difficulté <V2> ou supérieur, taux <V3> ou supérieur\r\nEffacé <V4> fois"
 msgstr ""
+"Réussir <V4> fois une musique du genre\n"
+"« <V1> » au moins en <V3>\n"
+"à minima en <V2>"
+
 msgid "Chansons du genre « <V1> »\r\nTerminez le combo complet au niveau de difficulté <V2>"
 msgstr ""
+"Réussir une musique du genre « <V1> »\n"
+"en Full Combo au niveau <V2>"
+
 msgid "Chansons du genre « <V1> »\r\nTerminez le combo complet au niveau de difficulté <V2> ou supérieur"
 msgstr ""
+"Réussir une musique du genre « <V1> »\n"
+"En Full Combo au niveau <V2> ou supérieur"
+
 msgid "Jouer la chanson par artiste « <V1> » <V2> fois"
-msgstr ""
+msgstr "Jouer une musique de l'artiste « <V1> » <V2> fois"
+
 msgid "Effacer la chanson de l'artiste \"<V1>\" <V2> fois"
-msgstr ""
+msgstr "Réussir une musique de l'artiste « <V1> » <V2> fois"
+
 msgid "Chansons de l'artiste « <V1> »\r\nTerminé <V3> fois en difficulté <V2>"
 msgstr ""
+"Réussir une musique de l'artiste\n"
+"« <V1> » <V3> fois en difficulté <V2>"
+
 msgid "Chansons de l'artiste « <V1> »\r\nTerminer <V3> fois au niveau de difficulté <V2> ou supérieur"
 msgstr ""
+
 msgid "Effacez la chanson <V2> fois avec une note de <V1> ou supérieure"
 msgstr ""
+
 msgid "Effacer une chanson <V2> fois avec un combo <V1> ou supérieur"
-msgstr ""
+msgstr "Réussir une musique <V2> fois avec un combo de <V1> ou supérieur"
+
 msgid "Effacez la chanson ci-dessous Miss<V1>"
-msgstr ""
+msgstr "Réussir une musique avec <V1> Miss maximum"
+
 msgid "Effacez la chanson <V1> fois avec Missless ou supérieur"
-msgstr ""
+msgstr "Réussur une musique <V1> fois au rang Missless ou supérieur"
+
 msgid "Effacez la chanson <V1> fois avec un combo complet"
-msgstr ""
+msgstr "Réussir <V1> musiques avec un combo complet"
+
 msgid "Terminez la chanson avec All Marvelous <V1> fois"
-msgstr ""
+msgstr "Réussir une musique <V1> fois au rang All Marvelous"
+
 msgid "Jouez des chansons avec un niveau de difficulté Lv.<V1> ou supérieur."
 msgstr ""
+
 msgid "Terminez une chanson avec un niveau de difficulté Lv.<V1> ou supérieur"
 msgstr ""
+
 msgid "Changez l'icône et jouez"
 msgstr ""
+
 msgid "Changer le titre et jouer"
 msgstr ""
+
 msgid "Changer d'assiette et jouer"
 msgstr ""
+
 msgid "Changer de navigateur et jouer"
 msgstr ""
+
 msgid "Acquérir les icônes <V1>"
 msgstr ""
+
 msgid "Acquérir les titres <V1>"
 msgstr ""
+
 msgid "Obtenir des <V1> RP cumulés"
 msgstr ""
+
 msgid "Score cumulé de lecture de chanson obtenu <V1>"
 msgstr ""
+
 msgid "Combo cumulatif <V1> réalisé"
 msgstr ""
+
 msgid "Atteint un BON cumulatif ou supérieur <V1>"
 msgstr ""
+
 msgid "Score cumulé EXCELLENT ou supérieur obtenu <V1>"
 msgstr ""
+
 msgid "Cumul MERVEILLEUX atteint <V1>"
 msgstr ""
+
 msgid "Ajouter des chansons aux favoris"
 msgstr ""
+
 msgid "Défi de passer au niveau supérieur"
 msgstr ""
+
 msgid "Jouer à WACCA <V1> fois"
 msgstr ""
+
 msgid "Effacer les réglages des rétroviseurs <V1> fois avec \"Rétroviseurs gauche et droit\""
 msgstr ""
+
 msgid "Effacer les chansons avec un BPM<V1> ou des temps <V2> supérieurs"
 msgstr ""

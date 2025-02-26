@@ -1,29 +1,47 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"navigatecharactermessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Élisabeth"
-msgstr ""
+msgstr "Élisabeth"
+
 msgid "Lis"
-msgstr ""
+msgstr "Lily"
+
 msgid "Hestia"
-msgstr ""
+msgstr "Hestia"
+
 msgid "Yeux Wallenstein"
-msgstr ""
+msgstr "Ais Wallenstein"
+
 msgid "Pekora Usada"
-msgstr ""
+msgstr "Usada Pekora"
+
 msgid "Miko Sakura"
-msgstr ""
+msgstr "Sakura Miko"
+
 msgid "Shirakami Fubuki"
-msgstr ""
+msgstr "Shirakami Fubuki"
+
 msgid "Hoshimachi Suisei"
-msgstr ""
+msgstr "Hoshimachi Suisei"
+
 msgid "Seine"
-msgstr ""
+msgstr "Seine"
+
 msgid "Les gars de Tanoshi"
-msgstr ""
+msgstr "La bande Tano-C"
+
 msgid "rune"
-msgstr ""
+msgstr "Rune"
+
 msgid "[Retour] Rune"
-msgstr ""
+msgstr "[EVIL] Rune"

@@ -1,77 +1,139 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-15 11:02+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"attacksemessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10\n"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Par défaut (WACCA Lily R)"
-msgstr ""
+msgstr "Par défaut (WACCA Lily R)"
+
 msgid "Propriété depuis le début"
-msgstr ""
+msgstr "Obtenu depuis le début"
+
 msgid "bois"
-msgstr ""
+msgstr "Bois"
+
 msgid "Augmenter le niveau du joueur à 4"
-msgstr ""
+msgstr "Atteignez le niveau 4"
+
 msgid "lumière des étoiles"
-msgstr ""
+msgstr "Lumière des étoiles"
+
 msgid "Jouez la chanson 40 fois"
-msgstr ""
+msgstr "Jouer une musique 40 fois"
+
 msgid "J-tambour"
-msgstr ""
+msgstr "J-Drum"
+
 msgid "Effacez la chanson 80 fois"
-msgstr ""
+msgstr "Réussir la musique 80 fois"
+
+#, fuzzy
 msgid "conduire"
-msgstr ""
+msgstr "Démarrer"
+
 msgid "Au niveau de difficulté EXPERT\r\nVous avez réussi TOUT Merveilleux 3 fois."
 msgstr ""
+"Réussir 3 musiques en\n"
+"All Marvelous au niveau EXPERT"
+
 msgid "Taper"
-msgstr ""
+msgstr "Applaudissements"
+
 msgid "Jouez la chanson 20 fois"
-msgstr ""
+msgstr "Jouer une musique 20 fois"
+
+#, fuzzy
 msgid "Parc Wanyan"
-msgstr ""
+msgstr "Parc Wan-nyan"
+
 msgid "Au niveau de difficulté EXPERT\r\nRéalisez un combo complet 20 fois"
 msgstr ""
+"Réussir 20 musiques en\n"
+"Full Combo au niveau EXPERT"
+
+#, fuzzy
 msgid "Tanoshi Gachi"
-msgstr ""
+msgstr "Jeux et amusements"
+
 msgid "Tanoshi ultime !!!!!!!!!!!!\r\nColisée de Tanosee\r\nrécompense d'événement"
 msgstr ""
+"TANO-C Ultime !!!!!!!!!!!!\n"
+"Colisée TANO-C\n"
+"Récompense d'événement"
+
 msgid "coup de pied hardcore"
-msgstr ""
+msgstr "Hardcore Kick"
+
 msgid "Obtenu à partir de \"Reverse Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"Reverse Box\""
+
+#, fuzzy
 msgid "simple"
-msgstr ""
+msgstr "Simple"
+
 msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
+"Portail WACCA Lily\n"
+"Récompense obtenue"
+
 msgid "tennis"
-msgstr ""
+msgstr "Tennis"
+
 msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Avantages VIP"
+
 msgid "tambourin"
-msgstr ""
+msgstr "Tambourin"
+
 msgid "Obtenu auprès de \"Lily Box\""
-msgstr ""
+msgstr "Obtenu à partir de «Lily Box»"
+
 msgid "RAINURE"
-msgstr ""
+msgstr "GROOVE"
+
 msgid "\"Groove Coaster x WACCA\" 2ème édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+"«Groove Coaster x WACCA» 2ème édition\n"
+"Récompense de réussite du portail d'événement"
+
 msgid "Par défaut (WACCA)"
-msgstr ""
+msgstr "Par défaut (WACCA)"
+
 msgid "Couteau tonne tonne"
-msgstr ""
+msgstr "Couteau"
+
 msgid "Obtenu à partir de \"R Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"R Box\""
+
 msgid "porte"
-msgstr ""
+msgstr "Portail"
+
 msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
 msgstr ""
+"«Portail WACCA Lily R Gate»\n"
+"Récompense obtenue"
+
 msgid "douche"
-msgstr ""
+msgstr "Douche"
+
+#, fuzzy
 msgid "Shikaashi"
-msgstr ""
+msgstr "Je suis comme ça"
+
 msgid "métronome"
-msgstr ""
+msgstr "Métronome"
+
 msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
+"«Portail WACCA Reverse»\n"
+"Récompense obtenue"
+
 msgid "Tambourin Mk-Ⅱ"
-msgstr ""
+msgstr "Tambourin Mk-Ⅱ"

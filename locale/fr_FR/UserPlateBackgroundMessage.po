@@ -1,165 +1,257 @@
-﻿msgid ""
+msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-02-25 13:12+0000\n"
+"Last-Translator: Yosh <yohgui29@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/wacca/"
+"userplatebackgroundmessage/fr/>\n"
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 msgid "défaut"
 msgstr ""
+
 msgid "Propriété depuis le début"
-msgstr ""
+msgstr "Obtenu depuis le début"
+
 msgid "Élisabeth"
-msgstr ""
+msgstr "Élisabeth"
+
 msgid "\"Porte de Lily WACCA\"\r\nRécompense de réussite"
 msgstr ""
+"Portail WACCA Lily\n"
+"Récompense obtenue"
+
 msgid "Lis"
-msgstr ""
+msgstr "Lily"
+
 msgid "riche"
 msgstr ""
+
 msgid "Avantages de continuation VIP"
-msgstr ""
+msgstr "Avantages VIP"
+
 msgid "Joli rythme arc-en-ciel en direct"
 msgstr ""
+
 msgid "« Jolie série x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Pripara"
 msgstr ""
+
 msgid "Kiratto Puri☆chan"
 msgstr ""
+
 msgid "Hestia"
-msgstr ""
+msgstr "Hestia"
+
 msgid "\"Danmachi III × WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Yeux Wallenstein"
-msgstr ""
+msgstr "Ais Wallenstein"
+
 msgid "Sanaé"
 msgstr ""
+
 msgid "Renouvellement « Touhou Fujinroku × WACCA »\r\nRécompense de réussite d'étape d'événement"
 msgstr ""
+
 msgid "Pekora Usada"
-msgstr ""
+msgstr "Usada Pekora"
+
 msgid "« Hololive × WACCA » 2ème édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Miko Sakura"
-msgstr ""
+msgstr "Sakura Miko"
+
 msgid "« Hololive × WACCA » 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Shirakami Fubuki"
-msgstr ""
+msgstr "Shirakami Fubuki"
+
 msgid "Hoshimachi Suisei"
-msgstr ""
+msgstr "Hoshimachi Suisei"
+
 msgid "ciel du temps"
 msgstr ""
+
 msgid "« Hololive × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "AZKi"
 msgstr ""
+
 msgid "Seine"
-msgstr ""
+msgstr "Seine"
+
 msgid "\"Groove Coaster x WACCA\" 2e édition\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Crevettes de grande taille"
 msgstr ""
+
 msgid "Fibre"
 msgstr ""
+
 msgid "Obtenu à partir de \"R Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"R Box\""
+
 msgid "Printemps"
 msgstr ""
+
 msgid "\"WACCA Lily R Gate\"\r\nRécompense de réussite"
 msgstr ""
+"«Portail WACCA Lily R Gate»\n"
+"Récompense obtenue"
+
 msgid "Été"
 msgstr ""
+
 msgid "Automne"
 msgstr ""
+
 msgid "Hiver"
 msgstr ""
+
 msgid "Lanota"
 msgstr ""
+
 msgid "«Lanota × WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Pâques"
 msgstr ""
+
 msgid "Portion spéciale"
 msgstr ""
+
 msgid "Rémilia Écarlate"
 msgstr ""
+
 msgid "« Touhou Koumakyo x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Flandre écarlate"
 msgstr ""
+
 msgid "Reimu"
 msgstr ""
+
 msgid "Marisa"
 msgstr ""
+
 msgid "« Touhou Koumakyo × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Heureux autour!"
 msgstr ""
+
 msgid "« D4DJ Groovy Mix × WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Touche P Peaky"
 msgstr ""
+
 msgid "Jeune fille photonique"
 msgstr ""
+
 msgid "union"
 msgstr ""
+
 msgid "« Azur Lane x WACCA »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "royal"
 msgstr ""
+
 msgid "sang de fer"
 msgstr ""
+
 msgid "Juzakura"
 msgstr ""
+
 msgid "Elizabeth et Lily (2e ANNIVERSAIRE)"
 msgstr ""
+
 msgid "WACCA 2ème anniversaire !\r\nMerci de toujours jouer !\r\nJouer pendant la période"
 msgstr ""
+
 msgid "sombre"
 msgstr ""
+
 msgid "«Porte inversée WACCA»\r\nRécompense de réussite"
 msgstr ""
+"«Portail WACCA Reverse»\n"
+"Récompense obtenue"
+
 msgid "rune"
-msgstr ""
+msgstr "Rune"
+
 msgid "[Retour] Rune"
-msgstr ""
+msgstr "[EVIL] Rune"
+
 msgid "Chez WACCA BINGO\r\nA obtenu TOUT CLAIR 30 fois"
 msgstr ""
+
 msgid "fantaisie"
 msgstr ""
+
 msgid "Incantation"
 msgstr ""
+
 msgid "Obtenu à partir de \"Reverse Box\""
-msgstr ""
+msgstr "Obtenu à partir de \"Reverse Box\""
+
 msgid "Elisabeth et Lily"
 msgstr ""
+
 msgid "lumière et conflit"
 msgstr ""
+
 msgid "\"Arcée x WACCA\"\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "DORO*C"
 msgstr ""
+
 msgid "« TANO*C EX*Stream »\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "IRRÉNA"
 msgstr ""
+
 msgid "Ora"
 msgstr ""
+
 msgid "«Muse Dash x WACCA»\r\nRécompense de réussite de la porte d'événement"
 msgstr ""
+
 msgid "Ce mec est si spécial"
 msgstr ""
+
 msgid "Récompense de l'événement de la dernière poussée"
 msgstr ""
+
 msgid "Bête géante extraordinaire"
 msgstr ""
+
 msgid "aube"
 msgstr ""
+
 msgid "marine"
 msgstr ""
+
 msgid "Elizabeth et Lily (DERNIÈRE SPURT)"
 msgstr ""
+
 msgid "PLONGEZ avec Ü"
 msgstr ""
+
 msgid "Jouez à DIVE avec Ü une fois"
 msgstr ""
